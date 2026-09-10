@@ -1,0 +1,46 @@
+name: Check Pokémon TCG Stock
+
+on:
+  schedule:
+    # Cada 10 minutos. GitHub no garantiza puntualidad exacta en la capa
+    # gratuita (puede retrasarse unos minutos en horas punta), pero es
+    # gratis e indefinido para repos públicos.
+    - cron: "*/10 * * * *"
+  workflow_dispatch: {} # permite lanzarlo a mano desde la pestaña Actions
+
+# Necesario para que el workflow pueda hacer commit del nuevo state.json
+permissions:
+  contents: write
+
+concurrency:
+  group: pokestock-bot
+  cancel-in-progress: false
+
+jobs:
+  check-stock:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run stock checker
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python bot.py
+
+      - name: Commit updated state
+        run: |
+          git config user.name "pokestock-bot"
+          git config user.email "actions@github.com"
+          git add data/state.json
+          git diff --cached --quiet || git commit -m "Actualizar estado de stock [skip ci]"
+          git push

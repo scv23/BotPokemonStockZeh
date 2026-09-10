@@ -1,0 +1,16 @@
+[
+  { "name": "Alfriki", "domain": "alfriki.com" },
+  { "name": "AllInTCG", "domain": "allintcg.com" },
+  { "name": "CanaryPop", "domain": "canarypop.es" },
+  { "name": "CardCosmos", "domain": "cardcosmos.de" },
+  { "name": "CardZone", "domain": "cardzone.es" },
+  { "name": "ElBazarTCG", "domain": "elbazartcg.com" },
+  { "name": "Elite Store TCG", "domain": "elitestoretcg.com" },
+  { "name": "EpicDeck", "domain": "epicdeck.es" },
+  { "name": "GrilleCards", "domain": "grillecards.com" },
+  { "name": "Iberian Collect", "domain": "iberiancollect.com" },
+  { "name": "MojoCards", "domain": "mojocards.nl" },
+  { "name": "Pokemillon", "domain": "pokemillon.com" },
+  { "name": "SunnyStore", "domain": "sunnystore.es" },
+  { "name": "TCG Collection", "domain": "tcg-collection.com" }
+]
