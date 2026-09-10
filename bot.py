@@ -94,6 +94,9 @@ def matches_keywords(text: str) -> bool:
 def is_pokemon_item(item: dict, store: dict) -> bool:
     if store.get("all_pokemon"):
         return True
+    # En tiendas "generic" las URLs las eliges tú a mano: no filtramos.
+    if store.get("platform") == "generic":
+        return True
     return matches_keywords(" ".join(filter(None, [
         item.get("product_title", ""),
         item.get("variant_title", ""),
@@ -395,6 +398,106 @@ def _discover_prestashop_product_urls(domain: str, session: requests.Session) ->
     return urls
 
 
+def fetch_generic_products(store: dict, session: requests.Session) -> list:
+    """Plataforma "generic": para tiendas sin catálogo consultable
+    (grandes superficies como El Corte Inglés, Carrefour, GAME...).
+    Vigila una lista FIJA de URLs de producto definida en stores.json:
+
+      { "name": "GAME", "domain": "game.es", "platform": "generic",
+        "urls": ["https://www.game.es/...producto1...", "..."] }
+
+    De cada URL lee el JSON-LD schema.org (script application/ld+json,
+    @type Product) y, si no lo hay, el microdato itemprop. Es el método
+    más universal, pero estas webs tienen anti-bot: espera 403s desde
+    GitHub Actions (desde una IP residencial funciona mejor).
+    """
+    domain = store["domain"]
+    items = []
+
+    for url in store.get("urls", []):
+        try:
+            resp = session.get(url, timeout=REQUEST_TIMEOUT)
+            if resp.status_code != 200:
+                print(f"⚠️  {store['name']}: HTTP {resp.status_code} en {url}")
+                continue
+            soup = BeautifulSoup(resp.text, "html.parser")
+
+            title, price, available = None, None, None
+
+            # 1) JSON-LD (application/ld+json con @type Product)
+            for script in soup.find_all("script", type="application/ld+json"):
+                try:
+                    data = json.loads(script.string or "")
+                except (json.JSONDecodeError, TypeError):
+                    continue
+                candidates = data if isinstance(data, list) else [data]
+                # a veces viene envuelto en @graph
+                for c in list(candidates):
+                    if isinstance(c, dict) and "@graph" in c:
+                        candidates.extend(c["@graph"])
+                for c in candidates:
+                    if not isinstance(c, dict):
+                        continue
+                    if str(c.get("@type", "")).lower() != "product":
+                        continue
+                    title = c.get("name") or title
+                    offers = c.get("offers") or {}
+                    if isinstance(offers, list):
+                        offers = offers[0] if offers else {}
+                    price = offers.get("price") or price
+                    avail = str(offers.get("availability", "")).lower()
+                    if avail:
+                        available = "instock" in avail.replace("_", "")
+                    break
+                if title is not None:
+                    break
+
+            # 2) Fallback: microdato itemprop (como en PrestaShop)
+            if available is None:
+                avail_tag = soup.find(attrs={"itemprop": "availability"})
+                if avail_tag:
+                    avail_val = (avail_tag.get("content") or avail_tag.get_text()).lower()
+                    available = "instock" in avail_val.replace("_", "")
+                if not title:
+                    title_tag = soup.find("meta", property="og:title")
+                    title = title_tag["content"] if title_tag else (
+                        soup.h1.get_text(strip=True) if soup.h1 else url
+                    )
+                if price is None:
+                    price_tag = soup.find(attrs={"itemprop": "price"})
+                    if price_tag:
+                        price_val = price_tag.get("content") or price_tag.get_text(strip=True)
+                        match = re.search(r"[\d.,]+", price_val or "")
+                        if match:
+                            price = match.group(0).replace(",", ".")
+
+            # Sin dato de disponibilidad -> omitimos (mismo criterio que
+            # PrestaShop: nunca registrar "agotado" sin estar seguros).
+            if available is None:
+                print(f"⚠️  {store['name']}: sin datos de disponibilidad en {url} "
+                      f"(¿página anti-bot?)")
+                continue
+
+            items.append(
+                {
+                    "id": f"{domain}:{url}",
+                    "store": store["name"],
+                    "product_title": title or url,
+                    "variant_title": "",
+                    "extra_text": "",
+                    "price": price,
+                    "available": available,
+                    "url": url,
+                }
+            )
+            time.sleep(POLITE_SLEEP)
+
+        except requests.RequestException as e:
+            print(f"❌ Error consultando {url}: {e}")
+
+    return items
+
+
 def fetch_store(store: dict) -> list:
     """Descarga el catálogo de una tienda (se ejecuta en un hilo del
     pool). Solo hace RED, no toca el estado compartido."""
@@ -405,6 +508,8 @@ def fetch_store(store: dict) -> list:
             return fetch_woocommerce_products(store, session)
         if platform == "prestashop":
             return fetch_prestashop_products(store, session)
+        if platform == "generic":
+            return fetch_generic_products(store, session)
         return fetch_shopify_products(store, session)
     finally:
         session.close()
