@@ -1,29 +1,34 @@
 #!/usr/bin/env python3
 """
-PokéStock Bot (versión open-source / gratuita)
-------------------------------------------------
-Revisa el stock de tiendas de Pokémon TCG (Shopify, WooCommerce y
-PrestaShop) y publica en un canal/chat de Telegram cuando un producto
-pasa de "agotado" a "disponible" (restock).
+PokéStock Bot (versión open-source / gratuita) — v2 corregida
+--------------------------------------------------------------
+Cambios respecto a v1:
 
-Cómo funciona:
-1. Lee la lista de tiendas desde data/stores.json. Cada tienda tiene un
-   campo "platform": "shopify" | "woocommerce" | "prestashop".
-2. Según la plataforma, usa un método distinto para leer el stock:
-   - shopify: endpoint público /products.json?limit=250
-   - woocommerce: endpoint público /wp-json/wc/store/v1/products
-     (API de la "Store API" de WooCommerce Blocks, sin autenticación)
-   - prestashop: descubre URLs de producto vía sitemap.xml y lee el
-     microdato schema.org "availability" de cada página de producto
-     (más lento: una petición por producto, con límite de seguridad)
-3. Compara contra el último estado guardado en data/state.json.
-4. Si algo pasó de no-disponible -> disponible, manda un mensaje a Telegram.
-5. Guarda el nuevo estado para la siguiente ejecución.
+1. FILTRO DE POKÉMON: solo se avisa de productos cuyo título, tipo,
+   tags o categorías contengan alguna palabra clave de POKEMON_KEYWORDS.
+   Las tiendas marcadas con "all_pokemon": true en stores.json se
+   saltan el filtro (venden solo Pokémon y algunos productos no llevan
+   la palabra en el título, ej. "151 Booster Bundle").
 
-Pensado para ejecutarse periódicamente vía GitHub Actions (gratis),
-que hace commit de data/state.json después de cada ejecución para que
-el estado persista entre ejecuciones (los runners de GitHub Actions no
-tienen disco persistente por sí solos).
+2. BASELINE POR PRODUCTO (no global): un producto que el bot ve por
+   PRIMERA VEZ se registra en silencio, nunca dispara alerta. Así,
+   añadir una tienda nueva (o que una tienda responda por primera vez
+   tras fallar) ya no manda su catálogo entero como "restocks".
+   Solo hay alerta cuando un producto YA CONOCIDO pasa de agotado a
+   disponible. Opcionalmente (NOTIFY_NEW_PRODUCTS = True) se puede
+   avisar de productos nuevos en tiendas que ya tenían estado.
+
+3. IDs ESTABLES en WooCommerce: se usa el id numérico de la variación
+   en lugar del repr del dict de atributos (que podía cambiar de orden
+   entre ejecuciones y provocar falsos restocks).
+
+4. PRESTASHOP: si una página no trae el microdato de disponibilidad
+   (tema sin schema.org, página anti-bot, etc.) el producto se OMITE
+   en esa ejecución en vez de registrarse como "agotado", evitando el
+   flip-flop agotado→disponible que generaba falsas alertas.
+
+5. LIMPIEZA DE ESTADO: se eliminan del state.json las entradas de
+   dominios que ya no están en stores.json.
 """
 
 import json
@@ -31,6 +36,7 @@ import os
 import re
 import sys
 import time
+import unicodedata
 from pathlib import Path
 from xml.etree import ElementTree
 
@@ -45,12 +51,51 @@ TELEGRAM_BOT_TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN")
 TELEGRAM_CHAT_ID = os.environ.get("TELEGRAM_CHAT_ID")
 
 REQUEST_TIMEOUT = 15
-USER_AGENT = "Mozilla/5.0 (compatible; PokeStockBot/1.0; +https://github.com/)"
+USER_AGENT = "Mozilla/5.0 (compatible; PokeStockBot/2.0; +https://github.com/)"
 
-# Límite de productos que se revisan por tienda PrestaShop en cada
-# ejecución (es lento porque es 1 petición HTTP por producto). Ajusta
-# si tienes tiempo de sobra en tu runner.
+# Límite de productos revisados por tienda PrestaShop en cada ejecución.
 PRESTASHOP_MAX_PRODUCTS = 150
+
+# Palabras clave (en minúsculas y sin acentos) que identifican un
+# producto de Pokémon. Se comparan contra título + tipo + tags +
+# categorías, todo normalizado. Añade las que necesites.
+POKEMON_KEYWORDS = [
+    "pokemon",   # cubre también "pokémon" tras normalizar acentos
+    "pokeball",
+    "poke ball",
+    "pikachu",
+    "charizard",
+    "eevee",
+]
+
+# Si True, avisa también de productos NUEVOS (que aparecen por primera
+# vez ya disponibles) en tiendas que ya tenían estado previo. Útil para
+# lanzamientos, pero puede generar ruido si una tienda devuelve
+# catálogos parciales de forma intermitente. Empieza con False.
+NOTIFY_NEW_PRODUCTS = False
+
+# Máximo de alertas por tienda y ejecución (cortafuegos anti-spam por
+# si algo sale mal: nunca deberías recibir 200 restocks reales de golpe
+# de la misma tienda en 10 minutos).
+MAX_ALERTS_PER_STORE = 15
+
+
+def normalize(text: str) -> str:
+    """minúsculas + sin acentos, para comparar palabras clave."""
+    text = unicodedata.normalize("NFKD", text or "")
+    return "".join(c for c in text if not unicodedata.combining(c)).lower()
+
+
+def is_pokemon_item(item: dict, store: dict) -> bool:
+    if store.get("all_pokemon"):
+        return True
+    haystack = normalize(" ".join(filter(None, [
+        item.get("product_title", ""),
+        item.get("variant_title", ""),
+        item.get("extra_text", ""),   # tipo/tags/categorías según plataforma
+        item.get("url", ""),
+    ])))
+    return any(kw in haystack for kw in POKEMON_KEYWORDS)
 
 
 def load_json(path, default):
@@ -88,12 +133,8 @@ def send_telegram_message(text: str):
 
 
 def fetch_shopify_products(store: dict) -> list:
-    """Descarga el catálogo de una tienda Shopify vía /products.json.
-    Devuelve una lista de dicts: {product_title, variant_id, variant_title,
-    price, available, url}
-    """
     domain = store["domain"]
-    url = f"https://{domain}/products.json?limit=250"
+    url = f"https://{domain}/products.json"
     headers = {"User-Agent": USER_AGENT}
     items = []
 
@@ -101,7 +142,10 @@ def fetch_shopify_products(store: dict) -> list:
         page = 1
         while True:
             resp = requests.get(
-                url, headers=headers, params={"page": page}, timeout=REQUEST_TIMEOUT
+                url,
+                headers=headers,
+                params={"limit": 250, "page": page},
+                timeout=REQUEST_TIMEOUT,
             )
             if resp.status_code != 200:
                 break
@@ -113,6 +157,14 @@ def fetch_shopify_products(store: dict) -> list:
             for product in products:
                 handle = product.get("handle", "")
                 title = product.get("title", "")
+                # tipo y tags ayudan al filtro de Pokémon aunque el
+                # título no lleve la palabra
+                extra = " ".join(filter(None, [
+                    product.get("product_type", ""),
+                    " ".join(product.get("tags", []))
+                    if isinstance(product.get("tags"), list)
+                    else str(product.get("tags", "")),
+                ]))
                 for variant in product.get("variants", []):
                     items.append(
                         {
@@ -120,6 +172,7 @@ def fetch_shopify_products(store: dict) -> list:
                             "store": store["name"],
                             "product_title": title,
                             "variant_title": variant.get("title", ""),
+                            "extra_text": extra,
                             "price": variant.get("price"),
                             "available": bool(variant.get("available")),
                             "url": f"https://{domain}/products/{handle}",
@@ -129,7 +182,7 @@ def fetch_shopify_products(store: dict) -> list:
             page += 1
             if page > 20:  # tope de seguridad (20 * 250 = 5000 productos)
                 break
-            time.sleep(0.3)  # ser educado con el servidor de la tienda
+            time.sleep(0.3)
 
     except requests.RequestException as e:
         print(f"❌ Error consultando {domain}: {e}")
@@ -138,11 +191,6 @@ def fetch_shopify_products(store: dict) -> list:
 
 
 def fetch_woocommerce_products(store: dict) -> list:
-    """Descarga el catálogo de una tienda WooCommerce vía la Store API
-    pública (/wp-json/wc/store/v1/products). No requiere API key: es la
-    misma API que usa el propio carrito/bloques de WooCommerce en la
-    tienda. Si la tienda la tiene desactivada, esto no devolverá nada.
-    """
     domain = store["domain"]
     base_url = f"https://{domain}/wp-json/wc/store/v1/products"
     headers = {"User-Agent": USER_AGENT}
@@ -168,10 +216,16 @@ def fetch_woocommerce_products(store: dict) -> list:
                 title = product.get("name", "")
                 permalink = product.get("permalink", "")
                 variations = product.get("variations") or []
+                extra = " ".join(
+                    c.get("name", "")
+                    for c in (product.get("categories") or [])
+                ) + " " + " ".join(
+                    t.get("name", "")
+                    for t in (product.get("tags") or [])
+                )
+
                 prices = product.get("prices", {})
                 price_raw = prices.get("price")
-                # WooCommerce da el precio en la unidad mínima (céntimos)
-                # multiplicado por 10^minor_unit; lo normalizamos a euros.
                 minor_unit = prices.get("currency_minor_unit", 2)
                 price = None
                 if price_raw not in (None, ""):
@@ -181,21 +235,24 @@ def fetch_woocommerce_products(store: dict) -> list:
                         price = None
 
                 if variations:
-                    # Producto con variaciones: cada una puede tener su
-                    # propio stock. La Store API de listado no siempre
-                    # trae el stock por variación, así que usamos el
-                    # estado general del producto como aproximación.
                     is_in_stock = bool(product.get("is_in_stock", False))
                     for var in variations:
+                        # ID estable: id numérico de la variación (antes
+                        # se usaba el repr del dict de atributos, que
+                        # podía cambiar de orden → falsos restocks)
+                        var_id = var.get("id")
+                        if var_id is None:
+                            continue
                         items.append(
                             {
-                                "id": f"{domain}:{product_id}:{var.get('attributes')}",
+                                "id": f"{domain}:{product_id}:{var_id}",
                                 "store": store["name"],
                                 "product_title": title,
                                 "variant_title": ", ".join(
                                     a.get("value", "")
                                     for a in (var.get("attributes") or [])
                                 ),
+                                "extra_text": extra,
                                 "price": price,
                                 "available": is_in_stock,
                                 "url": permalink,
@@ -208,6 +265,7 @@ def fetch_woocommerce_products(store: dict) -> list:
                             "store": store["name"],
                             "product_title": title,
                             "variant_title": "",
+                            "extra_text": extra,
                             "price": price,
                             "available": bool(product.get("is_in_stock", False)),
                             "url": permalink,
@@ -215,7 +273,7 @@ def fetch_woocommerce_products(store: dict) -> list:
                     )
 
             page += 1
-            if page > 20:  # tope de seguridad
+            if page > 20:
                 break
             time.sleep(0.3)
 
@@ -226,12 +284,6 @@ def fetch_woocommerce_products(store: dict) -> list:
 
 
 def fetch_prestashop_products(store: dict) -> list:
-    """Para PrestaShop no hay endpoint público de stock sin API key, así
-    que: 1) leemos el sitemap.xml para sacar URLs de producto, y 2)
-    visitamos cada página y leemos el microdato schema.org "availability"
-    (lo usan casi todos los temas de PrestaShop por SEO). Más lento y
-    más frágil que Shopify/WooCommerce: 1 petición HTTP por producto.
-    """
     domain = store["domain"]
     headers = {"User-Agent": USER_AGENT}
     items = []
@@ -246,13 +298,11 @@ def fetch_prestashop_products(store: dict) -> list:
                 continue
             soup = BeautifulSoup(resp.text, "html.parser")
 
-            # Título: og:title o <h1>
             title_tag = soup.find("meta", property="og:title")
             title = title_tag["content"] if title_tag else (
                 soup.h1.get_text(strip=True) if soup.h1 else url
             )
 
-            # Precio: meta itemprop="price" (schema.org Offer)
             price = None
             price_tag = soup.find(attrs={"itemprop": "price"})
             if price_tag:
@@ -261,12 +311,15 @@ def fetch_prestashop_products(store: dict) -> list:
                 if match:
                     price = match.group(0).replace(",", ".")
 
-            # Disponibilidad: meta itemprop="availability" (schema.org)
-            available = False
+            # Disponibilidad: si NO encontramos el microdato, saltamos el
+            # producto en esta ejecución. Registrarlo como "agotado" sin
+            # estar seguros provocaba falsos restocks cuando la página se
+            # parseaba bien más tarde (flip-flop).
             avail_tag = soup.find(attrs={"itemprop": "availability"})
-            if avail_tag:
-                avail_val = (avail_tag.get("content") or avail_tag.get_text()).lower()
-                available = "instock" in avail_val or "in_stock" in avail_val
+            if not avail_tag:
+                continue
+            avail_val = (avail_tag.get("content") or avail_tag.get_text()).lower()
+            available = "instock" in avail_val or "in_stock" in avail_val
 
             items.append(
                 {
@@ -274,6 +327,7 @@ def fetch_prestashop_products(store: dict) -> list:
                     "store": store["name"],
                     "product_title": title,
                     "variant_title": "",
+                    "extra_text": "",
                     "price": price,
                     "available": available,
                     "url": url,
@@ -288,7 +342,6 @@ def fetch_prestashop_products(store: dict) -> list:
 
 
 def _discover_prestashop_product_urls(domain: str, headers: dict) -> list:
-    """Busca URLs de producto en el/los sitemap.xml de la tienda."""
     urls = []
     sitemap_candidates = [
         f"https://{domain}/sitemap.xml",
@@ -303,7 +356,6 @@ def _discover_prestashop_product_urls(domain: str, headers: dict) -> list:
             root = ElementTree.fromstring(resp.content)
             ns = {"sm": "http://www.sitemaps.org/schemas/sitemap/0.9"}
 
-            # Si es un índice de sitemaps, entra en los que parezcan de productos
             sub_sitemaps = [
                 loc.text for loc in root.findall(".//sm:sitemap/sm:loc", ns)
             ]
@@ -329,7 +381,7 @@ def _discover_prestashop_product_urls(domain: str, headers: dict) -> list:
                 )
 
             if urls:
-                break  # ya encontramos un sitemap que funciona
+                break
 
         except (requests.RequestException, ElementTree.ParseError):
             continue
@@ -337,10 +389,22 @@ def _discover_prestashop_product_urls(domain: str, headers: dict) -> list:
     return urls
 
 
-def check_store(store: dict, state: dict) -> list:
-    """Devuelve una lista de restocks nuevos detectados para esta tienda."""
+def check_store(store: dict, state: dict) -> tuple:
+    """Devuelve (restocks, nuevos) detectados para esta tienda.
+
+    - restock: producto YA registrado en el estado que pasa de agotado
+      a disponible.
+    - nuevo: producto visto por primera vez que ya está disponible, en
+      una tienda que YA tenía estado previo (solo se notifica si
+      NOTIFY_NEW_PRODUCTS = True).
+    Los productos vistos por primera vez en una tienda SIN estado previo
+    (tienda recién añadida o que responde por primera vez) se registran
+    siempre en silencio.
+    """
     restocks = []
+    new_products = []
     platform = store.get("platform", "shopify")
+    domain = store["domain"]
 
     if platform == "woocommerce":
         products = fetch_woocommerce_products(store)
@@ -349,13 +413,29 @@ def check_store(store: dict, state: dict) -> list:
     else:
         products = fetch_shopify_products(store)
 
+    # ¿Esta tienda ya tenía algún producto registrado?
+    store_prefix = f"{domain}:"
+    store_had_state = any(k.startswith(store_prefix) for k in state)
+
     for item in products:
         item_id = item["id"]
+        known = item_id in state
         was_available = state.get(item_id, {}).get("available", False)
         now_available = item["available"]
 
-        if now_available and not was_available:
-            restocks.append(item)
+        if known:
+            if now_available and not was_available and is_pokemon_item(item, store):
+                restocks.append(item)
+        else:
+            # Producto nuevo: solo candidato a aviso si la tienda ya
+            # tenía baseline y el flag está activado.
+            if (
+                NOTIFY_NEW_PRODUCTS
+                and store_had_state
+                and now_available
+                and is_pokemon_item(item, store)
+            ):
+                new_products.append(item)
 
         state[item_id] = {
             "available": now_available,
@@ -363,21 +443,31 @@ def check_store(store: dict, state: dict) -> list:
             "product_title": item["product_title"],
         }
 
-    return restocks
+    return restocks, new_products
 
 
-def format_message(item: dict) -> str:
+def format_message(item: dict, kind: str = "restock") -> str:
     name = item["product_title"]
     if item["variant_title"] and item["variant_title"] != "Default Title":
         name += f" – {item['variant_title']}"
     price = f"{item['price']} €" if item["price"] else "precio no disponible"
+    header = "🔔 <b>RESTOCK</b>" if kind == "restock" else "🆕 <b>NUEVO PRODUCTO</b>"
     return (
-        f"🔔 <b>RESTOCK</b>\n"
+        f"{header}\n"
         f"🏪 {item['store']}\n"
         f"📦 {name}\n"
         f"💰 {price}\n"
         f"🔗 {item['url']}"
     )
+
+
+def prune_state(state: dict, stores: list) -> dict:
+    """Elimina entradas de dominios que ya no están en stores.json."""
+    active_domains = {s["domain"] for s in stores}
+    return {
+        k: v for k, v in state.items()
+        if k.split(":", 1)[0] in active_domains
+    }
 
 
 def main():
@@ -387,28 +477,31 @@ def main():
         sys.exit(0)
 
     state = load_json(STATE_FILE, {})
-    is_first_run = len(state) == 0
+    state = prune_state(state, stores)
 
-    total_restocks = 0
+    total_alerts = 0
     for store in stores:
         print(f"🔍 Revisando {store['name']} ({store['domain']})...")
-        restocks = check_store(store, state)
-        total_restocks += len(restocks)
+        restocks, new_products = check_store(store, state)
 
-        # En la primera ejecución no avisamos de "restocks" (sería todo el
-        # catálogo entero), solo construimos el estado inicial.
-        if not is_first_run:
-            for item in restocks:
-                send_telegram_message(format_message(item))
-                time.sleep(1)  # evitar el rate limit de Telegram
+        alerts = [(item, "restock") for item in restocks]
+        alerts += [(item, "new") for item in new_products]
+
+        if len(alerts) > MAX_ALERTS_PER_STORE:
+            print(
+                f"⚠️  {store['name']}: {len(alerts)} alertas en una sola "
+                f"ejecución — se envían solo {MAX_ALERTS_PER_STORE} "
+                f"(cortafuegos anti-spam). Revisa si es un falso positivo."
+            )
+            alerts = alerts[:MAX_ALERTS_PER_STORE]
+
+        for item, kind in alerts:
+            send_telegram_message(format_message(item, kind))
+            total_alerts += 1
+            time.sleep(1)  # rate limit de Telegram
 
     save_json(STATE_FILE, state)
-
-    if is_first_run:
-        print(f"✅ Estado inicial guardado ({len(state)} variantes). "
-              f"A partir de la próxima ejecución se avisará de restocks reales.")
-    else:
-        print(f"✅ Revisión completa. Restocks detectados: {total_restocks}")
+    print(f"✅ Revisión completa. Alertas enviadas: {total_alerts}")
 
 
 if __name__ == "__main__":
