@@ -2,15 +2,20 @@
 """
 PokéStock Bot (versión open-source / gratuita)
 ------------------------------------------------
-Revisa el stock de una lista de tiendas Shopify de Pokémon TCG y publica
-en un canal/chat de Telegram cuando un producto pasa de "agotado" a
-"disponible" (restock).
+Revisa el stock de tiendas de Pokémon TCG (Shopify, WooCommerce y
+PrestaShop) y publica en un canal/chat de Telegram cuando un producto
+pasa de "agotado" a "disponible" (restock).
 
 Cómo funciona:
-1. Lee la lista de tiendas desde data/stores.json (solo dominios Shopify:
-   tienen un endpoint público /products.json?limit=250 con el stock real).
-2. Para cada tienda, descarga el catálogo y mira el campo "available"
-   de cada variante (talla/versión de producto).
+1. Lee la lista de tiendas desde data/stores.json. Cada tienda tiene un
+   campo "platform": "shopify" | "woocommerce" | "prestashop".
+2. Según la plataforma, usa un método distinto para leer el stock:
+   - shopify: endpoint público /products.json?limit=250
+   - woocommerce: endpoint público /wp-json/wc/store/v1/products
+     (API de la "Store API" de WooCommerce Blocks, sin autenticación)
+   - prestashop: descubre URLs de producto vía sitemap.xml y lee el
+     microdato schema.org "availability" de cada página de producto
+     (más lento: una petición por producto, con límite de seguridad)
 3. Compara contra el último estado guardado en data/state.json.
 4. Si algo pasó de no-disponible -> disponible, manda un mensaje a Telegram.
 5. Guarda el nuevo estado para la siguiente ejecución.
@@ -23,11 +28,14 @@ tienen disco persistente por sí solos).
 
 import json
 import os
+import re
 import sys
 import time
 from pathlib import Path
+from xml.etree import ElementTree
 
 import requests
+from bs4 import BeautifulSoup
 
 BASE_DIR = Path(__file__).parent
 STORES_FILE = BASE_DIR / "data" / "stores.json"
@@ -38,6 +46,11 @@ TELEGRAM_CHAT_ID = os.environ.get("TELEGRAM_CHAT_ID")
 
 REQUEST_TIMEOUT = 15
 USER_AGENT = "Mozilla/5.0 (compatible; PokeStockBot/1.0; +https://github.com/)"
+
+# Límite de productos que se revisan por tienda PrestaShop en cada
+# ejecución (es lento porque es 1 petición HTTP por producto). Ajusta
+# si tienes tiempo de sobra en tu runner.
+PRESTASHOP_MAX_PRODUCTS = 150
 
 
 def load_json(path, default):
@@ -124,10 +137,217 @@ def fetch_shopify_products(store: dict) -> list:
     return items
 
 
+def fetch_woocommerce_products(store: dict) -> list:
+    """Descarga el catálogo de una tienda WooCommerce vía la Store API
+    pública (/wp-json/wc/store/v1/products). No requiere API key: es la
+    misma API que usa el propio carrito/bloques de WooCommerce en la
+    tienda. Si la tienda la tiene desactivada, esto no devolverá nada.
+    """
+    domain = store["domain"]
+    base_url = f"https://{domain}/wp-json/wc/store/v1/products"
+    headers = {"User-Agent": USER_AGENT}
+    items = []
+
+    try:
+        page = 1
+        while True:
+            resp = requests.get(
+                base_url,
+                headers=headers,
+                params={"per_page": 100, "page": page},
+                timeout=REQUEST_TIMEOUT,
+            )
+            if resp.status_code != 200:
+                break
+            products = resp.json()
+            if not isinstance(products, list) or not products:
+                break
+
+            for product in products:
+                product_id = product.get("id")
+                title = product.get("name", "")
+                permalink = product.get("permalink", "")
+                variations = product.get("variations") or []
+                prices = product.get("prices", {})
+                price_raw = prices.get("price")
+                # WooCommerce da el precio en la unidad mínima (céntimos)
+                # multiplicado por 10^minor_unit; lo normalizamos a euros.
+                minor_unit = prices.get("currency_minor_unit", 2)
+                price = None
+                if price_raw not in (None, ""):
+                    try:
+                        price = round(int(price_raw) / (10 ** minor_unit), 2)
+                    except (ValueError, TypeError):
+                        price = None
+
+                if variations:
+                    # Producto con variaciones: cada una puede tener su
+                    # propio stock. La Store API de listado no siempre
+                    # trae el stock por variación, así que usamos el
+                    # estado general del producto como aproximación.
+                    is_in_stock = bool(product.get("is_in_stock", False))
+                    for var in variations:
+                        items.append(
+                            {
+                                "id": f"{domain}:{product_id}:{var.get('attributes')}",
+                                "store": store["name"],
+                                "product_title": title,
+                                "variant_title": ", ".join(
+                                    a.get("value", "")
+                                    for a in (var.get("attributes") or [])
+                                ),
+                                "price": price,
+                                "available": is_in_stock,
+                                "url": permalink,
+                            }
+                        )
+                else:
+                    items.append(
+                        {
+                            "id": f"{domain}:{product_id}",
+                            "store": store["name"],
+                            "product_title": title,
+                            "variant_title": "",
+                            "price": price,
+                            "available": bool(product.get("is_in_stock", False)),
+                            "url": permalink,
+                        }
+                    )
+
+            page += 1
+            if page > 20:  # tope de seguridad
+                break
+            time.sleep(0.3)
+
+    except requests.RequestException as e:
+        print(f"❌ Error consultando {domain} (WooCommerce): {e}")
+
+    return items
+
+
+def fetch_prestashop_products(store: dict) -> list:
+    """Para PrestaShop no hay endpoint público de stock sin API key, así
+    que: 1) leemos el sitemap.xml para sacar URLs de producto, y 2)
+    visitamos cada página y leemos el microdato schema.org "availability"
+    (lo usan casi todos los temas de PrestaShop por SEO). Más lento y
+    más frágil que Shopify/WooCommerce: 1 petición HTTP por producto.
+    """
+    domain = store["domain"]
+    headers = {"User-Agent": USER_AGENT}
+    items = []
+
+    product_urls = _discover_prestashop_product_urls(domain, headers)
+    product_urls = product_urls[:PRESTASHOP_MAX_PRODUCTS]
+
+    for url in product_urls:
+        try:
+            resp = requests.get(url, headers=headers, timeout=REQUEST_TIMEOUT)
+            if resp.status_code != 200:
+                continue
+            soup = BeautifulSoup(resp.text, "html.parser")
+
+            # Título: og:title o <h1>
+            title_tag = soup.find("meta", property="og:title")
+            title = title_tag["content"] if title_tag else (
+                soup.h1.get_text(strip=True) if soup.h1 else url
+            )
+
+            # Precio: meta itemprop="price" (schema.org Offer)
+            price = None
+            price_tag = soup.find(attrs={"itemprop": "price"})
+            if price_tag:
+                price_val = price_tag.get("content") or price_tag.get_text(strip=True)
+                match = re.search(r"[\d.,]+", price_val or "")
+                if match:
+                    price = match.group(0).replace(",", ".")
+
+            # Disponibilidad: meta itemprop="availability" (schema.org)
+            available = False
+            avail_tag = soup.find(attrs={"itemprop": "availability"})
+            if avail_tag:
+                avail_val = (avail_tag.get("content") or avail_tag.get_text()).lower()
+                available = "instock" in avail_val or "in_stock" in avail_val
+
+            items.append(
+                {
+                    "id": f"{domain}:{url}",
+                    "store": store["name"],
+                    "product_title": title,
+                    "variant_title": "",
+                    "price": price,
+                    "available": available,
+                    "url": url,
+                }
+            )
+            time.sleep(0.3)
+
+        except requests.RequestException as e:
+            print(f"❌ Error consultando producto de {domain}: {e}")
+
+    return items
+
+
+def _discover_prestashop_product_urls(domain: str, headers: dict) -> list:
+    """Busca URLs de producto en el/los sitemap.xml de la tienda."""
+    urls = []
+    sitemap_candidates = [
+        f"https://{domain}/sitemap.xml",
+        f"https://{domain}/sitemap_index.xml",
+    ]
+
+    for sitemap_url in sitemap_candidates:
+        try:
+            resp = requests.get(sitemap_url, headers=headers, timeout=REQUEST_TIMEOUT)
+            if resp.status_code != 200:
+                continue
+            root = ElementTree.fromstring(resp.content)
+            ns = {"sm": "http://www.sitemaps.org/schemas/sitemap/0.9"}
+
+            # Si es un índice de sitemaps, entra en los que parezcan de productos
+            sub_sitemaps = [
+                loc.text for loc in root.findall(".//sm:sitemap/sm:loc", ns)
+            ]
+            if sub_sitemaps:
+                for sub_url in sub_sitemaps:
+                    if not sub_url or "product" not in sub_url.lower():
+                        continue
+                    try:
+                        sub_resp = requests.get(
+                            sub_url, headers=headers, timeout=REQUEST_TIMEOUT
+                        )
+                        sub_root = ElementTree.fromstring(sub_resp.content)
+                        urls.extend(
+                            loc.text
+                            for loc in sub_root.findall(".//sm:url/sm:loc", ns)
+                            if loc.text
+                        )
+                    except (requests.RequestException, ElementTree.ParseError):
+                        continue
+            else:
+                urls.extend(
+                    loc.text for loc in root.findall(".//sm:url/sm:loc", ns) if loc.text
+                )
+
+            if urls:
+                break  # ya encontramos un sitemap que funciona
+
+        except (requests.RequestException, ElementTree.ParseError):
+            continue
+
+    return urls
+
+
 def check_store(store: dict, state: dict) -> list:
     """Devuelve una lista de restocks nuevos detectados para esta tienda."""
     restocks = []
-    products = fetch_shopify_products(store)
+    platform = store.get("platform", "shopify")
+
+    if platform == "woocommerce":
+        products = fetch_woocommerce_products(store)
+    elif platform == "prestashop":
+        products = fetch_prestashop_products(store)
+    else:
+        products = fetch_shopify_products(store)
 
     for item in products:
         item_id = item["id"]
