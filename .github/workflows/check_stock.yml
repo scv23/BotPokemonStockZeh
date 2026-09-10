@@ -5,7 +5,7 @@ on:
     # Cada 10 minutos. GitHub no garantiza puntualidad exacta en la capa
     # gratuita (puede retrasarse unos minutos en horas punta), pero es
     # gratis e indefinido para repos públicos.
-    - cron: "*/10 * * * *"
+    - cron: "*/2 * * * *"
   workflow_dispatch: {} # permite lanzarlo a mano desde la pestaña Actions
 
 # Necesario para que el workflow pueda hacer commit del nuevo state.json
