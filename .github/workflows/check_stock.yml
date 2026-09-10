@@ -2,10 +2,12 @@ name: Check Pokémon TCG Stock
 
 on:
   schedule:
-    # Cada 10 minutos. GitHub no garantiza puntualidad exacta en la capa
-    # gratuita (puede retrasarse unos minutos en horas punta), pero es
-    # gratis e indefinido para repos públicos.
-    - cron: "*/2 * * * *"
+    # Cada 5 minutos: es el intervalo MÍNIMO que permite GitHub Actions.
+    # Un cron más frecuente (*/2) no da error pero no se ejecuta más a
+    # menudo. Además, la cola gratuita añade retrasos de 3-20 min y en
+    # horas punta puede saltarse ejecuciones. Para latencia real de
+    # 1-2 min haría falta un VPS con el script en bucle.
+    - cron: "*/5 * * * *"
   workflow_dispatch: {} # permite lanzarlo a mano desde la pestaña Actions
 
 # Necesario para que el workflow pueda hacer commit del nuevo state.json
@@ -41,6 +43,7 @@ jobs:
         run: |
           git config user.name "pokestock-bot"
           git config user.email "actions@github.com"
+          git pull --rebase --autostash || true
           git add data/state.json
           git diff --cached --quiet || git commit -m "Actualizar estado de stock [skip ci]"
           git push
