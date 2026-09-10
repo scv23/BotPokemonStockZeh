@@ -1,70 +1,369 @@
 [
-  { "name": "Alfriki", "domain": "alfriki.com", "platform": "shopify" },
-  { "name": "AllInTCG", "domain": "allintcg.com", "platform": "shopify" },
-  { "name": "CanaryPop", "domain": "canarypop.es", "platform": "shopify" },
-  { "name": "CardCosmos", "domain": "cardcosmos.de", "platform": "shopify" },
-  { "name": "CardZone", "domain": "cardzone.es", "platform": "shopify" },
-  { "name": "Darizard9", "domain": "darizard9.com", "platform": "shopify" },
-  { "name": "ElBazarTCG", "domain": "elbazartcg.com", "platform": "shopify" },
-  { "name": "Elite Store TCG", "domain": "elitestoretcg.com", "platform": "shopify" },
-  { "name": "EpicDeck", "domain": "epicdeck.es", "platform": "shopify" },
-  { "name": "GrilleCards", "domain": "grillecards.com", "platform": "shopify" },
-  { "name": "Iberian Collect", "domain": "iberiancollect.com", "platform": "shopify" },
-  { "name": "JJCollection", "domain": "jjcollection.es", "platform": "shopify" },
-  { "name": "Kame House Cards", "domain": "kamehousecards.com", "platform": "shopify" },
-  { "name": "La Boveda Friki", "domain": "labovedafriki.es", "platform": "shopify" },
-  { "name": "La Escotilla", "domain": "laescotillajuegos.com", "platform": "shopify" },
-  { "name": "La Nave TCG", "domain": "lanavetcg.com", "platform": "shopify" },
-  { "name": "La Tienda de las Cartas", "domain": "latiendadelascartas.es", "platform": "shopify" },
-  { "name": "Metamorph", "domain": "metamorphcenter.com", "platform": "shopify" },
-  { "name": "MojoCards", "domain": "mojocards.nl", "platform": "shopify" },
-  { "name": "PokeDealTCG", "domain": "pokedealtcg.es", "platform": "shopify" },
-  { "name": "PokedexCards", "domain": "pokedexcards.com", "platform": "shopify" },
-  { "name": "Pokemillon", "domain": "pokemillon.com", "platform": "shopify" },
-  { "name": "Pokezilla", "domain": "pokezilla.com", "platform": "shopify" },
-  { "name": "Saruman Games", "domain": "sarumangames.es", "platform": "shopify" },
-  { "name": "Solo Hits", "domain": "solohits.es", "platform": "shopify" },
-  { "name": "SunnyStore", "domain": "sunnystore.es", "platform": "shopify" },
-  { "name": "TCG Collection", "domain": "tcg-collection.com", "platform": "shopify" },
-  { "name": "TCG Level", "domain": "tcglevel.com", "platform": "shopify" },
-  { "name": "TCG-Universe", "domain": "tcg-universe.de", "platform": "shopify" },
-  { "name": "Tiger Cards", "domain": "tigercards.es", "platform": "shopify" },
-  { "name": "TodoHits", "domain": "todohits.com", "platform": "shopify" },
-  { "name": "Toy Planet", "domain": "toyplanet.com", "platform": "shopify" },
-  { "name": "UNSOBREMAS", "domain": "unsobremas.com", "platform": "shopify" },
-  { "name": "Universe TCG", "domain": "universetcg.com", "platform": "shopify" },
-  { "name": "Wini Games", "domain": "hkbens-tr.myshopify.com", "platform": "shopify" },
-
-  { "name": "BimbaCards", "domain": "bimbacards.com", "platform": "woocommerce" },
-  { "name": "CardCrack", "domain": "cardcrack.com", "platform": "woocommerce" },
-  { "name": "CardStation", "domain": "thecardstation.es", "platform": "woocommerce" },
-  { "name": "Checollect", "domain": "checollect.es", "platform": "woocommerce" },
-  { "name": "ELIUS", "domain": "eliusweb.com", "platform": "woocommerce" },
-  { "name": "El Paraiso Friki", "domain": "elparaisofriki.com", "platform": "woocommerce" },
-  { "name": "EmpireGames", "domain": "empiregames.es", "platform": "woocommerce" },
-  { "name": "FlashStore", "domain": "flashstore.es", "platform": "woocommerce" },
-  { "name": "G3 TCG", "domain": "g3tcg.es", "platform": "woocommerce" },
-  { "name": "Gremio de Dragones", "domain": "gremiodedragones.es", "platform": "woocommerce" },
-  { "name": "HeroFreaks", "domain": "herofreaks.com", "platform": "woocommerce" },
-  { "name": "HoloPlaza TCG", "domain": "holoplazatcg.com", "platform": "woocommerce" },
-  { "name": "Indústria 61", "domain": "industria61.com", "platform": "woocommerce" },
-  { "name": "Micelion Games", "domain": "miceliongames.com", "platform": "woocommerce" },
-  { "name": "Mundo Distorsión", "domain": "mundodistorsion.es", "platform": "woocommerce" },
-  { "name": "Pokebank", "domain": "pokebank.es", "platform": "woocommerce" },
-  { "name": "Pokeiko", "domain": "pokeiko.com", "platform": "woocommerce" },
-  { "name": "Pokewoke", "domain": "pokewoke.store", "platform": "woocommerce" },
-  { "name": "Reino de Cartas", "domain": "reinodecartas.com", "platform": "woocommerce" },
-  { "name": "SuperCollectors", "domain": "supercollectors.es", "platform": "woocommerce" },
-  { "name": "TopDeck", "domain": "topdeck.es", "platform": "woocommerce" },
-
-  { "name": "Distrito Zero", "domain": "distritozero.es", "platform": "prestashop" },
-  { "name": "Dungeon Marvels", "domain": "dungeonmarvels.com", "platform": "prestashop" },
-  { "name": "Frikimaz", "domain": "frikimaz.es", "platform": "prestashop" },
-  { "name": "Gameria", "domain": "gameria.es", "platform": "prestashop" },
-  { "name": "La Maquina del Temps", "domain": "lamaquinadeltemps.com", "platform": "prestashop" },
-  { "name": "Metrópolis Center", "domain": "metropolis-center.com", "platform": "prestashop" },
-  { "name": "Mythic Card TCG", "domain": "mythocardtcg.com", "platform": "prestashop" },
-  { "name": "Pidopop", "domain": "pidopop.com", "platform": "prestashop" },
-  { "name": "StarGeek", "domain": "stargeek.es", "platform": "prestashop" },
-  { "name": "TPK Hobby & Games", "domain": "tpkhobbygames.com", "platform": "prestashop" }
+  {
+    "name": "Alfriki",
+    "domain": "alfriki.com",
+    "platform": "shopify"
+  },
+  {
+    "name": "AllInTCG",
+    "domain": "allintcg.com",
+    "platform": "shopify"
+  },
+  {
+    "name": "CanaryPop",
+    "domain": "canarypop.es",
+    "platform": "shopify"
+  },
+  {
+    "name": "CardCosmos",
+    "domain": "cardcosmos.de",
+    "platform": "shopify"
+  },
+  {
+    "name": "CardZone",
+    "domain": "cardzone.es",
+    "platform": "shopify"
+  },
+  {
+    "name": "Darizard9",
+    "domain": "darizard9.com",
+    "platform": "shopify"
+  },
+  {
+    "name": "ElBazarTCG",
+    "domain": "elbazartcg.com",
+    "platform": "shopify"
+  },
+  {
+    "name": "Elite Store TCG",
+    "domain": "elitestoretcg.com",
+    "platform": "shopify"
+  },
+  {
+    "name": "EpicDeck",
+    "domain": "epicdeck.es",
+    "platform": "shopify"
+  },
+  {
+    "name": "GrilleCards",
+    "domain": "grillecards.com",
+    "platform": "shopify"
+  },
+  {
+    "name": "Iberian Collect",
+    "domain": "iberiancollect.com",
+    "platform": "shopify"
+  },
+  {
+    "name": "JJCollection",
+    "domain": "jjcollection.es",
+    "platform": "shopify"
+  },
+  {
+    "name": "Kame House Cards",
+    "domain": "kamehousecards.com",
+    "platform": "shopify"
+  },
+  {
+    "name": "La Boveda Friki",
+    "domain": "labovedafriki.es",
+    "platform": "shopify"
+  },
+  {
+    "name": "La Escotilla",
+    "domain": "laescotillajuegos.com",
+    "platform": "shopify"
+  },
+  {
+    "name": "La Nave TCG",
+    "domain": "lanavetcg.com",
+    "platform": "shopify"
+  },
+  {
+    "name": "La Tienda de las Cartas",
+    "domain": "latiendadelascartas.es",
+    "platform": "shopify"
+  },
+  {
+    "name": "Metamorph",
+    "domain": "metamorphcenter.com",
+    "platform": "shopify"
+  },
+  {
+    "name": "MojoCards",
+    "domain": "mojocards.nl",
+    "platform": "shopify"
+  },
+  {
+    "name": "PokeDealTCG",
+    "domain": "pokedealtcg.es",
+    "platform": "shopify",
+    "all_pokemon": true
+  },
+  {
+    "name": "PokedexCards",
+    "domain": "pokedexcards.com",
+    "platform": "shopify",
+    "all_pokemon": true
+  },
+  {
+    "name": "Pokemillon",
+    "domain": "pokemillon.com",
+    "platform": "shopify",
+    "all_pokemon": true
+  },
+  {
+    "name": "Pokezilla",
+    "domain": "pokezilla.com",
+    "platform": "shopify",
+    "all_pokemon": true
+  },
+  {
+    "name": "Saruman Games",
+    "domain": "sarumangames.es",
+    "platform": "shopify"
+  },
+  {
+    "name": "Solo Hits",
+    "domain": "solohits.es",
+    "platform": "shopify"
+  },
+  {
+    "name": "SunnyStore",
+    "domain": "sunnystore.es",
+    "platform": "shopify"
+  },
+  {
+    "name": "TCG Collection",
+    "domain": "tcg-collection.com",
+    "platform": "shopify"
+  },
+  {
+    "name": "TCG Level",
+    "domain": "tcglevel.com",
+    "platform": "shopify"
+  },
+  {
+    "name": "TCG-Universe",
+    "domain": "tcg-universe.de",
+    "platform": "shopify"
+  },
+  {
+    "name": "Tiger Cards",
+    "domain": "tigercards.es",
+    "platform": "shopify"
+  },
+  {
+    "name": "TodoHits",
+    "domain": "todohits.com",
+    "platform": "shopify"
+  },
+  {
+    "name": "Toy Planet",
+    "domain": "toyplanet.com",
+    "platform": "shopify"
+  },
+  {
+    "name": "UNSOBREMAS",
+    "domain": "unsobremas.com",
+    "platform": "shopify"
+  },
+  {
+    "name": "Universe TCG",
+    "domain": "universetcg.com",
+    "platform": "shopify"
+  },
+  {
+    "name": "Wini Games",
+    "domain": "hkbens-tr.myshopify.com",
+    "platform": "shopify"
+  },
+  {
+    "name": "BimbaCards",
+    "domain": "bimbacards.com",
+    "platform": "woocommerce"
+  },
+  {
+    "name": "CardCrack",
+    "domain": "cardcrack.com",
+    "platform": "woocommerce"
+  },
+  {
+    "name": "CardStation",
+    "domain": "thecardstation.es",
+    "platform": "woocommerce"
+  },
+  {
+    "name": "Checollect",
+    "domain": "checollect.es",
+    "platform": "woocommerce"
+  },
+  {
+    "name": "ELIUS",
+    "domain": "eliusweb.com",
+    "platform": "woocommerce"
+  },
+  {
+    "name": "El Paraiso Friki",
+    "domain": "elparaisofriki.com",
+    "platform": "woocommerce"
+  },
+  {
+    "name": "EmpireGames",
+    "domain": "empiregames.es",
+    "platform": "woocommerce"
+  },
+  {
+    "name": "FlashStore",
+    "domain": "flashstore.es",
+    "platform": "woocommerce"
+  },
+  {
+    "name": "G3 TCG",
+    "domain": "g3tcg.es",
+    "platform": "woocommerce"
+  },
+  {
+    "name": "Gremio de Dragones",
+    "domain": "gremiodedragones.es",
+    "platform": "woocommerce"
+  },
+  {
+    "name": "HeroFreaks",
+    "domain": "herofreaks.com",
+    "platform": "woocommerce"
+  },
+  {
+    "name": "HoloPlaza TCG",
+    "domain": "holoplazatcg.com",
+    "platform": "woocommerce"
+  },
+  {
+    "name": "Indústria 61",
+    "domain": "industria61.com",
+    "platform": "woocommerce"
+  },
+  {
+    "name": "Micelion Games",
+    "domain": "miceliongames.com",
+    "platform": "woocommerce"
+  },
+  {
+    "name": "Mundo Distorsión",
+    "domain": "mundodistorsion.es",
+    "platform": "woocommerce"
+  },
+  {
+    "name": "Pokebank",
+    "domain": "pokebank.es",
+    "platform": "woocommerce",
+    "all_pokemon": true
+  },
+  {
+    "name": "Pokeiko",
+    "domain": "pokeiko.com",
+    "platform": "woocommerce",
+    "all_pokemon": true
+  },
+  {
+    "name": "Pokewoke",
+    "domain": "pokewoke.store",
+    "platform": "woocommerce",
+    "all_pokemon": true
+  },
+  {
+    "name": "Reino de Cartas",
+    "domain": "reinodecartas.com",
+    "platform": "woocommerce"
+  },
+  {
+    "name": "SuperCollectors",
+    "domain": "supercollectors.es",
+    "platform": "woocommerce"
+  },
+  {
+    "name": "TopDeck",
+    "domain": "topdeck.es",
+    "platform": "woocommerce"
+  },
+  {
+    "name": "Distrito Zero",
+    "domain": "distritozero.es",
+    "platform": "prestashop"
+  },
+  {
+    "name": "Dungeon Marvels",
+    "domain": "dungeonmarvels.com",
+    "platform": "prestashop"
+  },
+  {
+    "name": "Frikimaz",
+    "domain": "frikimaz.es",
+    "platform": "prestashop"
+  },
+  {
+    "name": "Gameria",
+    "domain": "gameria.es",
+    "platform": "prestashop"
+  },
+  {
+    "name": "La Maquina del Temps",
+    "domain": "lamaquinadeltemps.com",
+    "platform": "prestashop"
+  },
+  {
+    "name": "Metrópolis Center",
+    "domain": "metropolis-center.com",
+    "platform": "prestashop"
+  },
+  {
+    "name": "Mythic Card TCG",
+    "domain": "mythocardtcg.com",
+    "platform": "prestashop"
+  },
+  {
+    "name": "Pidopop",
+    "domain": "pidopop.com",
+    "platform": "prestashop"
+  },
+  {
+    "name": "StarGeek",
+    "domain": "stargeek.es",
+    "platform": "prestashop"
+  },
+  {
+    "name": "TPK Hobby & Games",
+    "domain": "tpkhobbygames.com",
+    "platform": "prestashop"
+  },
+  {
+    "name": "Amazon España",
+    "domain": "amazon.es",
+    "platform": "generic",
+    "urls": []
+  },
+  {
+    "name": "Carrefour",
+    "domain": "carrefour.es",
+    "platform": "generic",
+    "urls": []
+  },
+  {
+    "name": "El Corte Inglés",
+    "domain": "elcorteingles.es",
+    "platform": "generic",
+    "urls": []
+  },
+  {
+    "name": "GAME",
+    "domain": "game.es",
+    "platform": "generic",
+    "urls": []
+  },
+  {
+    "name": "Toys R Us",
+    "domain": "toysrus.es",
+    "platform": "generic",
+    "urls": []
+  }
 ]
