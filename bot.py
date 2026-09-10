@@ -249,8 +249,9 @@ def fetch_woocommerce_products(store: dict) -> list:
                                 "store": store["name"],
                                 "product_title": title,
                                 "variant_title": ", ".join(
-                                    a.get("value", "")
+                                    str(a.get("value") or "")
                                     for a in (var.get("attributes") or [])
+                                    if a.get("value")
                                 ),
                                 "extra_text": extra,
                                 "price": price,
@@ -482,7 +483,12 @@ def main():
     total_alerts = 0
     for store in stores:
         print(f"🔍 Revisando {store['name']} ({store['domain']})...")
-        restocks, new_products = check_store(store, state)
+        try:
+            restocks, new_products = check_store(store, state)
+        except Exception as e:
+            # Una tienda con datos raros no debe tumbar el resto
+            print(f"❌ Error inesperado en {store['name']}: {e}")
+            continue
 
         alerts = [(item, "restock") for item in restocks]
         alerts += [(item, "new") for item in new_products]
