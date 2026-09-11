@@ -3,10 +3,6 @@ name: Check Pokémon TCG Stock
 on:
   schedule:
     # Cada 5 minutos: es el intervalo MÍNIMO que permite GitHub Actions.
-    # Un cron más frecuente (*/2) no da error pero no se ejecuta más a
-    # menudo. Además, la cola gratuita añade retrasos de 3-20 min y en
-    # horas punta puede saltarse ejecuciones. Para latencia real de
-    # 1-2 min haría falta un VPS con el script en bucle.
     - cron: "*/5 * * * *"
   workflow_dispatch: {} # permite lanzarlo a mano desde la pestaña Actions
 
@@ -24,6 +20,8 @@ jobs:
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -43,7 +41,35 @@ jobs:
         run: |
           git config user.name "pokestock-bot"
           git config user.email "actions@github.com"
-          git pull --rebase --autostash || true
+
+          # 1) Commit local del estado nuevo (si no hay cambios, salimos)
           git add data/state.json
-          git diff --cached --quiet || git commit -m "Actualizar estado de stock [skip ci]"
-          git push
+          if git diff --cached --quiet; then
+            echo "Sin cambios en el estado."
+            exit 0
+          fi
+          git commit -m "Actualizar estado de stock [skip ci]"
+
+          # 2) Push con reintentos. Si otro run empujó entre medias,
+          #    rebasamos con -X theirs: en un rebase, "theirs" es NUESTRO
+          #    commit que se está reaplicando, así que el state.json que
+          #    queda es siempre el de este run (el más reciente), SIN
+          #    marcadores de conflicto jamás.
+          BRANCH="${GITHUB_REF_NAME}"
+          for i in 1 2 3; do
+            if git push origin "HEAD:${BRANCH}"; then
+              exit 0
+            fi
+            echo "Push rechazado (intento $i), rebasando sobre origin/${BRANCH}..."
+            git fetch origin "${BRANCH}"
+            if ! git rebase -X theirs "origin/${BRANCH}"; then
+              # Conflicto no resoluble automáticamente: abortamos y
+              # renunciamos al commit de este ciclo. El estado se
+              # regenera entero en el siguiente run, así que no pasa nada.
+              git rebase --abort
+              echo "Rebase imposible; se descarta el estado de este ciclo."
+              exit 0
+            fi
+          done
+          echo "No se pudo pushear tras 3 intentos; se descarta este ciclo."
+          exit 0
