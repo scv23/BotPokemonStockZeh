@@ -31156,7 +31156,7 @@
   },
   "cardcosmos.de:54775355441495": {
     "available": true,
-    "price": "39.90",
+    "price": "34.90",
     "product_title": "Pokémon - Mid-Autumn Festival Gift Box 2026 - CHN"
   },
   "cardcosmos.de:54766670512471": {
@@ -35285,7 +35285,7 @@
     "product_title": "cardcosmos Kartenboxen für 1000 Karten – Trading Card Game Storage Boxen"
   },
   "cardcosmos.de:53708736528727": {
-    "available": false,
+    "available": true,
     "price": "29.99",
     "product_title": "cardcosmos Kartenboxen für 1000 Karten – Trading Card Game Storage Boxen"
   },
@@ -35680,7 +35680,7 @@
     "product_title": "Magic: The Gathering - The Hobbit Play Booster Pack - EN"
   },
   "cardcosmos.de:53096707817815": {
-    "available": false,
+    "available": true,
     "price": "6.90",
     "product_title": "Magic: The Gathering - Der Hobbit Play Booster Pack - DE"
   },
@@ -35706,7 +35706,7 @@
   },
   "cardcosmos.de:53453215367511": {
     "available": true,
-    "price": "129.90",
+    "price": "119.90",
     "product_title": "Magic: The Gathering - The Hobbit Gift Bundle - EN"
   },
   "cardcosmos.de:53453209534807": {
@@ -39165,7 +39165,7 @@
     "product_title": "Pokémon - Time Gazer Booster Pack - KOR"
   },
   "cardcosmos.de:51724934447447": {
-    "available": true,
+    "available": false,
     "price": "12.99",
     "product_title": "Pokémon - Vstar Universe Booster Pack - KOR"
   },
@@ -63300,7 +63300,7 @@
     "product_title": "Sylveon ex Tin  Celebraciones 30 Aniversario | Celebrations 30th"
   },
   "pokemillon.com:54602157883715": {
-    "available": true,
+    "available": false,
     "price": "79.90",
     "product_title": "Sylveon ex Tin  Celebraciones 30 Aniversario | Celebrations 30th"
   },
@@ -63310,7 +63310,7 @@
     "product_title": "Greninja ex Tin  Celebraciones 30 Aniversario | Celebrations 30th"
   },
   "pokemillon.com:54602145956163": {
-    "available": true,
+    "available": false,
     "price": "79.90",
     "product_title": "Greninja ex Tin  Celebraciones 30 Aniversario | Celebrations 30th"
   },
@@ -74930,7 +74930,7 @@
     "product_title": "Ditto Premium Box Celebraciones 30 Aniversario | Celebrations 30th"
   },
   "pokemillon.com:54195975258435": {
-    "available": true,
+    "available": false,
     "price": "45.90",
     "product_title": "Sylveon Special Box Celebraciones 30 Aniversario | Élite Celebrations 30th"
   },
@@ -80715,7 +80715,7 @@
     "product_title": "ETB Mascarada Crepuscular | Élite Twilight Masquerade"
   },
   "pokemillon.com:53381162041667": {
-    "available": true,
+    "available": false,
     "price": "184.90",
     "product_title": "Caja 36 Sobres Mascarada Crepuscular | Twilight Masquerade Booster Box"
   },
@@ -101846,7 +101846,7 @@
   },
   "labovedafriki.es:55859890127188": {
     "available": true,
-    "price": "89.90",
+    "price": "125.00",
     "product_title": "One Piece Booster Box OP14 - The Azure's Sea Seven"
   },
   "labovedafriki.es:55852572672340": {
@@ -102346,7 +102346,7 @@
   },
   "labovedafriki.es:52557763707220": {
     "available": true,
-    "price": "43.90",
+    "price": "74.90",
     "product_title": "Booster Box 30 sobres The Glory of Team Rocket"
   },
   "labovedafriki.es:52557512835412": {
@@ -138440,7 +138440,7 @@
     "product_title": "Sobre Promo Saikyo Jump (Whitebeard, Ace y Luffy) - Japonés"
   },
   "metamorphcenter.com:54582931554646": {
-    "available": true,
+    "available": false,
     "price": "134.95",
     "product_title": "Caja OP17 The World's Strongest Warriors - Japonés"
   },
@@ -183900,7 +183900,7 @@
     "product_title": "Topmodel Diario Gatito Kitty And Doggy"
   },
   "toyplanet.com:52349716857155": {
-    "available": true,
+    "available": false,
     "price": "12.95",
     "product_title": "Dino World Reloj De Pulsera Desilicona"
   },
@@ -321164,6 +321164,14 @@
     "price": "17.99",
     "product_title": "Puzzle Evolutivo Astronauta 4 en 1"
   },
+<<<<<<< Updated upstream
+=======
+  "cardzone.es:58443262525784": {
+    "available": true,
+    "price": "6.95",
+    "product_title": "Boss's Orders PAL 248 - NM Inglés"
+  },
+>>>>>>> Stashed changes
   "toyplanet.com:54804967752003": {
     "available": false,
     "price": "12.99",
@@ -321214,6 +321222,24 @@
     "price": "18.99",
     "product_title": "Puzzle Parque de Atracciones 100 Piezas Eurekakids"
   },
+<<<<<<< Updated upstream
+=======
+  "cardcrack.com:9870": {
+    "available": true,
+    "price": 30.0,
+    "product_title": "MTG: Realidad Fracturada &#8211; Pack de presentación + 1 Sobre EXTRA (Español)"
+  },
+  "cardcrack.com:9867": {
+    "available": true,
+    "price": 34.95,
+    "product_title": "Riftbound League of Legends TCG: Radiance &#8211; Pre-Rift Kit (Inglés) &#8211; RESERVA"
+  },
+  "cardcrack.com:8534": {
+    "available": true,
+    "price": 34.95,
+    "product_title": "Riftbound League of Legends TCG: Radiance &#8211; Vault Bundle 6 sobres (Inglés) &#8211; RESERVA"
+  },
+>>>>>>> Stashed changes
   "holoplazatcg.com:12120": {
     "available": true,
     "price": 6.0,
