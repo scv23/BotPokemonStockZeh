@@ -106,16 +106,35 @@ def is_pokemon_item(item: dict, store: dict) -> bool:
 
 
 def load_json(path, default):
-    if path.exists():
+    """Carga JSON con tolerancia a corrupción: si el fichero no parsea
+    (p. ej. marcadores de conflicto de git commiteados por error), se
+    aparta a .corrupt y se devuelve el valor por defecto. Gracias al
+    baseline por producto, un estado vacío se reconstruye en silencio
+    sin avalancha de alertas."""
+    if not path.exists():
+        return default
+    try:
         with open(path, "r", encoding="utf-8") as f:
             return json.load(f)
-    return default
+    except (json.JSONDecodeError, UnicodeDecodeError) as e:
+        backup = path.with_suffix(path.suffix + ".corrupt")
+        try:
+            path.replace(backup)
+            print(f"⚠️  {path.name} corrupto ({e}). Apartado a {backup.name}; "
+                  f"se reconstruye el estado desde cero en silencio.")
+        except OSError:
+            print(f"⚠️  {path.name} corrupto ({e}). Se ignora y se reconstruye.")
+        return default
 
 
 def save_json(path, data):
+    """Escritura atómica: primero a un temporal y luego os.replace, para
+    que un proceso interrumpido a mitad nunca deje un fichero truncado."""
     path.parent.mkdir(parents=True, exist_ok=True)
-    with open(path, "w", encoding="utf-8") as f:
+    tmp = path.with_suffix(path.suffix + ".tmp")
+    with open(tmp, "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
+    os.replace(tmp, path)
 
 
 def send_telegram_message(text: str):
