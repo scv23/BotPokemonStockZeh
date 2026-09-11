@@ -53865,7 +53865,7 @@
     "product_title": "Caja Crimson Haze - Japones"
   },
   "cardzone.es:48414788616536": {
-    "available": true,
+    "available": false,
     "price": "29.95",
     "product_title": "Caja Ogerpon Jumbo Mask of Change - Japones"
   },
@@ -98380,7 +98380,7 @@
     "product_title": "Sobres Dragon Ball Super Card Game"
   },
   "kamehousecards.com:53726302765394": {
-    "available": false,
+    "available": true,
     "price": "179.95",
     "product_title": "The Time of Battle OP16 - One Piece Card Game"
   },
@@ -103272,37 +103272,37 @@
   "laescotillajuegos.com:58550202433871": {
     "available": true,
     "price": "21.38",
-    "product_title": "[PREPEDIDO] Journal Tactica: Prospero Burns - Judgement Of Valdor"
+    "product_title": "Journal Tactica: Prospero Burns - Judgement Of Valdor"
   },
   "laescotillajuegos.com:58550202171727": {
     "available": true,
     "price": "76.50",
-    "product_title": "[PREPEDIDO] Wood Elf Realms: Battle March Army"
+    "product_title": "Wood Elf Realms: Battle March Army"
   },
   "laescotillajuegos.com:58550202597711": {
     "available": false,
     "price": "153.00",
-    "product_title": "[PREPEDIDO] Legio Custodes: Support Battle Group"
+    "product_title": "Legio Custodes: Support Battle Group"
   },
   "laescotillajuegos.com:58550202302799": {
     "available": true,
     "price": "114.75",
-    "product_title": "[PREPEDIDO] Beastmen Brayherds: Battle March Army"
+    "product_title": "Beastmen Brayherds: Battle March Army"
   },
   "laescotillajuegos.com:58550202532175": {
     "available": true,
     "price": "31.03",
-    "product_title": "[PREPEDIDO] Horus Heresy: Legio Custodes Dice Set"
+    "product_title": "Horus Heresy: Legio Custodes Dice Set"
   },
   "laescotillajuegos.com:58550202237263": {
     "available": false,
     "price": "114.75",
-    "product_title": "[PREPEDIDO] High Elf Realms: Battle March Army"
+    "product_title": "High Elf Realms: Battle March Army"
   },
   "laescotillajuegos.com:58550202073423": {
     "available": true,
     "price": "114.75",
-    "product_title": "[PREPEDIDO] Empire Of Man: Battle March Army"
+    "product_title": "Empire Of Man: Battle March Army"
   },
   "laescotillajuegos.com:58592916373839": {
     "available": false,
@@ -272575,7 +272575,7 @@
     "product_title": "Celebración 30 Aniversario ETB"
   },
   "holoplazatcg.com:11902": {
-    "available": true,
+    "available": false,
     "price": 12.0,
     "product_title": "Pokémon TGC League Cup Sábado 12 Septiembre 10:00"
   },
@@ -321620,7 +321620,7 @@
     "product_title": "Magic: The Gathering – The Hobbit™ – Bundle (Gift Edition)"
   },
   "elbazartcg.com:57665819312476": {
-    "available": true,
+    "available": false,
     "price": "20.00",
     "product_title": "MECHA ETB DE OSCURIDAD ABSOLUTA"
   },
@@ -321645,7 +321645,7 @@
     "product_title": "Pre Venta 19/09/2026 &#8211; Necromunda: House Goliath Dice (300-03)"
   },
   "elbazartcg.com:58574141849948": {
-    "available": true,
+    "available": false,
     "price": "19.49",
     "product_title": "PARTY VMAX CLIMAX CHINO"
   }
