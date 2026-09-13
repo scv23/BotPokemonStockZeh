@@ -33900,7 +33900,7 @@
     "product_title": "Pokémon - Rayquaza VMAX TG29/TG30 (Silberne Sturmwinde) – AOG 10 Gem Mint"
   },
   "cardcosmos.de:54013725999447": {
-    "available": true,
+    "available": false,
     "price": "285.00",
     "product_title": "One Piece - Nami Special Alt. Art OP01-016 (Awakening of the New Era) – AOG 10 Pristine"
   },
@@ -47595,7 +47595,7 @@
     "product_title": "Venusaur CEL BS 15 - NM Inglés"
   },
   "cardzone.es:58354488082776": {
-    "available": true,
+    "available": false,
     "price": "19.95",
     "product_title": "Rayquaza GX SM8b 98 - NM Japonés"
   },
@@ -47615,7 +47615,7 @@
     "product_title": "Persian SFA 078 - NM Inglés"
   },
   "cardzone.es:58354429329752": {
-    "available": true,
+    "available": false,
     "price": "20.00",
     "product_title": "Lugia GX SM8 72 - NM Japonés"
   },
@@ -47740,7 +47740,7 @@
     "product_title": "Mega Darkrai EX m5 114 - NM Japonés"
   },
   "cardzone.es:58343521616216": {
-    "available": true,
+    "available": false,
     "price": "35.00",
     "product_title": "Gyarados EX 1st Edition XY9 18 - NM Japonés"
   },
@@ -47750,7 +47750,7 @@
     "product_title": "Clefairy EX de Lylia ASC 280 - NM Español"
   },
   "cardzone.es:58291972014424": {
-    "available": true,
+    "available": false,
     "price": "15.00",
     "product_title": "Mega Lopunny ex PFL 128 - NM Español"
   },
@@ -47910,7 +47910,7 @@
     "product_title": "Mega Floette EX CRI 117 - NM Español"
   },
   "cardzone.es:57986440298840": {
-    "available": true,
+    "available": false,
     "price": "100.00",
     "product_title": "Lillie's Clefairy ex JTG 184 - NM Español"
   },
@@ -48130,7 +48130,7 @@
     "product_title": "Shaymin EX ROS 106 - GD Español"
   },
   "cardzone.es:57821443195224": {
-    "available": true,
+    "available": false,
     "price": "5.95",
     "product_title": "Blister Mascarada Crepuscular – Español"
   },
@@ -48185,7 +48185,7 @@
     "product_title": "Duosion BLK 119 - NM Español"
   },
   "cardzone.es:57786264125784": {
-    "available": true,
+    "available": false,
     "price": "3.00",
     "product_title": "Anán PAL 252 - NM Inglés"
   },
@@ -101576,7 +101576,7 @@
   },
   "labovedafriki.es:56653546717524": {
     "available": true,
-    "price": "86.50",
+    "price": "84.90",
     "product_title": "Booster Box Terastal Festival Ex KR"
   },
   "labovedafriki.es:56653542719828": {
@@ -101756,7 +101756,7 @@
   },
   "labovedafriki.es:56031761432916": {
     "available": true,
-    "price": "14.00",
+    "price": "14.50",
     "product_title": "Mini Tin Ciudad Luminalia"
   },
   "labovedafriki.es:56029951656276": {
@@ -103480,7 +103480,7 @@
     "product_title": "Raw Umber Greenish Precision Panel Liner / Panelador de Precisión Marrón Crudo Verdoso"
   },
   "laescotillajuegos.com:58570178003279": {
-    "available": true,
+    "available": false,
     "price": "4.95",
     "product_title": "Dark Rust Precision Panel Liner / Panelador de Precisión Óxido Oscuro"
   },
@@ -105255,7 +105255,7 @@
     "product_title": "Back Stories 2 - Bodas de Esmeralda"
   },
   "laescotillajuegos.com:58356588052815": {
-    "available": true,
+    "available": false,
     "price": "30.00",
     "product_title": "Riftbound: League of Legends TCG - Vendetta - Pre-Rift kit"
   },
@@ -114590,7 +114590,7 @@
     "product_title": "Classic Fantasy Battles - Boneblades"
   },
   "laescotillajuegos.com:56479719752015": {
-    "available": true,
+    "available": false,
     "price": "139.50",
     "product_title": "Heiho: The Mass Battle Samurai Game"
   },
@@ -120970,7 +120970,7 @@
     "product_title": "Purple Soldiers (Quick Gen Set)"
   },
   "laescotillajuegos.com:55274532045135": {
-    "available": true,
+    "available": false,
     "price": "17.70",
     "product_title": "Metallics (Quick Gen Set)"
   },
@@ -139650,7 +139650,7 @@
     "product_title": "Sobre Mega Symphonia - Coreano"
   },
   "metamorphcenter.com:53439038357846": {
-    "available": true,
+    "available": false,
     "price": "2.50",
     "product_title": "Sobre Mega Brave - Coreano"
   },
@@ -145465,7 +145465,7 @@
     "product_title": "Pokémon TCG: Espeon 30 Aniversario Especial Ultra-Premium Collection- PREVENTA"
   },
   "pokezilla.com:43614586175578": {
-    "available": true,
+    "available": false,
     "price": "449.95",
     "product_title": "Pokémon TCG: Espeon 30 Aniversario Especial Ultra-Premium Collection- PREVENTA"
   },
@@ -148410,7 +148410,7 @@
     "product_title": "ONE PIECE TCG: Illustration Box IB-08"
   },
   "sarumangames.es:56341935128955": {
-    "available": true,
+    "available": false,
     "price": "52.30",
     "product_title": "WARHANNER 40K: START HERE - Caja introductoria de Warhammer 40K"
   },
@@ -311375,7 +311375,7 @@
     "product_title": "Gundam: 1/144 &#8211; HG RX-105 XI Gundam"
   },
   "empiregames.es:262530": {
-    "available": true,
+    "available": false,
     "price": 7.0,
     "product_title": "Pokemon TCG: Mega Evolution Phantasmal Flames Booster (Ingles)"
   },
@@ -311480,7 +311480,7 @@
     "product_title": "Yu-Gi-Oh! Figure-Rise Standard Amplified &#8211; Blue Eyes White Dragon"
   },
   "empiregames.es:262325": {
-    "available": true,
+    "available": false,
     "price": 5.0,
     "product_title": "Tenori Friends: 4 &#8211; Aves (1 Unidad)"
   },
@@ -312130,7 +312130,7 @@
     "product_title": "Gundam: HG Ryuomaru"
   },
   "empiregames.es:261414": {
-    "available": true,
+    "available": false,
     "price": 9.95,
     "product_title": "Gunplakun: 3d Rubber Mascot Keychain / Ailestpla"
   },
@@ -312547,7 +312547,7 @@
   "empiregames.es:261174": {
     "available": true,
     "price": 6.0,
-    "product_title": "Lorcana: Torneo Domingo 13/09/26 [Hora: 16:30]"
+    "product_title": "Lorcana: Torneo Domingo 20/09/26 [Hora: 16:30]"
   },
   "empiregames.es:261146": {
     "available": true,
@@ -312897,7 +312897,7 @@
   "empiregames.es:260894": {
     "available": true,
     "price": 6.0,
-    "product_title": "One Piece: Torneo Semanal 12/09/26"
+    "product_title": "One Piece: Torneo Semanal 19/09/26"
   },
   "empiregames.es:260880": {
     "available": true,
@@ -313262,7 +313262,7 @@
   "empiregames.es:260588": {
     "available": true,
     "price": 6.0,
-    "product_title": "Star Wars Unlimited: Domingo 13/09/26 [10:00]"
+    "product_title": "Star Wars Unlimited: Domingo 20/09/26 [10:00]"
   },
   "empiregames.es:260570": {
     "available": true,
@@ -318740,7 +318740,7 @@
     "product_title": "SW Legión: Mandalorian Army Box"
   },
   "empiregames.es:254367": {
-    "available": true,
+    "available": false,
     "price": 7.25,
     "product_title": "Weiß Schwarz: Nazarick: Tomb of the Undead Vol.3 &#8211; Booster (1x Packs) (EN)"
   },
@@ -320765,7 +320765,7 @@
     "product_title": "Regigigas VSTAR S12a 233 - NM Japonés"
   },
   "cardzone.es:58438496026968": {
-    "available": true,
+    "available": false,
     "price": "5.00",
     "product_title": "Agudeza de Lem SV8 134 - NM Japonés"
   },
@@ -320780,7 +320780,7 @@
     "product_title": "Eiscue EX SV3 133 - NM Japonés"
   },
   "cardzone.es:58439728529752": {
-    "available": true,
+    "available": false,
     "price": "10.95",
     "product_title": "Spidops EX SV1V 101 - NM Japonés"
   },
@@ -320805,7 +320805,7 @@
     "product_title": "Terapagos EX SV7 130 - NM Japonés"
   },
   "cardzone.es:58439598539096": {
-    "available": true,
+    "available": false,
     "price": "11.50",
     "product_title": "Squawkabilly EX SV2P 94 - NM Japonés"
   },
@@ -321020,7 +321020,7 @@
     "product_title": "Album Portfolio - Archivador 4 bolsillos Portfolio Mega Evolution Pitch Black - Pokémon - Ultra Pro"
   },
   "elbazartcg.com:57757797646684": {
-    "available": false,
+    "available": true,
     "price": "20.79",
     "product_title": "MECHA OP17 CHINO"
   },
@@ -321645,7 +321645,7 @@
     "product_title": "Pre Venta 19/09/2026 &#8211; Necromunda: House Goliath Dice (300-03)"
   },
   "elbazartcg.com:58574141849948": {
-    "available": false,
+    "available": true,
     "price": "19.49",
     "product_title": "PARTY VMAX CLIMAX CHINO"
   },
@@ -322133,5 +322133,100 @@
     "available": true,
     "price": 59.95,
     "product_title": "Pokémon: Caja de entrenador de élite / Elite trainer box Equilibrio Perfecto (Español)"
+  },
+  "elbazartcg.com:59107724231004": {
+    "available": true,
+    "price": "80.00",
+    "product_title": "Dt"
+  },
+  "elbazartcg.com:58770875220316": {
+    "available": true,
+    "price": "20.00",
+    "product_title": "Torneo 3Sobres Oscuridad Absoluta de ETB"
+  },
+  "latiendadelascartas.es:58720917553416": {
+    "available": true,
+    "price": "3.21",
+    "product_title": "FLAPPLE SV7A 074 AR - JAPONES"
+  },
+  "latiendadelascartas.es:58720905199880": {
+    "available": true,
+    "price": "2.65",
+    "product_title": "FLAPPLE SV7A 074 AR - JAPONES"
+  },
+  "latiendadelascartas.es:58720895598856": {
+    "available": true,
+    "price": "3.21",
+    "product_title": "LILEEP SV7 104 AR - JAPONES"
+  },
+  "latiendadelascartas.es:58720851165448": {
+    "available": true,
+    "price": "2.65",
+    "product_title": "LILEEP SV7 104 AR - JAPONES"
+  },
+  "latiendadelascartas.es:58720592593160": {
+    "available": true,
+    "price": "3.63",
+    "product_title": "BLITZLE SV4M 072 AR - JAPONES"
+  },
+  "latiendadelascartas.es:58720587383048": {
+    "available": true,
+    "price": "3.00",
+    "product_title": "BLITZLE SV4M 072 AR - JAPONES"
+  },
+  "latiendadelascartas.es:58720563724552": {
+    "available": true,
+    "price": "3.21",
+    "product_title": "THIEVUL S12A 192 AR - JAPONES"
+  },
+  "latiendadelascartas.es:58720553173256": {
+    "available": true,
+    "price": "2.65",
+    "product_title": "THIEVUL S12A 192 AR - JAPONES"
+  },
+  "latiendadelascartas.es:58720537018632": {
+    "available": true,
+    "price": "3.21",
+    "product_title": "SPIRITOMB DE CYNTHIA M2A 208 AR - JAPONES"
+  },
+  "latiendadelascartas.es:58720515293448": {
+    "available": true,
+    "price": "2.65",
+    "product_title": "SPIRITOMB DE CYNTHIA M2A 208 AR - JAPONES"
+  },
+  "latiendadelascartas.es:58720505528584": {
+    "available": true,
+    "price": "3.21",
+    "product_title": "SPEWPA M3 081 AR - JAPONES"
+  },
+  "latiendadelascartas.es:58720498385160": {
+    "available": true,
+    "price": "2.65",
+    "product_title": "SPEWPA M3 081 AR - JAPONES"
+  },
+  "latiendadelascartas.es:58720468599048": {
+    "available": true,
+    "price": "3.21",
+    "product_title": "AURORUS M3 084 AR - JAPONES"
+  },
+  "latiendadelascartas.es:58720447561992": {
+    "available": true,
+    "price": "2.65",
+    "product_title": "AURORUS M3 084 AR - JAPONES"
+  },
+  "empiregames.es:264003": {
+    "available": false,
+    "price": 35.15,
+    "product_title": "Orks: Zogrod Verrugozgrod (VD)"
+  },
+  "empiregames.es:264000": {
+    "available": false,
+    "price": 28.05,
+    "product_title": "Adepta Sororitas: Sacerdote del Ministorum (VD)"
+  },
+  "empiregames.es:263999": {
+    "available": false,
+    "price": 30.9,
+    "product_title": "Hedonites of Slaanesh: The Masque (VD)"
   }
 }
