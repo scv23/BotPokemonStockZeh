@@ -35435,7 +35435,7 @@
     "product_title": "Pokémon - Vivid Voltage Elite Trainer Box - EN"
   },
   "cardcosmos.de:53688413552983": {
-    "available": true,
+    "available": false,
     "price": "249.90",
     "product_title": "Pokémon - Karmesin & Purpur Obsidianflammen Top Trainer Box - DE"
   },
@@ -35780,7 +35780,7 @@
     "product_title": "Magic: The Gathering - Reality Fracture Draft Night Box - EN"
   },
   "cardcosmos.de:53437175824727": {
-    "available": true,
+    "available": false,
     "price": "144.90",
     "product_title": "Pokémon - Center Special Box Set Tohoku - JPN"
   },
@@ -46485,7 +46485,7 @@
     "product_title": "Magic: The Gathering - Grundstein Einsteigerbox - DE"
   },
   "cardcosmos.de:49005098271063": {
-    "available": true,
+    "available": false,
     "price": "24.99",
     "product_title": "Magic: The Gathering - Foundations Beginner Box - EN"
   },
@@ -138505,7 +138505,7 @@
     "product_title": "Llavero Miércoles Black Is My Happy Colour - Wednesday"
   },
   "metamorphcenter.com:55037147677014": {
-    "available": true,
+    "available": false,
     "price": "14.95",
     "product_title": "Puzzle Ravensburger Pokémon Pokédex Primera Generación - 500 Piezas"
   },
@@ -139195,7 +139195,7 @@
     "product_title": "Caja de 36 Sobres Rivales Predestinados (SV10) - Español"
   },
   "metamorphcenter.com:54084027318614": {
-    "available": true,
+    "available": false,
     "price": "189.95",
     "product_title": "Caja de 36 Sobres Chispas Fulgurantes (SV08) - Español"
   },
@@ -322258,5 +322258,25 @@
     "available": true,
     "price": 159.99,
     "product_title": "<p style=\"color: red\"><u>Precio PRO: 109,99€</u></p>ETB &#8211; Perfect Order &#8211; Pokmeon Center &#8211; INGLES"
+  },
+  "cardcosmos.de:55016374829399": {
+    "available": false,
+    "price": "0.00",
+    "product_title": "Pokémon - Mega-Entwicklung Delta-Herrschaft Booster Bundle - DE"
+  },
+  "cardcosmos.de:55016334721367": {
+    "available": false,
+    "price": "0.00",
+    "product_title": "Pokémon - Mega-Entwicklung Delta-Herrschaft 3-Pack-Blister Jurob - DE"
+  },
+  "cardcosmos.de:55016190214487": {
+    "available": false,
+    "price": "0.00",
+    "product_title": "Pokémon - Mega-Entwicklung Delta-Herrschaft ME06 Booster Display - DE"
+  },
+  "cardcosmos.de:55015835894103": {
+    "available": false,
+    "price": "0.00",
+    "product_title": "Pokémon - Mega-Entwicklung Delta-Herrschaft Top-Trainer-Box - DE"
   }
 }
