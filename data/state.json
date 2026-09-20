@@ -30825,7 +30825,7 @@
     "product_title": "Pokémon - Ivysaur #44/130 (Base Set 2) – PSA 9 Mint"
   },
   "cardcosmos.de:54960992944471": {
-    "available": true,
+    "available": false,
     "price": "49.90",
     "product_title": "Pokémon - Mega-Glurak Y Tin Box #127 - DE"
   },
@@ -33400,7 +33400,7 @@
     "product_title": "Pokémon - 30 Jahre Tin-Box Tag Feelinara-ex - DE"
   },
   "cardcosmos.de:54108060877143": {
-    "available": true,
+    "available": false,
     "price": "39.90",
     "product_title": "Pokémon - 30 Jahre 2er-Pack-Blister Evoli - DE"
   },
@@ -47915,7 +47915,7 @@
     "product_title": "Lillie's Clefairy ex JTG 184 - NM Español"
   },
   "cardzone.es:57964584796504": {
-    "available": true,
+    "available": false,
     "price": "179.95",
     "product_title": "Caja de Sobres The Hobbit Play Boosters Magic the Gathering - Español"
   },
@@ -48420,7 +48420,7 @@
     "product_title": "Caja de 36 Sobres de Oscuridad Absoluta - Español"
   },
   "cardzone.es:57709813039448": {
-    "available": true,
+    "available": false,
     "price": "54.95",
     "product_title": "Booster Bundle Pitch Black - Ingles"
   },
@@ -64530,7 +64530,7 @@
     "product_title": "First Partner Illustration Collections Pokémon 30th Anniversary"
   },
   "pokemillon.com:54532924571971": {
-    "available": false,
+    "available": true,
     "price": "219.90",
     "product_title": "Espeon ex and Umbreon ex Deck Pokémon 30th Anniversary"
   },
@@ -66452,12 +66452,12 @@
   "pokemillon.com:54364510028099": {
     "available": true,
     "price": "399.00",
-    "product_title": "One Piece OP17 The World's Strongest Warriors"
+    "product_title": "One Piece Caja 24 Sobres OP17 The World's Strongest Warriors"
   },
   "pokemillon.com:54364510060867": {
     "available": true,
-    "price": "229.61",
-    "product_title": "One Piece OP17 The World's Strongest Warriors"
+    "price": "219.61",
+    "product_title": "One Piece Caja 24 Sobres OP17 The World's Strongest Warriors"
   },
   "pokemillon.com:54362701529411": {
     "available": true,
@@ -66635,7 +66635,7 @@
     "product_title": "Vaporeon (POP3 6) POP Series 3"
   },
   "pokemillon.com:54347657904451": {
-    "available": true,
+    "available": false,
     "price": "119.90",
     "product_title": "Erika's Invitation (MEW 203) 151"
   },
@@ -74940,7 +74940,7 @@
     "product_title": "Sylveon Special Box Celebraciones 30 Aniversario | Celebrations 30th"
   },
   "pokemillon.com:54195959857475": {
-    "available": false,
+    "available": true,
     "price": "239.90",
     "product_title": "Caja 20 Sobres Pokémon 30th Anniversary m6a"
   },
@@ -98830,23 +98830,23 @@
     "product_title": "First Partner Illustration Collection Series 1"
   },
   "kamehousecards.com:53009009312082": {
-    "available": false,
-    "price": "94.95",
+    "available": true,
+    "price": "129.95",
     "product_title": "Premium Poster Collection Héroes Ascendentes y Ascended Heroes"
   },
   "kamehousecards.com:53009009344850": {
-    "available": false,
-    "price": "94.95",
+    "available": true,
+    "price": "129.95",
     "product_title": "Premium Poster Collection Héroes Ascendentes y Ascended Heroes"
   },
   "kamehousecards.com:53009009377618": {
-    "available": false,
-    "price": "159.95",
+    "available": true,
+    "price": "169.95",
     "product_title": "Premium Poster Collection Héroes Ascendentes y Ascended Heroes"
   },
   "kamehousecards.com:53009009410386": {
-    "available": false,
-    "price": "159.95",
+    "available": true,
+    "price": "169.95",
     "product_title": "Premium Poster Collection Héroes Ascendentes y Ascended Heroes"
   },
   "kamehousecards.com:53009009508690": {
@@ -98880,8 +98880,8 @@
     "product_title": "Blisters Fuegos Fantasmales y Phantasmal Flames"
   },
   "kamehousecards.com:53009015308626": {
-    "available": false,
-    "price": "64.95",
+    "available": true,
+    "price": "84.95",
     "product_title": "Caja de Entrenador de Elite Pokémon Fuegos Fantasmales y Phantasmal Flames"
   },
   "kamehousecards.com:53009015341394": {
@@ -98970,18 +98970,18 @@
     "product_title": "Illustration Box IB05 y IB06 - One Piece Card Game"
   },
   "kamehousecards.com:53009012851026": {
-    "available": false,
-    "price": "27.95",
+    "available": true,
+    "price": "29.95",
     "product_title": "Double Pack Set vol.9  DP-09  One Piece Card Game"
   },
   "kamehousecards.com:53009008460114": {
-    "available": false,
-    "price": "94.95",
+    "available": true,
+    "price": "119.95",
     "product_title": "Elite Trainer Box Pokémon Héroes Ascendentes y Ascended Heroes"
   },
   "kamehousecards.com:53009008427346": {
-    "available": false,
-    "price": "129.95",
+    "available": true,
+    "price": "159.95",
     "product_title": "Elite Trainer Box Pokémon Héroes Ascendentes y Ascended Heroes"
   },
   "kamehousecards.com:53009007968594": {
@@ -99355,12 +99355,12 @@
     "product_title": "Alakazam EX Collection Pokémon 151"
   },
   "kamehousecards.com:51875942564178": {
-    "available": false,
+    "available": true,
     "price": "9.95",
     "product_title": "Dragon Ball Super Card Game - Fusion World Starter Deck"
   },
   "kamehousecards.com:51875942596946": {
-    "available": false,
+    "available": true,
     "price": "9.95",
     "product_title": "Dragon Ball Super Card Game - Fusion World Starter Deck"
   },
@@ -99370,7 +99370,7 @@
     "product_title": "Dragon Ball Super Card Game - Fusion World Starter Deck"
   },
   "kamehousecards.com:51875942662482": {
-    "available": false,
+    "available": true,
     "price": "9.95",
     "product_title": "Dragon Ball Super Card Game - Fusion World Starter Deck"
   },
@@ -99815,7 +99815,7 @@
     "product_title": "FINAL FANTASY TCG MAZO NOCTIS VS ARDYN"
   },
   "kamehousecards.com:51876345577810": {
-    "available": true,
+    "available": false,
     "price": "14.95",
     "product_title": "FINAL FANTASY TCG MAZO NOCTIS VS ARDYN"
   },
@@ -100255,13 +100255,13 @@
     "product_title": "Elite Trainer Box Pokémon Paradox Rift y Brecha Paradójica"
   },
   "kamehousecards.com:51875970318674": {
-    "available": false,
-    "price": "89.95",
+    "available": true,
+    "price": "119.95",
     "product_title": "Elite Trainer Box Pokémon Paradox Rift y Brecha Paradójica"
   },
   "kamehousecards.com:51875970351442": {
-    "available": false,
-    "price": "89.95",
+    "available": true,
+    "price": "119.95",
     "product_title": "Elite Trainer Box Pokémon Paradox Rift y Brecha Paradójica"
   },
   "kamehousecards.com:51875963994450": {
@@ -100485,13 +100485,13 @@
     "product_title": "Elite Trainer Box Pokémon Temporal Forces y Fuerzas Temporales"
   },
   "kamehousecards.com:51874762719570": {
-    "available": false,
-    "price": "99.95",
+    "available": true,
+    "price": "119.95",
     "product_title": "Elite Trainer Box Pokémon Temporal Forces y Fuerzas Temporales"
   },
   "kamehousecards.com:51874762752338": {
     "available": false,
-    "price": "99.95",
+    "price": "119.95",
     "product_title": "Elite Trainer Box Pokémon Temporal Forces y Fuerzas Temporales"
   },
   "kamehousecards.com:51874758918482": {
@@ -101170,7 +101170,7 @@
     "product_title": "Reign of Jafar Illumineer's Trove - Disney Lorcana"
   },
   "kamehousecards.com:51872486031698": {
-    "available": false,
+    "available": true,
     "price": "249.00",
     "product_title": "Origins Riftbound: League of Legends TCG"
   },
@@ -103591,7 +103591,7 @@
   },
   "laescotillajuegos.com:58494237278543": {
     "available": true,
-    "price": "45.90",
+    "price": "46.75",
     "product_title": "Orks: Warbikers"
   },
   "laescotillajuegos.com:58494237737295": {
@@ -104431,7 +104431,7 @@
   },
   "laescotillajuegos.com:58433681031503": {
     "available": true,
-    "price": "21.25",
+    "price": "22.10",
     "product_title": "Ogor Mawtribes: Set De Dados"
   },
   "laescotillajuegos.com:58433681162575": {
@@ -104441,7 +104441,7 @@
   },
   "laescotillajuegos.com:58433681097039": {
     "available": true,
-    "price": "47.50",
+    "price": "48.45",
     "product_title": "Ogor Mawtribes: Battletome (English)"
   },
   "laescotillajuegos.com:58433681129807": {
@@ -104451,7 +104451,7 @@
   },
   "laescotillajuegos.com:58433681064271": {
     "available": true,
-    "price": "47.50",
+    "price": "48.45",
     "product_title": "Ogor Mawtribes: Tomo De Batalla (Español)"
   },
   "laescotillajuegos.com:58433681228111": {
@@ -104471,7 +104471,7 @@
   },
   "laescotillajuegos.com:58433681326415": {
     "available": true,
-    "price": "79.05",
+    "price": "82.03",
     "product_title": "Ogor Mawtribes: Okar’s Torrbad"
   },
   "laescotillajuegos.com:58433681457487": {
@@ -104776,57 +104776,57 @@
   },
   "laescotillajuegos.com:58370417295695": {
     "available": true,
-    "price": "38.25",
+    "price": "40.38",
     "product_title": "Blood Bowl: Sevens Pitch (2026)"
   },
   "laescotillajuegos.com:58370417164623": {
     "available": true,
-    "price": "29.33",
+    "price": "30.60",
     "product_title": "Blood Bowl: Morg 'N' Thorg"
   },
   "laescotillajuegos.com:58370417361231": {
     "available": true,
-    "price": "59.50",
+    "price": "62.90",
     "product_title": "Warriors Of Chaos: Chaos Knights"
   },
   "laescotillajuegos.com:58370417197391": {
     "available": true,
-    "price": "11.88",
+    "price": "12.59",
     "product_title": "Blood Bowl: Spike! Issue 22"
   },
   "laescotillajuegos.com:58370417328463": {
     "available": true,
-    "price": "127.50",
+    "price": "132.60",
     "product_title": "Warriors Of Chaos: Lord On Chaos Dragon"
   },
   "laescotillajuegos.com:58370417459535": {
     "available": true,
-    "price": "20.90",
+    "price": "21.38",
     "product_title": "Arcane Journal: The March Of Chaos"
   },
   "laescotillajuegos.com:58370417393999": {
     "available": true,
-    "price": "35.70",
+    "price": "36.55",
     "product_title": "Warriors Of Chaos: Champions Of Chaos"
   },
   "laescotillajuegos.com:58370417492303": {
     "available": true,
-    "price": "29.33",
+    "price": "30.60",
     "product_title": "Blood Bowl: Rat Ogre"
   },
   "laescotillajuegos.com:58370417426767": {
     "available": false,
-    "price": "119.00",
+    "price": "125.38",
     "product_title": "Warriors Of Chaos: Battle March Army"
   },
   "laescotillajuegos.com:58370421850447": {
     "available": false,
-    "price": "59.50",
+    "price": "62.90",
     "product_title": "Warriors Of Chaos: Chaos Warriors"
   },
   "laescotillajuegos.com:58370417525071": {
     "available": true,
-    "price": "119.00",
+    "price": "125.38",
     "product_title": "Grand Cathay: Battle March Army"
   },
   "laescotillajuegos.com:58370417721679": {
@@ -104836,7 +104836,7 @@
   },
   "laescotillajuegos.com:58370417557839": {
     "available": true,
-    "price": "29.33",
+    "price": "30.60",
     "product_title": "Blood Bowl: Minotaur"
   },
   "laescotillajuegos.com:58397361865039": {
@@ -105126,67 +105126,67 @@
   },
   "laescotillajuegos.com:58318415855951": {
     "available": true,
-    "price": "13.39",
+    "price": "14.03",
     "product_title": "Necromunda: Core Gang Tactics Card"
   },
   "laescotillajuegos.com:58318416085327": {
     "available": true,
-    "price": "39.90",
+    "price": "40.85",
     "product_title": "Necromunda Skirmish: Core Rulebook"
   },
   "laescotillajuegos.com:58318415921487": {
     "available": true,
-    "price": "110.50",
+    "price": "114.75",
     "product_title": "Necromunda Skirmish: Core Set"
   },
   "laescotillajuegos.com:58318416314703": {
     "available": false,
-    "price": "39.90",
+    "price": "40.85",
     "product_title": "Necromunda: Gangs Of The Outlands"
   },
   "laescotillajuegos.com:58318416183631": {
     "available": true,
-    "price": "39.90",
+    "price": "40.85",
     "product_title": "Necromunda: Gangs Of The Underhive"
   },
   "laescotillajuegos.com:58318416740687": {
     "available": true,
-    "price": "62.90",
+    "price": "65.45",
     "product_title": "Necromunda: Escher Underhive Crew"
   },
   "laescotillajuegos.com:58318416413007": {
     "available": true,
-    "price": "38.25",
+    "price": "40.38",
     "product_title": "Necromunda: Zone Mortalis - Factoria Pipes"
   },
   "laescotillajuegos.com:58318416609615": {
     "available": true,
-    "price": "62.90",
+    "price": "65.45",
     "product_title": "Necromunda: Goliath Underhive Crew"
   },
   "laescotillajuegos.com:58318416511311": {
     "available": true,
-    "price": "26.35",
+    "price": "26.78",
     "product_title": "Necromunda: Campaign And Scenario Cards"
   },
   "laescotillajuegos.com:58318417297743": {
     "available": true,
-    "price": "62.90",
+    "price": "65.45",
     "product_title": "Necromunda: Delaque Underhive Crew"
   },
   "laescotillajuegos.com:58318417068367": {
     "available": true,
-    "price": "62.90",
+    "price": "65.45",
     "product_title": "Necromunda: Cawdor Underhive Crew"
   },
   "laescotillajuegos.com:58318417035599": {
     "available": true,
-    "price": "62.90",
+    "price": "65.45",
     "product_title": "Necromunda: Van Saar Underhive Crew"
   },
   "laescotillajuegos.com:58318416838991": {
     "available": true,
-    "price": "62.90",
+    "price": "65.45",
     "product_title": "Necromunda: Orlock Underhive Crew"
   },
   "laescotillajuegos.com:58356281377103": {
@@ -105526,62 +105526,62 @@
   },
   "laescotillajuegos.com:58261211218255": {
     "available": true,
-    "price": "114.75",
+    "price": "118.15",
     "product_title": "Combat Patrol: Battlezone"
   },
   "laescotillajuegos.com:58261211677007": {
     "available": true,
-    "price": "43.78",
+    "price": "45.05",
     "product_title": "Imperial Agents: Exaction Squad"
   },
   "laescotillajuegos.com:58261211414863": {
     "available": true,
-    "price": "42.50",
+    "price": "44.20",
     "product_title": "Chaos Space Marines: Raptors"
   },
   "laescotillajuegos.com:58261211742543": {
     "available": true,
-    "price": "43.78",
+    "price": "45.05",
     "product_title": "T'au Empire: Kroot Farstalkers"
   },
   "laescotillajuegos.com:58261211644239": {
     "available": true,
-    "price": "131.75",
+    "price": "136.00",
     "product_title": "Astra Militarum: Baneblade"
   },
   "laescotillajuegos.com:58261212004687": {
     "available": true,
-    "price": "46.75",
+    "price": "48.03",
     "product_title": "Kill Team: Spectre Squad"
   },
   "laescotillajuegos.com:58261211709775": {
     "available": true,
-    "price": "43.78",
+    "price": "45.05",
     "product_title": "Imperial Agents: Navy Breachers"
   },
   "laescotillajuegos.com:58261211775311": {
     "available": true,
-    "price": "43.78",
+    "price": "45.05",
     "product_title": "Chaos Space Marines: Fellgor Beastmen"
   },
   "laescotillajuegos.com:58261212070223": {
     "available": true,
-    "price": "32.73",
+    "price": "34.00",
     "product_title": "Legiones Astartes: Combi-Weapons & Shotgun Upgrades"
   },
   "laescotillajuegos.com:58261213446479": {
     "available": true,
-    "price": "43.78",
+    "price": "45.05",
     "product_title": "Astra Militarum: Kasrkin"
   },
   "laescotillajuegos.com:58261212037455": {
     "available": true,
-    "price": "59.50",
+    "price": "62.90",
     "product_title": "Legiones Astartes: MkIV Tactical Squad"
   },
   "laescotillajuegos.com:58261212135759": {
     "available": true,
-    "price": "48.88",
+    "price": "51.00",
     "product_title": "Legiones Astartes: MkIV Assault Squad"
   },
   "laescotillajuegos.com:58303801196879": {
@@ -105856,27 +105856,27 @@
   },
   "laescotillajuegos.com:58215416856911": {
     "available": true,
-    "price": "85.00",
+    "price": "87.13",
     "product_title": "Legions Imperialis: Warlord Titan -Volkite Destructor and Macro-gatling Blaster"
   },
   "laescotillajuegos.com:58215415906639": {
     "available": true,
-    "price": "175.10",
+    "price": "180.20",
     "product_title": "Ogor Mawtribes: Army Set (Español)"
   },
   "laescotillajuegos.com:58215416889679": {
     "available": true,
-    "price": "43.78",
+    "price": "45.05",
     "product_title": "Legions Imperialis: Reaver Titan- Graviton Obliterator and Volkite Annihilator"
   },
   "laescotillajuegos.com:58215416791375": {
     "available": true,
-    "price": "85.00",
+    "price": "87.13",
     "product_title": "Legions Imperialis: Warlord Titan -Quake Cannon & Conversion Beam Extirpator"
   },
   "laescotillajuegos.com:58215415939407": {
     "available": true,
-    "price": "175.10",
+    "price": "180.20",
     "product_title": "Ogor Mawtribes: Army Set (English)"
   },
   "laescotillajuegos.com:58250728210767": {
@@ -106366,57 +106366,57 @@
   },
   "laescotillajuegos.com:58147821027663": {
     "available": false,
-    "price": "52.28",
+    "price": "54.40",
     "product_title": "Warhammer 40,000: Caja Introductoria (English)"
   },
   "laescotillajuegos.com:58147821060431": {
     "available": true,
-    "price": "170.00",
+    "price": "175.10",
     "product_title": "Warhammer 40,000: Caja de Inicio (Español)"
   },
   "laescotillajuegos.com:58147820994895": {
     "available": true,
-    "price": "52.28",
+    "price": "54.40",
     "product_title": "Warhammer 40,000: Caja Introductoria (Español)"
   },
   "laescotillajuegos.com:58147821191503": {
     "available": true,
-    "price": "25.50",
+    "price": "26.56",
     "product_title": "Warhammer 40,000: Set de Orkos+Pinturas"
   },
   "laescotillajuegos.com:58147821158735": {
     "available": true,
-    "price": "29.75",
+    "price": "31.03",
     "product_title": "Warhammer 40,000: Set de Pinturas y Herramientas"
   },
   "laescotillajuegos.com:58147821093199": {
     "available": false,
-    "price": "170.00",
+    "price": "175.10",
     "product_title": "Warhammer 40,000: Caja de Inicio (English)"
   },
   "laescotillajuegos.com:58147821453647": {
     "available": true,
-    "price": "114.75",
+    "price": "118.15",
     "product_title": "Guía de inicio con Marines Espaciales (English)"
   },
   "laescotillajuegos.com:58147821224271": {
     "available": true,
-    "price": "114.75",
+    "price": "118.15",
     "product_title": "Guía de inicio con Orkos (Español)"
   },
   "laescotillajuegos.com:58147821420879": {
     "available": true,
-    "price": "114.75",
+    "price": "118.15",
     "product_title": "Guía de inicio con Marines Espaciales (Español)"
   },
   "laescotillajuegos.com:58147821388111": {
     "available": true,
-    "price": "25.50",
+    "price": "26.56",
     "product_title": "Warhammer 40,000: Set de Marines Espaciales+Pinturas"
   },
   "laescotillajuegos.com:58147821355343": {
     "available": true,
-    "price": "114.75",
+    "price": "118.15",
     "product_title": "Guía de inicio con Orkos (English)"
   },
   "laescotillajuegos.com:58177797751119": {
@@ -106501,27 +106501,27 @@
   },
   "laescotillajuegos.com:58081195295055": {
     "available": true,
-    "price": "20.90",
+    "price": "21.38",
     "product_title": "Middle-Earth SBG: Journal Burning Of The Westfold"
   },
   "laescotillajuegos.com:58081195163983": {
     "available": false,
-    "price": "161.50",
+    "price": "170.00",
     "product_title": "Warhammer: The Old World: Core Set (English)"
   },
   "laescotillajuegos.com:58081195032911": {
     "available": false,
-    "price": "20.90",
+    "price": "21.38",
     "product_title": "Arcane Journal: Battle March Companion"
   },
   "laescotillajuegos.com:58081195655503": {
     "available": true,
-    "price": "32.30",
+    "price": "32.73",
     "product_title": "Middle-Earth SBG: Warriors Of Rohan Commanders"
   },
   "laescotillajuegos.com:58081195426127": {
     "available": true,
-    "price": "32.30",
+    "price": "32.73",
     "product_title": "Middle-Earth SBG: Hill Tribesmen Commanders"
   },
   "laescotillajuegos.com:58081195786575": {
@@ -106531,7 +106531,7 @@
   },
   "laescotillajuegos.com:58081195524431": {
     "available": false,
-    "price": "35.70",
+    "price": "36.55",
     "product_title": "Middle-Earth SBG: Riders Of Rohan"
   },
   "laescotillajuegos.com:58128642801999": {
@@ -106706,52 +106706,52 @@
   },
   "laescotillajuegos.com:58004850606415": {
     "available": true,
-    "price": "175.10",
+    "price": "180.20",
     "product_title": "Chaos Space Marines: Battleforce Chaos Space Marines Warband"
   },
   "laescotillajuegos.com:58004850671951": {
     "available": true,
-    "price": "175.10",
+    "price": "180.20",
     "product_title": "Astra Militarum: Battleforce Astra Militarum Platoon"
   },
   "laescotillajuegos.com:58004850639183": {
     "available": true,
-    "price": "46.75",
+    "price": "48.03",
     "product_title": "Astra Militarum: Centaur RSV"
   },
   "laescotillajuegos.com:58004850704719": {
     "available": true,
-    "price": "42.50",
+    "price": "44.20",
     "product_title": "Astra Militarum: Hippogriff AFV"
   },
   "laescotillajuegos.com:58004850770255": {
     "available": true,
-    "price": "175.10",
+    "price": "180.20",
     "product_title": "Tyranids: Battleforce Tyranid Swarm"
   },
   "laescotillajuegos.com:58004850835791": {
     "available": true,
-    "price": "175.10",
+    "price": "180.20",
     "product_title": "Necrons: Battleforce Necron Host"
   },
   "laescotillajuegos.com:58004850737487": {
     "available": true,
-    "price": "32.30",
+    "price": "32.73",
     "product_title": "Astra Militarum: Ciaphas Cain"
   },
   "laescotillajuegos.com:58004850966863": {
     "available": true,
-    "price": "148.75",
+    "price": "153.00",
     "product_title": "Legiones Astartes: Maximus Battle Group"
   },
   "laescotillajuegos.com:58004850901327": {
     "available": true,
-    "price": "20.90",
+    "price": "21.38",
     "product_title": "Journal Tactica: Zone Mortalis"
   },
   "laescotillajuegos.com:58004850868559": {
     "available": true,
-    "price": "46.75",
+    "price": "48.03",
     "product_title": "Legiones Astartes: Whirlwind Missile Tank"
   },
   "laescotillajuegos.com:58056173519183": {
@@ -107166,22 +107166,22 @@
   },
   "laescotillajuegos.com:57922763129167": {
     "available": false,
-    "price": "45.12",
+    "price": "47.50",
     "product_title": "Age Of Sigmar: Manual De Campo Para Generales 2026-2027 (Español)"
   },
   "laescotillajuegos.com:57922763227471": {
     "available": true,
-    "price": "52.28",
+    "price": "54.40",
     "product_title": "Spearhead: City Of Ash Gaming Pack (English)"
   },
   "laescotillajuegos.com:57922763161935": {
     "available": true,
-    "price": "45.12",
+    "price": "47.50",
     "product_title": "Age Of Sigmar: General's Handbook 2026-2027 (English)"
   },
   "laescotillajuegos.com:57922763293007": {
     "available": true,
-    "price": "102.00",
+    "price": "106.25",
     "product_title": "Hedonites Of Slaanesh: Epicurean Revellers Spearhead"
   },
   "laescotillajuegos.com:57922763260239": {
@@ -107191,47 +107191,47 @@
   },
   "laescotillajuegos.com:57922763194703": {
     "available": true,
-    "price": "52.28",
+    "price": "54.40",
     "product_title": "Spearhead: Pack De Juego Ciudad De Ceniza (Español)"
   },
   "laescotillajuegos.com:57922763424079": {
     "available": true,
-    "price": "22.95",
+    "price": "23.80",
     "product_title": "Hedonites Of Slaanesh: Tarjetas De Unidad (Español)"
   },
   "laescotillajuegos.com:57922763325775": {
     "available": true,
-    "price": "54.40",
+    "price": "56.10",
     "product_title": "Hedonites Of Slaanesh: Accursed Reflection - Regiments Of Renown"
   },
   "laescotillajuegos.com:57922763391311": {
     "available": true,
-    "price": "144.50",
+    "price": "148.75",
     "product_title": "Hedonites Of Slaanesh: The Decadent Host Battleforce"
   },
   "laescotillajuegos.com:57922763358543": {
     "available": true,
-    "price": "29.33",
+    "price": "30.60",
     "product_title": "Hedonites Of Slaanesh: Lord Of Hysteria"
   },
   "laescotillajuegos.com:57922763587919": {
     "available": true,
-    "price": "21.25",
+    "price": "22.10",
     "product_title": "Hedonites Of Slaanesh : Set De Dados"
   },
   "laescotillajuegos.com:57922763489615": {
     "available": true,
-    "price": "47.50",
+    "price": "48.45",
     "product_title": "Hedonites Of Slaanesh: Tomo De Batalla (Español)"
   },
   "laescotillajuegos.com:57922763456847": {
     "available": true,
-    "price": "22.95",
+    "price": "23.80",
     "product_title": "Hedonites Of Slaanesh: Warscroll Cards (English)"
   },
   "laescotillajuegos.com:57922763522383": {
     "available": false,
-    "price": "47.50",
+    "price": "48.45",
     "product_title": "Hedonites Of Slaanesh: Battletome (English)"
   },
   "laescotillajuegos.com:57982374478159": {
@@ -107526,47 +107526,47 @@
   },
   "laescotillajuegos.com:57873365270863": {
     "available": true,
-    "price": "19.00",
+    "price": "19.48",
     "product_title": "Warhammer 40000: Core Rules (English)"
   },
   "laescotillajuegos.com:57873365238095": {
     "available": true,
-    "price": "19.00",
+    "price": "19.48",
     "product_title": "Warhammer 40000: Reglas Básicas (Español)"
   },
   "laescotillajuegos.com:57873365336399": {
     "available": true,
-    "price": "22.10",
+    "price": "22.95",
     "product_title": "Warhammer 40000: Chapter Approved Mission Deck 2026 (English)"
   },
   "laescotillajuegos.com:57873365303631": {
     "available": false,
-    "price": "22.10",
+    "price": "22.95",
     "product_title": "Warhammer 40000: Aprobado Capitulo, Mazo De Misiones 2026 (Español)"
   },
   "laescotillajuegos.com:57873365762383": {
     "available": false,
-    "price": "24.70",
+    "price": "22.95",
     "product_title": "Combat Patrol: Guía De Patrulla (Español)"
   },
   "laescotillajuegos.com:57873365434703": {
     "available": true,
-    "price": "22.10",
+    "price": "22.95",
     "product_title": "Warhammer 40000: Dominatus - Armageddon (English)"
   },
   "laescotillajuegos.com:57873365369167": {
     "available": true,
-    "price": "22.10",
+    "price": "22.95",
     "product_title": "Warhammer 40000: Dominatus - Armageddon (Español)"
   },
   "laescotillajuegos.com:57873365795151": {
     "available": true,
-    "price": "24.70",
+    "price": "22.95",
     "product_title": "Combat Patrol: Companion (English)"
   },
   "laescotillajuegos.com:57873365729615": {
     "available": false,
-    "price": "19.98",
+    "price": "20.40",
     "product_title": "Warhammer 40000: Set De Terreno De Área"
   },
   "laescotillajuegos.com:57902130495823": {
@@ -108271,12 +108271,12 @@
   },
   "laescotillajuegos.com:57720765284687": {
     "available": true,
-    "price": "136.00",
+    "price": "141.53",
     "product_title": "Legiones Astartes: Falchion Super-Heavy Tank Destroyer"
   },
   "laescotillajuegos.com:57720765219151": {
     "available": true,
-    "price": "82.45",
+    "price": "85.00",
     "product_title": "Legiones Astartes: Spartan Prometheus Assault Tank"
   },
   "laescotillajuegos.com:57757345939791": {
@@ -108481,22 +108481,22 @@
   },
   "laescotillajuegos.com:57661721542991": {
     "available": true,
-    "price": "47.50",
+    "price": "48.45",
     "product_title": "Cities of Sigmar: Tomo de Batalla (español)"
   },
   "laescotillajuegos.com:57661721641295": {
     "available": true,
-    "price": "46.75",
+    "price": "48.03",
     "product_title": "Cities of Sigmar: Erasmus Zonn the Enlightened One"
   },
   "laescotillajuegos.com:57661721608527": {
     "available": true,
-    "price": "136.00",
+    "price": "141.53",
     "product_title": "Cities of Sigmar: Cogfort"
   },
   "laescotillajuegos.com:57661721805135": {
     "available": true,
-    "price": "40.38",
+    "price": "42.50",
     "product_title": "Cities of Sigmar: Freeguild Gallants"
   },
   "laescotillajuegos.com:57661721706831": {
@@ -108506,17 +108506,17 @@
   },
   "laescotillajuegos.com:57661721575759": {
     "available": true,
-    "price": "47.50",
+    "price": "48.45",
     "product_title": "Cities of Sigmar: Battletome (english)"
   },
   "laescotillajuegos.com:57661722100047": {
     "available": true,
-    "price": "102.00",
+    "price": "106.25",
     "product_title": "Cities of Sigmar: Zenestra’s Zealots -Spearhead"
   },
   "laescotillajuegos.com:57661721837903": {
     "available": true,
-    "price": "71.40",
+    "price": "73.95",
     "product_title": "Cities of Sigmar: Gate Gargants"
   },
   "laescotillajuegos.com:57661721772367": {
@@ -108526,27 +108526,27 @@
   },
   "laescotillajuegos.com:57661722558799": {
     "available": true,
-    "price": "62.90",
+    "price": "65.45",
     "product_title": "Cities of Sigmar: Regiment of Renown - Ven Denst’s Hounds"
   },
   "laescotillajuegos.com:57661722067279": {
     "available": true,
-    "price": "38.25",
+    "price": "40.38",
     "product_title": "Cities of Sigmar: Freeguild Grenadiers"
   },
   "laescotillajuegos.com:57661722001743": {
     "available": true,
-    "price": "43.78",
+    "price": "45.05",
     "product_title": "Cities of Sigmar: Dawner’s Triumph"
   },
   "laescotillajuegos.com:57661724098895": {
     "available": true,
-    "price": "32.30",
+    "price": "32.73",
     "product_title": "Warhammer Underworlds: Thyrielle's Zephyrites"
   },
   "laescotillajuegos.com:57661722657103": {
     "available": true,
-    "price": "21.25",
+    "price": "22.10",
     "product_title": "Cities of Sigmar: Set de dados"
   },
   "laescotillajuegos.com:57704958951759": {
@@ -108806,12 +108806,12 @@
   },
   "laescotillajuegos.com:57616934502735": {
     "available": true,
-    "price": "46.75",
+    "price": "48.03",
     "product_title": "Kill Team: Celestian Insidiants"
   },
   "laescotillajuegos.com:57616934535503": {
     "available": true,
-    "price": "54.40",
+    "price": "56.10",
     "product_title": "Kill Team: Murderwing"
   },
   "laescotillajuegos.com:57648975479119": {
@@ -109211,17 +109211,17 @@
   },
   "laescotillajuegos.com:57574392103247": {
     "available": true,
-    "price": "59.50",
+    "price": "62.90",
     "product_title": "Gran Catai: Iron Hail & Crane Gunners"
   },
   "laescotillajuegos.com:57574392136015": {
     "available": true,
-    "price": "20.90",
+    "price": "21.38",
     "product_title": "Horus Heresy: Journal Tactica, The Battle of Tallarn Part 1"
   },
   "laescotillajuegos.com:57574392070479": {
     "available": true,
-    "price": "59.50",
+    "price": "62.90",
     "product_title": "Gran Catai: Peasant Levy"
   },
   "laescotillajuegos.com:57574392693071": {
@@ -109231,17 +109231,17 @@
   },
   "laescotillajuegos.com:57574392660303": {
     "available": true,
-    "price": "48.88",
+    "price": "51.00",
     "product_title": "Horus Heresy: Solar Auxilia Rapier Fire Support Battery"
   },
   "laescotillajuegos.com:57574392332623": {
     "available": true,
-    "price": "48.88",
+    "price": "51.00",
     "product_title": "Horus Heresy: Solar Auxilia Rapier Direct Fire Battery"
   },
   "laescotillajuegos.com:57574392267087": {
     "available": true,
-    "price": "48.88",
+    "price": "51.00",
     "product_title": "Horus Heresy: Solar Auxilia Charonite Ogryn Section"
   },
   "laescotillajuegos.com:57596246524239": {
@@ -109576,12 +109576,12 @@
   },
   "laescotillajuegos.com:57515403968847": {
     "available": true,
-    "price": "114.75",
+    "price": "118.15",
     "product_title": "Deathwatch: Armageddon Battalion"
   },
   "laescotillajuegos.com:57515405410639": {
     "available": true,
-    "price": "56.95",
+    "price": "59.50",
     "product_title": "Orks: Wazdakka Gutsmek"
   },
   "laescotillajuegos.com:57515404525903": {
@@ -109596,32 +109596,32 @@
   },
   "laescotillajuegos.com:57515406491983": {
     "available": true,
-    "price": "114.75",
+    "price": "118.15",
     "product_title": "Orks: Armageddon Battalion"
   },
   "laescotillajuegos.com:57515408032079": {
     "available": true,
-    "price": "32.30",
+    "price": "32.73",
     "product_title": "Astra Militarum: Comissar Yarrick"
   },
   "laescotillajuegos.com:57515410456911": {
     "available": true,
-    "price": "68.00",
+    "price": "70.55",
     "product_title": "Astra Militarum: Comissar Graves"
   },
   "laescotillajuegos.com:57515412062543": {
     "available": true,
-    "price": "114.75",
+    "price": "118.15",
     "product_title": "Adepta Sororitas: Armageddon Battalion"
   },
   "laescotillajuegos.com:57515412619599": {
     "available": true,
-    "price": "48.88",
+    "price": "51.00",
     "product_title": "Adepta Sororitas: Intranzia Fraye Dogmata Superiora"
   },
   "laescotillajuegos.com:57515411571023": {
     "available": true,
-    "price": "42.50",
+    "price": "43.35",
     "product_title": "Imperial Agents: Inquisitor Kroyle"
   },
   "laescotillajuegos.com:57558368354639": {
@@ -110051,12 +110051,12 @@
   },
   "laescotillajuegos.com:57452360171855": {
     "available": false,
-    "price": "148.75",
+    "price": "153.00",
     "product_title": "Spearhead: City Of Ash (English)"
   },
   "laescotillajuegos.com:57452360008015": {
     "available": false,
-    "price": "148.75",
+    "price": "153.00",
     "product_title": "Spearhead: Ciudad De Ceniza (Español)"
   },
   "laescotillajuegos.com:57485464011087": {
@@ -110281,12 +110281,12 @@
   },
   "laescotillajuegos.com:57409586921807": {
     "available": false,
-    "price": "54.40",
+    "price": "56.10",
     "product_title": "Legio Custodes: Venatari Sodality"
   },
   "laescotillajuegos.com:57409586823503": {
     "available": true,
-    "price": "48.88",
+    "price": "51.00",
     "product_title": "Legio Custodes: Custodian Guard Sodality"
   },
   "laescotillajuegos.com:57409586692431": {
@@ -110296,12 +110296,12 @@
   },
   "laescotillajuegos.com:57409587151183": {
     "available": true,
-    "price": "48.88",
+    "price": "51.00",
     "product_title": "Legio Custodes: Sentinel Guard Sodality"
   },
   "laescotillajuegos.com:57409587052879": {
     "available": true,
-    "price": "29.33",
+    "price": "30.60",
     "product_title": "Legio Custodes: Shield Captain"
   },
   "laescotillajuegos.com:57409586594127": {
@@ -110311,12 +110311,12 @@
   },
   "laescotillajuegos.com:57409587380559": {
     "available": true,
-    "price": "85.00",
+    "price": "89.25",
     "product_title": "Legio Custodes: Coronus Grav-Carrier"
   },
   "laescotillajuegos.com:57409587282255": {
     "available": false,
-    "price": "52.28",
+    "price": "54.40",
     "product_title": "Legio Custodes: Custodian Dreadnought"
   },
   "laescotillajuegos.com:57429065302351": {
@@ -110396,37 +110396,37 @@
   },
   "laescotillajuegos.com:57348505272655": {
     "available": true,
-    "price": "40.38",
+    "price": "42.50",
     "product_title": "Adeptus Mechanicus: Hastarii"
   },
   "laescotillajuegos.com:57348505239887": {
     "available": true,
-    "price": "42.50",
+    "price": "44.20",
     "product_title": "Adeptus Mechanicus: Thulia Ghuld"
   },
   "laescotillajuegos.com:57348503732559": {
     "available": false,
-    "price": "114.75",
+    "price": "118.15",
     "product_title": "Adeptus Mechanicus: Eye Of Terror Battalion"
   },
   "laescotillajuegos.com:57348503699791": {
     "available": true,
-    "price": "119.00",
+    "price": "123.25",
     "product_title": "Imperial Knights: Knight Destrier"
   },
   "laescotillajuegos.com:57348502585679": {
     "available": true,
-    "price": "46.75",
+    "price": "48.03",
     "product_title": "Chaos Space Marines: Mutilators"
   },
   "laescotillajuegos.com:57348502290767": {
     "available": false,
-    "price": "31.45",
+    "price": "32.73",
     "product_title": "Chaos Space Marines: Kravek Morne"
   },
   "laescotillajuegos.com:57348502257999": {
     "available": false,
-    "price": "97.75",
+    "price": "102.00",
     "product_title": "Chaos Space Marines: Defiler"
   },
   "laescotillajuegos.com:57348502028623": {
@@ -110521,77 +110521,77 @@
   },
   "laescotillajuegos.com:57297439064399": {
     "available": true,
-    "price": "102.00",
+    "price": "106.25",
     "product_title": "Sylvaneth: Spitewing Flight - Spearhead"
   },
   "laescotillajuegos.com:57297439129935": {
     "available": false,
-    "price": "47.50",
+    "price": "48.45",
     "product_title": "Sylvaneth: Battletome (English)"
   },
   "laescotillajuegos.com:57297439097167": {
     "available": true,
-    "price": "47.50",
+    "price": "48.45",
     "product_title": "Sylvaneth: Tomo De Batalla (Español)"
   },
   "laescotillajuegos.com:57297439261007": {
     "available": true,
-    "price": "170.00",
+    "price": "175.10",
     "product_title": "Sylvaneth: Battleforce: Strongroot Grove"
   },
   "laescotillajuegos.com:57297439228239": {
     "available": true,
-    "price": "21.25",
+    "price": "22.10",
     "product_title": "Sylvaneth: Set De Dados"
   },
   "laescotillajuegos.com:57297439654223": {
     "available": true,
-    "price": "102.00",
+    "price": "106.25",
     "product_title": "Daughters Of Khaine: Khainite Shadow Coven - Spearhead"
   },
   "laescotillajuegos.com:57297439392079": {
     "available": true,
-    "price": "52.28",
+    "price": "54.40",
     "product_title": "Sylvaneth: Regiments Of Renown - The Twisted Branch"
   },
   "laescotillajuegos.com:57297439686991": {
     "available": true,
-    "price": "47.50",
+    "price": "48.45",
     "product_title": "Daughters Of Khaine: Tomo De Batalla (Español)"
   },
   "laescotillajuegos.com:57297439588687": {
     "available": true,
-    "price": "48.88",
+    "price": "51.00",
     "product_title": "Sylvaneth: Grove Guardian"
   },
   "laescotillajuegos.com:57297439916367": {
     "available": true,
-    "price": "21.25",
+    "price": "22.10",
     "product_title": "Daughters Of Khaine: Set de Dados"
   },
   "laescotillajuegos.com:57297439883599": {
     "available": false,
-    "price": "22.95",
+    "price": "23.80",
     "product_title": "Daughters Of Khaine: Warscroll Cards (English)"
   },
   "laescotillajuegos.com:57297439818063": {
     "available": true,
-    "price": "22.95",
+    "price": "23.80",
     "product_title": "Daughters Of Khaine: Tarjetas De Unidad (Español)"
   },
   "laescotillajuegos.com:57297440145743": {
     "available": true,
-    "price": "52.28",
+    "price": "54.40",
     "product_title": "Daughters Of Khaine: Regiment Of Renown - The Crimson Lash"
   },
   "laescotillajuegos.com:57297439752527": {
     "available": false,
-    "price": "47.50",
+    "price": "48.45",
     "product_title": "Daughters Of Khaine: Battletome (English)"
   },
   "laescotillajuegos.com:57297440276815": {
     "available": true,
-    "price": "40.38",
+    "price": "42.50",
     "product_title": "Daughters Of Khaine: Blood Hags"
   },
   "laescotillajuegos.com:57297440211279": {
@@ -110601,7 +110601,7 @@
   },
   "laescotillajuegos.com:57297440702799": {
     "available": true,
-    "price": "170.00",
+    "price": "175.10",
     "product_title": "Daughters Of Khaine: Battleforce: Scáthborn Coven"
   },
   "laescotillajuegos.com:57335978197327": {
@@ -110796,12 +110796,12 @@
   },
   "laescotillajuegos.com:57250164343119": {
     "available": true,
-    "price": "39.90",
+    "price": "40.85",
     "product_title": "Horus Heresy: Liber Custodes (English)"
   },
   "laescotillajuegos.com:57250164277583": {
     "available": true,
-    "price": "20.90",
+    "price": "21.38",
     "product_title": "Horus Heresy: Journal Tactica, Mailed Fist"
   },
   "laescotillajuegos.com:57250164474191": {
@@ -110811,17 +110811,17 @@
   },
   "laescotillajuegos.com:57250165948751": {
     "available": true,
-    "price": "5.25",
+    "price": "5.45",
     "product_title": "Mango De Pintura Warhammer Colour (Mk3)"
   },
   "laescotillajuegos.com:57250165883215": {
     "available": true,
-    "price": "136.00",
+    "price": "141.53",
     "product_title": "Legiones Astartes: Glaive Super-Heavy Special Weapons Tank"
   },
   "laescotillajuegos.com:57250164441423": {
     "available": true,
-    "price": "14.50",
+    "price": "15.00",
     "product_title": "Wh Colour: Conjunto De Herramientas"
   },
   "laescotillajuegos.com:57284119134543": {
@@ -110966,7 +110966,7 @@
   },
   "laescotillajuegos.com:57200627417423": {
     "available": true,
-    "price": "11.88",
+    "price": "12.59",
     "product_title": "Blood Bowl: Spike! Issue 21"
   },
   "laescotillajuegos.com:57200627581263": {
@@ -110976,7 +110976,7 @@
   },
   "laescotillajuegos.com:57200627482959": {
     "available": true,
-    "price": "36.98",
+    "price": "38.25",
     "product_title": "Blood Bowl: High Elf Team"
   },
   "laescotillajuegos.com:57219951886671": {
@@ -111141,7 +111141,7 @@
   },
   "laescotillajuegos.com:57142571467087": {
     "available": true,
-    "price": "29.33",
+    "price": "30.60",
     "product_title": "Chaos Space Marines: Red Corsairs Reave-Captain"
   },
   "laescotillajuegos.com:57142571598159": {
@@ -111151,7 +111151,7 @@
   },
   "laescotillajuegos.com:57142571532623": {
     "available": true,
-    "price": "22.95",
+    "price": "23.80",
     "product_title": "Chaos Space Marines: Red Corsairs Upgrades And Transfers"
   },
   "laescotillajuegos.com:57142571630927": {
@@ -111161,27 +111161,27 @@
   },
   "laescotillajuegos.com:57142571565391": {
     "available": true,
-    "price": "42.50",
+    "price": "44.20",
     "product_title": "Chaos Space Marines: Red Corsairs Raiders"
   },
   "laescotillajuegos.com:57142571893071": {
     "available": true,
-    "price": "29.33",
+    "price": "30.60",
     "product_title": "Aeldari: Kharseth"
   },
   "laescotillajuegos.com:57142571991375": {
     "available": true,
-    "price": "42.50",
+    "price": "44.20",
     "product_title": "Aeldari: Vyper"
   },
   "laescotillajuegos.com:57142571925839": {
     "available": true,
-    "price": "31.45",
+    "price": "32.73",
     "product_title": "Aeldari: Prince Yriel"
   },
   "laescotillajuegos.com:57142571696463": {
     "available": true,
-    "price": "42.50",
+    "price": "43.35",
     "product_title": "Aeldari: Corsair Skyreavers"
   },
   "laescotillajuegos.com:57142572056911": {
@@ -111191,22 +111191,22 @@
   },
   "laescotillajuegos.com:57142572024143": {
     "available": true,
-    "price": "42.50",
+    "price": "44.20",
     "product_title": "Aeldari: Corsair Voidreavers"
   },
   "laescotillajuegos.com:57142573171023": {
     "available": true,
-    "price": "31.45",
+    "price": "32.73",
     "product_title": "Leagues Of Votann: Berehk Stornbröw"
   },
   "laescotillajuegos.com:57142572319055": {
     "available": true,
-    "price": "73.95",
+    "price": "76.50",
     "product_title": "T'au Empire: The Twin Lance"
   },
   "laescotillajuegos.com:57142572122447": {
     "available": true,
-    "price": "29.33",
+    "price": "30.60",
     "product_title": "Tyranids: Tyranid Prime With Lash Whip"
   },
   "laescotillajuegos.com:57142573236559": {
@@ -111441,27 +111441,27 @@
   },
   "laescotillajuegos.com:57095046168911": {
     "available": true,
-    "price": "20.90",
+    "price": "21.38",
     "product_title": "Arcane Journal: The Breaching Of The Great Bastion"
   },
   "laescotillajuegos.com:57095046365519": {
     "available": true,
-    "price": "27.63",
+    "price": "28.90",
     "product_title": "Mechanicum: Skitarii Battle-Pilgrym Marshal"
   },
   "laescotillajuegos.com:57095046267215": {
     "available": true,
-    "price": "59.50",
+    "price": "62.90",
     "product_title": "Mechanicum: Skitarii Battle-Pilgrym Corpus"
   },
   "laescotillajuegos.com:57095046496591": {
     "available": true,
-    "price": "52.28",
+    "price": "54.40",
     "product_title": "Mechanicum: Myrmidon Destructor Host"
   },
   "laescotillajuegos.com:57095046299983": {
     "available": true,
-    "price": "54.40",
+    "price": "56.10",
     "product_title": "Mechanicum: Vultarax Stratos-Automata"
   },
   "laescotillajuegos.com:57128405926223": {
@@ -111491,7 +111491,7 @@
   },
   "laescotillajuegos.com:32908588417160": {
     "available": true,
-    "price": "23.38",
+    "price": "24.23",
     "product_title": "Blood Bowl: Ogre"
   },
   "laescotillajuegos.com:57128626880847": {
@@ -111701,62 +111701,62 @@
   },
   "laescotillajuegos.com:57040992469327": {
     "available": true,
-    "price": "18.28",
+    "price": "18.70",
     "product_title": "Warhammer Underworlds: Rivals Deck Nexus Of Power (Español)"
   },
   "laescotillajuegos.com:57040992797007": {
     "available": false,
-    "price": "102.00",
+    "price": "106.25",
     "product_title": "Ossiarch Bonereapers: Kavalos Vanguard Spearhead"
   },
   "laescotillajuegos.com:57040992567631": {
     "available": false,
-    "price": "18.28",
+    "price": "18.70",
     "product_title": "Warhammer Underworlds: Rivals Deck Nexus Of Power (English)"
   },
   "laescotillajuegos.com:57040992993615": {
     "available": true,
-    "price": "47.50",
+    "price": "48.45",
     "product_title": "Ossiarch Bonereapers: Battletome (English)"
   },
   "laescotillajuegos.com:57040992895311": {
     "available": false,
-    "price": "47.50",
+    "price": "48.45",
     "product_title": "Ossiarch Bonereapers: Tomo De Batalla (Español)"
   },
   "laescotillajuegos.com:57040993386831": {
     "available": true,
-    "price": "62.90",
+    "price": "65.45",
     "product_title": "Ossiarch Bonereapers: Regiment Of Renown: Heralds Of The Bone-Tithe"
   },
   "laescotillajuegos.com:57040992698703": {
     "available": true,
-    "price": "32.30",
+    "price": "32.73",
     "product_title": "Warhammer Underworlds: Thanatek's Tithe"
   },
   "laescotillajuegos.com:57040993190223": {
     "available": true,
-    "price": "52.28",
+    "price": "54.40",
     "product_title": "Ossiarch Bonereapers: Liege-Kavalos On War Chariot"
   },
   "laescotillajuegos.com:57040993091919": {
     "available": true,
-    "price": "25.00",
+    "price": "22.10",
     "product_title": "Ossiarch Bonereapers: Set De Dados"
   },
   "laescotillajuegos.com:57040993485135": {
     "available": true,
-    "price": "43.78",
+    "price": "45.05",
     "product_title": "Ossiarch Bonereapers: Mortek Triaxes"
   },
   "laescotillajuegos.com:57040993288527": {
     "available": true,
-    "price": "42.50",
+    "price": "43.35",
     "product_title": "Ossiarch Bonereapers: Mortis Reapers"
   },
   "laescotillajuegos.com:57040993616207": {
     "available": true,
-    "price": "26.35",
+    "price": "27.63",
     "product_title": "Ossiarch Bonereapers: Liege-Mortek"
   },
   "laescotillajuegos.com:57072819601743": {
@@ -111906,7 +111906,7 @@
   },
   "laescotillajuegos.com:56994272051535": {
     "available": true,
-    "price": "62.90",
+    "price": "65.45",
     "product_title": "Chaos Space Marines: Huron Blackheart And The Masters Of The Maelstrom"
   },
   "laescotillajuegos.com:56994272018767": {
@@ -112091,57 +112091,57 @@
   },
   "laescotillajuegos.com:56947470795087": {
     "available": true,
-    "price": "47.50",
+    "price": "48.45",
     "product_title": "Lumineth Realm-Lords: Tomo De Batalla (Español)"
   },
   "laescotillajuegos.com:56947470500175": {
     "available": true,
-    "price": "102.00",
+    "price": "106.25",
     "product_title": "Lumineth Realm-Lords: Hurakan Vanguard Spearhead"
   },
   "laescotillajuegos.com:56947470893391": {
     "available": true,
-    "price": "170.00",
+    "price": "175.10",
     "product_title": "Lumineth Realm-Lords: Iliathan Warhost Battleforce"
   },
   "laescotillajuegos.com:56947470827855": {
     "available": true,
-    "price": "47.50",
+    "price": "48.45",
     "product_title": "Lumineth Realm-Lords: Battletome (English)"
   },
   "laescotillajuegos.com:56947471024463": {
     "available": true,
-    "price": "29.33",
+    "price": "30.60",
     "product_title": "Lumineth Realm-Lords: Vanari Lord Regent"
   },
   "laescotillajuegos.com:56947471188303": {
     "available": true,
-    "price": "43.78",
+    "price": "45.05",
     "product_title": "Disciples Of Tzeentch: Argent Shards"
   },
   "laescotillajuegos.com:56947471057231": {
     "available": true,
-    "price": "40.38",
+    "price": "42.50",
     "product_title": "Lumineth Realm-Lords: Sigil Convocation"
   },
   "laescotillajuegos.com:56947471155535": {
     "available": true,
-    "price": "102.00",
+    "price": "106.25",
     "product_title": "Disciples Of Tzeentch: Tzaangor Warflock Spearhead"
   },
   "laescotillajuegos.com:56947471089999": {
     "available": false,
-    "price": "21.25",
+    "price": "22.10",
     "product_title": "Disciples Of Tzeentch: Set De Dados"
   },
   "laescotillajuegos.com:56947471483215": {
     "available": true,
-    "price": "27.63",
+    "price": "28.90",
     "product_title": "Disciples Of Tzeentch: Fatemaster"
   },
   "laescotillajuegos.com:56947471253839": {
     "available": true,
-    "price": "62.90",
+    "price": "65.45",
     "product_title": "Disciples Of Tzeentch: Seekers Of Silver"
   },
   "laescotillajuegos.com:56947471745359": {
@@ -112151,17 +112151,17 @@
   },
   "laescotillajuegos.com:56947471515983": {
     "available": false,
-    "price": "47.50",
+    "price": "48.45",
     "product_title": "Disciples Of Tzeentch: Tomo De Batalla (Español)"
   },
   "laescotillajuegos.com:56947471384911": {
     "available": false,
-    "price": "170.00",
+    "price": "175.10",
     "product_title": "Disciples Of Tzeentch: Warpflame Cavalcade Battleforce"
   },
   "laescotillajuegos.com:56947471614287": {
     "available": false,
-    "price": "47.50",
+    "price": "48.45",
     "product_title": "Disciples Of Tzeentch: Battletome (English)"
   },
   "laescotillajuegos.com:56977051877711": {
@@ -112661,32 +112661,32 @@
   },
   "laescotillajuegos.com:56903899021647": {
     "available": true,
-    "price": "59.50",
+    "price": "62.90",
     "product_title": "Guerreros Del Caos: Chaos Marauder Horsemen"
   },
   "laescotillajuegos.com:56903898956111": {
     "available": false,
-    "price": "59.50",
+    "price": "62.90",
     "product_title": "Guerreros del Caos: Chaos Marauders"
   },
   "laescotillajuegos.com:56903899152719": {
     "available": true,
-    "price": "46.75",
+    "price": "48.03",
     "product_title": "Legiones Astartes: Cataphractii Terminators With Power Fists"
   },
   "laescotillajuegos.com:56903899087183": {
     "available": false,
-    "price": "48.88",
+    "price": "51.00",
     "product_title": "Legiones Astartes: Mk III Breacher Squad"
   },
   "laescotillajuegos.com:56903899349327": {
     "available": true,
-    "price": "32.73",
+    "price": "34.00",
     "product_title": "Legiones Astartes: Breacher Squad Upgrade Set"
   },
   "laescotillajuegos.com:56903899251023": {
     "available": true,
-    "price": "46.75",
+    "price": "48.03",
     "product_title": "Legiones Astartes: Cataphractii Terminators With Power Mauls"
   },
   "laescotillajuegos.com:56913185866063": {
@@ -112886,12 +112886,12 @@
   },
   "laescotillajuegos.com:56843365253455": {
     "available": true,
-    "price": "46.75",
+    "price": "48.03",
     "product_title": "Kill Team: Xv26 Stealth Battlesuits"
   },
   "laescotillajuegos.com:56843365286223": {
     "available": true,
-    "price": "46.75",
+    "price": "48.03",
     "product_title": "Kill Team: Wolf Scouts"
   },
   "laescotillajuegos.com:56887493525839": {
@@ -113161,17 +113161,17 @@
   },
   "laescotillajuegos.com:56804183277903": {
     "available": true,
-    "price": "20.90",
+    "price": "21.38",
     "product_title": "Horus Heresy: Journal Tactica, Skitarii: Steel Hand Of Mars"
   },
   "laescotillajuegos.com:56804183212367": {
     "available": true,
-    "price": "20.90",
+    "price": "21.38",
     "product_title": "Middle-Earth Sbg: Journal: The Treachery Of Gollum"
   },
   "laescotillajuegos.com:56804183179599": {
     "available": true,
-    "price": "35.70",
+    "price": "36.55",
     "product_title": "Middle-Earth Sbg: The Path Of Cirith Ungol, Shelob & Gollum"
   },
   "laescotillajuegos.com:56824070340943": {
@@ -113226,7 +113226,7 @@
   },
   "laescotillajuegos.com:38166158049473": {
     "available": true,
-    "price": "43.78",
+    "price": "45.05",
     "product_title": "Sigvald, Prince of Slaanesh"
   },
   "laescotillajuegos.com:56825571705167": {
@@ -113301,17 +113301,17 @@
   },
   "laescotillajuegos.com:56755521814863": {
     "available": true,
-    "price": "62.90",
+    "price": "65.45",
     "product_title": "Captain Titus And The Wardens Of Ultramar"
   },
   "laescotillajuegos.com:56755520602447": {
     "available": true,
-    "price": "42.50",
+    "price": "44.20",
     "product_title": "Necrons: Nekrosor Ammentar"
   },
   "laescotillajuegos.com:56755516834127": {
     "available": true,
-    "price": "89.25",
+    "price": "91.38",
     "product_title": "Necrons: C’Tan Shard Of The Nightbringer"
   },
   "laescotillajuegos.com:56757777629519": {
@@ -113481,57 +113481,57 @@
   },
   "laescotillajuegos.com:56674062041423": {
     "available": false,
-    "price": "25.00",
+    "price": "22.10",
     "product_title": "Age Of Sigmar: Maggotkin Of Nurgle Dice"
   },
   "laescotillajuegos.com:56674061746511": {
     "available": false,
-    "price": "47.50",
+    "price": "48.45",
     "product_title": "Battletome: Maggotkin Of Nurgle (English)"
   },
   "laescotillajuegos.com:56674061680975": {
     "available": true,
-    "price": "47.50",
+    "price": "48.45",
     "product_title": "Tomo De Batalla: Maggotkin Of Nurgle (Español)"
   },
   "laescotillajuegos.com:56674061615439": {
     "available": true,
-    "price": "43.78",
+    "price": "45.05",
     "product_title": "Maggotkin Of Nurgle: Putrid Blightkings"
   },
   "laescotillajuegos.com:56674061549903": {
     "available": true,
-    "price": "40.38",
+    "price": "42.50",
     "product_title": "Maggotkin Of Nurgle: Pestigors"
   },
   "laescotillajuegos.com:56674061484367": {
     "available": true,
-    "price": "62.90",
+    "price": "65.45",
     "product_title": "Maggotkin Of Nurgle: Festus The Leechlord"
   },
   "laescotillajuegos.com:56674061451599": {
     "available": false,
-    "price": "46.75",
+    "price": "48.03",
     "product_title": "Maggotkin Of Nurgle: Sloven Knights"
   },
   "laescotillajuegos.com:56674061386063": {
     "available": true,
-    "price": "43.78",
+    "price": "45.05",
     "product_title": "Maggotkin Of Nurgle: Rotswords"
   },
   "laescotillajuegos.com:56674061320527": {
     "available": false,
-    "price": "62.90",
+    "price": "65.45",
     "product_title": "Maggotkin Of Nurgle: The Pustules"
   },
   "laescotillajuegos.com:56674061254991": {
     "available": true,
-    "price": "102.00",
+    "price": "106.25",
     "product_title": "Maggotkin Of Nurgle: Bubonic Cell Spearhead"
   },
   "laescotillajuegos.com:56674061222223": {
     "available": true,
-    "price": "102.00",
+    "price": "106.25",
     "product_title": "Helsmiths Of Hashut: Spearhead: Hueste De Forja Infernal"
   },
   "laescotillajuegos.com:56733610639695": {
@@ -114186,17 +114186,17 @@
   },
   "laescotillajuegos.com:56530172182863": {
     "available": true,
-    "price": "35.70",
+    "price": "36.55",
     "product_title": "Legions Imperialis: Heavy Assault Cadre"
   },
   "laescotillajuegos.com:56530172412239": {
     "available": true,
-    "price": "20.90",
+    "price": "21.38",
     "product_title": "Legions Imperialis: Journal Strategia Ruin Of The Salamanders"
   },
   "laescotillajuegos.com:56530172379471": {
     "available": true,
-    "price": "35.70",
+    "price": "36.55",
     "product_title": "Legions Imperialis: Araknae Weapons Platform Batteries"
   },
   "laescotillajuegos.com:56530172576079": {
@@ -114216,37 +114216,37 @@
   },
   "laescotillajuegos.com:56530172838223": {
     "available": true,
-    "price": "35.70",
+    "price": "36.55",
     "product_title": "Legions Imperialis: Falchion/Ascalon Super-Heavy Tanks"
   },
   "laescotillajuegos.com:56530172608847": {
     "available": true,
-    "price": "35.70",
+    "price": "36.55",
     "product_title": "Legions Imperialis: Fellblade/Glaive Super-Heavy Tanks"
   },
   "laescotillajuegos.com:56530176377167": {
     "available": true,
-    "price": "29.33",
+    "price": "30.60",
     "product_title": "Necromunda: Palanite Justicars"
   },
   "laescotillajuegos.com:56530172903759": {
     "available": true,
-    "price": "35.70",
+    "price": "36.55",
     "product_title": "Necromunda: Ironhead Squat Charter & Drill Masters"
   },
   "laescotillajuegos.com:56530172870991": {
     "available": true,
-    "price": "27.63",
+    "price": "28.90",
     "product_title": "Necromunda: Ozostium Aranthus"
   },
   "laescotillajuegos.com:56530191581519": {
     "available": true,
-    "price": "19.55",
+    "price": "19.98",
     "product_title": "Necromunda: Enforcer Weapons & Upgrades"
   },
   "laescotillajuegos.com:56530176409935": {
     "available": true,
-    "price": "29.33",
+    "price": "30.60",
     "product_title": "Necromunda: Underhive Hangers-On"
   },
   "laescotillajuegos.com:56530176508239": {
@@ -114311,22 +114311,22 @@
   },
   "laescotillajuegos.com:56493096730959": {
     "available": false,
-    "price": "175.10",
+    "price": "180.20",
     "product_title": "Warhammer Quest: Darkwater (English)"
   },
   "laescotillajuegos.com:56493096599887": {
     "available": true,
-    "price": "175.10",
+    "price": "180.20",
     "product_title": "Warhammer Quest: Aguaoscura (Español)"
   },
   "laescotillajuegos.com:56493096304975": {
     "available": true,
-    "price": "47.50",
+    "price": "48.45",
     "product_title": "Path To Glory: Blighted Wilds (English)"
   },
   "laescotillajuegos.com:56493096206671": {
     "available": true,
-    "price": "47.50",
+    "price": "48.45",
     "product_title": "Sendero A La Gloria: Tierras Arruinadas (Español)"
   },
   "laescotillajuegos.com:56518326255951": {
@@ -114556,22 +114556,22 @@
   },
   "laescotillajuegos.com:56439255204175": {
     "available": true,
-    "price": "31.45",
+    "price": "32.73",
     "product_title": "Space Marines: Ancient In Terminator Armour"
   },
   "laescotillajuegos.com:56439254679887": {
     "available": true,
-    "price": "20.90",
+    "price": "21.38",
     "product_title": "Arcane Journal: The Razing Of Westerland"
   },
   "laescotillajuegos.com:56439256187215": {
     "available": true,
-    "price": "42.50",
+    "price": "44.20",
     "product_title": "White Scars: Suboden Khan"
   },
   "laescotillajuegos.com:56439255957839": {
     "available": false,
-    "price": "46.75",
+    "price": "48.03",
     "product_title": "Space Marines: Terminator Assault Squad"
   },
   "laescotillajuegos.com:56479850627407": {
@@ -114846,12 +114846,12 @@
   },
   "laescotillajuegos.com:56321938456911": {
     "available": true,
-    "price": "46.75",
+    "price": "48.03",
     "product_title": "Kill Team: Deathwatch"
   },
   "laescotillajuegos.com:56321938391375": {
     "available": true,
-    "price": "110.50",
+    "price": "114.75",
     "product_title": "Kill Team: Killzone Tomb World"
   },
   "laescotillajuegos.com:56321938719055": {
@@ -114861,7 +114861,7 @@
   },
   "laescotillajuegos.com:56321938784591": {
     "available": true,
-    "price": "52.28",
+    "price": "54.40",
     "product_title": "Kill Team: Canoptek Circle"
   },
   "laescotillajuegos.com:56363002003791": {
@@ -115006,32 +115006,32 @@
   },
   "laescotillajuegos.com:56255357878607": {
     "available": true,
-    "price": "97.75",
+    "price": "102.00",
     "product_title": "Blood Bowl: Edición Tercera Temporada (Español)"
   },
   "laescotillajuegos.com:56255358763343": {
     "available": true,
-    "price": "42.75",
+    "price": "45.13",
     "product_title": "Blood Bowl: The Official Rulebook Third Season Edition (English)"
   },
   "laescotillajuegos.com:56255358402895": {
     "available": true,
-    "price": "42.75",
+    "price": "45.13",
     "product_title": "Blood Bowl: Reglamento Oficial Tercera Temporada (Español)"
   },
   "laescotillajuegos.com:56255358107983": {
     "available": true,
-    "price": "97.75",
+    "price": "102.00",
     "product_title": "Blood Bowl: Third Season Edition (English)"
   },
   "laescotillajuegos.com:56255358959951": {
     "available": true,
-    "price": "36.97",
+    "price": "38.25",
     "product_title": "Blood Bowl: Bretonnian Team"
   },
   "laescotillajuegos.com:56255360958799": {
     "available": true,
-    "price": "36.97",
+    "price": "38.25",
     "product_title": "Blood Bowl: Tomb Kings Team"
   },
   "laescotillajuegos.com:56255360696655": {
@@ -115561,42 +115561,42 @@
   },
   "laescotillajuegos.com:56184486199631": {
     "available": true,
-    "price": "46.75",
+    "price": "48.03",
     "product_title": "Chaos Space Marines: Legionaries"
   },
   "laescotillajuegos.com:56184486560079": {
     "available": true,
-    "price": "35.70",
+    "price": "36.55",
     "product_title": "Chaos Space Marines: Traitor Guardsmen"
   },
   "laescotillajuegos.com:56184486265167": {
     "available": true,
-    "price": "36.98",
+    "price": "38.25",
     "product_title": "Chaos Space Marines: Traitor Enforcer"
   },
   "laescotillajuegos.com:56184487182671": {
     "available": true,
-    "price": "42.50",
+    "price": "44.20",
     "product_title": "Ultramarines: Victrix Honour Guard"
   },
   "laescotillajuegos.com:56184487051599": {
     "available": true,
-    "price": "36.98",
+    "price": "38.25",
     "product_title": "Ultramarines: Marneus Calgar In Armour Of Antilochus"
   },
   "laescotillajuegos.com:56184486920527": {
     "available": true,
-    "price": "32.30",
+    "price": "32.73",
     "product_title": "Ultramarines: Cato Sicarius"
   },
   "laescotillajuegos.com:56184501338447": {
     "available": true,
-    "price": "27.63",
+    "price": "28.90",
     "product_title": "Drukhari: Archon"
   },
   "laescotillajuegos.com:56184486822223": {
     "available": true,
-    "price": "25.50",
+    "price": "26.56",
     "product_title": "Ultramarines: Upgrades And Transfers"
   },
   "laescotillajuegos.com:56228344627535": {
@@ -116301,32 +116301,32 @@
   },
   "laescotillajuegos.com:56126580752719": {
     "available": true,
-    "price": "47.50",
+    "price": "48.45",
     "product_title": "Helsmiths Of Hashut: Battletome (English)"
   },
   "laescotillajuegos.com:56126580392271": {
     "available": true,
-    "price": "47.50",
+    "price": "48.45",
     "product_title": "Helsmiths Of Hashut: Tomo De Batalla (Español)"
   },
   "laescotillajuegos.com:56126581145935": {
     "available": true,
-    "price": "43.78",
+    "price": "45.05",
     "product_title": "Helsmiths Of Hashut: Bull Centaurs"
   },
   "laescotillajuegos.com:56126582653263": {
     "available": true,
-    "price": "40.38",
+    "price": "42.50",
     "product_title": "Helsmiths Of Hashut: Deathshrieker Rocket Battery"
   },
   "laescotillajuegos.com:56126580916559": {
     "available": true,
-    "price": "32.30",
+    "price": "32.73",
     "product_title": "Helsmiths Of Hashut: Infernal Razers"
   },
   "laescotillajuegos.com:56126581932367": {
     "available": true,
-    "price": "110.50",
+    "price": "114.75",
     "product_title": "Helsmiths Of Hashut: Urak Taar The First Daemonsmith"
   },
   "laescotillajuegos.com:56126581375311": {
@@ -116336,22 +116336,22 @@
   },
   "laescotillajuegos.com:56126583046479": {
     "available": true,
-    "price": "26.78",
+    "price": "27.63",
     "product_title": "Helsmiths Of Hashut: War Despot"
   },
   "laescotillajuegos.com:56126582358351": {
     "available": true,
-    "price": "52.28",
+    "price": "54.40",
     "product_title": "Helsmiths Of Hashut: Dominator Engine"
   },
   "laescotillajuegos.com:56126583439695": {
     "available": false,
-    "price": "36.98",
+    "price": "38.25",
     "product_title": "Helsmiths Of Hashut: Infernal Cohort"
   },
   "laescotillajuegos.com:56126583243087": {
     "available": true,
-    "price": "42.50",
+    "price": "44.20",
     "product_title": "Helsmiths Of Hashut: Hobgrot Vandalz"
   },
   "laescotillajuegos.com:49662926520655": {
@@ -116551,12 +116551,12 @@
   },
   "laescotillajuegos.com:56079601893711": {
     "available": false,
-    "price": "29.32",
+    "price": "30.60",
     "product_title": "Capitán con Propulsor de Salto y Escudo / Captain with Jump Pack and Relic Shield"
   },
   "laescotillajuegos.com:56079601697103": {
     "available": true,
-    "price": "31.45",
+    "price": "32.73",
     "product_title": "Iron Hands: Caanok Var"
   },
   "laescotillajuegos.com:56079601860943": {
@@ -116941,62 +116941,62 @@
   },
   "laescotillajuegos.com:56028882665807": {
     "available": true,
-    "price": "56.95",
+    "price": "59.50",
     "product_title": "Warhammer Underworlds: Spitewood (English)"
   },
   "laescotillajuegos.com:56028880961871": {
     "available": true,
-    "price": "56.95",
+    "price": "59.50",
     "product_title": "Warhammer Underworlds: Rencoreda (Español)"
   },
   "laescotillajuegos.com:56028884959567": {
     "available": true,
-    "price": "20.90",
+    "price": "21.38",
     "product_title": "Arcane Journal: The War Of Settra'S Fury"
   },
   "laescotillajuegos.com:56028883779919": {
     "available": true,
-    "price": "35.70",
+    "price": "36.55",
     "product_title": "Tomb Kings Of Khemri: Royal Heralds"
   },
   "laescotillajuegos.com:56028885844303": {
     "available": true,
-    "price": "68.00",
+    "price": "70.55",
     "product_title": "Warhammer Underworlds: Bandas Destruccion, Tipejoz Y Tiparrones"
   },
   "laescotillajuegos.com:56028884599119": {
     "available": true,
-    "price": "35.70",
+    "price": "36.55",
     "product_title": "Tomb Kings Of Khemri: Liche Priests"
   },
   "laescotillajuegos.com:56028885320015": {
     "available": true,
-    "price": "114.75",
+    "price": "118.15",
     "product_title": "Legions Imperialis: Solar Auxilia Combat Force"
   },
   "laescotillajuegos.com:56028885188943": {
     "available": true,
-    "price": "114.75",
+    "price": "118.15",
     "product_title": "Legions Imperialis: Legiones Astartes Combat Force"
   },
   "laescotillajuegos.com:56028886860111": {
     "available": true,
-    "price": "68.00",
+    "price": "70.55",
     "product_title": "Warhammer Underworlds: Bandas Del Orden, Protectores En La Penumbra"
   },
   "laescotillajuegos.com:56028885549391": {
     "available": true,
-    "price": "114.75",
+    "price": "118.15",
     "product_title": "Legions Imperialis: Mechanicum Combat Force"
   },
   "laescotillajuegos.com:56028887384399": {
     "available": false,
-    "price": "68.00",
+    "price": "70.55",
     "product_title": "Warhammer Underworlds: Bandas Del Caos, Rapaces De La Ruina"
   },
   "laescotillajuegos.com:56028886237519": {
     "available": true,
-    "price": "68.00",
+    "price": "70.55",
     "product_title": "Warhammer Underworlds: Bandas De La Muerte, Siervos Sepulcrales"
   },
   "laescotillajuegos.com:56066923135311": {
@@ -117311,7 +117311,7 @@
   },
   "laescotillajuegos.com:55986510922063": {
     "available": false,
-    "price": "47.50",
+    "price": "48.45",
     "product_title": "Codex: Drukhari (English)"
   },
   "laescotillajuegos.com:55986510987599": {
@@ -117321,17 +117321,17 @@
   },
   "laescotillajuegos.com:55986510856527": {
     "available": true,
-    "price": "47.50",
+    "price": "48.45",
     "product_title": "Codex: Drukhari (Español)"
   },
   "laescotillajuegos.com:55986511282511": {
     "available": true,
-    "price": "114.75",
+    "price": "118.15",
     "product_title": "Patrulla de Combate: Drukhari"
   },
   "laescotillajuegos.com:55986511184207": {
     "available": true,
-    "price": "32.30",
+    "price": "32.73",
     "product_title": "Drukhari: Lady Malys"
   },
   "laescotillajuegos.com:56009944990031": {
@@ -117521,47 +117521,47 @@
   },
   "laescotillajuegos.com:55937513226575": {
     "available": true,
-    "price": "114.75",
+    "price": "118.15",
     "product_title": "Legiones Astartes: Combat Force"
   },
   "laescotillajuegos.com:55937512505679": {
     "available": true,
-    "price": "20.90",
+    "price": "21.38",
     "product_title": "Middle-Earth Sbg: The War Of The Rohirrim Journal"
   },
   "laescotillajuegos.com:55937516536143": {
     "available": true,
-    "price": "20.90",
+    "price": "21.38",
     "product_title": "Horus Heresy: Journal Tactica The Forges Of Saturn (English)"
   },
   "laescotillajuegos.com:55937516929359": {
     "available": true,
-    "price": "114.75",
+    "price": "118.15",
     "product_title": "Solar Auxilia: Combat Force"
   },
   "laescotillajuegos.com:55937519059279": {
     "available": false,
-    "price": "26.35",
+    "price": "26.78",
     "product_title": "Middle-Earth Sbg: Helm Hammerhand King Of Rohan"
   },
   "laescotillajuegos.com:55937522106703": {
     "available": true,
-    "price": "48.88",
+    "price": "51.00",
     "product_title": "Legiones Astartes: MkII Assault Squad"
   },
   "laescotillajuegos.com:55937520533839": {
     "available": true,
-    "price": "114.75",
+    "price": "118.15",
     "product_title": "Mechanicum: Combat Force"
   },
   "laescotillajuegos.com:55937524597071": {
     "available": true,
-    "price": "136.00",
+    "price": "141.53",
     "product_title": "Legiones Astartes: Fellblade Super-Heavy Battle Tank"
   },
   "laescotillajuegos.com:55937520468303": {
     "available": true,
-    "price": "35.70",
+    "price": "36.55",
     "product_title": "Middle-Earth Sbg: Fréaláf Hildeson & Olwyn & Lief"
   },
   "laescotillajuegos.com:55971288809807": {
@@ -117686,7 +117686,7 @@
   },
   "laescotillajuegos.com:47110549700943": {
     "available": false,
-    "price": "102.00",
+    "price": "106.25",
     "product_title": "Serafones: Punta de Lanza"
   },
   "laescotillajuegos.com:42453487943921": {
@@ -117951,22 +117951,22 @@
   },
   "laescotillajuegos.com:55889586553167": {
     "available": true,
-    "price": "34.85",
+    "price": "36.55",
     "product_title": "Necromunda: Nomads Ashwing Helamites"
   },
   "laescotillajuegos.com:55889586520399": {
     "available": true,
-    "price": "34.85",
+    "price": "36.55",
     "product_title": "Necromunda: Palanite Enforcer Captains & Sergeants"
   },
   "laescotillajuegos.com:55889586651471": {
     "available": true,
-    "price": "102.00",
+    "price": "106.25",
     "product_title": "Soulblight Gravelords: Punta De Lanza Hueste Sepulcral Repicahuesos"
   },
   "laescotillajuegos.com:55889586585935": {
     "available": true,
-    "price": "102.00",
+    "price": "106.25",
     "product_title": "Gloomspite Gitz: Punta De Lanza Gruñemanada De Kazadorez"
   },
   "laescotillajuegos.com:55917631537487": {
@@ -118136,12 +118136,12 @@
   },
   "laescotillajuegos.com:55837823500623": {
     "available": true,
-    "price": "54.40",
+    "price": "56.10",
     "product_title": "Grey Knights: Gran Maestre En Servoterror Nemesis"
   },
   "laescotillajuegos.com:55837823697231": {
     "available": true,
-    "price": "47.50",
+    "price": "48.45",
     "product_title": "Codex: Imperial Knights (Español)"
   },
   "laescotillajuegos.com:55837825368399": {
@@ -118151,22 +118151,22 @@
   },
   "laescotillajuegos.com:55837825892687": {
     "available": true,
-    "price": "127.50",
+    "price": "131.75",
     "product_title": "Imperial Knights: Caballero Questoris"
   },
   "laescotillajuegos.com:55837827465551": {
     "available": true,
-    "price": "31.45",
+    "price": "32.73",
     "product_title": "Imperial Fists: Darnath Lysander"
   },
   "laescotillajuegos.com:55837826122063": {
     "available": true,
-    "price": "31.45",
+    "price": "32.73",
     "product_title": "Raven Guard: Aethon Shaan"
   },
   "laescotillajuegos.com:55837828317519": {
     "available": false,
-    "price": "34.85",
+    "price": "35.70",
     "product_title": "Thousand Sons: Robots Sekhetar"
   },
   "laescotillajuegos.com:55872539001167": {
@@ -118266,12 +118266,12 @@
   },
   "laescotillajuegos.com:55791043739983": {
     "available": true,
-    "price": "42.50",
+    "price": "44.20",
     "product_title": "Adepta Sororitas: Escuadra De Hermanas Novicias"
   },
   "laescotillajuegos.com:55791043576143": {
     "available": false,
-    "price": "46.75",
+    "price": "48.03",
     "product_title": "Orks: Orkomandoz"
   },
   "laescotillajuegos.com:55791044297039": {
@@ -118281,7 +118281,7 @@
   },
   "laescotillajuegos.com:55791045771599": {
     "available": false,
-    "price": "48.88",
+    "price": "51.00",
     "product_title": "Kill Team: Clado De Batalla"
   },
   "laescotillajuegos.com:55791044821327": {
@@ -118296,7 +118296,7 @@
   },
   "laescotillajuegos.com:55791044460879": {
     "available": true,
-    "price": "46.75",
+    "price": "48.03",
     "product_title": "Kill Team: Mántifex"
   },
   "laescotillajuegos.com:55821376127311": {
@@ -118536,57 +118536,57 @@
   },
   "laescotillajuegos.com:55755783176527": {
     "available": true,
-    "price": "59.50",
+    "price": "62.90",
     "product_title": "Gran Catai: Jade Lancers"
   },
   "laescotillajuegos.com:55755783143759": {
     "available": true,
-    "price": "22.10",
+    "price": "22.95",
     "product_title": "Legions Imperialis: Order Tokens And Objectives Markers"
   },
   "laescotillajuegos.com:55755783307599": {
     "available": true,
-    "price": "35.70",
+    "price": "36.55",
     "product_title": "Legions Imperialis: Vindicator Siege Tank Squadron"
   },
   "laescotillajuegos.com:55755783110991": {
     "available": true,
-    "price": "43.78",
+    "price": "50.35",
     "product_title": "Legions Imperialis: Liber Strategia"
   },
   "laescotillajuegos.com:55755783274831": {
     "available": true,
-    "price": "20.90",
+    "price": "21.38",
     "product_title": "Arcane Journal: Dawn Of The Storm Dragon"
   },
   "laescotillajuegos.com:55755783209295": {
     "available": true,
-    "price": "59.50",
+    "price": "62.90",
     "product_title": "Gran Catai: Jade Warriors"
   },
   "laescotillajuegos.com:55755783340367": {
     "available": true,
-    "price": "35.70",
+    "price": "36.55",
     "product_title": "Legions Imperialis: Typhon Heavy Siege Tank Squadron"
   },
   "laescotillajuegos.com:55755783242063": {
     "available": true,
-    "price": "102.00",
+    "price": "106.25",
     "product_title": "Gran Catai: Miao Ying The Storm Dragon"
   },
   "laescotillajuegos.com:55755783471439": {
     "available": true,
-    "price": "35.70",
+    "price": "36.55",
     "product_title": "Legions Imperialis: Whirlwind/Skorpius Missile Tank Squadron"
   },
   "laescotillajuegos.com:55755783438671": {
     "available": true,
-    "price": "35.70",
+    "price": "36.55",
     "product_title": "Legions Imperialis: Cerberus Heavy Tank Destroyer Squadron"
   },
   "laescotillajuegos.com:55755783405903": {
     "available": true,
-    "price": "35.70",
+    "price": "36.55",
     "product_title": "Legions Imperialis: Mastodon Super-Heavy Assault Transports"
   },
   "laescotillajuegos.com:55779095413071": {
@@ -118696,42 +118696,42 @@
   },
   "laescotillajuegos.com:55714696888655": {
     "available": true,
-    "price": "47.50",
+    "price": "48.45",
     "product_title": "Nighthaunt: Tomo De Batalla (Español)"
   },
   "laescotillajuegos.com:55714696986959": {
     "available": false,
-    "price": "47.50",
+    "price": "48.45",
     "product_title": "Nighthaunt: Battletome (English)"
   },
   "laescotillajuegos.com:55714696757583": {
     "available": true,
-    "price": "102.00",
+    "price": "106.25",
     "product_title": "Nighthaunt: Horda Encadenada Maldita Punta De Lanza"
   },
   "laescotillajuegos.com:55714697969999": {
     "available": true,
-    "price": "28.90",
+    "price": "29.33",
     "product_title": "Lord Vitriolic / Señor Vitriólico"
   },
   "laescotillajuegos.com:55714698592591": {
     "available": false,
-    "price": "47.50",
+    "price": "48.45",
     "product_title": "Flesh-Eater Courts: Battletome (English)"
   },
   "laescotillajuegos.com:55714698363215": {
     "available": true,
-    "price": "102.00",
+    "price": "106.25",
     "product_title": "Flesh-Eater Courts: Vigías del Matadero Punta de Lanza"
   },
   "laescotillajuegos.com:55714698461519": {
     "available": true,
-    "price": "47.50",
+    "price": "48.45",
     "product_title": "Flesh-Eater Courts: Tomo de Batalla (Español)"
   },
   "laescotillajuegos.com:55714698953039": {
     "available": true,
-    "price": "28.90",
+    "price": "29.33",
     "product_title": "Flesh-Eater Courts: Alto Halconero Felgryn"
   },
   "laescotillajuegos.com:55714698756431": {
@@ -118801,62 +118801,62 @@
   },
   "laescotillajuegos.com:55673815236943": {
     "available": true,
-    "price": "47.50",
+    "price": "48.45",
     "product_title": "Codex: Leagues Of Votann (Español)"
   },
   "laescotillajuegos.com:55673815400783": {
     "available": false,
-    "price": "47.50",
+    "price": "48.45",
     "product_title": "Codex: Leagues Of Votann (English)"
   },
   "laescotillajuegos.com:55673816187215": {
     "available": true,
-    "price": "42.50",
+    "price": "43.35",
     "product_title": "Leagues Of Votann: Acerobreros Ferrofamiliares"
   },
   "laescotillajuegos.com:55673815925071": {
     "available": true,
-    "price": "27.63",
+    "price": "28.90",
     "product_title": "Leagues Of Votann: Estratega Memnyr"
   },
   "laescotillajuegos.com:55673815990607": {
     "available": true,
-    "price": "29.33",
+    "price": "30.60",
     "product_title": "Leagues Of Votann: Buri Aegnirsson"
   },
   "laescotillajuegos.com:55673815957839": {
     "available": true,
-    "price": "27.63",
+    "price": "28.90",
     "product_title": "Leagues Of Votann: Evaluador Arkanista"
   },
   "laescotillajuegos.com:55673817792847": {
     "available": true,
-    "price": "31.45",
+    "price": "32.73",
     "product_title": "Salamanders: Vulkan He'Stan"
   },
   "laescotillajuegos.com:55673816613199": {
     "available": true,
-    "price": "114.75",
+    "price": "118.15",
     "product_title": "Patrulla de Combate: Leagues Of Votann"
   },
   "laescotillajuegos.com:55673816219983": {
     "available": true,
-    "price": "38.25",
+    "price": "40.38",
     "product_title": "Leagues Of Votann: Sacudetierras Cthonianos"
   },
   "laescotillajuegos.com:55673819005263": {
     "available": true,
-    "price": "29.33",
+    "price": "30.60",
     "product_title": "Death Guard: Señor De Las Viruelas"
   },
   "laescotillajuegos.com:55673816285519": {
     "available": false,
-    "price": "42.50",
+    "price": "44.20",
     "product_title": "Leagues Of Votann: Káprica"
   },
   "laescotillajuegos.com:55673819038031": {
     "available": true,
-    "price": "29.33",
+    "price": "30.60",
     "product_title": "World Eaters: Masacrejurado"
   },
   "laescotillajuegos.com:55698809815375": {
@@ -119261,37 +119261,37 @@
   },
   "laescotillajuegos.com:55633189962063": {
     "available": true,
-    "price": "38.25",
+    "price": "40.38",
     "product_title": "Legiones Astartes: Drop Pod"
   },
   "laescotillajuegos.com:55633190355279": {
     "available": false,
-    "price": "54.40",
+    "price": "56.10",
     "product_title": "Legiones Astartes: Saturnine Terminators"
   },
   "laescotillajuegos.com:55633187275087": {
     "available": true,
-    "price": "17.43",
+    "price": "17.85",
     "product_title": "Age Of Darkness: Markers And Tokens"
   },
   "laescotillajuegos.com:55633193238863": {
     "available": true,
-    "price": "27.63",
+    "price": "28.90",
     "product_title": "Legiones Astartes: Centurion With Power Mace"
   },
   "laescotillajuegos.com:55633189830991": {
     "available": true,
-    "price": "29.75",
+    "price": "31.03",
     "product_title": "Horus Heresy: Age Of Darkness Dice Set"
   },
   "laescotillajuegos.com:55633193632079": {
     "available": true,
-    "price": "76.50",
+    "price": "79.05",
     "product_title": "Legiones Astartes: Saturnine Dreadnought Ophion Configuration"
   },
   "laescotillajuegos.com:55633190584655": {
     "available": false,
-    "price": "35.70",
+    "price": "36.55",
     "product_title": "Legiones Astartes: Saturnine Praetor"
   },
   "laescotillajuegos.com:55662429634895": {
@@ -119406,12 +119406,12 @@
   },
   "laescotillajuegos.com:49032899101007": {
     "available": false,
-    "price": "47.50",
+    "price": "48.45",
     "product_title": "Codex: Genestealer Cults (english)"
   },
   "laescotillajuegos.com:49032899035471": {
     "available": false,
-    "price": "47.50",
+    "price": "48.45",
     "product_title": "Codex: Genestealer Cults (español)"
   },
   "laescotillajuegos.com:49054647025999": {
@@ -119446,17 +119446,17 @@
   },
   "laescotillajuegos.com:49870888796495": {
     "available": true,
-    "price": "127.50",
+    "price": "131.75",
     "product_title": "Legion Imperialis: Manufactorum Imperialis Sector"
   },
   "laescotillajuegos.com:53680331030863": {
     "available": true,
-    "price": "68.00",
+    "price": "70.55",
     "product_title": "Warhammer Underworlds: Héroes Y Cazadores"
   },
   "laescotillajuegos.com:53680333062479": {
     "available": true,
-    "price": "68.00",
+    "price": "70.55",
     "product_title": "Warhammer Underworlds: Bestias Y Bandidos"
   },
   "laescotillajuegos.com:54010366099791": {
@@ -119501,32 +119501,32 @@
   },
   "laescotillajuegos.com:54828002771279": {
     "available": true,
-    "price": "114.75",
+    "price": "119.43",
     "product_title": "Emperor's Children: Fulgrim Primarca Daemon De Slaanesh"
   },
   "laescotillajuegos.com:54828001919311": {
     "available": true,
-    "price": "47.50",
+    "price": "48.45",
     "product_title": "Codex: Emperor's Children (Español)"
   },
   "laescotillajuegos.com:54828003328335": {
     "available": true,
-    "price": "46.75",
+    "price": "48.03",
     "product_title": "Emperor's Children: Marines Ruidosos"
   },
   "laescotillajuegos.com:54828003295567": {
     "available": true,
-    "price": "29.32",
+    "price": "30.60",
     "product_title": "Emperor's Children: Lord Exultante"
   },
   "laescotillajuegos.com:54828003164495": {
     "available": true,
-    "price": "42.50",
+    "price": "43.35",
     "product_title": "Emperor's Children: Filos Impecables"
   },
   "laescotillajuegos.com:54828003459407": {
     "available": true,
-    "price": "46.75",
+    "price": "48.88",
     "product_title": "Emperor's Children: Torturadores"
   },
   "laescotillajuegos.com:55518877581647": {
@@ -119581,47 +119581,47 @@
   },
   "laescotillajuegos.com:55584086655311": {
     "available": true,
-    "price": "114.75",
+    "price": "118.15",
     "product_title": "Patrulla de Combate: Black Templars"
   },
   "laescotillajuegos.com:55584084984143": {
     "available": true,
-    "price": "29.33",
+    "price": "30.60",
     "product_title": "Black Templars: Anciano Cruzado"
   },
   "laescotillajuegos.com:55584080462159": {
     "available": true,
-    "price": "28.90",
+    "price": "29.33",
     "product_title": "Black Templars: Execrador"
   },
   "laescotillajuegos.com:55584080101711": {
     "available": true,
-    "price": "25.65",
+    "price": "26.60",
     "product_title": "Suplemento De Codex: Black Templars (Español)"
   },
   "laescotillajuegos.com:55584079937871": {
     "available": true,
-    "price": "114.75",
+    "price": "118.15",
     "product_title": "Patrulla de Combate: Lobos Espaciales"
   },
   "laescotillajuegos.com:55584079806799": {
     "available": true,
-    "price": "114.75",
+    "price": "118.15",
     "product_title": "Patrulla de Combate: Grey Knights"
   },
   "laescotillajuegos.com:55584079020367": {
     "available": false,
-    "price": "47.50",
+    "price": "48.45",
     "product_title": "Codex: Grey Knights (English)"
   },
   "laescotillajuegos.com:55584074694991": {
     "available": false,
-    "price": "47.50",
+    "price": "48.45",
     "product_title": "Codex: Grey Knights (Español)"
   },
   "laescotillajuegos.com:55584074596687": {
     "available": true,
-    "price": "114.75",
+    "price": "118.15",
     "product_title": "Patrulla de Combate: Prole de asalto Tiránida"
   },
   "laescotillajuegos.com:55616454689103": {
@@ -119681,47 +119681,47 @@
   },
   "laescotillajuegos.com:55546090029391": {
     "available": false,
-    "price": "19.55",
+    "price": "19.98",
     "product_title": "Warhammer Underworlds: Raging Slayers Rivals Deck (English)"
   },
   "laescotillajuegos.com:55546089898319": {
     "available": true,
-    "price": "19.55",
+    "price": "19.98",
     "product_title": "Warhammer Underworlds: Asesinos Iracundos Mazo De Rivales (Español)"
   },
   "laescotillajuegos.com:55546090258767": {
     "available": true,
-    "price": "102.00",
+    "price": "106.25",
     "product_title": "Punta de lanza: Kharadron Overlords – Pioneros Grundstok / Grundstok Trailblazers"
   },
   "laescotillajuegos.com:55546090160463": {
     "available": true,
-    "price": "31.45",
+    "price": "32.73",
     "product_title": "Warhammer Underworlds: Filos De Kamandora"
   },
   "laescotillajuegos.com:55546090357071": {
     "available": true,
-    "price": "47.50",
+    "price": "48.45",
     "product_title": "Kharadron Overlords: Tomo De Batalla (Español)"
   },
   "laescotillajuegos.com:55546090520911": {
     "available": true,
-    "price": "47.50",
+    "price": "48.45",
     "product_title": "Kharadron Overlords: Battletome (English)"
   },
   "laescotillajuegos.com:55546090717519": {
     "available": true,
-    "price": "42.50",
+    "price": "43.35",
     "product_title": "Kharadron Overlords: Arponeros Vongrim / Vongrim Harpoon Crew"
   },
   "laescotillajuegos.com:55546091110735": {
     "available": true,
-    "price": "43.78",
+    "price": "45.48",
     "product_title": "Kharadron Overlords: Endrinpuerto Zontari / Zontari Endrin Dock"
   },
   "laescotillajuegos.com:55546090783055": {
     "available": true,
-    "price": "31.45",
+    "price": "32.73",
     "product_title": "Kharadron Overlords: Anulquimista / Null-Khemist"
   },
   "laescotillajuegos.com:55546091667791": {
@@ -119731,22 +119731,22 @@
   },
   "laescotillajuegos.com:55546091503951": {
     "available": true,
-    "price": "47.50",
+    "price": "48.45",
     "product_title": "Blades Of Khorne: Tomo De Batalla (Español)"
   },
   "laescotillajuegos.com:55546091569487": {
     "available": false,
-    "price": "47.50",
+    "price": "48.45",
     "product_title": "Blades Of Khorne: Battletome (English)"
   },
   "laescotillajuegos.com:55546091209039": {
     "available": true,
-    "price": "102.00",
+    "price": "106.25",
     "product_title": "Blades Of Khorne: Colmillos Del Dios De La Sangre Punta De Lanza"
   },
   "laescotillajuegos.com:55546091864399": {
     "available": true,
-    "price": "26.35",
+    "price": "26.78",
     "product_title": "Blades Of Khorne: Portamuertes"
   },
   "laescotillajuegos.com:55546092126543": {
@@ -120001,47 +120001,47 @@
   },
   "laescotillajuegos.com:55501999276367": {
     "available": true,
-    "price": "54.63",
+    "price": "57.00",
     "product_title": "Horus Heresy: Liber Astartes (English)"
   },
   "laescotillajuegos.com:55501999014223": {
     "available": true,
-    "price": "39.90",
+    "price": "40.85",
     "product_title": "Horus Heresy: Liber Questoris (English)"
   },
   "laescotillajuegos.com:55501998850383": {
     "available": true,
-    "price": "214.20",
+    "price": "221.00",
     "product_title": "Horus Heresy: Saturnine (English)"
   },
   "laescotillajuegos.com:55501999374671": {
     "available": true,
-    "price": "39.90",
+    "price": "40.85",
     "product_title": "Horus Heresy: Liber Auxilia (English)"
   },
   "laescotillajuegos.com:55501999309135": {
     "available": true,
-    "price": "54.63",
+    "price": "57.00",
     "product_title": "Horus Heresy: Liber Hereticus (English)"
   },
   "laescotillajuegos.com:55502003536207": {
     "available": true,
-    "price": "52.25",
+    "price": "57.00",
     "product_title": "Horus Heresy: Age Of Darkness Rulebook (English)"
   },
   "laescotillajuegos.com:55501999472975": {
     "available": true,
-    "price": "20.90",
+    "price": "21.38",
     "product_title": "Horus Heresy: Journal Tactica Isstvan V (Part 1) (English)"
   },
   "laescotillajuegos.com:55501999538511": {
     "available": true,
-    "price": "59.50",
+    "price": "62.90",
     "product_title": "Legiones Astartes: MkII Tactical Squad"
   },
   "laescotillajuegos.com:55501999440207": {
     "available": true,
-    "price": "39.90",
+    "price": "40.85",
     "product_title": "Horus Heresy: Liber Mechanicum (English)"
   },
   "laescotillajuegos.com:55534151434575": {
@@ -120101,22 +120101,22 @@
   },
   "laescotillajuegos.com:42485851488497": {
     "available": true,
-    "price": "23.38",
+    "price": "24.23",
     "product_title": "Horus Heresy: Dominion Zephon"
   },
   "laescotillajuegos.com:42485853356273": {
     "available": false,
-    "price": "23.38",
+    "price": "24.23",
     "product_title": "Horus Heresy: Fafnir Rann"
   },
   "laescotillajuegos.com:55446794633551": {
     "available": true,
-    "price": "38.25",
+    "price": "40.38",
     "product_title": "Idoneth Deepkin: Manifestaciones"
   },
   "laescotillajuegos.com:55446794338639": {
     "available": true,
-    "price": "29.33",
+    "price": "30.60",
     "product_title": "Idoneth Deepkin: Mathaela, Oracle Of The Abyss"
   },
   "laescotillajuegos.com:55446794109263": {
@@ -120131,17 +120131,17 @@
   },
   "laescotillajuegos.com:55446793912655": {
     "available": false,
-    "price": "47.50",
+    "price": "48.45",
     "product_title": "Idoneth Deepkin: Battletome (English)"
   },
   "laescotillajuegos.com:55446793847119": {
     "available": true,
-    "price": "47.50",
+    "price": "48.45",
     "product_title": "Idoneth Deepkin: Tomo De Batalla (Español)"
   },
   "laescotillajuegos.com:55446793257295": {
     "available": true,
-    "price": "102.00",
+    "price": "106.25",
     "product_title": "Idoneth Deepkin: Akhelian Tide Guard Spearhead"
   },
   "laescotillajuegos.com:55396911907151": {
@@ -120151,62 +120151,62 @@
   },
   "laescotillajuegos.com:55396911874383": {
     "available": false,
-    "price": "25.65",
+    "price": "26.60",
     "product_title": "Codex Supplement: Space Wolves (English)"
   },
   "laescotillajuegos.com:55396911776079": {
     "available": false,
-    "price": "25.65",
+    "price": "26.60",
     "product_title": "Suplemento De Codex: Space Wolves (Españoll)"
   },
   "laescotillajuegos.com:55396912202063": {
     "available": true,
-    "price": "43.78",
+    "price": "45.05",
     "product_title": "Space Wolves: Cazadores Grises"
   },
   "laescotillajuegos.com:55396912365903": {
     "available": true,
-    "price": "46.75",
+    "price": "48.03",
     "product_title": "Space Wolves: Cortacabezas De La Guardia Del Lobo"
   },
   "laescotillajuegos.com:55396912103759": {
     "available": true,
-    "price": "43.78",
+    "price": "45.05",
     "product_title": "Space Wolves: Garras Sangrientas"
   },
   "laescotillajuegos.com:55396912496975": {
     "available": true,
-    "price": "29.33",
+    "price": "30.60",
     "product_title": "Space Wolves: Jefe De Batalla De La Guardia Del Lobo"
   },
   "laescotillajuegos.com:55396912333135": {
     "available": true,
-    "price": "48.88",
+    "price": "51.00",
     "product_title": "Space Wolves: Logan Grimnar"
   },
   "laescotillajuegos.com:55396912857423": {
     "available": true,
-    "price": "56.95",
+    "price": "59.50",
     "product_title": "Cápsulas de Desembarco / Drop Pods"
   },
   "laescotillajuegos.com:55396912759119": {
     "available": true,
-    "price": "31.45",
+    "price": "32.73",
     "product_title": "Space Wolves: Arjac Puñorroca"
   },
   "laescotillajuegos.com:55396912628047": {
     "available": true,
-    "price": "28.90",
+    "price": "29.33",
     "product_title": "Space Wolves: Sacerdote Lobo"
   },
   "laescotillajuegos.com:55396912726351": {
     "available": false,
-    "price": "46.75",
+    "price": "48.03",
     "product_title": "Space Wolves: Exterminadores De La Guardia Del Lobo"
   },
   "laescotillajuegos.com:55396912693583": {
     "available": true,
-    "price": "31.45",
+    "price": "32.73",
     "product_title": "Space Wolves: Njal Invocatormentas"
   },
   "laescotillajuegos.com:55426901049679": {
@@ -120311,32 +120311,32 @@
   },
   "laescotillajuegos.com:55339237441871": {
     "available": true,
-    "price": "20.90",
+    "price": "21.38",
     "product_title": "Arcane Journal: Armies Of Grand Cathay (English)"
   },
   "laescotillajuegos.com:55339241308495": {
     "available": true,
-    "price": "35.70",
+    "price": "36.55",
     "product_title": "Gran Catai: Gate Masters Of The Celestial Cities"
   },
   "laescotillajuegos.com:55339235508559": {
     "available": true,
-    "price": "20.42",
+    "price": "21.38",
     "product_title": "The Old World: Matched Play Guide (english)"
   },
   "laescotillajuegos.com:55339245142351": {
     "available": true,
-    "price": "43.78",
+    "price": "45.05",
     "product_title": "Gran Catai: Shugengan Lord On Great Spirit Longma"
   },
   "laescotillajuegos.com:55339243700559": {
     "available": true,
-    "price": "89.25",
+    "price": "91.38",
     "product_title": "Gran Catai: Cathayan Sentinel"
   },
   "laescotillajuegos.com:55339242684751": {
     "available": true,
-    "price": "110.50",
+    "price": "114.75",
     "product_title": "Gran Catai: Sky Lantern"
   },
   "laescotillajuegos.com:43625417605361": {
@@ -120491,12 +120491,12 @@
   },
   "laescotillajuegos.com:55284308803919": {
     "available": true,
-    "price": "46.75",
+    "price": "48.03",
     "product_title": "Kill Team: Siembrasangres"
   },
   "laescotillajuegos.com:55284311720271": {
     "available": true,
-    "price": "48.88",
+    "price": "51.00",
     "product_title": "Horus Heresy: Rapier Quad Heavy Bolters"
   },
   "laescotillajuegos.com:55284310802767": {
@@ -120506,22 +120506,22 @@
   },
   "laescotillajuegos.com:55284310901071": {
     "available": true,
-    "price": "48.88",
+    "price": "51.00",
     "product_title": "Horus Heresy: Rapier Laser Destroyer"
   },
   "laescotillajuegos.com:55284310835535": {
     "available": true,
-    "price": "46.75",
+    "price": "48.03",
     "product_title": "Kill Team: Santificadores"
   },
   "laescotillajuegos.com:55284312899919": {
     "available": true,
-    "price": "40.38",
+    "price": "42.50",
     "product_title": "Horus Heresy: Tarantula Sentry Guns"
   },
   "laescotillajuegos.com:55284312015183": {
     "available": true,
-    "price": "40.38",
+    "price": "42.50",
     "product_title": "Horus Heresy: Tarantula Missile Battery"
   },
   "laescotillajuegos.com:55320390107471": {
@@ -121196,7 +121196,7 @@
   },
   "laescotillajuegos.com:55227009761615": {
     "available": true,
-    "price": "47.50",
+    "price": "48.45",
     "product_title": "Codex: Chaos Knights (Español)"
   },
   "laescotillajuegos.com:55252773470543": {
@@ -121246,42 +121246,42 @@
   },
   "laescotillajuegos.com:55176872919375": {
     "available": true,
-    "price": "42.75",
+    "price": "45.13",
     "product_title": "Middle-Earth Sbg: Armies Of Middle-Earth"
   },
   "laescotillajuegos.com:55176873148751": {
     "available": true,
-    "price": "46.75",
+    "price": "48.03",
     "product_title": "Age Of Sigmar: Arena Y Hueso, Pack De Juego De Punta De Lanza (Español)"
   },
   "laescotillajuegos.com:55176873378127": {
     "available": false,
-    "price": "102.00",
+    "price": "106.25",
     "product_title": "Cities Of Sigmar: Punta De Lanza Pelotón Fusilero"
   },
   "laescotillajuegos.com:55176873247055": {
     "available": false,
-    "price": "46.75",
+    "price": "48.03",
     "product_title": "Aos: Sand And Bone Spearhead Gaming Pack (English)"
   },
   "laescotillajuegos.com:55176873574735": {
     "available": true,
-    "price": "102.00",
+    "price": "106.25",
     "product_title": "Ogor Mawtribes: Punta De Lanza Zampasobras"
   },
   "laescotillajuegos.com:55176873607503": {
     "available": true,
-    "price": "20.90",
+    "price": "21.38",
     "product_title": "Arcane Journal: Hombres Bestia"
   },
   "laescotillajuegos.com:55176873476431": {
     "available": false,
-    "price": "102.00",
+    "price": "106.25",
     "product_title": "Seraphon: Punta De Lanza Rondadores Estirpesolar"
   },
   "laescotillajuegos.com:55176873673039": {
     "available": true,
-    "price": "59.50",
+    "price": "62.90",
     "product_title": "Hombres Bestia: Manada De Bestigors"
   },
   "laescotillajuegos.com:55176873902415": {
@@ -121291,27 +121291,27 @@
   },
   "laescotillajuegos.com:55176873804111": {
     "available": true,
-    "price": "59.50",
+    "price": "62.90",
     "product_title": "Hombres Bestia: Manada De Gors"
   },
   "laescotillajuegos.com:55176874000719": {
     "available": true,
-    "price": "19.55",
+    "price": "19.98",
     "product_title": "Hombres Bestia: Chamán Hombre Bestia"
   },
   "laescotillajuegos.com:55176874295631": {
     "available": true,
-    "price": "26.35",
+    "price": "26.78",
     "product_title": "Middle-Earth Sbg: Prince Imrahil Of Dol Amroth"
   },
   "laescotillajuegos.com:55176874426703": {
     "available": true,
-    "price": "26.35",
+    "price": "26.78",
     "product_title": "Middle-Earth Sbg: Héra Daughter Of Helm"
   },
   "laescotillajuegos.com:55176874131791": {
     "available": true,
-    "price": "26.35",
+    "price": "26.78",
     "product_title": "Middle-Earth Sbg: Bolg Spawn Of Azog"
   },
   "laescotillajuegos.com:55210400055631": {
@@ -121526,52 +121526,52 @@
   },
   "laescotillajuegos.com:55090506924367": {
     "available": true,
-    "price": "43.56",
+    "price": "45.05",
     "product_title": "Reinos de los Altos Elfos: Yelmos Plateados"
   },
   "laescotillajuegos.com:55090506596687": {
     "available": false,
-    "price": "127.50",
+    "price": "131.75",
     "product_title": "The Old World: Batallón de los Reinos de los Elfos Silvanos"
   },
   "laescotillajuegos.com:55090506727759": {
     "available": true,
-    "price": "19.13",
+    "price": "19.98",
     "product_title": "Reinos de los Altos Elfos: Señor del Conocimiento de Hoeth"
   },
   "laescotillajuegos.com:55090506170703": {
     "available": false,
-    "price": "19.55",
+    "price": "19.98",
     "product_title": "Reinos de los Elfos Silvanos: Araloth, Señor de Talsyn"
   },
   "laescotillajuegos.com:55090505941327": {
     "available": true,
-    "price": "59.50",
+    "price": "62.90",
     "product_title": "Reinos de los Elfos Silvanos: Guardia Eterna"
   },
   "laescotillajuegos.com:55090505843023": {
     "available": true,
-    "price": "59.50",
+    "price": "62.90",
     "product_title": "Reinos de los Elfos Silvanos: Guardia del Bosque"
   },
   "laescotillajuegos.com:55090505810255": {
     "available": true,
-    "price": "42.50",
+    "price": "44.20",
     "product_title": "Reinos de los Elfos Silvanos: Jinetes del Bosque"
   },
   "laescotillajuegos.com:55090505711951": {
     "available": true,
-    "price": "20.90",
+    "price": "21.38",
     "product_title": "Arcane Journal: Reinos de los Elfos Silvanos"
   },
   "laescotillajuegos.com:55090505679183": {
     "available": true,
-    "price": "114.75",
+    "price": "118.15",
     "product_title": "Patrulla de Combate: Thousand Sons"
   },
   "laescotillajuegos.com:55090503549263": {
     "available": false,
-    "price": "47.50",
+    "price": "48.45",
     "product_title": "Codex: Thousand Sons (español)"
   },
   "laescotillajuegos.com:55117207077199": {
@@ -121691,57 +121691,57 @@
   },
   "laescotillajuegos.com:55045907579215": {
     "available": true,
-    "price": "43.78",
+    "price": "45.05",
     "product_title": "Soulblight Gravelords: Caballeros Fúnebre"
   },
   "laescotillajuegos.com:55045907087695": {
     "available": true,
-    "price": "38.25",
+    "price": "40.38",
     "product_title": "Soulblight Gravelords: Señor Vampiro En Pesadilla"
   },
   "laescotillajuegos.com:55045906792783": {
     "available": true,
-    "price": "127.50",
+    "price": "132.60",
     "product_title": "Soulblight Gravelords: Principe Vhordrai Senor De Torre Carmesí"
   },
   "laescotillajuegos.com:55045907284303": {
     "available": true,
-    "price": "42.50",
+    "price": "43.35",
     "product_title": "Soulblight Gravelords: Guardia Fúnebre"
   },
   "laescotillajuegos.com:55045906202959": {
     "available": false,
-    "price": "43.78",
+    "price": "45.05",
     "product_title": "Soulblight Gravelords: Esqueletos Repicahuesos"
   },
   "laescotillajuegos.com:55045905613135": {
     "available": true,
-    "price": "47.50",
+    "price": "48.45",
     "product_title": "Soulblight Gravelords: Tomo De Batalla (Español)"
   },
   "laescotillajuegos.com:55045906465103": {
     "available": true,
-    "price": "46.75",
+    "price": "48.03",
     "product_title": "Soulblight Gravelords: Filos Del Rey Vacío"
   },
   "laescotillajuegos.com:55045905973583": {
     "available": false,
-    "price": "47.50",
+    "price": "48.45",
     "product_title": "Soulblight Gravelords: Battletome (English)"
   },
   "laescotillajuegos.com:55045904204111": {
     "available": true,
-    "price": "19.55",
+    "price": "19.98",
     "product_title": "Warhammer Underworlds: Incursores De Piedra Del Reino, Mazo De Rivales (Español)"
   },
   "laescotillajuegos.com:55045905023311": {
     "available": true,
-    "price": "31.45",
+    "price": "32.73",
     "product_title": "Warhammer Underworlds: Puñales de La Vieja Bruja"
   },
   "laescotillajuegos.com:55045904728399": {
     "available": false,
-    "price": "19.55",
+    "price": "19.98",
     "product_title": "Warhammer Underworlds: Realmstone Raiders Rivals Deck (English)"
   },
   "laescotillajuegos.com:55076950540623": {
@@ -121971,37 +121971,37 @@
   },
   "laescotillajuegos.com:54963016728911": {
     "available": true,
-    "price": "114.75",
+    "price": "118.15",
     "product_title": "Patrulla de Combate: Hijos del Emperador"
   },
   "laescotillajuegos.com:54963016630607": {
     "available": true,
-    "price": "114.75",
+    "price": "118.15",
     "product_title": "Patrulla de Combate: Devoradores de Mundos"
   },
   "laescotillajuegos.com:54963009519951": {
     "available": false,
-    "price": "47.50",
+    "price": "48.45",
     "product_title": "Codex: World Eaters (English)"
   },
   "laescotillajuegos.com:54963004473679": {
     "available": true,
-    "price": "114.75",
+    "price": "118.15",
     "product_title": "Patrulla de Combate: Death Guard"
   },
   "laescotillajuegos.com:54963007652175": {
     "available": false,
-    "price": "47.50",
+    "price": "48.45",
     "product_title": "Codex: World Eaters (Español)"
   },
   "laescotillajuegos.com:54962997395791": {
     "available": false,
-    "price": "47.50",
+    "price": "48.45",
     "product_title": "Codex: Death Guard (Español)"
   },
   "laescotillajuegos.com:54962998640975": {
     "available": false,
-    "price": "47.50",
+    "price": "48.45",
     "product_title": "Codex: Death Guard (English)"
   },
   "laescotillajuegos.com:54986042310991": {
@@ -122076,42 +122076,42 @@
   },
   "laescotillajuegos.com:54894081278287": {
     "available": true,
-    "price": "35.70",
+    "price": "36.55",
     "product_title": "Legions Imperialis: Mechanicum Krios Squadron"
   },
   "laescotillajuegos.com:54894080721231": {
     "available": true,
-    "price": "35.70",
+    "price": "36.55",
     "product_title": "Legions Imperialis: Mechanicum Karacnos Assault Tank Squadron"
   },
   "laescotillajuegos.com:54894080196943": {
     "available": true,
-    "price": "35.70",
+    "price": "36.55",
     "product_title": "Legions Imperialis: Questoris Knights Magaera And Styrix"
   },
   "laescotillajuegos.com:54894079803727": {
     "available": true,
-    "price": "54.40",
+    "price": "56.10",
     "product_title": "Legions Imperialis: Mechanicum Cerastus Knights Atrapos"
   },
   "laescotillajuegos.com:54894075576655": {
     "available": true,
-    "price": "59.50",
+    "price": "62.90",
     "product_title": "Reinos De Los Altos Elfos: Lanceros Elfos"
   },
   "laescotillajuegos.com:54894074921295": {
     "available": true,
-    "price": "29.75",
+    "price": "31.03",
     "product_title": "Reinos De Los Altos Elfos: Magos"
   },
   "laescotillajuegos.com:54894078296399": {
     "available": true,
-    "price": "42.50",
+    "price": "43.35",
     "product_title": "Legions Imperialis: Mechanicum Acastus Knights Asterius"
   },
   "laescotillajuegos.com:54894076526927": {
     "available": false,
-    "price": "59.50",
+    "price": "62.90",
     "product_title": "Reinos De Los Altos Elfos: Principes Dragoneros De Caledor"
   },
   "laescotillajuegos.com:54930569462095": {
@@ -122341,12 +122341,12 @@
   },
   "laescotillajuegos.com:54828003230031": {
     "available": false,
-    "price": "31.45",
+    "price": "32.73",
     "product_title": "Emperor's Children: Lucius El Sempiterno"
   },
   "laescotillajuegos.com:54828002672975": {
     "available": true,
-    "price": "28.90",
+    "price": "29.33",
     "product_title": "Emperor's Children: Señor Kakofonista"
   },
   "laescotillajuegos.com:54828002410831": {
@@ -122361,7 +122361,7 @@
   },
   "laescotillajuegos.com:54828002083151": {
     "available": true,
-    "price": "47.50",
+    "price": "48.45",
     "product_title": "Codex: Emperor's Children (English)"
   },
   "laescotillajuegos.com:54861101793615": {
@@ -122711,17 +122711,17 @@
   },
   "laescotillajuegos.com:54776279269711": {
     "available": true,
-    "price": "36.13",
+    "price": "37.40",
     "product_title": "Reinos De Los Altos Elfos: Hermanas De Avelorn"
   },
   "laescotillajuegos.com:54776278876495": {
     "available": true,
-    "price": "57.38",
+    "price": "62.90",
     "product_title": "Reinos De Los Altos Elfos: Guardia Del Fénix"
   },
   "laescotillajuegos.com:54776278647119": {
     "available": false,
-    "price": "29.75",
+    "price": "31.03",
     "product_title": "Reinos De Los Altos Elfos: Señores Altos Elfos"
   },
   "laescotillajuegos.com:54809396379983": {
@@ -122771,22 +122771,22 @@
   },
   "laescotillajuegos.com:54726553829711": {
     "available": true,
-    "price": "74.38",
+    "price": "76.50",
     "product_title": "Mechanicum: Karacnos Assault Tank"
   },
   "laescotillajuegos.com:54726553469263": {
     "available": true,
-    "price": "71.40",
+    "price": "73.95",
     "product_title": "Mechanicum: Thanatar Calix Siege Automata"
   },
   "laescotillajuegos.com:54726554026319": {
     "available": true,
-    "price": "53.13",
+    "price": "54.40",
     "product_title": "Mechanicum: Krios Battle Tank"
   },
   "laescotillajuegos.com:54726553370959": {
     "available": true,
-    "price": "52.28",
+    "price": "54.40",
     "product_title": "Mechanicum: Ursarax Cohort"
   },
   "laescotillajuegos.com:54764385304911": {
@@ -122936,22 +122936,22 @@
   },
   "laescotillajuegos.com:54676377043279": {
     "available": true,
-    "price": "21.25",
+    "price": "22.10",
     "product_title": "Kill Team Datacards: Ratlings (English)"
   },
   "laescotillajuegos.com:54676376781135": {
     "available": true,
-    "price": "21.25",
+    "price": "22.10",
     "product_title": "Tarjetas De Datos: Rátidos (Español)"
   },
   "laescotillajuegos.com:54676376486223": {
     "available": true,
-    "price": "46.75",
+    "price": "48.03",
     "product_title": "Kill Team: Rátidos"
   },
   "laescotillajuegos.com:54676375306575": {
     "available": false,
-    "price": "46.75",
+    "price": "48.03",
     "product_title": "Kill Team: Demoledorez"
   },
   "laescotillajuegos.com:54711333192015": {
@@ -123021,12 +123021,12 @@
   },
   "laescotillajuegos.com:54616842535247": {
     "available": true,
-    "price": "19.55",
+    "price": "19.98",
     "product_title": "Necromunda: Ash Wastes Nomads Weapons & Upgrades"
   },
   "laescotillajuegos.com:54616842305871": {
     "available": true,
-    "price": "35.70",
+    "price": "36.55",
     "product_title": "Necromunda: Sha'Dar Hunters & Arthromite Spinewyrms"
   },
   "laescotillajuegos.com:54649185894735": {
@@ -123131,37 +123131,37 @@
   },
   "laescotillajuegos.com:54566452789583": {
     "available": true,
-    "price": "29.33",
+    "price": "30.60",
     "product_title": "Jefe Gruñón y Zekito de Kabalgaloboz / Snarlboss and Wolfgit Retinue"
   },
   "laescotillajuegos.com:54566452461903": {
     "available": true,
-    "price": "68.00",
+    "price": "70.55",
     "product_title": "Jefe Gruñón en Karrobramante / Snarlboss on War-Wheela"
   },
   "laescotillajuegos.com:54566452330831": {
     "available": true,
-    "price": "74.38",
+    "price": "76.50",
     "product_title": "Katapulta Lanzagrotz / Doom Diver Catapult"
   },
   "laescotillajuegos.com:54566452166991": {
     "available": true,
-    "price": "64.60",
+    "price": "68.00",
     "product_title": "Karrobramante Robazolez / Sunsteala Wheelas"
   },
   "laescotillajuegos.com:54566451904847": {
     "available": true,
-    "price": "42.50",
+    "price": "43.35",
     "product_title": "Gruñemanada de Caballeria / Snarlpack Cavalry"
   },
   "laescotillajuegos.com:54566451773775": {
     "available": false,
-    "price": "47.50",
+    "price": "48.45",
     "product_title": "Gloomspite Gitz: Battletome (English)"
   },
   "laescotillajuegos.com:54566451708239": {
     "available": true,
-    "price": "47.50",
+    "price": "48.45",
     "product_title": "Gloomspite Gitz: Tomo de Batalla (Español)"
   },
   "laescotillajuegos.com:54598845956431": {
@@ -123246,7 +123246,7 @@
   },
   "laescotillajuegos.com:54516032110927": {
     "available": true,
-    "price": "114.75",
+    "price": "118.15",
     "product_title": "Patrulla de Combate: Aeldari"
   },
   "laescotillajuegos.com:54547994542415": {
@@ -123576,27 +123576,27 @@
   },
   "laescotillajuegos.com:54415027142991": {
     "available": true,
-    "price": "59.50",
+    "price": "62.90",
     "product_title": "Reinos De Los Altos Elfos: Leones Blancos De Cracia"
   },
   "laescotillajuegos.com:54415027405135": {
     "available": true,
-    "price": "59.50",
+    "price": "62.90",
     "product_title": "Reinos De Los Altos Elfos: Maestros De La Espada De Hoeth"
   },
   "laescotillajuegos.com:54415027798351": {
     "available": true,
-    "price": "54.40",
+    "price": "56.10",
     "product_title": "Reinos De Los Altos Elfos: Señor En Dragón"
   },
   "laescotillajuegos.com:54415026749775": {
     "available": true,
-    "price": "37.40",
+    "price": "40.38",
     "product_title": "Reinos De Los Altos Elfos: Lanzavirotes Garra De Águila"
   },
   "laescotillajuegos.com:54415024980303": {
     "available": true,
-    "price": "20.43",
+    "price": "21.38",
     "product_title": "Arcane Journal: Reinos De Los Altos Elfos"
   },
   "laescotillajuegos.com:54442774561103": {
@@ -123681,52 +123681,52 @@
   },
   "laescotillajuegos.com:54360717328719": {
     "available": true,
-    "price": "114.75",
+    "price": "118.15",
     "product_title": "Patrulla de Combate: Astra Militarum"
   },
   "laescotillajuegos.com:54360717197647": {
     "available": false,
-    "price": "35.70",
+    "price": "36.55",
     "product_title": "Astra Militarum: Korps De La Muerte De Krieg"
   },
   "laescotillajuegos.com:54360716902735": {
     "available": true,
-    "price": "43.78",
+    "price": "45.05",
     "product_title": "Astra Militarum: Dotacion De Artilleria De Campaña"
   },
   "laescotillajuegos.com:54360716345679": {
     "available": true,
-    "price": "31.45",
+    "price": "32.73",
     "product_title": "Astra Militarum: Ingenieros De Combate De Krieg"
   },
   "laescotillajuegos.com:54360716771663": {
     "available": true,
-    "price": "42.50",
+    "price": "43.35",
     "product_title": "Astra Militarum: Lord Mariscal Dreir"
   },
   "laescotillajuegos.com:54360715821391": {
     "available": true,
-    "price": "35.70",
+    "price": "36.55",
     "product_title": "Astra Militarum: Escuadra De Armas Pesadas De Krieg"
   },
   "laescotillajuegos.com:54360716214607": {
     "available": true,
-    "price": "43.78",
+    "price": "45.05",
     "product_title": "Astra Militarum: Jinetes De La Muerte"
   },
   "laescotillajuegos.com:54360715723087": {
     "available": true,
-    "price": "31.45",
+    "price": "32.73",
     "product_title": "Astra Militarum: Escuadra De Mando De Krieg"
   },
   "laescotillajuegos.com:54360714608975": {
     "available": true,
-    "price": "47.50",
+    "price": "48.45",
     "product_title": "Codex: Astra Militarum (Español)"
   },
   "laescotillajuegos.com:54360714871119": {
     "available": false,
-    "price": "47.50",
+    "price": "48.45",
     "product_title": "Codex: Astra Militarum (English)"
   },
   "laescotillajuegos.com:54383996862799": {
@@ -123751,17 +123751,17 @@
   },
   "laescotillajuegos.com:54306688860495": {
     "available": false,
-    "price": "19.55",
+    "price": "19.98",
     "product_title": "Warhammer Underworlds: Rivals Deck Edge Of The Knife (English)"
   },
   "laescotillajuegos.com:54306688663887": {
     "available": true,
-    "price": "19.55",
+    "price": "19.98",
     "product_title": "Warhammer Underworlds: Filo Del Cuchillo Mazo Rivales (Español)"
   },
   "laescotillajuegos.com:54306689122639": {
     "available": true,
-    "price": "31.45",
+    "price": "32.73",
     "product_title": "Warhammer Underworlds: Agarrabeztiaz de Borgit"
   },
   "laescotillajuegos.com:54326366175567": {
@@ -124026,57 +124026,57 @@
   },
   "laescotillajuegos.com:54258675319119": {
     "available": true,
-    "price": "31.45",
+    "price": "32.73",
     "product_title": "Aeldari: Phoenix Lord Lhykhis"
   },
   "laescotillajuegos.com:54258673385807": {
     "available": false,
-    "price": "47.50",
+    "price": "48.45",
     "product_title": "Codex: Aeldari (English) 2025"
   },
   "laescotillajuegos.com:54258673156431": {
     "available": false,
-    "price": "47.50",
+    "price": "48.45",
     "product_title": "Codex: Aeldari (Español) 2025"
   },
   "laescotillajuegos.com:54258673811791": {
     "available": true,
-    "price": "46.75",
+    "price": "48.88",
     "product_title": "Aeldari: Serpiente"
   },
   "laescotillajuegos.com:54258674794831": {
     "available": true,
-    "price": "43.56",
+    "price": "43.78",
     "product_title": "Aeldari: Halcones Cazadores"
   },
   "laescotillajuegos.com:54258674532687": {
     "available": true,
-    "price": "43.56",
+    "price": "43.78",
     "product_title": "Aeldari: Dragones Llameantes"
   },
   "laescotillajuegos.com:54258676040015": {
     "available": true,
-    "price": "31.45",
+    "price": "32.73",
     "product_title": "Aeldari: Fuegan"
   },
   "laescotillajuegos.com:54258675679567": {
     "available": true,
-    "price": "31.45",
+    "price": "32.73",
     "product_title": "Aeldari: Baharroth"
   },
   "laescotillajuegos.com:54258674139471": {
     "available": true,
-    "price": "43.56",
+    "price": "43.78",
     "product_title": "Aeldari: Arañas De Disformidad"
   },
   "laescotillajuegos.com:54258673549647": {
     "available": true,
-    "price": "56.95",
+    "price": "59.50",
     "product_title": "Aeldari: Bipodes De Combate"
   },
   "laescotillajuegos.com:54258675056975": {
     "available": false,
-    "price": "31.45",
+    "price": "32.73",
     "product_title": "Aeldari: Asurmen"
   },
   "laescotillajuegos.com:54290782028111": {
@@ -124186,52 +124186,52 @@
   },
   "laescotillajuegos.com:54240450511183": {
     "available": true,
-    "price": "54.40",
+    "price": "56.10",
     "product_title": "Horus Heresy: Arvus Lighter"
   },
   "laescotillajuegos.com:54240449954127": {
     "available": true,
-    "price": "72.25",
+    "price": "74.38",
     "product_title": "Solar Auxilia: Malcador Infernus"
   },
   "laescotillajuegos.com:54240449691983": {
     "available": true,
-    "price": "61.63",
+    "price": "64.60",
     "product_title": "Solar Auxilia: Valdor Tank Destroyer"
   },
   "laescotillajuegos.com:54240446939471": {
     "available": true,
-    "price": "59.50",
+    "price": "62.90",
     "product_title": "Imperio De Los Hombres: Grandes Espaderos"
   },
   "laescotillajuegos.com:54240446710095": {
     "available": true,
-    "price": "54.40",
+    "price": "56.10",
     "product_title": "Imperio De Los Hombres: Flagelantes"
   },
   "laescotillajuegos.com:54240446415183": {
     "available": true,
-    "price": "59.50",
+    "price": "62.90",
     "product_title": "Imperio De Los Hombres: Tropas Estatales A Distancia"
   },
   "laescotillajuegos.com:54240446185807": {
     "available": true,
-    "price": "59.50",
+    "price": "62.90",
     "product_title": "Imperio De Los Hombres: Tropas Estatales"
   },
   "laescotillajuegos.com:54240447594831": {
     "available": true,
-    "price": "38.25",
+    "price": "40.38",
     "product_title": "Imperio De Los Hombres: Cañón De Salvas Y Batería De Cohetes"
   },
   "laescotillajuegos.com:54240447332687": {
     "available": false,
-    "price": "43.78",
+    "price": "45.05",
     "product_title": "Imperio De Los Hombres: Arqueros"
   },
   "laescotillajuegos.com:54240445825359": {
     "available": true,
-    "price": "59.50",
+    "price": "62.90",
     "product_title": "Horus Heresy: Deredeo Dreadnought Boreas Configuration"
   },
   "laescotillajuegos.com:54242645934415": {
@@ -124386,7 +124386,7 @@
   },
   "laescotillajuegos.com:54150584566095": {
     "available": true,
-    "price": "27.63",
+    "price": "28.90",
     "product_title": "Warhammer 40000: Trofeos Del Campo De Batalla"
   },
   "laescotillajuegos.com:54150585352527": {
@@ -124396,12 +124396,12 @@
   },
   "laescotillajuegos.com:54150585024847": {
     "available": true,
-    "price": "214.20",
+    "price": "221.00",
     "product_title": "Middle-Earth Sbg: Rohan Stronghold"
   },
   "laescotillajuegos.com:54150585090383": {
     "available": true,
-    "price": "35.70",
+    "price": "36.55",
     "product_title": "Middle-Earth Sbg: Haleth & Hama Princes Of Rohan"
   },
   "laescotillajuegos.com:54154497818959": {
@@ -124416,27 +124416,27 @@
   },
   "laescotillajuegos.com:54045265133903": {
     "available": true,
-    "price": "43.78",
+    "price": "45.48",
     "product_title": "Torre Rokoza de Jefazo / Bossrokk Tower"
   },
   "laescotillajuegos.com:54045263888719": {
     "available": true,
-    "price": "47.50",
+    "price": "48.45",
     "product_title": "Orruk Warclans: Tomo de Batalla 2025 (Español)"
   },
   "laescotillajuegos.com:54045264740687": {
     "available": true,
-    "price": "38.25",
+    "price": "40.38",
     "product_title": "Orruk Warclans: Manifestaciones"
   },
   "laescotillajuegos.com:54045263626575": {
     "available": true,
-    "price": "102.00",
+    "price": "106.25",
     "product_title": "Orruk Warclans: Punta de Lanza Gran Peña Piñohierroz"
   },
   "laescotillajuegos.com:54045265756495": {
     "available": true,
-    "price": "35.70",
+    "price": "36.55",
     "product_title": "Legions Imperialis: Mechanicum Infantry"
   },
   "laescotillajuegos.com:54045265428815": {
@@ -124446,12 +124446,12 @@
   },
   "laescotillajuegos.com:54045264150863": {
     "available": false,
-    "price": "47.50",
+    "price": "48.45",
     "product_title": "Orruk Warclans: Battletome 2025 (English)"
   },
   "laescotillajuegos.com:54045264478543": {
     "available": true,
-    "price": "25.08",
+    "price": "26.56",
     "product_title": "Jefe Hobgrot Navajero / Hobgrot Slittaboss"
   },
   "laescotillajuegos.com:54045265690959": {
@@ -124501,57 +124501,57 @@
   },
   "laescotillajuegos.com:53952396820815": {
     "available": true,
-    "price": "19.55",
+    "price": "19.98",
     "product_title": "Necromunda: Squat Prospectors Weapons & Upgrades"
   },
   "laescotillajuegos.com:53952396951887": {
     "available": true,
-    "price": "35.70",
+    "price": "36.55",
     "product_title": "Necromunda: Ironhead Squat Svenotar Scout Trikes"
   },
   "laescotillajuegos.com:53952396656975": {
     "available": true,
-    "price": "35.70",
+    "price": "36.55",
     "product_title": "Necromunda: Squat Prospectors Exo-Kyn"
   },
   "laescotillajuegos.com:53952398262607": {
     "available": false,
-    "price": "19.98",
+    "price": "20.40",
     "product_title": "Imperio De Los Hombres: Comandantes Del Imperio"
   },
   "laescotillajuegos.com:53952397246799": {
     "available": true,
-    "price": "59.50",
+    "price": "62.90",
     "product_title": "Imperio De Los Hombres: Milicia Imperial"
   },
   "laescotillajuegos.com:53952398000463": {
     "available": true,
-    "price": "38.25",
+    "price": "40.38",
     "product_title": "Imperio De Los Hombres: Cañones Y Morteros"
   },
   "laescotillajuegos.com:53952397836623": {
     "available": true,
-    "price": "43.78",
+    "price": "45.05",
     "product_title": "Imperio De Los Hombres: Herreruelos Del Imperio"
   },
   "laescotillajuegos.com:53952397443407": {
     "available": false,
-    "price": "43.78",
+    "price": "45.05",
     "product_title": "Imperio De Los Hombres: Caballeros Del Imperio"
   },
   "laescotillajuegos.com:53952396263759": {
     "available": true,
-    "price": "20.90",
+    "price": "21.38",
     "product_title": "Arcane Journal: Imperio De Los Hombres"
   },
   "laescotillajuegos.com:53952397934927": {
     "available": true,
-    "price": "43.78",
+    "price": "45.05",
     "product_title": "Imperio De Los Hombres: Caballeros En Semigrifo"
   },
   "laescotillajuegos.com:53952397082959": {
     "available": true,
-    "price": "54.40",
+    "price": "56.10",
     "product_title": "Imperio De Los Hombres. General Del Imperio En Grifo Imperial"
   },
   "laescotillajuegos.com:54079515820367": {
@@ -125196,7 +125196,7 @@
   },
   "laescotillajuegos.com:53839236694351": {
     "available": true,
-    "price": "35.70",
+    "price": "36.55",
     "product_title": "Legions Imperialis: Dark Mechanicum Stalker Constructs"
   },
   "laescotillajuegos.com:53839235973455": {
@@ -125206,27 +125206,27 @@
   },
   "laescotillajuegos.com:53839236006223": {
     "available": true,
-    "price": "35.70",
+    "price": "36.55",
     "product_title": "Legions Imperialis: Dark Mech Serperos Heavy Stalkers"
   },
   "laescotillajuegos.com:53839234171215": {
     "available": true,
-    "price": "46.75",
+    "price": "48.03",
     "product_title": "Kill Team: Sucesores Recuperadores"
   },
   "laescotillajuegos.com:53839214772559": {
     "available": true,
-    "price": "54.40",
+    "price": "56.10",
     "product_title": "Kill Team: Filos De Khaine"
   },
   "laescotillajuegos.com:53839210217807": {
     "available": false,
-    "price": "93.50",
+    "price": "97.75",
     "product_title": "Kill Team: Killzone Volkus"
   },
   "laescotillajuegos.com:53839227617615": {
     "available": false,
-    "price": "52.28",
+    "price": "54.40",
     "product_title": "Kill Team: Círculo De Hierotecnólogos"
   },
   "laescotillajuegos.com:53839226372431": {
@@ -125241,12 +125241,12 @@
   },
   "laescotillajuegos.com:53839209529679": {
     "available": true,
-    "price": "46.75",
+    "price": "48.03",
     "product_title": "Kill Team: Comando Tempestus Aquilon"
   },
   "laescotillajuegos.com:53839206121807": {
     "available": true,
-    "price": "46.75",
+    "price": "48.03",
     "product_title": "Kill Team: Comando Aguijón Alado Véspid"
   },
   "laescotillajuegos.com:53839233417551": {
@@ -125311,37 +125311,37 @@
   },
   "laescotillajuegos.com:53740680806735": {
     "available": true,
-    "price": "35.70",
+    "price": "36.55",
     "product_title": "Middle-Earth SBG: Warriors Of Rohan 2024"
   },
   "laescotillajuegos.com:53740680708431": {
     "available": true,
-    "price": "35.70",
+    "price": "36.55",
     "product_title": "Middle-Earth SBG: Hill Tribesmen"
   },
   "laescotillajuegos.com:53740680675663": {
     "available": true,
-    "price": "42.75",
+    "price": "45.13",
     "product_title": "Middle-Earth SBG: Armies Of The Hobbit 2024"
   },
   "laescotillajuegos.com:53740680544591": {
     "available": true,
-    "price": "48.93",
+    "price": "50.35",
     "product_title": "Middle-Earth SBG: Armies Of The Lord Of The Rings 2024"
   },
   "laescotillajuegos.com:53740680118607": {
     "available": true,
-    "price": "42.75",
+    "price": "45.13",
     "product_title": "Middle-Earth SBG: Rules Manual 2024"
   },
   "laescotillajuegos.com:53740680053071": {
     "available": true,
-    "price": "153.00",
+    "price": "161.50",
     "product_title": "War Of The Rohirrim: Battle Of Edoras"
   },
   "laescotillajuegos.com:53740680020303": {
     "available": true,
-    "price": "38.25",
+    "price": "40.38",
     "product_title": "Middle-Earth SBG: Great Eagles 2024"
   },
   "laescotillajuegos.com:53782513058127": {
@@ -125511,47 +125511,47 @@
   },
   "laescotillajuegos.com:53680336666959": {
     "available": true,
-    "price": "31.45",
+    "price": "32.73",
     "product_title": "Warhammer Underworlds: Jardineros Del Gran Padre"
   },
   "laescotillajuegos.com:53680333259087": {
     "available": true,
-    "price": "31.45",
+    "price": "32.73",
     "product_title": "Warhammer Underworlds: Mandíbulas De Itzl"
   },
   "laescotillajuegos.com:53680332767567": {
     "available": false,
-    "price": "68.00",
+    "price": "70.55",
     "product_title": "Warhammer Underworlds: Revividos De Los Reinos"
   },
   "laescotillajuegos.com:53680331882831": {
     "available": true,
-    "price": "68.00",
+    "price": "70.55",
     "product_title": "Warhammer Underworlds: Saqueadores Y Daemons"
   },
   "laescotillajuegos.com:53680330473807": {
     "available": false,
-    "price": "19.55",
+    "price": "19.98",
     "product_title": "Warhammer Underworlds: Wrack And Ruin Rivals Deck (English)"
   },
   "laescotillajuegos.com:53680329982287": {
     "available": false,
-    "price": "19.55",
+    "price": "19.98",
     "product_title": "Warhammer Underworlds: Ruina Y Despojos Mazo De Rivales (Español)"
   },
   "laescotillajuegos.com:53680329490767": {
     "available": false,
-    "price": "19.55",
+    "price": "19.98",
     "product_title": "Warhammer Underworlds: Reckless Fury Rivals Deck (English)"
   },
   "laescotillajuegos.com:53680328573263": {
     "available": false,
-    "price": "19.55",
+    "price": "19.98",
     "product_title": "Warhammer Underworlds: Furia Temeraria Mazo De Rivales (Español)"
   },
   "laescotillajuegos.com:53680328081743": {
     "available": true,
-    "price": "76.50",
+    "price": "79.05",
     "product_title": "Slaves To Darkness: Abraxia Lanza Del Elegido"
   },
   "laescotillajuegos.com:53680327328079": {
@@ -125561,17 +125561,17 @@
   },
   "laescotillajuegos.com:53680325067087": {
     "available": false,
-    "price": "47.50",
+    "price": "48.45",
     "product_title": "Slaves To Darkness: Battletome (English)"
   },
   "laescotillajuegos.com:53680324149583": {
     "available": true,
-    "price": "47.50",
+    "price": "48.45",
     "product_title": "Slaves To Darkness: Tomo De Batalla (Español)"
   },
   "laescotillajuegos.com:53680323723599": {
     "available": true,
-    "price": "102.00",
+    "price": "106.25",
     "product_title": "Slaves To Darkness: Punta De Lanza Incursores Pactoscuro"
   },
   "laescotillajuegos.com:53724824437071": {
@@ -125976,17 +125976,17 @@
   },
   "laescotillajuegos.com:49965387383119": {
     "available": true,
-    "price": "32.73",
+    "price": "34.00",
     "product_title": "Horus Heresy: Legion Astartes Melee Weapons Upgrade"
   },
   "laescotillajuegos.com:49965387284815": {
     "available": false,
-    "price": "76.50",
+    "price": "79.05",
     "product_title": "Warhammer Underworlds: Embergard (english)"
   },
   "laescotillajuegos.com:49965387186511": {
     "available": true,
-    "price": "76.50",
+    "price": "79.05",
     "product_title": "Warhammer Underworlds: Ascuagarda (español)"
   },
   "laescotillajuegos.com:37521908498625": {
@@ -126196,7 +126196,7 @@
   },
   "laescotillajuegos.com:49922385740111": {
     "available": true,
-    "price": "21.25",
+    "price": "22.10",
     "product_title": "Tarjetas de Datos: Operativos Inquisitoriales (español)"
   },
   "laescotillajuegos.com:49922385805647": {
@@ -126206,32 +126206,32 @@
   },
   "laescotillajuegos.com:49922385510735": {
     "available": true,
-    "price": "40.38",
+    "price": "42.50",
     "product_title": "Kill Team: Operativos Inquisitoriales"
   },
   "laescotillajuegos.com:49922378498383": {
     "available": true,
-    "price": "76.50",
+    "price": "79.05",
     "product_title": "Kill Team: Starter Set (english)"
   },
   "laescotillajuegos.com:49922377023823": {
     "available": true,
-    "price": "76.50",
+    "price": "79.05",
     "product_title": "Kill Team: Caja de Inicio (español)"
   },
   "laescotillajuegos.com:49922385772879": {
     "available": true,
-    "price": "21.25",
+    "price": "22.10",
     "product_title": "Datacards: Inquisitorial Agents (english)"
   },
   "laescotillajuegos.com:49922383675727": {
     "available": true,
-    "price": "29.33",
+    "price": "30.60",
     "product_title": "Chaos Space Marines: Señor del Caos con Propulsor de Salto"
   },
   "laescotillajuegos.com:49922382790991": {
     "available": true,
-    "price": "29.33",
+    "price": "30.60",
     "product_title": "Chaos Space Marines: Señor del Caos"
   },
   "laescotillajuegos.com:49922381611343": {
@@ -126381,7 +126381,7 @@
   },
   "laescotillajuegos.com:49870888665423": {
     "available": true,
-    "price": "114.75",
+    "price": "118.15",
     "product_title": "Patrulla de Combate: Blood Angels"
   },
   "laescotillajuegos.com:49870888993103": {
@@ -126801,12 +126801,12 @@
   },
   "laescotillajuegos.com:49817549504847": {
     "available": true,
-    "price": "76.50",
+    "price": "79.05",
     "product_title": "Maleta de Combate Citadel Stormvault"
   },
   "laescotillajuegos.com:49817549406543": {
     "available": true,
-    "price": "82.45",
+    "price": "85.00",
     "product_title": "Stormcast Eternals: Iridan el Testigo"
   },
   "laescotillajuegos.com:49817549341007": {
@@ -126816,47 +126816,47 @@
   },
   "laescotillajuegos.com:49817549144399": {
     "available": true,
-    "price": "35.70",
+    "price": "36.55",
     "product_title": "Stormcast Eternals: Tornus El Redimido"
   },
   "laescotillajuegos.com:49817548849487": {
     "available": true,
-    "price": "31.45",
+    "price": "32.73",
     "product_title": "Stormcast Eternals: Lord-Celeste"
   },
   "laescotillajuegos.com:49817547866447": {
     "available": true,
-    "price": "46.75",
+    "price": "48.03",
     "product_title": "Stormcast Eternals: Espoleadres Azotatormentas"
   },
   "laescotillajuegos.com:49817546752335": {
     "available": true,
-    "price": "42.50",
+    "price": "44.20",
     "product_title": "Stormcast Eternals: Recluyentes"
   },
   "laescotillajuegos.com:49817544819023": {
     "available": true,
-    "price": "29.33",
+    "price": "30.60",
     "product_title": "Stormcast Eternals: Lord Terminos"
   },
   "laescotillajuegos.com:49817541149007": {
     "available": true,
-    "price": "29.33",
+    "price": "30.60",
     "product_title": "Stormcast Eternals: Lord-Relictor"
   },
   "laescotillajuegos.com:49817538429263": {
     "available": false,
-    "price": "47.50",
+    "price": "48.45",
     "product_title": "Stormcast Eternals: Battletome (english)"
   },
   "laescotillajuegos.com:49817538363727": {
     "available": true,
-    "price": "47.50",
+    "price": "48.45",
     "product_title": "Stormcast Eternals: Tomo De Batalla (español)"
   },
   "laescotillajuegos.com:49817538003279": {
     "available": true,
-    "price": "38.25",
+    "price": "40.38",
     "product_title": "Skaven: Amerratadora Rayobrujo"
   },
   "laescotillajuegos.com:49859171516751": {
@@ -127071,52 +127071,52 @@
   },
   "laescotillajuegos.com:49772509757775": {
     "available": true,
-    "price": "31.45",
+    "price": "32.73",
     "product_title": "Adepta Sororitas: Canonesa Con Propulsor De Salto"
   },
   "laescotillajuegos.com:49772509200719": {
     "available": true,
-    "price": "25.08",
+    "price": "26.56",
     "product_title": "Blood Angels: Mejoras Y Calcomanias"
   },
   "laescotillajuegos.com:49772509036879": {
     "available": true,
-    "price": "28.90",
+    "price": "29.33",
     "product_title": "Blood Angels: Sacerdote Sanguinario"
   },
   "laescotillajuegos.com:49772508741967": {
     "available": false,
-    "price": "31.45",
+    "price": "32.73",
     "product_title": "Blood Angels: Astorath El Siniestro"
   },
   "laescotillajuegos.com:49772507595087": {
     "available": true,
-    "price": "31.45",
+    "price": "32.73",
     "product_title": "Blood Angels: El Sanguinor"
   },
   "laescotillajuegos.com:49772507431247": {
     "available": true,
-    "price": "31.45",
+    "price": "32.73",
     "product_title": "Blood Angels: Lemartes"
   },
   "laescotillajuegos.com:49772507332943": {
     "available": true,
-    "price": "42.50",
+    "price": "43.35",
     "product_title": "Blood Angels: Guardia Sanguinaria"
   },
   "laescotillajuegos.com:49772505956687": {
     "available": true,
-    "price": "29.33",
+    "price": "30.60",
     "product_title": "Blood Angels: Capitán"
   },
   "laescotillajuegos.com:49772505104719": {
     "available": false,
-    "price": "25.65",
+    "price": "26.60",
     "product_title": "Codex Supplement: Blood Angels (English)"
   },
   "laescotillajuegos.com:49772504908111": {
     "available": false,
-    "price": "25.65",
+    "price": "26.60",
     "product_title": "Suplemento de Codex: Blood Angels (Español)"
   },
   "laescotillajuegos.com:49805209665871": {
@@ -127306,7 +127306,7 @@
   },
   "laescotillajuegos.com:49728060195151": {
     "available": true,
-    "price": "36.97",
+    "price": "38.25",
     "product_title": "Blood Bowl: Chaos Dwarf Team"
   },
   "laescotillajuegos.com:49743851258191": {
@@ -127411,52 +127411,52 @@
   },
   "laescotillajuegos.com:49674387292495": {
     "available": true,
-    "price": "46.75",
+    "price": "48.03",
     "product_title": "Kill Team: Yaegir Hernkyn"
   },
   "laescotillajuegos.com:49674386735439": {
     "available": true,
-    "price": "21.25",
+    "price": "22.10",
     "product_title": "Tarjetas de datos: Hermanos de Progenie"
   },
   "laescotillajuegos.com:49674386669903": {
     "available": true,
-    "price": "46.75",
+    "price": "48.03",
     "product_title": "Kill Team: Hermanos de Progenie"
   },
   "laescotillajuegos.com:49674386473295": {
     "available": true,
-    "price": "21.25",
+    "price": "22.10",
     "product_title": "Datacards: Mandrakes (english)"
   },
   "laescotillajuegos.com:49674385359183": {
     "available": true,
-    "price": "54.40",
+    "price": "56.10",
     "product_title": "Kill Team: Mandrágoras"
   },
   "laescotillajuegos.com:49674382410063": {
     "available": true,
-    "price": "52.28",
+    "price": "54.40",
     "product_title": "Kill Team: Garra Némesis"
   },
   "laescotillajuegos.com:49674381558095": {
     "available": true,
-    "price": "21.25",
+    "price": "22.10",
     "product_title": "Datacards: Scout Squad (english)"
   },
   "laescotillajuegos.com:49674379297103": {
     "available": false,
-    "price": "47.50",
+    "price": "49.40",
     "product_title": "Kill Team: Core Book 2024 (english)"
   },
   "laescotillajuegos.com:49674378772815": {
     "available": true,
-    "price": "47.50",
+    "price": "49.40",
     "product_title": "Kill Team: Libro Básico 2024 (español)"
   },
   "laescotillajuegos.com:48320843350351": {
     "available": true,
-    "price": "54.40",
+    "price": "56.10",
     "product_title": "Kill Team: Escuadra de Exploradores / Scout Squad"
   },
   "laescotillajuegos.com:33957419090056": {
@@ -127621,62 +127621,62 @@
   },
   "laescotillajuegos.com:49577695052111": {
     "available": true,
-    "price": "31.45",
+    "price": "32.73",
     "product_title": "Skaven: Tuneladora Bruja"
   },
   "laescotillajuegos.com:49577713729871": {
     "available": true,
-    "price": "47.50",
+    "price": "48.45",
     "product_title": "Skaven: Tomo de Batalla (español)"
   },
   "laescotillajuegos.com:49577693970767": {
     "available": true,
-    "price": "110.50",
+    "price": "114.75",
     "product_title": "Skaven: Vizzik Skour, Profeta de la Rata Cornuda"
   },
   "laescotillajuegos.com:49577713402191": {
     "available": true,
-    "price": "64.60",
+    "price": "68.00",
     "product_title": "Skaven: Thanquol en Destripahuesos"
   },
   "laescotillajuegos.com:49577693643087": {
     "available": true,
-    "price": "38.25",
+    "price": "40.38",
     "product_title": "Skaven: Stormvermin (Alimañas)"
   },
   "laescotillajuegos.com:49577696231759": {
     "available": false,
-    "price": "48.88",
+    "price": "51.00",
     "product_title": "Skaven: Ratahorror"
   },
   "laescotillajuegos.com:49577696493903": {
     "available": true,
-    "price": "35.70",
+    "price": "36.55",
     "product_title": "Skaven: Mosquetes Jezzails"
   },
   "laescotillajuegos.com:49577693774159": {
     "available": true,
-    "price": "42.50",
+    "price": "43.35",
     "product_title": "Skaven: Rataogors"
   },
   "laescotillajuegos.com:49577696100687": {
     "available": true,
-    "price": "25.08",
+    "price": "25.93",
     "product_title": "Skaven: Galvanizador Brujo"
   },
   "laescotillajuegos.com:49577693086031": {
     "available": false,
-    "price": "102.00",
+    "price": "106.25",
     "product_title": "Skaven: Punta de Lanza"
   },
   "laescotillajuegos.com:49577695936847": {
     "available": false,
-    "price": "28.90",
+    "price": "29.33",
     "product_title": "Skaven: Krittok Cuchillavil"
   },
   "laescotillajuegos.com:49577694691663": {
     "available": true,
-    "price": "42.50",
+    "price": "43.35",
     "product_title": "Skaven: Desollamuertes"
   },
   "laescotillajuegos.com:49577695674703": {
@@ -127686,22 +127686,22 @@
   },
   "laescotillajuegos.com:49577694363983": {
     "available": false,
-    "price": "25.08",
+    "price": "25.93",
     "product_title": "Skaven: Maestro Moulder"
   },
   "laescotillajuegos.com:49577713860943": {
     "available": false,
-    "price": "47.50",
+    "price": "48.45",
     "product_title": "Skaven: Battletome (english)"
   },
   "laescotillajuegos.com:49577695183183": {
     "available": true,
-    "price": "38.25",
+    "price": "40.38",
     "product_title": "Skaven: Acolitos de Viento Envenenado"
   },
   "laescotillajuegos.com:49577694789967": {
     "available": true,
-    "price": "35.70",
+    "price": "36.55",
     "product_title": "Skaven: Batería de Armas Brujas"
   },
   "laescotillajuegos.com:49603011805519": {
@@ -127981,47 +127981,47 @@
   },
   "laescotillajuegos.com:49532370092367": {
     "available": true,
-    "price": "54.40",
+    "price": "56.10",
     "product_title": "Mechanicum: Thallax Cohort"
   },
   "laescotillajuegos.com:49532370026831": {
     "available": true,
-    "price": "71.40",
+    "price": "73.95",
     "product_title": "Mechanicum: Thanatar Cavas Siege-Automata"
   },
   "laescotillajuegos.com:49532370059599": {
     "available": true,
-    "price": "64.60",
+    "price": "68.00",
     "product_title": "Mechanicum: Thiaros Armoured Conveyor"
   },
   "laescotillajuegos.com:49532369043791": {
     "available": true,
-    "price": "53.13",
+    "price": "56.10",
     "product_title": "Guerreros del Caos: Señor del Caos en Mantícora"
   },
   "laescotillajuegos.com:49532370649423": {
     "available": true,
-    "price": "27.63",
+    "price": "28.90",
     "product_title": "Mechanicum: Archmagos Prime"
   },
   "laescotillajuegos.com:49532369961295": {
     "available": true,
-    "price": "54.40",
+    "price": "56.10",
     "product_title": "Mechanicum: Tech-Thralls Covenant"
   },
   "laescotillajuegos.com:49532369928527": {
     "available": true,
-    "price": "54.40",
+    "price": "56.10",
     "product_title": "Mechanicum: Castellax Battle-Automata Maniple"
   },
   "laescotillajuegos.com:49532369862991": {
     "available": true,
-    "price": "20.40",
+    "price": "21.25",
     "product_title": "Guerreros del Caos: Hechicero del Caos"
   },
   "laescotillajuegos.com:49532368978255": {
     "available": true,
-    "price": "20.43",
+    "price": "21.38",
     "product_title": "Arcane Journal: Guerreros del Caos"
   },
   "laescotillajuegos.com:49273729384783": {
@@ -128126,7 +128126,7 @@
   },
   "laescotillajuegos.com:49493679079759": {
     "available": true,
-    "price": "35.70",
+    "price": "36.55",
     "product_title": "Legions Imperialis: Sabre Strike Tank Squadron"
   },
   "laescotillajuegos.com:49493679210831": {
@@ -128266,52 +128266,52 @@
   },
   "laescotillajuegos.com:49449910534479": {
     "available": true,
-    "price": "19.98",
+    "price": "20.40",
     "product_title": "Bastiones Enanos de las Montañas: Rey Enano en Piedra del Juramento"
   },
   "laescotillajuegos.com:49449910436175": {
     "available": true,
-    "price": "19.98",
+    "price": "20.40",
     "product_title": "Bastiones Enanos de las Montañas: Matador de Leyenda"
   },
   "laescotillajuegos.com:49449910370639": {
     "available": true,
-    "price": "38.25",
+    "price": "40.38",
     "product_title": "Bastiones Enanos de las Montañas: Cañón Enano y Cañón Órgano"
   },
   "laescotillajuegos.com:49449910239567": {
     "available": true,
-    "price": "54.40",
+    "price": "56.10",
     "product_title": "Bastiones Enanos de las Montañas: Girocóptero y Girobombardero"
   },
   "laescotillajuegos.com:49449909944655": {
     "available": true,
-    "price": "43.56",
+    "price": "45.05",
     "product_title": "Bastiones Enanos de las Montañas: Mineros Enanos"
   },
   "laescotillajuegos.com:49449909813583": {
     "available": true,
-    "price": "35.70",
+    "price": "36.55",
     "product_title": "Necromunda: Malcadon Yeld & Jakara Spyre Hunter"
   },
   "laescotillajuegos.com:49449909715279": {
     "available": true,
-    "price": "29.33",
+    "price": "30.60",
     "product_title": "Necromunda: Trazior Pattern Sentry Guns"
   },
   "laescotillajuegos.com:49449909584207": {
     "available": true,
-    "price": "35.70",
+    "price": "36.55",
     "product_title": "Necromunda: Van Saar Tek-Hunters"
   },
   "laescotillajuegos.com:49449909485903": {
     "available": true,
-    "price": "35.70",
+    "price": "36.55",
     "product_title": "Necromunda: Orrus Spyre Hunters"
   },
   "laescotillajuegos.com:49449909387599": {
     "available": true,
-    "price": "35.70",
+    "price": "36.55",
     "product_title": "Necromunda: Malstrain Genestealer Abomination Gang"
   },
   "laescotillajuegos.com:49449907093839": {
@@ -128321,22 +128321,22 @@
   },
   "laescotillajuegos.com:49449906045263": {
     "available": true,
-    "price": "48.88",
+    "price": "51.00",
     "product_title": "The Old World: Torre de Vigía Imperial"
   },
   "laescotillajuegos.com:49449905979727": {
     "available": true,
-    "price": "23.38",
+    "price": "24.23",
     "product_title": "The Old World: Muros y vallas"
   },
   "laescotillajuegos.com:49449905914191": {
     "available": true,
-    "price": "35.70",
+    "price": "36.55",
     "product_title": "The Old World: Capilla Imperial"
   },
   "laescotillajuegos.com:49449905848655": {
     "available": true,
-    "price": "79.05",
+    "price": "85.00",
     "product_title": "The Old World: Mansión Fortificada Imperial"
   },
   "laescotillajuegos.com:49449905750351": {
@@ -128436,7 +128436,7 @@
   },
   "laescotillajuegos.com:49417961013583": {
     "available": true,
-    "price": "114.75",
+    "price": "118.15",
     "product_title": "Patrulla de Combate: Imperial Agents"
   },
   "laescotillajuegos.com:49417960653135": {
@@ -128446,52 +128446,52 @@
   },
   "laescotillajuegos.com:49417960554831": {
     "available": true,
-    "price": "27.62",
+    "price": "28.90",
     "product_title": "Imperial Agents: Deathwatch Capitán Vigia Artemis"
   },
   "laescotillajuegos.com:49417959702863": {
     "available": false,
-    "price": "27.63",
+    "price": "28.90",
     "product_title": "Imperial Agents: Inquisidora Draxus"
   },
   "laescotillajuegos.com:49417960096079": {
     "available": false,
-    "price": "25.08",
+    "price": "26.56",
     "product_title": "Imperial Agents: Navegante"
   },
   "laescotillajuegos.com:49417959768399": {
     "available": false,
-    "price": "22.10",
+    "price": "22.95",
     "product_title": "Imperial Agents: Inquisidora Greyfax"
   },
   "laescotillajuegos.com:49417959473487": {
     "available": true,
-    "price": "28.90",
+    "price": "29.33",
     "product_title": "Imperial Agents: Asesino Eversor"
   },
   "laescotillajuegos.com:49417959342415": {
     "available": true,
-    "price": "28.90",
+    "price": "29.33",
     "product_title": "Imperial Agents: Asesino Culexus"
   },
   "laescotillajuegos.com:49417959276879": {
     "available": true,
-    "price": "28.90",
+    "price": "29.33",
     "product_title": "Imperial Agents: Asesino Vindicare"
   },
   "laescotillajuegos.com:49417959407951": {
     "available": true,
-    "price": "26.35",
+    "price": "27.63",
     "product_title": "Imperial Agents: Asesina Callidus"
   },
   "laescotillajuegos.com:49417960948047": {
     "available": false,
-    "price": "47.50",
+    "price": "48.45",
     "product_title": "Codex: Imperial Agents (english)"
   },
   "laescotillajuegos.com:49417960882511": {
     "available": true,
-    "price": "47.50",
+    "price": "48.45",
     "product_title": "Codex: Imperial Agents (español)"
   },
   "laescotillajuegos.com:48981338390863": {
@@ -128501,12 +128501,12 @@
   },
   "laescotillajuegos.com:49384272134479": {
     "available": true,
-    "price": "35.70",
+    "price": "36.55",
     "product_title": "Legions Imperialis: Sicarian Arcus / Punisher Squadron"
   },
   "laescotillajuegos.com:49384272363855": {
     "available": true,
-    "price": "35.70",
+    "price": "36.55",
     "product_title": "Legions Imperialis: Shadowswords / Stormblades"
   },
   "laescotillajuegos.com:49384272265551": {
@@ -128546,47 +128546,47 @@
   },
   "laescotillajuegos.com:49351450788175": {
     "available": true,
-    "price": "25.50",
+    "price": "26.56",
     "product_title": "Age of Sigmar: Set de Pinturas Skaven"
   },
   "laescotillajuegos.com:49351450198351": {
     "available": true,
-    "price": "76.50",
+    "price": "79.05",
     "product_title": "Age of Sigmar: Starter Set (english)"
   },
   "laescotillajuegos.com:49351446888783": {
     "available": false,
-    "price": "148.75",
+    "price": "153.00",
     "product_title": "Age of Sigmar: Ultimate Starter Set (english)"
   },
   "laescotillajuegos.com:49351452098895": {
     "available": false,
-    "price": "25.50",
+    "price": "26.56",
     "product_title": "Age of Sigmar: Set de Pintura Stormcast Eternals"
   },
   "laescotillajuegos.com:49351449248079": {
     "available": true,
-    "price": "29.75",
+    "price": "31.03",
     "product_title": "Age of Sigmar: Set de Pinturas y Herramientas"
   },
   "laescotillajuegos.com:49351449706831": {
     "available": true,
-    "price": "76.50",
+    "price": "79.05",
     "product_title": "Age of Sigmar: Caja de Inicio (español)"
   },
   "laescotillajuegos.com:49351447642447": {
     "available": true,
-    "price": "46.75",
+    "price": "48.03",
     "product_title": "Age of Sigmar: Caja de Introducción (español)"
   },
   "laescotillajuegos.com:49351446495567": {
     "available": true,
-    "price": "148.75",
+    "price": "153.00",
     "product_title": "Age of Sigmar: Caja de Edición Punta de Lanza (español)"
   },
   "laescotillajuegos.com:49351447970127": {
     "available": false,
-    "price": "46.75",
+    "price": "48.03",
     "product_title": "Age of Sigmar: Introductory Set (english)"
   },
   "laescotillajuegos.com:49365457142095": {
@@ -128621,52 +128621,52 @@
   },
   "laescotillajuegos.com:49306293993807": {
     "available": true,
-    "price": "57.38",
+    "price": "62.90",
     "product_title": "Bastiones Enanos de las Montañas: Martilladores"
   },
   "laescotillajuegos.com:49306293764431": {
     "available": true,
-    "price": "57.38",
+    "price": "62.90",
     "product_title": "Bastiones Enanos de las Montañas: Rompehierros"
   },
   "laescotillajuegos.com:49306293174607": {
     "available": true,
-    "price": "57.38",
+    "price": "62.90",
     "product_title": "Bastiones Enanos de las Montañas: Ballesteros /Atronadores"
   },
   "laescotillajuegos.com:49306292060495": {
     "available": true,
-    "price": "57.38",
+    "price": "62.90",
     "product_title": "Bastiones Enanos de las Montañas: Guerreros"
   },
   "laescotillajuegos.com:49306291994959": {
     "available": true,
-    "price": "19.13",
+    "price": "19.98",
     "product_title": "Bastiones Enanos de las Montañas: Herrero Rúnico"
   },
   "laescotillajuegos.com:49306243924303": {
     "available": true,
-    "price": "34.85",
+    "price": "36.55",
     "product_title": "Bastiones Enanos de las Montañas: Señores Enanos con Portadores de Escudo"
   },
   "laescotillajuegos.com:49306243793231": {
     "available": true,
-    "price": "123.25",
+    "price": "131.75",
     "product_title": "The Old World: Batallón de Bastiones Enanos de las Montañas"
   },
   "laescotillajuegos.com:49306241696079": {
     "available": true,
-    "price": "59.50",
+    "price": "62.90",
     "product_title": "Necromunda: Ruined Zone Mortalis"
   },
   "laescotillajuegos.com:49306241597775": {
     "available": true,
-    "price": "35.70",
+    "price": "36.55",
     "product_title": "Necromunda: Hive Data Stack Cluster"
   },
   "laescotillajuegos.com:49306240516431": {
     "available": true,
-    "price": "20.43",
+    "price": "21.38",
     "product_title": "Arcane Journal: Bastiones Enanos de las Montañas"
   },
   "laescotillajuegos.com:49332745044303": {
@@ -128676,7 +128676,7 @@
   },
   "laescotillajuegos.com:47912739602767": {
     "available": true,
-    "price": "54.40",
+    "price": "56.10",
     "product_title": "Legions Imperialis: Civitas imperialis Ruined Buildings"
   },
   "laescotillajuegos.com:49332606828879": {
@@ -129001,42 +129001,42 @@
   },
   "laescotillajuegos.com:49226226172239": {
     "available": false,
-    "price": "12.75",
+    "price": "13.39",
     "product_title": "Pack de Facción: Serafones (español)"
   },
   "laescotillajuegos.com:49226219585871": {
     "available": false,
-    "price": "10.63",
+    "price": "11.26",
     "product_title": "Pack de Facción: Matafuegos (español)"
   },
   "laescotillajuegos.com:49226210345295": {
     "available": false,
-    "price": "10.63",
+    "price": "11.26",
     "product_title": "Pack de Facción: Hijos de Behemat (español)"
   },
   "laescotillajuegos.com:49226210574671": {
     "available": false,
-    "price": "10.63",
+    "price": "11.26",
     "product_title": "Faction Pack: Sons of Behemat (english)"
   },
   "laescotillajuegos.com:49226226303311": {
     "available": false,
-    "price": "12.75",
+    "price": "13.39",
     "product_title": "Faction Pack: Seraphon (english)"
   },
   "laescotillajuegos.com:49226219684175": {
     "available": false,
-    "price": "10.63",
+    "price": "11.26",
     "product_title": "Faction Pack: Fyreslayers (english)"
   },
   "laescotillajuegos.com:49226210738511": {
     "available": false,
-    "price": "54.63",
+    "price": "57.00",
     "product_title": "Age of Sigmar: Libro Básico 4ª Edición 2024 (español)"
   },
   "laescotillajuegos.com:49226210836815": {
     "available": false,
-    "price": "54.63",
+    "price": "57.00",
     "product_title": "Age of Sigmar Core Book 4th edition 2024 (english)"
   },
   "laescotillajuegos.com:49236802961743": {
@@ -129266,42 +129266,42 @@
   },
   "laescotillajuegos.com:49090258665807": {
     "available": true,
-    "price": "35.70",
+    "price": "36.55",
     "product_title": "Legions Imperialis: Xiphon Interceptor Squadron"
   },
   "laescotillajuegos.com:49090258534735": {
     "available": true,
-    "price": "35.70",
+    "price": "36.55",
     "product_title": "Legions Imperialis: Storm Eagle Squadron"
   },
   "laescotillajuegos.com:49090257322319": {
     "available": true,
-    "price": "127.50",
+    "price": "131.75",
     "product_title": "Legions Imperialis: Warmaster Iconoclast Heavy Battle Titan"
   },
   "laescotillajuegos.com:49090259583311": {
     "available": true,
-    "price": "34.85",
+    "price": "36.55",
     "product_title": "Legions Imperialis: Leman Russ Strike Squadron"
   },
   "laescotillajuegos.com:49090257879375": {
     "available": true,
-    "price": "34.85",
+    "price": "36.55",
     "product_title": "Legions Imperialis: Predator Squadron"
   },
   "laescotillajuegos.com:49090257027407": {
     "available": true,
-    "price": "35.70",
+    "price": "36.55",
     "product_title": "Legions Imperialis: Civitas Imperialis"
   },
   "laescotillajuegos.com:49090258862415": {
     "available": true,
-    "price": "35.70",
+    "price": "36.55",
     "product_title": "Legions Imperialis: Fire Raptor Gunship Squadron"
   },
   "laescotillajuegos.com:49090257748303": {
     "available": true,
-    "price": "42.50",
+    "price": "43.35",
     "product_title": "Legions Imperialis: Knights Porphyrion"
   },
   "laescotillajuegos.com:49090260238671": {
@@ -129311,17 +129311,17 @@
   },
   "laescotillajuegos.com:49090259124559": {
     "available": false,
-    "price": "35.70",
+    "price": "36.55",
     "product_title": "Horus Heresy: MKVI Command Squad"
   },
   "laescotillajuegos.com:49090257486159": {
     "available": true,
-    "price": "54.40",
+    "price": "56.10",
     "product_title": "Legions Imperialis: Cerastus Knights Acheron/Castigator"
   },
   "laescotillajuegos.com:49090259288399": {
     "available": false,
-    "price": "35.70",
+    "price": "36.55",
     "product_title": "Horus Heresy: MKIII Command Squad"
   },
   "laescotillajuegos.com:49100476973391": {
@@ -129366,17 +129366,17 @@
   },
   "laescotillajuegos.com:49032898314575": {
     "available": false,
-    "price": "35.70",
+    "price": "36.55",
     "product_title": "Orks: Mekboss"
   },
   "laescotillajuegos.com:49032899395919": {
     "available": false,
-    "price": "114.75",
+    "price": "118.15",
     "product_title": "Patrulla de Combate: Genestealer Cults"
   },
   "laescotillajuegos.com:49032898937167": {
     "available": true,
-    "price": "114.75",
+    "price": "118.15",
     "product_title": "Patrulla de Combate: Adepta Sororitas"
   },
   "laescotillajuegos.com:49032899199311": {
@@ -129386,22 +129386,22 @@
   },
   "laescotillajuegos.com:49032898773327": {
     "available": false,
-    "price": "47.50",
+    "price": "48.45",
     "product_title": "Codex: Adepta Sororitas (english)"
   },
   "laescotillajuegos.com:49032898675023": {
     "available": true,
-    "price": "47.50",
+    "price": "48.45",
     "product_title": "Codex: Adepta Sororitas (español)"
   },
   "laescotillajuegos.com:49032898871631": {
     "available": true,
-    "price": "25.08",
+    "price": "26.56",
     "product_title": "Adepta Sororitas: Sacerdote del Ministorum con Vindictor"
   },
   "laescotillajuegos.com:49032898642255": {
     "available": true,
-    "price": "29.33",
+    "price": "30.60",
     "product_title": "Adeptus Custodes: Capitán Escudo"
   },
   "laescotillajuegos.com:49054505435471": {
@@ -129566,32 +129566,32 @@
   },
   "laescotillajuegos.com:48937641083215": {
     "available": true,
-    "price": "31.45",
+    "price": "32.73",
     "product_title": "Soulbligh Gravelords: Sekhar, Colmillo de Nulahmia"
   },
   "laescotillajuegos.com:48937639575887": {
     "available": true,
-    "price": "54.40",
+    "price": "56.10",
     "product_title": "Slaves to Darkness: Juramentados de Brand"
   },
   "laescotillajuegos.com:48937638003023": {
     "available": true,
-    "price": "38.25",
+    "price": "40.38",
     "product_title": "Slaves to Darkness: Saqueadores Pactoscuro"
   },
   "laescotillajuegos.com:48937637904719": {
     "available": true,
-    "price": "42.50",
+    "price": "45.05",
     "product_title": "Slaves to Darkness: Nexo del Caos"
   },
   "laescotillajuegos.com:48937641247055": {
     "available": true,
-    "price": "42.50",
+    "price": "43.35",
     "product_title": "Daughters of Khaine: Krethusa, Vidente de la Vieja Bruja"
   },
   "laescotillajuegos.com:48937638068559": {
     "available": true,
-    "price": "43.78",
+    "price": "45.05",
     "product_title": "Slaves to Darkness: Jinetes Pactoscuro"
   },
   "laescotillajuegos.com:48959205114191": {
@@ -140025,7 +140025,7 @@
     "product_title": "Caja OP15 Adventure on Kami's Island - Japonés"
   },
   "metamorphcenter.com:52715323621718": {
-    "available": true,
+    "available": false,
     "price": "21.95",
     "product_title": "VaultX EXO-TEC Zip Binder 4 Pockets – Álbum Premium 160 cartas con Cremallera Negro"
   },
@@ -141040,7 +141040,7 @@
     "product_title": "TECH STICKER 30TH CELEBRATION LUCARIO PRE-ORDER"
   },
   "pokedealtcg.es:59084216467781": {
-    "available": true,
+    "available": false,
     "price": "29.95",
     "product_title": "TECH STICKER 30TH CELEBRATION EXEGGUTOR PRE-ORDER"
   },
@@ -173995,7 +173995,7 @@
     "product_title": "Booster Box Pokémon M4 Ninja Spinner | Coreano |"
   },
   "tcglevel.com:52032713654539": {
-    "available": true,
+    "available": false,
     "price": "60.90",
     "product_title": "Booster Box White Flare SV11W  | Coreano |"
   },
@@ -177830,7 +177830,7 @@
     "product_title": "Album 4 Bolsillos Vault X | Exo-Tec Zip Binder | 160 bolsillos"
   },
   "todohits.com:53342594564433": {
-    "available": true,
+    "available": false,
     "price": "19.99",
     "product_title": "Album 4 Bolsillos Vault X | Exo-Tec Zip Binder | 160 bolsillos"
   },
@@ -289330,7 +289330,7 @@
     "product_title": "Collector Booster Reality Fracture Inglés"
   },
   "miceliongames.com:35264": {
-    "available": true,
+    "available": false,
     "price": 139.95,
     "product_title": "Play Booster Display Reality Fracture Español &#8211; Magic"
   },
@@ -325760,7 +325760,7 @@
     "product_title": "GAMEGENIC: MTG The Hobbit Premium Art Sleeves - Smaug"
   },
   "sunnystore.es:56917326233986": {
-    "available": true,
+    "available": false,
     "price": "144.90",
     "product_title": "PREMIUM DECK SET ESPEON & UMBREON 30TH CELEBRATION (JAPONÉS)"
   },
