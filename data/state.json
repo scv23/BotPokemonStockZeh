@@ -33400,7 +33400,7 @@
     "product_title": "Pokémon - 30 Jahre Tin-Box Tag Feelinara-ex - DE"
   },
   "cardcosmos.de:54108060877143": {
-    "available": false,
+    "available": true,
     "price": "39.90",
     "product_title": "Pokémon - 30 Jahre 2er-Pack-Blister Evoli - DE"
   },
@@ -44790,7 +44790,7 @@
     "product_title": "Dragon Shield Sleeves – Classic Black (100 Stück)"
   },
   "cardcosmos.de:50956906660183": {
-    "available": true,
+    "available": false,
     "price": "8.99",
     "product_title": "Dragon Shield Sleeves – Dual Matte Ember (100 Stück)"
   },
@@ -322297,7 +322297,7 @@
   "cardcosmos.de:55016979595607": {
     "available": true,
     "price": "7.90",
-    "product_title": "Pokémon - 30th Anniversary Celebration Booster Pack - CN"
+    "product_title": "Pokémon - 30th Anniversary Celebration Booster Pack - CHN"
   },
   "cardcosmos.de:55016799732055": {
     "available": true,
@@ -325322,7 +325322,7 @@
   "holoplazatcg.com:12343": {
     "available": true,
     "price": 6.0,
-    "product_title": "Tropical Beach Showdown 25 Octubre 10:00"
+    "product_title": "Tropical Beach Showdown 8 Noviembre 10:00"
   },
   "epicdeck.es:62653171106179": {
     "available": false,
@@ -325760,7 +325760,7 @@
     "product_title": "GAMEGENIC: MTG The Hobbit Premium Art Sleeves - Smaug"
   },
   "sunnystore.es:56917326233986": {
-    "available": true,
+    "available": false,
     "price": "144.90",
     "product_title": "PREMIUM DECK SET ESPEON & UMBREON 30TH CELEBRATION (JAPONÉS)"
   },
@@ -351733,5 +351733,15 @@
     "available": true,
     "price": 30.0,
     "product_title": "Riftbound League of Legends TCG: Radiance &#8211; Inscripciones Pre-Rift Kit &#8211; Presentaciones (17 y 18 Octubre)"
+  },
+  "cardcosmos.de:55088088252759": {
+    "available": false,
+    "price": "12.99",
+    "product_title": "Pokémon - Mega-Entwicklung Erhabene Helden Booster Pack - DE"
+  },
+  "metamorphcenter.com:55445188968790": {
+    "available": true,
+    "price": "109.95",
+    "product_title": "[ DAÑADA ] Caja OP17 The World's Strongest Warriors - Japonés"
   }
 }
