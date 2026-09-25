@@ -55980,7 +55980,7 @@
     "product_title": "Lata Mega Luz Lunar (ESP)"
   },
   "elbazartcg.com:55743476498780": {
-    "available": true,
+    "available": false,
     "price": "59.99",
     "product_title": "Booster White Flare"
   },
@@ -78490,7 +78490,7 @@
     "product_title": "Magic x Spiderman Booster Bundle"
   },
   "pokemillon.com:53928361001283": {
-    "available": true,
+    "available": false,
     "price": "24.90",
     "product_title": "Topps | 2025-26 Topps Juventus - Collector Tin"
   },
@@ -173482,7 +173482,7 @@
   "tcglevel.com:51734156214539": {
     "available": true,
     "price": "46.90",
-    "product_title": "Booster Box SV9 Battle Partners Pokémon | Coreano |"
+    "product_title": "Booster Box SV9 Battle Partners Pokémon | Coreano"
   },
   "tcglevel.com:53293150601483": {
     "available": true,
@@ -277845,7 +277845,7 @@
     "product_title": "**INSCRIPCIÓ**Presentació Realidad Fracturada Diumenge Mati · 09:30"
   },
   "industria61.com:174672": {
-    "available": true,
+    "available": false,
     "price": 30.0,
     "product_title": "**INSCRIPCIÓ**Presentació Realidad Fracturada Dissabte Tarda · 16:30"
   },
@@ -302965,7 +302965,7 @@
     "product_title": "2025 Topps Universe WWE &#8211; Value Box"
   },
   "supercollectors.es:63277": {
-    "available": true,
+    "available": false,
     "price": 465.0,
     "product_title": "2025-26 Topps FC Barcelona Forever &#8211; Hobby Box"
   },
@@ -306325,7 +306325,7 @@
     "product_title": "2023-24 Panini Select NBA Blaster Box"
   },
   "supercollectors.es:42132": {
-    "available": false,
+    "available": true,
     "price": 260.0,
     "product_title": "2023 Panini Contenders Optic NFL Hobby Box"
   },
@@ -351740,7 +351740,7 @@
     "product_title": "Pokémon - Mega-Entwicklung Erhabene Helden Booster Pack - DE"
   },
   "metamorphcenter.com:55445188968790": {
-    "available": true,
+    "available": false,
     "price": "109.95",
     "product_title": "[ DAÑADA ] Caja OP17 The World's Strongest Warriors - Japonés"
   },
@@ -354351,12 +354351,12 @@
   },
   "supercollectors.es:74245:76718": {
     "available": true,
-    "price": 0.0,
+    "price": 6.5,
     "product_title": "Magic: The Gathering &#8211; The Hobbit &#8211; Play Booster Box (Inglés)"
   },
   "supercollectors.es:74245:76719": {
     "available": true,
-    "price": 0.0,
+    "price": 6.5,
     "product_title": "Magic: The Gathering &#8211; The Hobbit &#8211; Play Booster Box (Inglés)"
   },
   "laescotillajuegos.com:58878825464143": {
@@ -354473,5 +354473,20 @@
     "available": true,
     "price": 34.95,
     "product_title": "Riftbound: Legacy Vault"
+  },
+  "pokedexcards.com:55164113551687": {
+    "available": true,
+    "price": "10.00",
+    "product_title": "Taza #052"
+  },
+  "pokedexcards.com:55164113584455": {
+    "available": true,
+    "price": "10.00",
+    "product_title": "Taza #052"
+  },
+  "supercollectors.es:75627": {
+    "available": true,
+    "price": 975.0,
+    "product_title": "2025-26 Topps NBA Pristine &#8211; Hobby Box"
   }
 }
