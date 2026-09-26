@@ -1745,7 +1745,7 @@
     "product_title": "Funko POP! Star Wars - Kylo Ren Supreme Leader 308 - Special Edition"
   },
   "alfriki.com:50874730283347": {
-    "available": true,
+    "available": false,
     "price": "16.99",
     "product_title": "Funko POP - Spider-Man 1454 - Special Edition"
   },
@@ -39131,7 +39131,7 @@
   },
   "cardcosmos.de:51724855443799": {
     "available": true,
-    "price": "5.50",
+    "price": "4.99",
     "product_title": "Pokémon - Ruler of the Black Flame Booster Pack - KOR"
   },
   "cardcosmos.de:51724867109207": {
@@ -103290,7 +103290,7 @@
     "product_title": "Beastmen Brayherds: Battle March Army"
   },
   "laescotillajuegos.com:58550202532175": {
-    "available": true,
+    "available": false,
     "price": "31.03",
     "product_title": "Horus Heresy: Legio Custodes Dice Set"
   },
@@ -106525,7 +106525,7 @@
     "product_title": "Middle-Earth SBG: Hill Tribesmen Commanders"
   },
   "laescotillajuegos.com:58081195786575": {
-    "available": true,
+    "available": false,
     "price": "10.00",
     "product_title": "White Dwarf 526 (Jul-26) (English)"
   },
@@ -173510,7 +173510,7 @@
     "product_title": "Mega Starter Deck ex Eevee Pokémon | Japonés"
   },
   "tcglevel.com:53281128972555": {
-    "available": true,
+    "available": false,
     "price": "49.90",
     "product_title": "Booster Box Jumbo Team Rocket Chasing Glory Together CSV10C | Chino"
   },
@@ -194730,7 +194730,7 @@
     "product_title": "LEGO City Helicóptero de Rescate para Emergencias Kit de construcción 60405"
   },
   "toyplanet.com:52350390337859": {
-    "available": true,
+    "available": false,
     "price": "14.99",
     "product_title": "Puzzle Amanecer En El Río Katsura Japón 1000 Piezas"
   },
@@ -351600,7 +351600,7 @@
     "product_title": "Inscripción RCQ Limitado Micelion Reality Fracture"
   },
   "topdeck.es:4792": {
-    "available": true,
+    "available": false,
     "price": 6.0,
     "product_title": "Challenge Septiembre Top Deck"
   },
@@ -352912,17 +352912,17 @@
   "elbazartcg.com:59242167140700": {
     "available": false,
     "price": "16.49",
-    "product_title": "(1 MAX PERSONA y APERTURA DIRECTO O SELLADO ROTO)Blister moneda de Eevee 30th (ESP)"
+    "product_title": "(1 MAX PERSONA y APERTURA DIRECTO)Blister moneda de Eevee 30th (ESP)"
   },
   "elbazartcg.com:59242099573084": {
-    "available": true,
-    "price": "96.99",
-    "product_title": "(LIMITADO A 1 POR PERSONA)Pack PosterTech30th (ESP)"
-  },
-  "elbazartcg.com:59242099605852": {
     "available": false,
     "price": "96.99",
-    "product_title": "(LIMITADO A 1 POR PERSONA)Pack PosterTech30th (ESP)"
+    "product_title": "(LIMITADO A 1 POR PERSONA-SOLO APERTURA DIRECTO)Pack PosterTech30th (ESP)"
+  },
+  "elbazartcg.com:59242099605852": {
+    "available": true,
+    "price": "96.99",
+    "product_title": "(LIMITADO A 1 POR PERSONA-SOLO APERTURA DIRECTO)Pack PosterTech30th (ESP)"
   },
   "laescotillajuegos.com:58868426178895": {
     "available": true,
@@ -354773,5 +354773,45 @@
     "available": true,
     "price": "3.99",
     "product_title": "Pokémon - Stellar Crystal Slim Booster - CHN"
+  },
+  "elbazartcg.com:59242217079132": {
+    "available": false,
+    "price": "35.99",
+    "product_title": "(1 MAX DE CADA POR PERSONA y APERTURA DIRECTO) Caja Ex 30th (ESP)"
+  },
+  "elbazartcg.com:59242217111900": {
+    "available": false,
+    "price": "35.99",
+    "product_title": "(1 MAX DE CADA POR PERSONA y APERTURA DIRECTO) Caja Ex 30th (ESP)"
+  },
+  "elbazartcg.com:59242246734172": {
+    "available": false,
+    "price": "30.99",
+    "product_title": "(1 MAX POR PERSONA y APERTURA DIRECTO) Colección Poster (ESP)"
+  },
+  "elbazartcg.com:59242106192220": {
+    "available": false,
+    "price": "115.99",
+    "product_title": "(LIMITADO A 1 POR PERSONA-APERTURA DIRECTO)Pack Lata30th (ESP)"
+  },
+  "elbazartcg.com:59242085712220": {
+    "available": false,
+    "price": "124.99",
+    "product_title": "(LIMITADO A 1 POR PERSONA-APERTURA DIRECTO SOLO)Pack ETB 30th (ESP)"
+  },
+  "elbazartcg.com:59242085744988": {
+    "available": false,
+    "price": "124.99",
+    "product_title": "(LIMITADO A 1 POR PERSONA-APERTURA DIRECTO SOLO)Pack ETB 30th (ESP)"
+  },
+  "solohits.es:59593759654233": {
+    "available": false,
+    "price": "60.00",
+    "product_title": "ETB - 30º Aniversario"
+  },
+  "holoplazatcg.com:12675": {
+    "available": true,
+    "price": 159.95,
+    "product_title": "Riftbound: League of Legends TCG 1st Anniversary Gift Box Chinese"
   }
 }
