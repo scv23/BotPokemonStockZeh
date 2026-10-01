@@ -33955,12 +33955,12 @@
     "product_title": "Pokémon - Mewtwo VSTAR SAR #221/172 (VSTAR Universe) – AOG 10 Gem Mint"
   },
   "cardcosmos.de:54013724524887": {
-    "available": true,
+    "available": false,
     "price": "85.00",
     "product_title": "Pokémon - Turtok Holo #2/102 (Basis Set) – AOG 1 Poor"
   },
   "cardcosmos.de:54013724492119": {
-    "available": true,
+    "available": false,
     "price": "225.00",
     "product_title": "Pokémon - Glurak Holo #4/102 (Basis Set) – AOG 1 Poor"
   },
@@ -47470,7 +47470,7 @@
     "product_title": "Mazo Starter Deck ST-31 Red Monkey.D.Luffy One Piece - Ingles"
   },
   "cardzone.es:58421124890968": {
-    "available": true,
+    "available": false,
     "price": "189.95",
     "product_title": "Caja de 24 Sobres The Time of Battle OP16 - Inglés"
   },
@@ -56010,7 +56010,7 @@
     "product_title": "Mini Tin Ciudad Lumiose (ESP)"
   },
   "elbazartcg.com:57971365413212": {
-    "available": true,
+    "available": false,
     "price": "13.49",
     "product_title": "Mini Tin Ciudad Lumiose (ESP)"
   },
@@ -61645,7 +61645,7 @@
     "product_title": "Caja 18 Sobres Oscuridad Absoluta | Pitch Black"
   },
   "pokemillon.com:54759237222723": {
-    "available": true,
+    "available": false,
     "price": "124.90",
     "product_title": "Caja 18 Sobres Oscuridad Absoluta | Pitch Black"
   },
@@ -97985,7 +97985,7 @@
     "product_title": "Emperors in the New World - One Piece Card Game OP09"
   },
   "kamehousecards.com:53991207338322": {
-    "available": true,
+    "available": false,
     "price": "174.95",
     "product_title": "Cross Force FB10 - Dragon Ball Super Card Game Fusion World"
   },
@@ -98210,7 +98210,7 @@
     "product_title": "Sobre Impact Beyond Dimension B31 - Dragon Ball Super Card Game Masters"
   },
   "kamehousecards.com:53991214874962": {
-    "available": true,
+    "available": false,
     "price": "144.95",
     "product_title": "Impact Beyond Dimension B31 - Dragon Ball Super Card Game Masters"
   },
@@ -98815,7 +98815,7 @@
     "product_title": "Sobre Three Glorious Fighters B30 - Dragon Ball Super Card Game Masters"
   },
   "kamehousecards.com:53026139308370": {
-    "available": true,
+    "available": false,
     "price": "159.95",
     "product_title": "Three Glorious Fighters B30 - Dragon Ball Super Card Game Masters"
   },
@@ -99165,7 +99165,7 @@
     "product_title": "Poké Ball E25 Pokémon"
   },
   "kamehousecards.com:53133973422418": {
-    "available": true,
+    "available": false,
     "price": "19.95",
     "product_title": "Poké Ball E25 Pokémon"
   },
@@ -100795,7 +100795,7 @@
     "product_title": "Collector's Chest Pikachu November 2024"
   },
   "kamehousecards.com:51872581878098": {
-    "available": true,
+    "available": false,
     "price": "104.95",
     "product_title": "Elite Trainer Box Pokémon Surging Sparks y Chispas Fulgurantes"
   },
@@ -321045,8 +321045,8 @@
     "product_title": "Estuche Spiderman Triple"
   },
   "elbazartcg.com:58868015432028": {
-    "available": true,
-    "price": "17.59",
+    "available": false,
+    "price": "14.19",
     "product_title": "PARTY STORM EMERALD CHINO"
   },
   "laescotillajuegos.com:58648264048975": {
@@ -353936,7 +353936,7 @@
   },
   "toyplanet.com:54838788227395": {
     "available": true,
-    "price": "89.99",
+    "price": "78.99",
     "product_title": "Muñeca de Colección Bratz x Tyla MGA"
   },
   "toyplanet.com:54838787866947": {
@@ -356343,5 +356343,15 @@
     "available": true,
     "price": 7.0,
     "product_title": "Pokémon TCG League Challenge OCTUBRE | Entrada"
+  },
+  "elbazartcg.com:59242258628956": {
+    "available": false,
+    "price": "35.99",
+    "product_title": "(1 MAX DE CADA POR PERSONA y APERTURA DIRECTO) Lata Ex 30th (ESP)"
+  },
+  "elbazartcg.com:59242258661724": {
+    "available": false,
+    "price": "35.99",
+    "product_title": "(1 MAX DE CADA POR PERSONA y APERTURA DIRECTO) Lata Ex 30th (ESP)"
   }
 }
