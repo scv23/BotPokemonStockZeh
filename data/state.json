@@ -30,7 +30,7 @@
     "product_title": "Mega Box Marvel Cómics Chrome - Topps Europe"
   },
   "alfriki.com:54358381592915": {
-    "available": true,
+    "available": false,
     "price": "39.99",
     "product_title": "Value Box Marvel Cómics Chrome - Topps Europe"
   },
@@ -32650,7 +32650,7 @@
     "product_title": "The Acrylic Box - Japanese Booster Box Regular Acryl Case"
   },
   "cardcosmos.de:54229583135063": {
-    "available": false,
+    "available": true,
     "price": "69.90",
     "product_title": "Magic: The Gathering - The Hobbit Prerelease Pack - EN"
   },
@@ -32830,12 +32830,12 @@
     "product_title": "Pokémon - 30 Jahre Ultra-Premium-Kollektion Tag - DE"
   },
   "cardcosmos.de:54217140928855": {
-    "available": false,
-    "price": "0.00",
+    "available": true,
+    "price": "29.90",
     "product_title": "Pokémon - 30 Jahre Mini-Tin-Box zufällige Variante - DE"
   },
   "cardcosmos.de:54217140535639": {
-    "available": true,
+    "available": false,
     "price": "89.90",
     "product_title": "Pokémon - 30 Jahre Boosterbundle - DE"
   },
@@ -34185,7 +34185,7 @@
     "product_title": "Yu-Gi-Oh! Limit Over Collection - The Heroes Booster Display - KOR"
   },
   "cardcosmos.de:53857335017815": {
-    "available": false,
+    "available": true,
     "price": "99.90",
     "product_title": "Pokémon Abyss Eye JPN Bundle mit 9 Pocket Binder Lila"
   },
@@ -35645,12 +35645,12 @@
     "product_title": "Pokémon - Mega Entwicklung: Dunkelnacht Booster Bundle - DE"
   },
   "cardcosmos.de:53462564929879": {
-    "available": false,
-    "price": "44.99",
+    "available": true,
+    "price": "49.90",
     "product_title": "Magic: The Gathering - Zersplitterte Realität Commander Deck Ein neues Multiversum - DE"
   },
   "cardcosmos.de:53462561227095": {
-    "available": false,
+    "available": true,
     "price": "49.90",
     "product_title": "Magic: The Gathering - Reality Fracture Commander Deck Multiverse Reforged - EN"
   },
@@ -35950,7 +35950,7 @@
     "product_title": "Pokémon - Abyss Eye Booster Display - KOR"
   },
   "cardcosmos.de:53352017756503": {
-    "available": false,
+    "available": true,
     "price": "69.90",
     "product_title": "Pokémon - Abyss Eye 30er Display - JPN"
   },
@@ -36095,13 +36095,13 @@
     "product_title": "Pokémon - Karmesin & Purpur: Nebel der Sagen Booster Bundle - DE"
   },
   "cardcosmos.de:53303695114583": {
-    "available": false,
-    "price": "49.99",
+    "available": true,
+    "price": "49.90",
     "product_title": "Riftbound: League of Legends TCG - Unleashed Jumbo Display - CHN"
   },
   "cardcosmos.de:53303433494871": {
-    "available": false,
-    "price": "29.90",
+    "available": true,
+    "price": "34.90",
     "product_title": "Riftbound: League of Legends TCG - Unleashed Slim Display - CHN"
   },
   "cardcosmos.de:53298355044695": {
@@ -37950,8 +37950,8 @@
     "product_title": "Magic: The Gathering - Murders at Karlov Manor Collectors Booster Box - EN"
   },
   "cardcosmos.de:48463088779607": {
-    "available": false,
-    "price": "279.99",
+    "available": true,
+    "price": "349.90",
     "product_title": "Magic: The Gathering - Mord in Karlov Manor Collector Booster Display - DE"
   },
   "cardcosmos.de:48669229220183": {
@@ -38011,7 +38011,7 @@
   },
   "cardcosmos.de:49681100800343": {
     "available": false,
-    "price": "319.99",
+    "price": "499.90",
     "product_title": "Magic: The Gathering - Innistrad Remastered - Collectors Booster Box - EN"
   },
   "cardcosmos.de:49681114530135": {
@@ -38066,7 +38066,7 @@
   },
   "cardcosmos.de:50384078242135": {
     "available": false,
-    "price": "269.99",
+    "price": "399.90",
     "product_title": "Magic: The Gathering -  Marvel’s Spider-Man Sammler Booster Display - DE"
   },
   "cardcosmos.de:50385666965847": {
@@ -38335,7 +38335,7 @@
     "product_title": "Magic: The Gathering - Secrets of Strixhaven Theme Deck Eerie - EN"
   },
   "cardcosmos.de:52779150508375": {
-    "available": false,
+    "available": true,
     "price": "19.99",
     "product_title": "Magic: The Gathering - Secrets of Strixhaven Theme Deck Lifegain - EN"
   },
@@ -38355,13 +38355,13 @@
     "product_title": "Riftbound: League of Legends - Unleashed Champion Deck Vex - EN"
   },
   "cardcosmos.de:52399146172759": {
-    "available": false,
-    "price": "29.99",
+    "available": true,
+    "price": "29.90",
     "product_title": "Riftbound: League of Legends - Spiritforged Champion-Deck Rumble - EN"
   },
   "cardcosmos.de:52399132246359": {
-    "available": false,
-    "price": "29.99",
+    "available": true,
+    "price": "34.90",
     "product_title": "Riftbound: League of Legends - Spiritforged Champion-Deck Fiora - EN"
   },
   "cardcosmos.de:51782174507351": {
@@ -40185,7 +40185,7 @@
     "product_title": "Magic: The Gathering - Bloomburrow Prerelease Pack - EN"
   },
   "cardcosmos.de:48809957654871": {
-    "available": false,
+    "available": true,
     "price": "39.99",
     "product_title": "Magic: The Gathering - Boomburrow Starter-Kit - DE"
   },
@@ -41385,7 +41385,7 @@
     "product_title": "Magic: The Gathering - Marvel Super Heroes Beginner Box - EN"
   },
   "cardcosmos.de:52675222929751": {
-    "available": false,
+    "available": true,
     "price": "24.99",
     "product_title": "Magic: The Gathering - Marvel Super Heroes Einsteigerbox - DE"
   },
@@ -41500,7 +41500,7 @@
     "product_title": "Ultra Pro - Mega Charizard X Alcove Flip Deck Box für Pokémon"
   },
   "cardcosmos.de:52515925197143": {
-    "available": false,
+    "available": true,
     "price": "199.90",
     "product_title": "Pokémon - VMAX Climax Booster Display - KOR"
   },
@@ -42161,7 +42161,7 @@
   },
   "cardcosmos.de:52474262258007": {
     "available": false,
-    "price": "79.99",
+    "price": "79.90",
     "product_title": "Riftbound: League of Legends TCG - Spiritforged Jumbo Display - CHN"
   },
   "cardcosmos.de:52418175336791": {
@@ -42305,7 +42305,7 @@
     "product_title": "Magic: The Gathering - Lorwyn Eclipsed 60-Card Theme Deck Angels - EN"
   },
   "cardcosmos.de:52238679736663": {
-    "available": false,
+    "available": true,
     "price": "16.99",
     "product_title": "Magic: The Gathering - Lorwyn Eclipsed 60-Card Theme Deck Pirates - EN"
   },
@@ -44190,8 +44190,8 @@
     "product_title": "Dragon Shield Japanese Art Sleeves - Classic Black | 60stk"
   },
   "cardcosmos.de:51460336681303": {
-    "available": false,
-    "price": "39.99",
+    "available": true,
+    "price": "39.90",
     "product_title": "Riftbound: League of Legends TCG - Origins Slim Display - CHN"
   },
   "cardcosmos.de:51460313153879": {
@@ -45395,7 +45395,7 @@
     "product_title": "Pokémon - Ruler of the Black Flame Booster Display - KOR"
   },
   "cardcosmos.de:50154697163095": {
-    "available": false,
+    "available": true,
     "price": "169.90",
     "product_title": "Pokémon - Vstar Universe Booster Display - KOR"
   },
@@ -46465,8 +46465,8 @@
     "product_title": "Star Wars: Unlimited - Schatten der Galaxis Booster Display - DE"
   },
   "cardcosmos.de:49005135626583": {
-    "available": false,
-    "price": "34.99",
+    "available": true,
+    "price": "44.90",
     "product_title": "Magic: The Gathering - Foundations Starter Collection - EN"
   },
   "cardcosmos.de:49005127893335": {
@@ -59840,7 +59840,7 @@
     "product_title": "Jolteon Vmax ,PSA 10 , Promo Swsh"
   },
   "iberiancollect.com:53039867199755": {
-    "available": true,
+    "available": false,
     "price": "147.90",
     "product_title": "Perfect Order (Equilibrio perfecto ) Booster box , 36 sobres , Español"
   },
@@ -61080,7 +61080,7 @@
     "product_title": "Blister 2 Sobre Oscuridad Absoluta Caos Creciente | Pitch Black Chaos Rising"
   },
   "pokemillon.com:54776494915907": {
-    "available": true,
+    "available": false,
     "price": "19.90",
     "product_title": "Blister 2 Sobre Oscuridad Absoluta Caos Creciente | Pitch Black Chaos Rising"
   },
@@ -63470,7 +63470,7 @@
     "product_title": "30th Celebration Álbum Collection Box Celebraciones 30 Aniversario"
   },
   "pokemillon.com:54597578490179": {
-    "available": true,
+    "available": false,
     "price": "109.90",
     "product_title": "30th Celebration Álbum Collection Box Celebraciones 30 Aniversario"
   },
@@ -79280,7 +79280,7 @@
     "product_title": "100 Fundas Perfect Penny Sleeves Vanguard"
   },
   "pokemillon.com:54715851669827": {
-    "available": true,
+    "available": false,
     "price": "1.80",
     "product_title": "100 Fundas Perfect Penny Sleeves Vanguard"
   },
@@ -81430,7 +81430,7 @@
     "product_title": "POKEMON 30 ANIVERSARIO CELEBRACIONES BOOSTER BOX (CHINO)"
   },
   "sunnystore.es:56902130663810": {
-    "available": true,
+    "available": false,
     "price": "21.90",
     "product_title": "POKEMON 30 ANIVERSARIO CELEBRACIONES COIN SET (CHINO)"
   },
@@ -85225,12 +85225,12 @@
     "product_title": "CAJA POKEMON TEMPESTAD PLATEADA 36 SOBRES (ESPAÑOL)"
   },
   "sunnystore.es:56197455774082": {
-    "available": true,
+    "available": false,
     "price": "62.90",
     "product_title": "Pokémon Black Bolt Booster Box SV11B | Zekrom TCG 20 sobres (COREANO)"
   },
   "sunnystore.es:55558614221186": {
-    "available": true,
+    "available": false,
     "price": "62.90",
     "product_title": "Pokémon White Flare Booster Box SV11W | Reshiram TCG 20 sobres (COREANO)"
   },
@@ -104795,7 +104795,7 @@
     "product_title": "Blood Bowl: Spike! Issue 22"
   },
   "laescotillajuegos.com:58370417328463": {
-    "available": true,
+    "available": false,
     "price": "132.60",
     "product_title": "Warriors Of Chaos: Lord On Chaos Dragon"
   },
@@ -105770,7 +105770,7 @@
     "product_title": "Riftbound: League of Legends TCG - Vendetta - Vault Bundle"
   },
   "laescotillajuegos.com:58290282627407": {
-    "available": true,
+    "available": false,
     "price": "127.99",
     "product_title": "Riftbound: League of Legends TCG - Vendetta - Booster Display (24 packs)"
   },
@@ -110045,7 +110045,7 @@
     "product_title": "Eldfall Chronicles - Goblin Wartribes Expansion"
   },
   "laescotillajuegos.com:57505638842703": {
-    "available": true,
+    "available": false,
     "price": "170.91",
     "product_title": "Eldfall Chronicles - Core Box: Northern Wind"
   },
@@ -133325,7 +133325,7 @@
     "product_title": "CAJA POKEMON RULER BLACK FLAME SV3 - JAPONES"
   },
   "latiendadelascartas.es:58086716670216": {
-    "available": false,
+    "available": true,
     "price": "140.97",
     "product_title": "CAJA POKEMON MASK OF CHANGE SV6 - JAPONES"
   },
@@ -133340,7 +133340,7 @@
     "product_title": "CAJA POKEMON TRIPLET BEAT SV1A - JAPONES"
   },
   "latiendadelascartas.es:58086716768520": {
-    "available": false,
+    "available": true,
     "price": "108.30",
     "product_title": "CAJA POKEMON STELLAR MIRACLE SV7 - JAPONES"
   },
@@ -133350,7 +133350,7 @@
     "product_title": "CAJA POKEMON BATTLE PARTNERS SV9 - JAPONES"
   },
   "latiendadelascartas.es:58086717030664": {
-    "available": false,
+    "available": true,
     "price": "108.85",
     "product_title": "CAJA POKEMON SNOW HAZARD SV2P - JAPONES"
   },
@@ -133370,7 +133370,7 @@
     "product_title": "CAJA POKEMON NIGHT WANDERER SV6A - JAPONES"
   },
   "latiendadelascartas.es:58086717325576": {
-    "available": false,
+    "available": true,
     "price": "104.67",
     "product_title": "CAJA POKEMON ANCIENT ROAR SV4K - JAPONES"
   },
@@ -137385,12 +137385,12 @@
     "product_title": "CAJA POKEMON TERASTAL FESTIVAL EX SV8A - JAPONES"
   },
   "latiendadelascartas.es:51926443458824": {
-    "available": false,
+    "available": true,
     "price": "116.50",
     "product_title": "CAJA POKEMON MASK OF CHANGE SV6 - JAPONES"
   },
   "latiendadelascartas.es:51926438478088": {
-    "available": false,
+    "available": true,
     "price": "89.50",
     "product_title": "CAJA POKEMON STELLAR MIRACLE SV7 - JAPONES"
   },
@@ -137405,7 +137405,7 @@
     "product_title": "CAJA POKEMON SCARLET EX SV1S - JAPONES"
   },
   "latiendadelascartas.es:51926428156168": {
-    "available": false,
+    "available": true,
     "price": "89.95",
     "product_title": "CAJA POKEMON SNOW HAZARD SV2P - JAPONES"
   },
@@ -137430,7 +137430,7 @@
     "product_title": "CAJA POKEMON RAGING SURF SV3A - JAPONES"
   },
   "latiendadelascartas.es:51926418456840": {
-    "available": false,
+    "available": true,
     "price": "86.50",
     "product_title": "CAJA POKEMON ANCIENT ROAR SV4K - JAPONES"
   },
@@ -138320,7 +138320,7 @@
     "product_title": "[ DAÑADA ] ETB Pitch Black ME05 - Inglés"
   },
   "metamorphcenter.com:55104034865494": {
-    "available": true,
+    "available": false,
     "price": "199.95",
     "product_title": "Caja Llamas Obsidianas SV3 - Español"
   },
@@ -145460,7 +145460,7 @@
     "product_title": "Pokémon TCG: 30 Aniversario Especial Pokémon Booster Bundle (Display 10 unidades) - PREVENTA"
   },
   "pokezilla.com:43614586142810": {
-    "available": true,
+    "available": false,
     "price": "399.95",
     "product_title": "Pokémon TCG: Espeon 30 Aniversario Especial Ultra-Premium Collection- PREVENTA"
   },
@@ -152565,7 +152565,7 @@
     "product_title": "TYRANIDS: WARRIORS"
   },
   "sarumangames.es:56217254560123": {
-    "available": true,
+    "available": false,
     "price": "28.00",
     "product_title": "YU-GI-OH!: LEGENDARY MODERN DECKS 2026 - ESPAÑOL"
   },
@@ -173476,7 +173476,7 @@
   },
   "tcglevel.com:53305286033675": {
     "available": true,
-    "price": "103.90",
+    "price": "101.90",
     "product_title": "Booster Box Storm Emerald | Japonés"
   },
   "tcglevel.com:51734156214539": {
@@ -192675,7 +192675,7 @@
     "product_title": "Lego Star Wars Diorama Carrera de Vainas de Mos Espa"
   },
   "toyplanet.com:52350662771011": {
-    "available": true,
+    "available": false,
     "price": "11.99",
     "product_title": "Educa Puzzle 2X16 Bluey de Madera"
   },
@@ -193375,7 +193375,7 @@
     "product_title": "Peluca Brujita Negra con Mechas Lilas ¡Perfecta para Completar tu Disfraz Infantil de Halloween!"
   },
   "toyplanet.com:52350555619651": {
-    "available": true,
+    "available": false,
     "price": "13.99",
     "product_title": "Puzzle 1000 piezas Bicicleta Campo Lavanda"
   },
@@ -207635,7 +207635,7 @@
     "product_title": "BOOSTER BOX - OSCURIDAD ABSOLUTA [ES]"
   },
   "unsobremas.com:65269422293341": {
-    "available": true,
+    "available": false,
     "price": "5.95",
     "product_title": "BOOSTER PACK - OSCURIDAD ABSOLUTA [ES]"
   },
@@ -235225,7 +235225,7 @@
     "product_title": "Pack Ultra PRO Easy Pull Sleeves + Semi-Rigids (50 uds)"
   },
   "hkbens-tr.myshopify.com:56453239374207": {
-    "available": true,
+    "available": false,
     "price": "5.49",
     "product_title": "Toploader Regular Ultra PRO (25 unidades)"
   },
@@ -287190,7 +287190,7 @@
     "product_title": "MTG &#8211; Edge Of Eternities Play Boosters Box &#8211; INGLES"
   },
   "industria61.com:149166": {
-    "available": true,
+    "available": false,
     "price": 39.95,
     "product_title": "Gamegenic &#8211; The Academic 133+ XL Stealth Edition Purple/Purple"
   },
@@ -321606,7 +321606,7 @@
   },
   "bimbacards.com:61394": {
     "available": false,
-    "price": 164.9,
+    "price": 169.9,
     "product_title": "30 Aniversario Collector Display Box CN"
   },
   "cardcrack.com:1323:1325": {
@@ -324550,92 +324550,92 @@
     "product_title": "Camiseta Boo Made in Japan"
   },
   "cardcosmos.de:55048012530007": {
-    "available": false,
+    "available": true,
     "price": "14.90",
     "product_title": "Gamegenic MTG Secrets of Strixhaven Art Sleeves – Forest (105)"
   },
   "cardcosmos.de:55048012464471": {
-    "available": false,
+    "available": true,
     "price": "14.90",
     "product_title": "Gamegenic MTG Secrets of Strixhaven Art Sleeves – Mountain (105)"
   },
   "cardcosmos.de:55048012235095": {
-    "available": false,
+    "available": true,
     "price": "14.90",
     "product_title": "Gamegenic MTG Secrets of Strixhaven Art Sleeves – Island (105)"
   },
   "cardcosmos.de:55048012202327": {
-    "available": false,
+    "available": true,
     "price": "14.90",
     "product_title": "Gamegenic MTG The Hobbit Premium Art Sleeves – Gandalf (105)"
   },
   "cardcosmos.de:55048012136791": {
-    "available": false,
+    "available": true,
     "price": "14.90",
     "product_title": "Gamegenic MTG The Hobbit Premium Art Sleeves – Thorin (105)"
   },
   "cardcosmos.de:55048012005719": {
-    "available": false,
+    "available": true,
     "price": "14.90",
     "product_title": "Gamegenic MTG The Hobbit Premium Art Sleeves – My Precious (105)"
   },
   "cardcosmos.de:55048011710807": {
-    "available": false,
+    "available": true,
     "price": "19.90",
     "product_title": "Gamegenic Casual Album 18-Pocket Weiß – 360 Karten"
   },
   "cardcosmos.de:55048012562775": {
-    "available": false,
+    "available": true,
     "price": "14.90",
     "product_title": "Gamegenic MTG Secrets of Strixhaven Art Sleeves – Plains (105)"
   },
   "cardcosmos.de:55048012595543": {
-    "available": false,
+    "available": true,
     "price": "14.90",
     "product_title": "Gamegenic MTG The Hobbit Premium Art Sleeves – On An Adventure (105)"
   },
   "cardcosmos.de:55048012628311": {
-    "available": false,
+    "available": true,
     "price": "24.90",
     "product_title": "Gamegenic MTG The Hobbit Shiny Playmat – Gandalf, Shadow’s Foe"
   },
   "cardcosmos.de:55048015085911": {
-    "available": false,
+    "available": true,
     "price": "24.90",
     "product_title": "Gamegenic MTG The Hobbit Prime Playmat – Thorin, Mountain-King"
   },
   "cardcosmos.de:55048054014295": {
-    "available": false,
+    "available": true,
     "price": "4.90",
     "product_title": "Gamegenic Deck Holder 100+ Pink"
   },
   "cardcosmos.de:55048057061719": {
-    "available": false,
+    "available": true,
     "price": "4.90",
     "product_title": "Gamegenic Deck Holder 100+ Gelb"
   },
   "cardcosmos.de:55048058765655": {
-    "available": false,
+    "available": true,
     "price": "3.90",
     "product_title": "Gamegenic Side Holder 80+ Schwarz"
   },
   "cardcosmos.de:55048059814231": {
-    "available": false,
+    "available": true,
     "price": "7.90",
     "product_title": "Gamegenic Double Deck Holder 200+ XL Schwarz"
   },
   "cardcosmos.de:55048059912535": {
-    "available": false,
+    "available": true,
     "price": "9.90",
     "product_title": "Gamegenic Token Keep Schwarz"
   },
   "cardcosmos.de:55048060010839": {
-    "available": false,
+    "available": true,
     "price": "19.90",
     "product_title": "Gamegenic Squire 100+ XL Convertible Schwarz"
   },
   "cardcosmos.de:55048060141911": {
-    "available": false,
+    "available": true,
     "price": "14.90",
     "product_title": "Gamegenic Galaxy Series D6 Würfelset Neptune 12 mm – 36 Würfel"
   },
@@ -325270,12 +325270,12 @@
     "product_title": "Realidad Fracturada - Bundle (Inglés)"
   },
   "laescotillajuegos.com:58795266670927": {
-    "available": false,
+    "available": true,
     "price": "30.00",
     "product_title": "Realidad Fracturada - Sobre de coleccionista (Inglés)"
   },
   "laescotillajuegos.com:58795074453839": {
-    "available": true,
+    "available": false,
     "price": "360.00",
     "product_title": "Realidad Fracturada - Caja de sobres de coleccionista (Inglés)"
   },
@@ -355300,7 +355300,7 @@
     "product_title": "Magic the Gathering Reality Fracture Collector Booster Display (12 sobres) (Inglés)"
   },
   "cardcosmos.de:55192881135959": {
-    "available": false,
+    "available": true,
     "price": "4.90",
     "product_title": "Pokémon - Funism Palmsize Wonders Vol. 2 Figuren Blind Box - CHN"
   },
@@ -355380,7 +355380,7 @@
     "product_title": "Inscripción Presentación SWU: Mundos de Origen Sabado M"
   },
   "cardcosmos.de:55194333839703": {
-    "available": false,
+    "available": true,
     "price": "4.90",
     "product_title": "Pokémon - Funism Palmsize Wonders Vol. 3 Blind Box Figuren - CHN"
   },
@@ -357035,7 +357035,7 @@
     "product_title": "Pokémon - Collect 151 First Partner Schiggy Display Set - CHN"
   },
   "cardcosmos.de:55226736050519": {
-    "available": false,
+    "available": true,
     "price": "14.90",
     "product_title": "Pokémon - Pokémon 30 Jahre Booster Pack - DE"
   },
@@ -357420,7 +357420,7 @@
     "product_title": "[PREPEDIDO] Adeptus Custodes: Coronus Grav-Carrier"
   },
   "sarumangames.es:56485799854459": {
-    "available": true,
+    "available": false,
     "price": "19.95",
     "product_title": "Ultimate Guard Play-Mat Magic: The Gathering \"Reality Fracture\" - Return to the Light Realms"
   },
@@ -357473,5 +357473,125 @@
     "available": false,
     "price": 36.0,
     "product_title": "Panini &#8211; Caja de Harry Potter Always Trading Card Collection"
+  },
+  "universetcg.com:55191147577685": {
+    "available": true,
+    "price": "180.00",
+    "product_title": "Jayce, Defender of Tomorrow (V.2 - Showcase) - Vendetta (Showcase) [VEN-194]"
+  },
+  "industria61.com:175965": {
+    "available": true,
+    "price": 54.95,
+    "product_title": "Devir &#8211; Twilight Struggle Catalán"
+  },
+  "industria61.com:175960": {
+    "available": false,
+    "price": 10.0,
+    "product_title": "Panini &#8211; ALBUM Pack de lanzamiento Harry Potter"
+  },
+  "industria61.com:175957": {
+    "available": false,
+    "price": 90.0,
+    "product_title": "Panini &#8211; Harry Potter Premium Treasure Box"
+  },
+  "industria61.com:175956": {
+    "available": false,
+    "price": 5.0,
+    "product_title": "Panini &#8211; SOBRE Premium de Harry Potter Always Trading Card Collection"
+  },
+  "industria61.com:175947": {
+    "available": true,
+    "price": 17.95,
+    "product_title": "Devir &#8211; Fritanga"
+  },
+  "industria61.com:175943": {
+    "available": false,
+    "price": 54.0,
+    "product_title": "Panini &#8211; Caja Premium de Harry Potter Always Trading Card Collection"
+  },
+  "pidopop.com:https://pidopop.com/lata-glaceon-2-sobres-pokemon-terastal-gathering-chino-iman-nuevo-93217.html": {
+    "available": false,
+    "price": "24.95",
+    "product_title": "Lata Glaceon 2 Sobres Pokemon Terastal Gathering Chino + Iman"
+  },
+  "pidopop.com:https://pidopop.com/mini-lata-pokemon-chaos-rising-ingles-usa-nuevo-93187.html": {
+    "available": false,
+    "price": "19.95",
+    "product_title": "Mini Lata Pokemon Chaos Rising Ingles USA"
+  },
+  "pidopop.com:https://pidopop.com/blind-box-pokemon-funism-first-papa-series-miniature-nuevo-93180.html": {
+    "available": false,
+    "price": "9.95",
+    "product_title": "Blind Box Pokemon Funism First Papa Series Miniature"
+  },
+  "pidopop.com:https://pidopop.com/caja-36-sobres-pokemon-caos-creciente-espanol-nuevo-93179.html": {
+    "available": false,
+    "price": "199.95",
+    "product_title": "Caja 36 Sobres Pokemon Caos Creciente Español"
+  },
+  "pidopop.com:https://pidopop.com/caja-36-sobres-pokemon-rivales-predestinados-espanol-nuevo-93178.html": {
+    "available": false,
+    "price": "199.95",
+    "product_title": "Caja 36 Sobres Pokemon Rivales Predestinados Español"
+  },
+  "pidopop.com:https://pidopop.com/carta-pokemon-ar-nuevo-3-93175.html": {
+    "available": false,
+    "price": "7.95",
+    "product_title": "Carta Pokemon AR"
+  },
+  "pidopop.com:https://pidopop.com/carta-pokemon-ar-nuevo-2-93174.html": {
+    "available": false,
+    "price": "5.95",
+    "product_title": "Carta Pokemon AR"
+  },
+  "pidopop.com:https://pidopop.com/carta-pokemon-ar-nuevo-1-93173.html": {
+    "available": false,
+    "price": "3.95",
+    "product_title": "Carta Pokemon AR"
+  },
+  "pidopop.com:https://pidopop.com/tapete-standard-size-charizard-nuevo-93169.html": {
+    "available": false,
+    "price": "19.95",
+    "product_title": "Tapete Standard Size - Charizard"
+  },
+  "pidopop.com:https://pidopop.com/album-charizard-nuevo-93168.html": {
+    "available": false,
+    "price": "14.95",
+    "product_title": "Álbum - Charizard"
+  },
+  "pidopop.com:https://pidopop.com/lata-pokemon-summer-chaos-rising-and-perfect-order-ingles-nuevo-93161.html": {
+    "available": false,
+    "price": "49.95",
+    "product_title": "Lata Pokemon Summer Chaos Rising and Perfect Order Ingles"
+  },
+  "pidopop.com:https://pidopop.com/battle-deck-pokemon-world-champions-decks-ingles-nuevo-93160.html": {
+    "available": false,
+    "price": "49.95",
+    "product_title": "Battle Deck Pokemon World Champions Decks Ingles"
+  },
+  "pidopop.com:https://pidopop.com/pokemon-tcg-mewtwo-vstar-gift-set-chino-nuevo-93158.html": {
+    "available": false,
+    "price": "299.95",
+    "product_title": "Pokemon TCG Mewtwo VStar gift Set Chino"
+  },
+  "pidopop.com:https://pidopop.com/sobre-pokemon-stellar-crystal-pikachu-chino-nuevo-93157.html": {
+    "available": false,
+    "price": "5.95",
+    "product_title": "Sobre Pokemon Stellar Crystal Pikachu Chino"
+  },
+  "pidopop.com:https://pidopop.com/figura-pokemon-funism-pokeball-sorpresa-vol-2-blind-box-nuevo-93156.html": {
+    "available": false,
+    "price": "7.95",
+    "product_title": "Figura Pokemon Funism Pokeball Sorpresa Vol. 2 Blind Box"
+  },
+  "pidopop.com:https://pidopop.com/lata-pokemon-summer-caos-creciente-y-equilibrio-perfecto-espanol-nuevo-93151.html": {
+    "available": false,
+    "price": "34.95",
+    "product_title": "Lata Pokemon Summer Caos Creciente y Equilibrio Perfecto Español"
+  },
+  "pidopop.com:https://pidopop.com/carpeta-9-bolsillos-pro-binder-charizard-x-pokemon-ultra-pro-nuevo-93150.html": {
+    "available": false,
+    "price": "24.95",
+    "product_title": "Carpeta 9 bolsillos PRO- Binder Charizard X Pokémon - Ultra Pro"
   }
 }
