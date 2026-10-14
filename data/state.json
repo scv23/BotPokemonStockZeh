@@ -6240,12 +6240,12 @@
     "product_title": "Mini Lata - 30th Anniversary [ENG]"
   },
   "allintcg.com:53880188961115": {
-    "available": false,
+    "available": true,
     "price": "64.95",
     "product_title": "EX Box - 30th Anniversary [ENG]"
   },
   "allintcg.com:53880188993883": {
-    "available": false,
+    "available": true,
     "price": "64.95",
     "product_title": "EX Box - 30th Anniversary [ENG]"
   },
@@ -63500,7 +63500,7 @@
     "product_title": "Ultra Premium Umbreon Celebraciones 30 Aniversario | Celebrations 30th"
   },
   "pokemillon.com:54597544706371": {
-    "available": true,
+    "available": false,
     "price": "579.90",
     "product_title": "Ultra Premium Umbreon Celebraciones 30 Aniversario | Celebrations 30th"
   },
@@ -74920,7 +74920,7 @@
     "product_title": "Sylveon ex (sv8a 212) Terastal Festival ex"
   },
   "pokemillon.com:54196017856835": {
-    "available": true,
+    "available": false,
     "price": "99.90",
     "product_title": "Ditto Premium Box Celebraciones 30 Aniversario | Celebrations 30th"
   },
@@ -98615,7 +98615,7 @@
     "product_title": "Caja 36 sobres Pokémon Destined Rivals y Rivales Predestinados"
   },
   "kamehousecards.com:51872452870482": {
-    "available": true,
+    "available": false,
     "price": "26.95",
     "product_title": "Tech Sticker Collection Pokémon White Flare - Black Bolt y Llama Blanca - Fulgor Negro"
   },
@@ -100735,7 +100735,7 @@
     "product_title": "Elite Trainer Box Pokémon Stellar Crown y Corona Astral"
   },
   "kamehousecards.com:51872591610194": {
-    "available": true,
+    "available": false,
     "price": "109.95",
     "product_title": "Elite Trainer Box Pokémon Stellar Crown y Corona Astral"
   },
@@ -100795,7 +100795,7 @@
     "product_title": "Collector's Chest Pikachu November 2024"
   },
   "kamehousecards.com:51872581878098": {
-    "available": true,
+    "available": false,
     "price": "104.95",
     "product_title": "Elite Trainer Box Pokémon Surging Sparks y Chispas Fulgurantes"
   },
@@ -101030,7 +101030,7 @@
     "product_title": "Official Card Sleeves Store Edition Vol.2 - One Piece Card Game"
   },
   "kamehousecards.com:51872544522578": {
-    "available": true,
+    "available": false,
     "price": "149.95",
     "product_title": "Anime 25th Collection - One Piece Card Game   EB-02   Japonés"
   },
@@ -140180,7 +140180,7 @@
     "product_title": "Caja OP07 500 Years in the Future - Japonés"
   },
   "metamorphcenter.com:52452495327574": {
-    "available": true,
+    "available": false,
     "price": "74.95",
     "product_title": "Riftbound Spiritforged Advanced – Jumbo Booster Display | LoL TCG - Chino"
   },
@@ -144037,7 +144037,7 @@
   "pokedexcards.com:53415644856647": {
     "available": true,
     "price": "12.95",
-    "product_title": "Shellder Ball #091"
+    "product_title": "Cloyster Ball #091"
   },
   "pokedexcards.com:53415596130631": {
     "available": true,
@@ -147765,7 +147765,7 @@
     "product_title": "GAMEGENIC: MTG The Hobbit Soft Crate 80+ - Leaving Hobbiton/Troop of Ponies"
   },
   "sarumangames.es:56376361648507": {
-    "available": true,
+    "available": false,
     "price": "35.95",
     "product_title": "GAMEGENIC: MTG The Hobbit Sidekick PRO 100+ XL - Bard, King of Dale/Smaug, Wicked Worm"
   },
@@ -147790,7 +147790,7 @@
     "product_title": "GAMEGENIC: MTG The Hobbit Zip-Up Album 18-Pocket - The Arkenstone/Smaug, Worm of Dread"
   },
   "sarumangames.es:56376319181179": {
-    "available": true,
+    "available": false,
     "price": "36.00",
     "product_title": "GAMEGENIC: MTG The Hobbit Zip-Up Album 18-Pocket - Gleaming Splendor/The King of Dale"
   },
@@ -191555,7 +191555,7 @@
     "product_title": "LEGO Harry Potter 76419 Castillo y Terrenos de Hogwarts (2660 piezas) Set de construcción"
   },
   "toyplanet.com:52352621019459": {
-    "available": false,
+    "available": true,
     "price": "14.99",
     "product_title": "Copa Cristal Cambio de Color Hogwarts"
   },
@@ -203210,7 +203210,7 @@
     "product_title": "Disfraz de Brujita fantasía 3-4 años infantil"
   },
   "toyplanet.com:52409707954499": {
-    "available": true,
+    "available": false,
     "price": "14.99",
     "product_title": "BumBumz Peluche retro Josh Ying y Yang"
   },
@@ -203465,7 +203465,7 @@
     "product_title": "Princess Mimi Set de Coleteros Mini & Mum"
   },
   "toyplanet.com:52409715654979": {
-    "available": false,
+    "available": true,
     "price": "13.99",
     "product_title": "Bumbumz Rootbumz Brocoli Bobby Peluche"
   },
@@ -203495,7 +203495,7 @@
     "product_title": "Velas De Cumpleaños Grandes Diferentes Modelos"
   },
   "toyplanet.com:52409717358915": {
-    "available": true,
+    "available": false,
     "price": "13.99",
     "product_title": "Bumbumz RootBumz Mazorca Colby Peluche"
   },
@@ -235661,22 +235661,22 @@
   },
   "bimbacards.com:58367:60480": {
     "available": true,
-    "price": 27.9,
+    "price": 29.9,
     "product_title": "First Partner Illustration Collection Series"
   },
   "bimbacards.com:58367:60481": {
     "available": true,
-    "price": 27.9,
+    "price": 29.9,
     "product_title": "First Partner Illustration Collection Series"
   },
   "bimbacards.com:58367:60482": {
     "available": true,
-    "price": 27.9,
+    "price": 29.9,
     "product_title": "First Partner Illustration Collection Series"
   },
   "bimbacards.com:58367:60483": {
     "available": true,
-    "price": 27.9,
+    "price": 29.9,
     "product_title": "First Partner Illustration Collection Series"
   },
   "bimbacards.com:58364": {
@@ -301750,7 +301750,7 @@
     "product_title": "2025-26 Panini Prizm Basketball &#8211; Blaster Box"
   },
   "supercollectors.es:74329": {
-    "available": true,
+    "available": false,
     "price": 30.0,
     "product_title": "2025 Panini Prizm WNBA &#8211; Blaster Box"
   },
@@ -309961,27 +309961,27 @@
   },
   "pidopop.com:https://pidopop.com/blister-4-figuras-pop-pokemon-92710.html": {
     "available": false,
-    "price": "48.13",
+    "price": "48.95",
     "product_title": "Blister 4 figuras POP Pokemon"
   },
   "pidopop.com:https://pidopop.com/figura-pop-jumbo-pokemon-wartortle-92568.html": {
     "available": false,
-    "price": "43.32",
+    "price": "43.95",
     "product_title": "Figura POP Jumbo Pokemon Wartortle"
   },
   "pidopop.com:https://pidopop.com/figura-pop-pokemon-armarouge-92566.html": {
     "available": false,
-    "price": "16.03",
+    "price": "16.95",
     "product_title": "Figura POP Pokemon Armarouge"
   },
   "pidopop.com:https://pidopop.com/figura-pop-pokemon-premium-blastoise-92562.html": {
     "available": false,
-    "price": "20.85",
+    "price": "20.95",
     "product_title": "Figura POP Pokemon Premium Blastoise"
   },
   "pidopop.com:https://pidopop.com/figura-pop-pokemon-morpeko-92561-92561.html": {
     "available": false,
-    "price": "16.03",
+    "price": "16.95",
     "product_title": "Figura POP Pokemon Morpeko"
   },
   "pidopop.com:https://pidopop.com/figura-pop-pokemon-morpeko-92560.html": {
@@ -351940,7 +351940,7 @@
     "product_title": "Pokémon 30th Celebration &#8211; Greninja ex Collection (Español)"
   },
   "supercollectors.es:75672": {
-    "available": false,
+    "available": true,
     "price": 79.9,
     "product_title": "Pokémon 30th Celebration &#8211; Greninja ex Collection (Inglés)"
   },
@@ -354115,7 +354115,7 @@
     "product_title": "Set Regalo Coleccionista Stranger Things Cerdá"
   },
   "toyplanet.com:54838784655683": {
-    "available": false,
+    "available": true,
     "price": "10.65",
     "product_title": "Squishy Antiestrés Poppy Piña iTotal Squeezy Buddies"
   },
@@ -354135,7 +354135,7 @@
     "product_title": "Kit Coleccionista Harry Potter Hogwarts Cerdá"
   },
   "toyplanet.com:54838784295235": {
-    "available": true,
+    "available": false,
     "price": "10.65",
     "product_title": "Squishy Antiestrés Stella Fresa iTotal Squeezy Buddies"
   },
@@ -355185,7 +355185,7 @@
     "product_title": "2026 Topps Chrome Tennis &#8211; Hobby Box"
   },
   "supercollectors.es:76464": {
-    "available": true,
+    "available": false,
     "price": 35.0,
     "product_title": "2026 Topps Star Wars Chrome &#8211; Value Box"
   },
@@ -364516,12 +364516,12 @@
   },
   "pidopop.com:https://pidopop.com/pack-6-sobres-pokemon-30th-celebration-ingles-93257.html": {
     "available": false,
-    "price": "160.48",
+    "price": "160.95",
     "product_title": "Pack 6 Sobres Pokemon 30th Celebration Ingles"
   },
   "pidopop.com:https://pidopop.com/pack-6-sobres-pokemon-30-aniversario-espanol-93256.html": {
     "available": false,
-    "price": "88.26",
+    "price": "88.95",
     "product_title": "Pack 6 Sobres Pokemon 30 Aniversario Español"
   },
   "cardcosmos.de:54347879219543": {
@@ -368365,12 +368365,12 @@
     "product_title": "Mattel &#8211; Mega Bloks Autobús con Numeritos Encajables de 45 Piezas"
   },
   "supercollectors.es:76473": {
-    "available": true,
+    "available": false,
     "price": 145.0,
     "product_title": "2026 Topps MLB Update Series &#8211; Hobby Box"
   },
   "supercollectors.es:76472": {
-    "available": true,
+    "available": false,
     "price": 240.0,
     "product_title": "2026 Topps MLB Update Series &#8211; Jumbo Box"
   },
@@ -368643,5 +368643,40 @@
     "available": true,
     "price": 118.15,
     "product_title": "Patrulla: Ángeles Sangrientos – Warhammer 40.000"
+  },
+  "canarypop.es:53871441412443": {
+    "available": false,
+    "price": "99.95",
+    "product_title": "[PRE-VENTA] Elite Trainer Box Mega Evolution - Delta Reing INGLÉS"
+  },
+  "supercollectors.es:76478": {
+    "available": true,
+    "price": 165.0,
+    "product_title": "2026 Topps Marvel Neon &#8211; Hobby Box"
+  },
+  "supercollectors.es:76477": {
+    "available": true,
+    "price": 42.5,
+    "product_title": "2026 Topps Chrome Formula One F1 &#8211; Value Box"
+  },
+  "supercollectors.es:76476": {
+    "available": false,
+    "price": 85.0,
+    "product_title": "2026 Topps Chrome Formula One F1 &#8211; Mega Box"
+  },
+  "supercollectors.es:76475": {
+    "available": false,
+    "price": 515.0,
+    "product_title": "2026 Topps Chrome Formula One F1 &#8211; Hobby Box"
+  },
+  "supercollectors.es:76466:77567": {
+    "available": true,
+    "price": 11.0,
+    "product_title": "2026 Topps Chrome Tennis &#8211; Hobby Box"
+  },
+  "supercollectors.es:76466:77566": {
+    "available": true,
+    "price": 11.0,
+    "product_title": "2026 Topps Chrome Tennis &#8211; Hobby Box"
   }
 }
