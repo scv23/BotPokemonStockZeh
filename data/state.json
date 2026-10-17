@@ -39150,7 +39150,7 @@
     "product_title": "Pokémon - Star Birth Booster Pack - KOR"
   },
   "cardcosmos.de:51724910526807": {
-    "available": true,
+    "available": false,
     "price": "11.99",
     "product_title": "Pokémon - Terastal Festival ex Booster Pack - KOR"
   },
@@ -61851,7 +61851,7 @@
   },
   "pokemillon.com:54729056780611": {
     "available": true,
-    "price": "79.90",
+    "price": "69.90",
     "product_title": "Topps | 2026 Topps Stadium Club UFC - Mega Box"
   },
   "pokemillon.com:54729047474499": {
@@ -99035,7 +99035,7 @@
     "product_title": "Blíster Pokémon Héroes Ascendentes y Ascended Heroes"
   },
   "kamehousecards.com:53009006625106": {
-    "available": true,
+    "available": false,
     "price": "9.95",
     "product_title": "Official Card Sleeves Illustration - Dragon Ball Super Fusion World"
   },
@@ -99175,7 +99175,7 @@
     "product_title": "Poké Ball E25 Pokémon"
   },
   "kamehousecards.com:53009004167506": {
-    "available": true,
+    "available": false,
     "price": "13.95",
     "product_title": "Sobre Dual Evolution FB09 - Dragon Ball Super Card Game Fusion World"
   },
@@ -133710,7 +133710,7 @@
     "product_title": "MOCHILA SACO SQUIRTLE - CYP BRANDS"
   },
   "latiendadelascartas.es:58086725746952": {
-    "available": true,
+    "available": false,
     "price": "15.68",
     "product_title": "FUNKO POP! LEAFEON- POKEMON"
   },
@@ -137840,7 +137840,7 @@
     "product_title": "FUNKO POP! UMBREON - POKEMON"
   },
   "latiendadelascartas.es:51259360870664": {
-    "available": true,
+    "available": false,
     "price": "12.95",
     "product_title": "FUNKO POP! LEAFEON- POKEMON"
   },
@@ -172520,7 +172520,7 @@
     "product_title": "Mega Clefable ex (POR 119)"
   },
   "solohits.es:58499748594009": {
-    "available": false,
+    "available": true,
     "price": "20.00",
     "product_title": "Nákara (ASR 186)"
   },
@@ -172530,7 +172530,7 @@
     "product_title": "Togepi & Cleffa & Igglybuff GX (CEC 143)"
   },
   "solohits.es:58499732537689": {
-    "available": false,
+    "available": true,
     "price": "180.00",
     "product_title": "Venusaur ex (MEW 198)"
   },
@@ -172545,7 +172545,7 @@
     "product_title": "Arceus V-ASTRO (CRZ GG70)"
   },
   "solohits.es:58499723428185": {
-    "available": false,
+    "available": true,
     "price": "59.00",
     "product_title": "Ivysaur (MEW 167)"
   },
@@ -279325,7 +279325,7 @@
     "product_title": "PKM &#8211; Sobre &#8211; MegaEvolución Caos Creciente &#8211; SP"
   },
   "industria61.com:169537": {
-    "available": true,
+    "available": false,
     "price": 6.0,
     "product_title": "PKM &#8211; Blister &#8211; MegaEvolución Caos Creciente &#8211; SP"
   },
@@ -365135,7 +365135,7 @@
     "product_title": "Weiß Schwarz | Booster Box 10 Sobre anemoi"
   },
   "pokemillon.com:54887368819011": {
-    "available": true,
+    "available": false,
     "price": "189.90",
     "product_title": "Dragon Ball | Caja 24 Sobres FB11 Brightness of Hope"
   },
@@ -370148,5 +370148,20 @@
     "available": true,
     "price": "34.90",
     "product_title": "Panini | 24 Sobres Adrenalyn FIFA 365 2027"
+  },
+  "pokemillon.com:54928041804099": {
+    "available": true,
+    "price": "37.90",
+    "product_title": "Topps | Value Box Star Wars Topps Chrome 2026"
+  },
+  "pokemillon.com:54928031613251": {
+    "available": true,
+    "price": "34.90",
+    "product_title": "Topps | Value Box 2026 Topps Chrome Tennis"
+  },
+  "pokemillon.com:54928020013379": {
+    "available": true,
+    "price": "39.90",
+    "product_title": "Topps | Value Box 2026 Topps Chrome Formula 1"
   }
 }
