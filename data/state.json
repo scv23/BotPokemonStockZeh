@@ -41545,7 +41545,7 @@
     "product_title": "Ultra Pro - Pokémon Mega Evolution 2.5: 9-Pocket Portfolio"
   },
   "cardcosmos.de:52515632546135": {
-    "available": true,
+    "available": false,
     "price": "9.99",
     "product_title": "Ultra Pro - Pokémon Mega Evolution 2: 9-Pocket Portfolio"
   },
@@ -55605,7 +55605,7 @@
     "product_title": "Sobre Jumbo Martial Art B (CH)"
   },
   "elbazartcg.com:55331633955164": {
-    "available": true,
+    "available": false,
     "price": "49.99",
     "product_title": "Booster Box Jumbo Martial Arts A (CH)"
   },
@@ -56030,7 +56030,7 @@
     "product_title": "Booster Box 36 Perfect Order (ENG)"
   },
   "elbazartcg.com:54577145741660": {
-    "available": true,
+    "available": false,
     "price": "5.49",
     "product_title": "Sobre Rivales Predestinados"
   },
@@ -62440,7 +62440,7 @@
     "product_title": "Terastal Gathering Coin Set CSV9.5C Chino"
   },
   "pokemillon.com:54684635889987": {
-    "available": true,
+    "available": false,
     "price": "15.99",
     "product_title": "Terastal Gathering Coin Set CSV9.5C Chino"
   },
@@ -370163,5 +370163,20 @@
     "available": true,
     "price": "39.90",
     "product_title": "Topps | Value Box 2026 Topps Chrome Formula 1"
+  },
+  "elbazartcg.com:59561812558172": {
+    "available": true,
+    "price": "5.99",
+    "product_title": "Sobre Lorcana - Shimmering Skies(ENG)"
+  },
+  "elbazartcg.com:59561801908572": {
+    "available": true,
+    "price": "25.79",
+    "product_title": "Sobre Jumbo Nine Colors Gathering Friends(CH)"
+  },
+  "elbazartcg.com:59561800171868": {
+    "available": true,
+    "price": "15.79",
+    "product_title": "Sobre Jumbo Nine Colors Gathering Origin(CH)"
   }
 }
