@@ -44810,7 +44810,7 @@
     "product_title": "Dragon Shield Sleeves - Dual Matte Standard Lagoon | 100stk"
   },
   "cardcosmos.de:50956807143767": {
-    "available": true,
+    "available": false,
     "price": "8.99",
     "product_title": "Dragon Shield Sleeves - Dual Matte Standard Fury | 100stk"
   },
@@ -47400,7 +47400,7 @@
     "product_title": "ETB Caja de Entrenador Elite Pitch Black - Ingles \"Embalaje dañado\""
   },
   "cardzone.es:58429432103256": {
-    "available": true,
+    "available": false,
     "price": "65.95",
     "product_title": "ETB Caja de Entrenador Elite Oscuridad Absoluta - Español \"embalaje dañado\""
   },
@@ -81415,7 +81415,7 @@
     "product_title": "Álbum Dragapult 112 Bolsillos"
   },
   "sunnystore.es:56902170935682": {
-    "available": true,
+    "available": false,
     "price": "29.90",
     "product_title": "POKEMON 30 ANIVERSARIO CELEBRACIONES SYLVEON EX CARD DISPLAY (CHINO)"
   },
@@ -100795,7 +100795,7 @@
     "product_title": "Collector's Chest Pikachu November 2024"
   },
   "kamehousecards.com:51872581878098": {
-    "available": true,
+    "available": false,
     "price": "104.95",
     "product_title": "Elite Trainer Box Pokémon Surging Sparks y Chispas Fulgurantes"
   },
@@ -368590,7 +368590,7 @@
     "product_title": "30th Celebration Umbreon Battle Deck Celebraciones 30 Aniversario"
   },
   "pokemillon.com:54908753805635": {
-    "available": true,
+    "available": false,
     "price": "69.90",
     "product_title": "30th Celebration Umbreon Battle Deck Celebraciones 30 Aniversario"
   },
@@ -372098,5 +372098,35 @@
     "available": false,
     "price": "169.95",
     "product_title": "Caja 10 Sobres Pokemon Shiny Treasure Ex Japones"
+  },
+  "allintcg.com:54434927116635": {
+    "available": true,
+    "price": "69.95",
+    "product_title": "Carpeta TCG Personalizada Inspirada en Umbreon"
+  },
+  "allintcg.com:54434847916379": {
+    "available": true,
+    "price": "69.95",
+    "product_title": "Carpeta TCG Personalizada Inspirada en Lillie & Clefairy"
+  },
+  "allintcg.com:54434769830235": {
+    "available": true,
+    "price": "69.95",
+    "product_title": "Carpeta TCG Personalizada Inspirada en Mew - Lucario"
+  },
+  "allintcg.com:54434703999323": {
+    "available": true,
+    "price": "69.95",
+    "product_title": "Carpeta TCG Personalizada Inspirada en Mimikyu"
+  },
+  "allintcg.com:54434704032091": {
+    "available": true,
+    "price": "69.95",
+    "product_title": "Carpeta TCG Personalizada Inspirada en Mimikyu"
+  },
+  "allintcg.com:54434704064859": {
+    "available": false,
+    "price": "69.95",
+    "product_title": "Carpeta TCG Personalizada Inspirada en Mimikyu"
   }
 }
