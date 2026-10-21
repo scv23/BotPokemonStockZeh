@@ -2275,7 +2275,7 @@
     "product_title": "Turbo Champs - LA LIGA - Versus Pack - Color 1"
   },
   "alfriki.com:50558913380691": {
-    "available": true,
+    "available": false,
     "price": "21.99",
     "product_title": "Álbum Logo Shimmering Skies - Disney Lorcana TCG"
   },
@@ -56490,7 +56490,7 @@
     "product_title": "Oscuridad Absoluta Caja 36 - INGLES"
   },
   "elitestoretcg.com:53805628817736": {
-    "available": true,
+    "available": false,
     "price": "32.95",
     "product_title": "Pokemon McDonald´s Promo Pack 2025"
   },
@@ -96820,7 +96820,7 @@
     "product_title": "Pokémon TCG - First Partners Illustration Collection - Series 3 - 30th Anniversary (Ingles & Español)"
   },
   "jjcollection.es:54801433461065": {
-    "available": true,
+    "available": false,
     "price": "5.50",
     "product_title": "Riftbound League of Legends - Vendetta Booster (Inglés)"
   },
@@ -98555,7 +98555,7 @@
     "product_title": "Booster Bundle Pokémon Equilibrio Perfecto y Perfect Order"
   },
   "kamehousecards.com:53068202803538": {
-    "available": false,
+    "available": true,
     "price": "29.95",
     "product_title": "Booster Bundle Pokémon Equilibrio Perfecto y Perfect Order"
   },
@@ -100260,7 +100260,7 @@
     "product_title": "Elite Trainer Box Pokémon Paradox Rift y Brecha Paradójica"
   },
   "kamehousecards.com:51875970351442": {
-    "available": true,
+    "available": false,
     "price": "119.95",
     "product_title": "Elite Trainer Box Pokémon Paradox Rift y Brecha Paradójica"
   },
@@ -100485,7 +100485,7 @@
     "product_title": "Elite Trainer Box Pokémon Temporal Forces y Fuerzas Temporales"
   },
   "kamehousecards.com:51874762719570": {
-    "available": true,
+    "available": false,
     "price": "139.95",
     "product_title": "Elite Trainer Box Pokémon Temporal Forces y Fuerzas Temporales"
   },
@@ -100795,8 +100795,8 @@
     "product_title": "Collector's Chest Pikachu November 2024"
   },
   "kamehousecards.com:51872581878098": {
-    "available": false,
-    "price": "109.95",
+    "available": true,
+    "price": "114.95",
     "product_title": "Elite Trainer Box Pokémon Surging Sparks y Chispas Fulgurantes"
   },
   "kamehousecards.com:51872581910866": {
@@ -101000,7 +101000,7 @@
     "product_title": "Caja de 36 sobres Tears of the Planet Opus 25 - Final Fantasy TCG"
   },
   "kamehousecards.com:51872549699922": {
-    "available": false,
+    "available": true,
     "price": "44.95",
     "product_title": "Legacy Collection Booster Display - Final Fantasy TCG"
   },
@@ -105700,7 +105700,7 @@
     "product_title": "Vampire: The Eternal Struggle - New Blood: Hecata (Español)"
   },
   "laescotillajuegos.com:58301890134351": {
-    "available": true,
+    "available": false,
     "price": "11.99",
     "product_title": "Vampire: The Eternal Struggle - New Blood: The Ministry (Español)"
   },
@@ -147030,7 +147030,7 @@
     "product_title": "ORKS: NAZDREG"
   },
   "sarumangames.es:56402229690747": {
-    "available": true,
+    "available": false,
     "price": "30.90",
     "product_title": "ORKS: CODEX"
   },
@@ -151077,7 +151077,7 @@
   "sarumangames.es:56305327407483": {
     "available": false,
     "price": "18.95",
-    "product_title": "Agent Avenue (castellano)"
+    "product_title": "Agent Avenue - (castellano)"
   },
   "sarumangames.es:56305320591739": {
     "available": true,
@@ -151120,12 +151120,12 @@
     "product_title": "Cosmere: El Archivo de las Tormentas - Caja de Inicio"
   },
   "sarumangames.es:56303179628923": {
-    "available": false,
+    "available": true,
     "price": "44.95",
     "product_title": "Zombicide 2E: Fort Hendrix"
   },
   "sarumangames.es:56303167537531": {
-    "available": false,
+    "available": true,
     "price": "44.95",
     "product_title": "Zombicide 2E: Washington Z.C."
   },
@@ -152200,12 +152200,12 @@
     "product_title": "Ultimate Guard Play-Mat Magic: The Gathering \"Secrets of Strixhaven\" - Pyretic Ritual"
   },
   "sarumangames.es:56231247872379": {
-    "available": false,
+    "available": true,
     "price": "31.50",
     "product_title": "DAMIS MEDIEVAL: WORLD COLLECTION - SAM"
   },
   "sarumangames.es:56231247118715": {
-    "available": false,
+    "available": true,
     "price": "31.50",
     "product_title": "DAMIS MEDIEVAL: WORLD COLLECTION - JULIA"
   },
@@ -159180,7 +159180,7 @@
     "product_title": "JUNGLE SPEED: DONKEY KONG"
   },
   "sarumangames.es:55779303588219": {
-    "available": false,
+    "available": true,
     "price": "58.50",
     "product_title": "MOMOIR '44"
   },
@@ -187470,7 +187470,7 @@
     "product_title": "Figura de Stitch con Guitarra – ¡El Extraterrestre Rockero de Disney!"
   },
   "toyplanet.com:52349650731331": {
-    "available": true,
+    "available": false,
     "price": "44.99",
     "product_title": "Figura de Brook de One Piece – ¡El Alma Musical del Sombrero de Paja!"
   },
@@ -262245,8 +262245,8 @@
     "product_title": "Radiance VAULT &#8211;  RIFTBOUND  &#8211; INGLES"
   },
   "g3tcg.es:7080": {
-    "available": false,
-    "price": 120.0,
+    "available": true,
+    "price": 130.0,
     "product_title": "BOOSTER BOX Radiance (24 sobres) &#8211;  RIFTBOUND  &#8211; INGLES"
   },
   "g3tcg.es:7033": {
@@ -278656,12 +278656,12 @@
   },
   "industria61.com:171537": {
     "available": true,
-    "price": 39.95,
+    "price": 34.95,
     "product_title": "MTG &#8211; Marvel Super Heroes Scene Box Heroes United &#8211; EN"
   },
   "industria61.com:171512": {
     "available": true,
-    "price": 39.95,
+    "price": 34.95,
     "product_title": "MTG &#8211; Marvel Super Heroes Scene Box Villains Unleashed &#8211; EN"
   },
   "industria61.com:171461": {
@@ -289235,8 +289235,8 @@
     "product_title": "2025 Topps Chrome Football Value Box | NFL Trading Cards"
   },
   "miceliongames.com:35475": {
-    "available": true,
-    "price": 199.95,
+    "available": false,
+    "price": 0.0,
     "product_title": "Booster Box Display EB-05 One Piece Card Game"
   },
   "miceliongames.com:35472": {
@@ -323965,7 +323965,7 @@
     "product_title": "Aerodactyl (2000) Japanese Awakening Legends Holo - CGC 8.5"
   },
   "elbazartcg.com:55852429476188": {
-    "available": true,
+    "available": false,
     "price": "129.99",
     "product_title": "(SOLO APERTURA EN DIRECTO Y 1 MAXIMO POR PERSONA)Booster Box RiftBound Radiance"
   },
@@ -324495,7 +324495,7 @@
     "product_title": "Booster Box M6a 30th. Pokémon Japonés | Caja sellada 20 sobres Pokémon TCG"
   },
   "tigercards.es:49149294706873": {
-    "available": true,
+    "available": false,
     "price": "109.95",
     "product_title": "Booster Box M6a 30th. Pokémon Chino Simplificado | Caja sellada 20 sobres Pokémon TCG"
   },
@@ -364025,7 +364025,7 @@
     "product_title": "Pokémon - Chasing Glory CSV10C Slim Booster Pack - CHN"
   },
   "cardcosmos.de:55270498894167": {
-    "available": true,
+    "available": false,
     "price": "199.90",
     "product_title": "Pokémon - 30th Anniversary Collection 20er Display (Ohne Folie) - JPN"
   },
@@ -369410,7 +369410,7 @@
     "product_title": "Pokémon TCG: Mini Latas 30.º Aniversario – 100% Oficial en Español"
   },
   "pokedexcards.com:55436451021127": {
-    "available": false,
+    "available": true,
     "price": "24.95",
     "product_title": "Pokémon TCG: Mini Latas 30.º Aniversario – 100% Oficial en Español"
   },
@@ -372305,7 +372305,7 @@
     "product_title": "<p style=\"color: red\"><u>Precio PRO: 22,99€</u></p>Album Ultr PRO &#8211; Toploaders &#8211; Cremallera &#8211; 180 Cartas"
   },
   "cardcosmos.de:55535198536023": {
-    "available": true,
+    "available": false,
     "price": "299.90",
     "product_title": "Pokémon: 30th Celebration Card Set: Komplettset mit 9 Sets/Regionen  - JPN"
   },
@@ -372350,7 +372350,7 @@
     "product_title": "Pokémon - 30th Celebration Card Set Johto: Endivie, Feurigel & Karnimani - JPN"
   },
   "cardcosmos.de:55534679949655": {
-    "available": true,
+    "available": false,
     "price": "54.90",
     "product_title": "Pokémon - 30th Celebration Card Set Kanto: Bisasam, Glumanda & Schiggy - JPN"
   },
@@ -372643,5 +372643,65 @@
     "available": true,
     "price": 5.5,
     "product_title": "Fundas Dragon Shield Estandar"
+  },
+  "elbazartcg.com:59584405471580": {
+    "available": true,
+    "price": "13.99",
+    "product_title": "PARTY NIKKE"
+  },
+  "kamehousecards.com:55152837263698": {
+    "available": true,
+    "price": "69.95",
+    "product_title": "Bundle Celebración 30° Aniversario"
+  },
+  "kamehousecards.com:55152837296466": {
+    "available": false,
+    "price": "0.00",
+    "product_title": "Bundle Celebración 30° Aniversario"
+  },
+  "laescotillajuegos.com:59074773975375": {
+    "available": true,
+    "price": "40.00",
+    "product_title": "[EVENTO] Cyberpunk TCG - Presentación Welcome to Night City"
+  },
+  "sarumangames.es:56533227733371": {
+    "available": true,
+    "price": "37.95",
+    "product_title": "La broma macabra"
+  },
+  "sarumangames.es:56533221802363": {
+    "available": true,
+    "price": "42.70",
+    "product_title": "Pork Mort"
+  },
+  "sarumangames.es:56533178122619": {
+    "available": true,
+    "price": "40.95",
+    "product_title": "Watson & Holmes: los diarios perdidos"
+  },
+  "sarumangames.es:56533149614459": {
+    "available": true,
+    "price": "22.95",
+    "product_title": "Azul Kids"
+  },
+  "sarumangames.es:56533134967163": {
+    "available": true,
+    "price": "31.50",
+    "product_title": "DAMIS MEDIEVAL: WORLD COLLECTION - HECTOR"
+  },
+  "sarumangames.es:56533112226171": {
+    "available": true,
+    "price": "31.50",
+    "product_title": "Super Monstruo Final"
+  },
+  "miceliongames.com:40061": {
+    "available": true,
+    "price": 16.95,
+    "product_title": "Dobble K-Pop Demon Hunters"
+  },
+  "miceliongames.com:40056": {
+    "available": true,
+    "price": 24.95,
+    "product_title": "Ciudadelas Duel"
   }
 }
