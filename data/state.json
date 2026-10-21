@@ -460,7 +460,7 @@
     "product_title": "Lata Pokémon TCG - Mega-Charizard X - Castellano"
   },
   "alfriki.com:53191825752403": {
-    "available": true,
+    "available": false,
     "price": "34.99",
     "product_title": "Lata Pokémon TCG - Mega-Charizard Y - Castellano"
   },
@@ -6666,7 +6666,7 @@
   },
   "canarypop.es:53459706839387": {
     "available": true,
-    "price": "239.95",
+    "price": "219.95",
     "product_title": "[PRE-VENTA] ONE PIECE TCG: The Time of Battle OP16 Booster Box - INGLÉS"
   },
   "canarypop.es:53426976653659": {
@@ -11411,7 +11411,7 @@
   },
   "canarypop.es:50625208811867": {
     "available": true,
-    "price": "499.95",
+    "price": "449.95",
     "product_title": "[PRE-VENTA] ONE PIECE TCG: Carrying On His Will OP13 Booster Box - INGLÉS"
   },
   "canarypop.es:50625194590555": {
@@ -31160,7 +31160,7 @@
     "product_title": "Pokémon - Mid-Autumn Festival Gift Box 2026 - CHN"
   },
   "cardcosmos.de:54766670512471": {
-    "available": true,
+    "available": false,
     "price": "7.90",
     "product_title": "Yu-Gi-Oh! - Legendary Duelists Season 3 Box - DE"
   },
@@ -41755,7 +41755,7 @@
     "product_title": "Magic: The Gathering - Lorwyns Finsternis Prerelease Pack - DE"
   },
   "cardcosmos.de:52575907184983": {
-    "available": true,
+    "available": false,
     "price": "89.90",
     "product_title": "Pokémon - Mega Dream ex Booster Display - KOR"
   },
@@ -56035,7 +56035,7 @@
     "product_title": "Sobre Rivales Predestinados"
   },
   "elbazartcg.com:56780742656348": {
-    "available": true,
+    "available": false,
     "price": "5.49",
     "product_title": "Sobre Chispas Fulgurantes (ESP)"
   },
@@ -56165,7 +56165,7 @@
     "product_title": "Mistery Pack(CH)"
   },
   "elbazartcg.com:55185240326492": {
-    "available": true,
+    "available": false,
     "price": "10.49",
     "product_title": "Sobre Jumbo Brave Stars"
   },
@@ -60926,7 +60926,7 @@
   },
   "pokemillon.com:54783356731715": {
     "available": true,
-    "price": "149.90",
+    "price": "139.90",
     "product_title": "Sword & Shield: 25th Anniversary Premium Collection - Blastoise"
   },
   "pokemillon.com:54783306498371": {
@@ -60985,7 +60985,7 @@
     "product_title": "Radiant Energy Charizard Gift Box"
   },
   "pokemillon.com:54778877346115": {
-    "available": false,
+    "available": true,
     "price": "399.90",
     "product_title": "YuGiOh! | Case 12 Cajas Magnificent Monsters"
   },
@@ -61205,8 +61205,8 @@
     "product_title": "Kayou K-Pop | Booster Box 12 Sobre Demon Hunters Energy Edition Booster"
   },
   "pokemillon.com:54770777096515": {
-    "available": false,
-    "price": "41.90",
+    "available": true,
+    "price": "37.90",
     "product_title": "YuGiOh! | Caja Magnificent Monster"
   },
   "pokemillon.com:54770784698691": {
@@ -61750,8 +61750,8 @@
     "product_title": "Caja 36 Sobres Dominio Delta | Delta Reign"
   },
   "pokemillon.com:54759175749955": {
-    "available": false,
-    "price": "219.90",
+    "available": true,
+    "price": "249.90",
     "product_title": "Caja 36 Sobres Dominio Delta | Delta Reign"
   },
   "pokemillon.com:54759146684739": {
@@ -61760,8 +61760,8 @@
     "product_title": "ETB Dominio Delta | Élite Delta Reign"
   },
   "pokemillon.com:54759146717507": {
-    "available": false,
-    "price": "89.90",
+    "available": true,
+    "price": "104.86",
     "product_title": "ETB Dominio Delta | Élite Delta Reign"
   },
   "pokemillon.com:54758043746627": {
@@ -71351,7 +71351,7 @@
   },
   "pokemillon.com:53559714120003": {
     "available": true,
-    "price": "201.90",
+    "price": "197.00",
     "product_title": "Super Premium Collection Evoluciones Prismáticas | Prismatic Evolutions"
   },
   "pokemillon.com:53559714087235": {
@@ -97365,7 +97365,7 @@
     "product_title": "Pokémon TCG - Booster Bundle Perfect Order (Ingles & Español)"
   },
   "jjcollection.es:53720069407049": {
-    "available": true,
+    "available": false,
     "price": "148.80",
     "product_title": "Pokémon TCG - Booster Box Perfect Order (Inglés & Español)"
   },
@@ -98230,7 +98230,7 @@
     "product_title": "Booster Bundle Pokémon Oscuridad Absoluta y Pitch Black"
   },
   "kamehousecards.com:53973435122002": {
-    "available": true,
+    "available": false,
     "price": "34.95",
     "product_title": "Booster Bundle Pokémon Oscuridad Absoluta y Pitch Black"
   },
@@ -188805,7 +188805,7 @@
     "product_title": "Playmobil Novelmore Set de 3 Bandidos de Burnham 70644"
   },
   "toyplanet.com:52352141754691": {
-    "available": true,
+    "available": false,
     "price": "9.99",
     "product_title": "Playmobil City Life Set de Regalo Entrenadora de Perros 70676"
   },
@@ -278937,7 +278937,7 @@
   "industria61.com:170688": {
     "available": true,
     "price": 6.0,
-    "product_title": "**INSCRIPCION** Torneo RIFTBOUND Dilluns 19 d&#8217;Octubre"
+    "product_title": "**INSCRIPCION** Torneo RIFTBOUND Dilluns 26 d&#8217;Octubre"
   },
   "industria61.com:170681": {
     "available": true,
@@ -281402,7 +281402,7 @@
   "industria61.com:164817": {
     "available": true,
     "price": 6.0,
-    "product_title": "**INSCRIPCION** Torneo RIFTBOUND dimecres 21 d&#8217;Octubre"
+    "product_title": "**INSCRIPCION** Torneo RIFTBOUND dimecres 30 d&#8217;Octubre"
   },
   "industria61.com:164810": {
     "available": true,
@@ -354470,7 +354470,7 @@
     "product_title": "Riftbound: Legacy display"
   },
   "miceliongames.com:39182": {
-    "available": true,
+    "available": false,
     "price": 31.95,
     "product_title": "Riftbound: Legacy Vault"
   },
@@ -370591,7 +370591,7 @@
   },
   "canarypop.es:54374255493467": {
     "available": true,
-    "price": "49.95",
+    "price": "44.95",
     "product_title": "Pokémon TCG Dreams in Focus – Pikachu Figure Set 30th Anniversary CHINO SIMPLIFICADO"
   },
   "canarypop.es:54410359275867": {
@@ -370606,12 +370606,12 @@
   },
   "canarypop.es:54410362454363": {
     "available": true,
-    "price": "359.95",
+    "price": "299.95",
     "product_title": "[PRE-VENTA] ONE PIECE TCG: Heroines Edition EB03 Booster Box - INGLÉS"
   },
   "canarypop.es:54410362421595": {
     "available": true,
-    "price": "439.90",
+    "price": "399.95",
     "product_title": "[PRE-VENTA] ONE PIECE TCG: Wings of the Captain OP06 Booster Box - INGLÉS"
   },
   "canarypop.es:54410367009115": {
@@ -370631,7 +370631,7 @@
   },
   "canarypop.es:54410367992155": {
     "available": true,
-    "price": "289.95",
+    "price": "269.95",
     "product_title": "[PRE-VENTA] ONE PIECE TCG: Adventure on Kami's Island OP15-EB04 Booster Box - INGLÉS"
   },
   "canarypop.es:54410368155995": {
@@ -370646,7 +370646,7 @@
   },
   "canarypop.es:54410395648347": {
     "available": true,
-    "price": "51.24",
+    "price": "48.95",
     "product_title": "[PRE-VENTA] ONE PIECE TCG: Double Pack OP17 DP-12 - INGLÉS"
   },
   "toyplanet.com:54944192004419": {
@@ -372703,5 +372703,10 @@
     "available": true,
     "price": 24.95,
     "product_title": "Ciudadelas Duel"
+  },
+  "elbazartcg.com:59613742432604": {
+    "available": false,
+    "price": "13.99",
+    "product_title": "PARTY RADIANT LILIGANT"
   }
 }
