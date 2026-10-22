@@ -6405,7 +6405,7 @@
     "product_title": "Booster Box - Naruto Mythos TCG 2nd Edition"
   },
   "allintcg.com:53223029113179": {
-    "available": true,
+    "available": false,
     "price": "17.95",
     "product_title": "Blíster 3 sobres - Caos Creciente [ESP]"
   },
@@ -55640,7 +55640,7 @@
     "product_title": "Lillie Battle Gift Box (CH)"
   },
   "elbazartcg.com:58164962296156": {
-    "available": true,
+    "available": false,
     "price": "22.99",
     "product_title": "Terastal Gathering Quicksand Card Display Box(CH)"
   },
@@ -70755,7 +70755,7 @@
     "product_title": "Kingdra ex Special Illustration Fábula Sombría | Shrouded Fable"
   },
   "pokemillon.com:48394115940675": {
-    "available": false,
+    "available": true,
     "price": "119.00",
     "product_title": "Mystery Graded Card 1st Edition Vintage - PSA, BGS, CGC"
   },
@@ -75405,13 +75405,13 @@
     "product_title": "Anniversary PACK - 1 Carta"
   },
   "pokemillon.com:54247895040323": {
-    "available": false,
-    "price": "49.90",
+    "available": true,
+    "price": "59.90",
     "product_title": "Anniversary PACK - 1 Carta"
   },
   "pokemillon.com:54247895073091": {
     "available": false,
-    "price": "49.90",
+    "price": "59.90",
     "product_title": "Anniversary PACK - 1 Carta"
   },
   "pokemillon.com:54236913041731": {
@@ -79900,12 +79900,12 @@
     "product_title": "PRISTINE BOX | 5 CGC 10 con Pristine Asegurado"
   },
   "pokemillon.com:52419719332163": {
-    "available": false,
+    "available": true,
     "price": "59.90",
     "product_title": "Carta Gradeada Pokémon 151 sv3.5"
   },
   "pokemillon.com:52419593339203": {
-    "available": false,
+    "available": true,
     "price": "49.99",
     "product_title": "Carta Gradeada Pikachu - Pikapack"
   },
@@ -80640,7 +80640,7 @@
     "product_title": "Sobre Fossil 1st Edition \"Zapdos\" 1999-2000"
   },
   "pokemillon.com:48257448018243": {
-    "available": false,
+    "available": true,
     "price": "89.99",
     "product_title": "Charipack - Carta Gradeada Charizard"
   },
@@ -80750,7 +80750,7 @@
     "product_title": "Carta Gradeada Vintage - Mystery Graded Card"
   },
   "pokemillon.com:48322769584451": {
-    "available": false,
+    "available": true,
     "price": "79.90",
     "product_title": "Carta Gradeada Vintage - Mystery Graded Card"
   },
@@ -98610,8 +98610,8 @@
     "product_title": "Caja 36 sobres Pokémon Destined Rivals y Rivales Predestinados"
   },
   "kamehousecards.com:51872481018194": {
-    "available": false,
-    "price": "339.00",
+    "available": true,
+    "price": "349.00",
     "product_title": "Caja 36 sobres Pokémon Destined Rivals y Rivales Predestinados"
   },
   "kamehousecards.com:51872452870482": {
@@ -106592,7 +106592,7 @@
   "laescotillajuegos.com:58127783952719": {
     "available": false,
     "price": "16.49",
-    "product_title": "[PREPEDIDO] Harmonies Crescendo"
+    "product_title": "Harmonies Crescendo"
   },
   "laescotillajuegos.com:58121307881807": {
     "available": true,
@@ -114570,7 +114570,7 @@
     "product_title": "White Scars: Suboden Khan"
   },
   "laescotillajuegos.com:56439255957839": {
-    "available": true,
+    "available": false,
     "price": "48.03",
     "product_title": "Space Marines: Terminator Assault Squad"
   },
@@ -115015,7 +115015,7 @@
     "product_title": "Blood Bowl: The Official Rulebook Third Season Edition (English)"
   },
   "laescotillajuegos.com:56255358402895": {
-    "available": true,
+    "available": false,
     "price": "45.13",
     "product_title": "Blood Bowl: Reglamento Oficial Tercera Temporada (Español)"
   },
@@ -152760,7 +152760,7 @@
     "product_title": "KITTIN"
   },
   "sarumangames.es:56205314457979": {
-    "available": false,
+    "available": true,
     "price": "63.00",
     "product_title": "SETI: JUEGO BÁSICO"
   },
@@ -165715,7 +165715,7 @@
     "product_title": "SEPTIMA"
   },
   "sarumangames.es:54872750588283": {
-    "available": true,
+    "available": false,
     "price": "3.30",
     "product_title": "AK: ROUND BRUSH - SYNTHETIC - Nº4/0 - ESTANDAR"
   },
@@ -175095,7 +175095,7 @@
     "product_title": "Booster Box Inferno X M2 Coreano | Caja sellada 30 sobres Pokémon TCG"
   },
   "tigercards.es:47336002617529": {
-    "available": true,
+    "available": false,
     "price": "174.95",
     "product_title": "Booster Box Journey Together Español | Caja sellada 36 sobres TCG"
   },
@@ -325622,7 +325622,7 @@
   "laescotillajuegos.com:58811837874511": {
     "available": true,
     "price": "31.49",
-    "product_title": "[PREPEDIDO] Han Solo & Chewbacca"
+    "product_title": "Han Solo & Chewbacca"
   },
   "laescotillajuegos.com:58811830305103": {
     "available": false,
@@ -325632,7 +325632,7 @@
   "laescotillajuegos.com:58811824865615": {
     "available": true,
     "price": "58.49",
-    "product_title": "[PREPEDIDO] Jedi BARC Speeder"
+    "product_title": "Jedi BARC Speeder"
   },
   "laescotillajuegos.com:58811776696655": {
     "available": true,
@@ -364320,7 +364320,7 @@
     "product_title": "2026 Topps Mars Attacks Christmas &#8211; Hobby Box"
   },
   "supercollectors.es:76471": {
-    "available": true,
+    "available": false,
     "price": 27.0,
     "product_title": "2026 Topps Allen &amp; Ginter MLB &#8211; Value Box"
   },
@@ -364350,7 +364350,7 @@
     "product_title": "One Piece Card Game - OP19 Booster Display - EN"
   },
   "sarumangames.es:56488864678267": {
-    "available": false,
+    "available": true,
     "price": "30.00",
     "product_title": "PRESENTACIÓN POKÉMON TCG – MEGAEVOLUCIÓN: DOMINIO DELTA"
   },
@@ -369122,7 +369122,7 @@
   "laescotillajuegos.com:59124312703311": {
     "available": true,
     "price": "29.99",
-    "product_title": "[PREPEDIDO] La llamada de Cthulhu - Horror en el Orient Express - Guía del viajero"
+    "product_title": "La llamada de Cthulhu - Horror en el Orient Express - Guía del viajero"
   },
   "laescotillajuegos.com:59124025033039": {
     "available": true,
@@ -373128,5 +373128,75 @@
     "available": false,
     "price": "43.95",
     "product_title": "Blister 8 figuras Battle Ready Pokemon"
+  },
+  "canarypop.es:54467223454043": {
+    "available": false,
+    "price": "29.95",
+    "product_title": "Ultra-Pro DECKBOX ALCOVE POKEMON MEGA CHARIZARD Y"
+  },
+  "canarypop.es:54467222667611": {
+    "available": false,
+    "price": "26.95",
+    "product_title": "Ultra Pro Album 9 BOLSILLOS CREMALLERA PREMIUM PARA TOPLOADERS"
+  },
+  "canarypop.es:54467221881179": {
+    "available": false,
+    "price": "27.95",
+    "product_title": "Ultra Pro - Kit Oficial PSA Grading"
+  },
+  "canarypop.es:54467221094747": {
+    "available": false,
+    "price": "42.95",
+    "product_title": "Ultra Pro Album 12 BOLSILLOS CREMALLERA LUCARIO"
+  },
+  "canarypop.es:54467219620187": {
+    "available": false,
+    "price": "20.95",
+    "product_title": "Ultra-Pro DECKBOX ELITE ALCOVE POKEMON ARCEUS"
+  },
+  "canarypop.es:54467218899291": {
+    "available": false,
+    "price": "42.95",
+    "product_title": "Ultra Pro Album 12 BOLSILLOS CREMALLERA ARCEUS"
+  },
+  "canarypop.es:54467217949019": {
+    "available": false,
+    "price": "37.95",
+    "product_title": "Ultra Pro Album 9 BOLSILLOS CREMALLERA ARCEUS"
+  },
+  "canarypop.es:54467089989979": {
+    "available": false,
+    "price": "19.95",
+    "product_title": "Blister 2 Pack - Team Rocket ESPAÑOL"
+  },
+  "lanavetcg.com:57633696416119": {
+    "available": true,
+    "price": "99.90",
+    "product_title": "RESERVA Celebración 30 Aniversario Coreano  ENVIO EL 30/10"
+  },
+  "sarumangames.es:56534912926075": {
+    "available": true,
+    "price": "57.95",
+    "product_title": "Forestry - (Castellano)"
+  },
+  "sarumangames.es:56534911811963": {
+    "available": true,
+    "price": "21.95",
+    "product_title": "Propolis"
+  },
+  "sarumangames.es:56534909452667": {
+    "available": true,
+    "price": "75.95",
+    "product_title": "Scythe - juego básico"
+  },
+  "sarumangames.es:56534907683195": {
+    "available": true,
+    "price": "46.50",
+    "product_title": "Railway Boom"
+  },
+  "g3tcg.es:7710": {
+    "available": true,
+    "price": 30.0,
+    "product_title": "Prerelease Dominio Delta &#8211; 31 OCT  &#8211; 10:00"
   }
 }
