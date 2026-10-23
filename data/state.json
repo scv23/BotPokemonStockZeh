@@ -31761,7 +31761,7 @@
   },
   "cardcosmos.de:53975479386455": {
     "available": true,
-    "price": "99.90",
+    "price": "94.90",
     "product_title": "Yu-Gi-Oh! - Invasion of Chaos 25th Anniversary Booster Display - DE"
   },
   "cardcosmos.de:53975479353687": {
@@ -31776,7 +31776,7 @@
   },
   "cardcosmos.de:53975479124311": {
     "available": true,
-    "price": "114.90",
+    "price": "104.90",
     "product_title": "Yu-Gi-Oh! - Spell Ruler 25th Anniversary Booster Display - DE"
   },
   "cardcosmos.de:53975479091543": {
@@ -31856,7 +31856,7 @@
   },
   "cardcosmos.de:53975476371799": {
     "available": true,
-    "price": "159.90",
+    "price": "139.90",
     "product_title": "Yu-Gi-Oh! - Legend of Blue Eyes White Dragon 25th Anniversary Booster Display - DE"
   },
   "cardcosmos.de:53975476109655": {
@@ -31896,13 +31896,13 @@
   },
   "cardcosmos.de:53975475454295": {
     "available": true,
-    "price": "84.90",
-    "product_title": "Yu-Gi-Oh! - Maximum Gold Booster Display - DE"
+    "price": "19.90",
+    "product_title": "Yu-Gi-Oh! - Maximum Gold Tuckbox - DE"
   },
   "cardcosmos.de:53975475421527": {
     "available": true,
-    "price": "42.90",
-    "product_title": "Yu-Gi-Oh! - Maximum Gold: El Dorado Booster Display - DE"
+    "price": "9.90",
+    "product_title": "Yu-Gi-Oh! - Maximum Gold: El Dorado Tuckbox - DE"
   },
   "cardcosmos.de:53975475028311": {
     "available": false,
@@ -34170,7 +34170,7 @@
     "product_title": "Pokémon - Terastal Gathering Booster Box - CHN"
   },
   "cardcosmos.de:53890596405591": {
-    "available": false,
+    "available": true,
     "price": "29.90",
     "product_title": "Pokémon - Stellar Crystal Slim Booster Display - CHN"
   },
@@ -34595,18 +34595,18 @@
     "product_title": "Magic: The Gathering Mystery Play Booster Set Deutsch – 3 verschiedene zufällige Booster"
   },
   "cardcosmos.de:53786760347991": {
-    "available": false,
-    "price": "29.99",
+    "available": true,
+    "price": "34.90",
     "product_title": "Riftbound: League of Legends - Radiance Showdown Deck: Evelynn vs. Seraphine - EN"
   },
   "cardcosmos.de:53786666697047": {
-    "available": false,
-    "price": "29.99",
+    "available": true,
+    "price": "39.90",
     "product_title": "Riftbound: League of Legends - Radiance Vault - EN"
   },
   "cardcosmos.de:53786632520023": {
-    "available": false,
-    "price": "269.99",
+    "available": true,
+    "price": "134.90",
     "product_title": "Riftbound: League of Legends - Radiance Booster Display - EN"
   },
   "cardcosmos.de:53755995783511": {
@@ -35675,7 +35675,7 @@
     "product_title": "Magic: The Gathering - Der Hobbit Sammler Booster Display - DE"
   },
   "cardcosmos.de:53096739537239": {
-    "available": true,
+    "available": false,
     "price": "8.90",
     "product_title": "Magic: The Gathering - The Hobbit Play Booster Pack - EN"
   },
@@ -35716,12 +35716,12 @@
   },
   "cardcosmos.de:53453208650071": {
     "available": false,
-    "price": "69.90",
+    "price": "39.90",
     "product_title": "Magic: The Gathering - The Hobbit Scene Box Crack the Plates - EN"
   },
   "cardcosmos.de:53453208486231": {
     "available": false,
-    "price": "69.90",
+    "price": "39.90",
     "product_title": "Magic: The Gathering - The Hobbit Scene Box Treasures of Smaug - EN"
   },
   "cardcosmos.de:53105641062743": {
@@ -35936,7 +35936,7 @@
   },
   "cardcosmos.de:53352200700247": {
     "available": false,
-    "price": "59.90",
+    "price": "69.90",
     "product_title": "Pokémon - Storm Emeralda Booster Display - KOR"
   },
   "cardcosmos.de:53352189264215": {
@@ -36191,7 +36191,7 @@
   },
   "cardcosmos.de:53265440637271": {
     "available": false,
-    "price": "20.99",
+    "price": "24.99",
     "product_title": "Pokémon Evoli Schlüsselanhänger Mystery Box – Nine Colors Gathering CHN"
   },
   "cardcosmos.de:53265292919127": {
@@ -37101,7 +37101,7 @@
   },
   "cardcosmos.de:53044629274967": {
     "available": false,
-    "price": "519.99",
+    "price": "549.90",
     "product_title": "Pokémon - Evolving Skies Elite Trainer Box Umbreon - EN"
   },
   "cardcosmos.de:53045138817367": {
@@ -43075,7 +43075,7 @@
     "product_title": "AoS Kharadron Overlords: Arkanaut Company"
   },
   "cardcosmos.de:52025638060375": {
-    "available": true,
+    "available": false,
     "price": "35.99",
     "product_title": "AoS Fyreslayers: Hearthguard Berzerkers"
   },
@@ -53065,7 +53065,7 @@
     "product_title": "Lata PokeBall 2024 - Español"
   },
   "cardzone.es:54180471800152": {
-    "available": false,
+    "available": true,
     "price": "35.95",
     "product_title": "Mystery Pack 10 Cartas SR Pokemon - Japones"
   },
@@ -58652,7 +58652,7 @@
   "grillecards.com:58291218022787": {
     "available": true,
     "price": "21.95",
-    "product_title": "Unleashed Vi champion deck"
+    "product_title": "Riftbound: Unleashed Vi Champion Deck"
   },
   "grillecards.com:56736502940035": {
     "available": false,
@@ -58967,7 +58967,7 @@
   "grillecards.com:57554051072387": {
     "available": true,
     "price": "179.95",
-    "product_title": "Caja 36 sobres: Mega evoluciones Equilibrio Pefecto (Español)"
+    "product_title": "Caja 36 sobres: Mega evoluciones Equilibrio Perfecto (Español)"
   },
   "grillecards.com:57782201844099": {
     "available": true,
@@ -60562,7 +60562,7 @@
   "mojocards.nl:53616815735117": {
     "available": true,
     "price": "11.99",
-    "product_title": "One Piece Luffy's Archive of Adventure Volume 1 - Blind Box"
+    "product_title": "One Piece Luffy's Archive of Adventure Volume 2 - Blind Box"
   },
   "mojocards.nl:53616154837325": {
     "available": true,
@@ -66505,7 +66505,7 @@
     "product_title": "Weiss Schwarz | Booster Box 6 Sobre The Idolm@Ster Cinderella Girls"
   },
   "pokemillon.com:54354149146947": {
-    "available": false,
+    "available": true,
     "price": "49.90",
     "product_title": "Weiss Schwarz Rose | Booster Box 10 Sobre Lose & Whisp"
   },
@@ -70755,7 +70755,7 @@
     "product_title": "Kingdra ex Special Illustration Fábula Sombría | Shrouded Fable"
   },
   "pokemillon.com:48394115940675": {
-    "available": true,
+    "available": false,
     "price": "119.00",
     "product_title": "Mystery Graded Card 1st Edition Vintage - PSA, BGS, CGC"
   },
@@ -75640,7 +75640,7 @@
     "product_title": "Godzilla Card Game | Booster Display 12 Sobres Monster Raid Again vol .2"
   },
   "pokemillon.com:54768470131011": {
-    "available": false,
+    "available": true,
     "price": "59.90",
     "product_title": "Weiss Schwarz | Booster Box 12 Sobre Uma Musume Cinderella Gray"
   },
@@ -78880,7 +78880,7 @@
     "product_title": "Topps | Chrome® Bundesliga - Value Box"
   },
   "pokemillon.com:53724391899459": {
-    "available": false,
+    "available": true,
     "price": "39.90",
     "product_title": "Weiss Schwarz | Booster Box 6 Sobre The Idolm@ster Shinycolors Premium"
   },
@@ -81430,7 +81430,7 @@
     "product_title": "POKEMON 30 ANIVERSARIO CELEBRACIONES BOOSTER BOX (CHINO)"
   },
   "sunnystore.es:56902130663810": {
-    "available": false,
+    "available": true,
     "price": "21.90",
     "product_title": "POKEMON 30 ANIVERSARIO CELEBRACIONES COIN SET (CHINO)"
   },
@@ -95800,7 +95800,7 @@
     "product_title": "Topps Graphite Tennis 2026 Hobby Box"
   },
   "darizard9.com:56324261314886": {
-    "available": false,
+    "available": true,
     "price": "4.99",
     "product_title": "Sobre Equilibrio Perfecto"
   },
@@ -96045,7 +96045,7 @@
     "product_title": "Sobre B-28 Prismatic Clash"
   },
   "darizard9.com:55013028888902": {
-    "available": false,
+    "available": true,
     "price": "99.99",
     "product_title": "Caja B-28 Prismatic Clash"
   },
@@ -113745,7 +113745,7 @@
     "product_title": "Bamboo 3D Printed - Dioramas - Vegetation"
   },
   "laescotillajuegos.com:56662356230479": {
-    "available": true,
+    "available": false,
     "price": "5.50",
     "product_title": "Fine Gray Gravel 1-3 Mm 100Ml - Dioramas - Vegetation"
   },
@@ -116750,7 +116750,7 @@
     "product_title": "Astro Knights"
   },
   "laescotillajuegos.com:56112648192335": {
-    "available": true,
+    "available": false,
     "price": "14.95",
     "product_title": "Duelo por Cardia"
   },
@@ -125715,7 +125715,7 @@
     "product_title": "Ak Synthetic Brush - Round 2"
   },
   "laescotillajuegos.com:53724586836303": {
-    "available": true,
+    "available": false,
     "price": "3.70",
     "product_title": "Ak Synthetic Brush - Round 1"
   },
@@ -133075,7 +133075,7 @@
     "product_title": "CAJA POKEMON GEM PACK VOL 1 - CHINO"
   },
   "latiendadelascartas.es:58086712967432": {
-    "available": true,
+    "available": false,
     "price": "325.44",
     "product_title": "CAJA POKEMON VMAX CLIMAX S4A - JAPONES"
   },
@@ -137110,7 +137110,7 @@
     "product_title": "CAJA POKEMON COLLECT 151 SURPRISE SLIM - CHINO"
   },
   "latiendadelascartas.es:52370787107080": {
-    "available": true,
+    "available": false,
     "price": "268.95",
     "product_title": "CAJA POKEMON VMAX CLIMAX S4A - JAPONES"
   },
@@ -146985,7 +146985,7 @@
     "product_title": "ORKS: DADOS DE ORKOZ 40K"
   },
   "sarumangames.es:56403380732283": {
-    "available": true,
+    "available": false,
     "price": "76.50",
     "product_title": "OLD WORLD: WOOD ELF -  Battle March Army"
   },
@@ -153535,17 +153535,17 @@
     "product_title": "StarCraft: Stalker - Protoss - Expansion Set"
   },
   "sarumangames.es:56154434863483": {
-    "available": false,
+    "available": true,
     "price": "40.50",
     "product_title": "StarCraft: Goliath - Terran - Expansion Set"
   },
   "sarumangames.es:56154434732411": {
-    "available": false,
+    "available": true,
     "price": "40.50",
     "product_title": "StarCraft: Marauder - Terran - Expansion Set"
   },
   "sarumangames.es:56154434109819": {
-    "available": false,
+    "available": true,
     "price": "40.50",
     "product_title": "StarCraft: Marine - Terran - Expansion Set"
   },
@@ -176225,7 +176225,7 @@
     "product_title": "Sobre Storm Emerald | POKÉMON | Coreano"
   },
   "todohits.com:54783982076241": {
-    "available": false,
+    "available": true,
     "price": "69.99",
     "product_title": "Booster Box Storm Emerald | POKÉMON | Coreano"
   },
@@ -176461,7 +176461,7 @@
   },
   "todohits.com:54204038906193": {
     "available": true,
-    "price": "67.99",
+    "price": "64.99",
     "product_title": "Booster Box Abyss Eye | POKÉMON | Coreano"
   },
   "todohits.com:54333293330769": {
@@ -177586,7 +177586,7 @@
   },
   "todohits.com:53564002074961": {
     "available": true,
-    "price": "9.99",
+    "price": "10.99",
     "product_title": "Sobre Terastal Festival | POKÉMON | Coreano"
   },
   "todohits.com:53556380205393": {
@@ -178440,8 +178440,8 @@
     "product_title": "Booster Box Super Electric Breaker | POKÉMON | Coreano"
   },
   "todohits.com:52482239889745": {
-    "available": false,
-    "price": "89.99",
+    "available": true,
+    "price": "106.99",
     "product_title": "Booster Box Terastal Festival | POKÉMON | Coreano"
   },
   "todohits.com:52447718080849": {
@@ -187470,7 +187470,7 @@
     "product_title": "Figura de Stitch con Guitarra – ¡El Extraterrestre Rockero de Disney!"
   },
   "toyplanet.com:52349650731331": {
-    "available": false,
+    "available": true,
     "price": "44.99",
     "product_title": "Figura de Brook de One Piece – ¡El Alma Musical del Sombrero de Paja!"
   },
@@ -198066,7 +198066,7 @@
   },
   "toyplanet.com:52409396429123": {
     "available": true,
-    "price": "2001.00",
+    "price": "21.99",
     "product_title": "NERF Utulity Chaleco de Tela"
   },
   "toyplanet.com:52409396494659": {
@@ -208966,47 +208966,47 @@
   },
   "universetcg.com:54622165893461": {
     "available": true,
-    "price": "3456.00",
+    "price": "4320.00",
     "product_title": "One Piece Card Game OP-18 Booster Box Case (12 Boxes) - English"
   },
   "universetcg.com:54622165795157": {
     "available": true,
-    "price": "288.00",
+    "price": "360.00",
     "product_title": "One Piece Card Game OP-18 Booster Box (24 Packs) - English"
   },
   "universetcg.com:54622165762389": {
     "available": false,
-    "price": "8.00",
+    "price": "15.00",
     "product_title": "One Piece Card Game OP-18 Booster Pack - English"
   },
   "universetcg.com:54499183165781": {
     "available": true,
-    "price": "2304.00",
+    "price": "2880.00",
     "product_title": "One Piece Card Game OP-19 Booster Box Case (12 Boxes) - English"
   },
   "universetcg.com:54499182084437": {
     "available": true,
-    "price": "192.00",
+    "price": "240.00",
     "product_title": "One Piece Card Game OP-19 Booster Box (24 Packs) - English"
   },
   "universetcg.com:54499181625685": {
     "available": true,
-    "price": "8.00",
+    "price": "10.00",
     "product_title": "One Piece Card Game OP-19 Booster Pack - English"
   },
   "universetcg.com:54401125712213": {
     "available": true,
-    "price": "2376.00",
+    "price": "2880.00",
     "product_title": "One Piece Card Game Extra Booster EB-06 Case (12 Booster Boxes) - English"
   },
   "universetcg.com:54401125548373": {
     "available": true,
-    "price": "198.00",
+    "price": "240.00",
     "product_title": "One Piece Card Game Extra Booster EB-06 Booster Box (24 Packs) - English"
   },
   "universetcg.com:54401125384533": {
     "available": false,
-    "price": "6.00",
+    "price": "10.00",
     "product_title": "One Piece Card Game Extra Booster EB-06 Booster Pack - English"
   },
   "universetcg.com:54401002111317": {
@@ -209021,7 +209021,7 @@
   },
   "universetcg.com:54401001587029": {
     "available": false,
-    "price": "6.00",
+    "price": "10.00",
     "product_title": "One Piece Card Game Extra Booster EB-05 Booster Pack - English"
   },
   "universetcg.com:54342267240789": {
@@ -209031,12 +209031,12 @@
   },
   "universetcg.com:54342265831765": {
     "available": false,
-    "price": "6.00",
+    "price": "10.00",
     "product_title": "One Piece Card Game OP-17 The World's Strongest Warriors Booster Pack - English"
   },
   "universetcg.com:53953116504405": {
     "available": false,
-    "price": "7.00",
+    "price": "10.00",
     "product_title": "One Piece Card Game OP-16 Booster Pack – The Time of the Battle - English"
   },
   "universetcg.com:53953116471637": {
@@ -209051,7 +209051,7 @@
   },
   "universetcg.com:53503232835925": {
     "available": false,
-    "price": "7.00",
+    "price": "10.00",
     "product_title": "One Piece Card Game OP15-EB04 Booster Pack – Adventure on Kami’s Island - English"
   },
   "universetcg.com:53503232082261": {
@@ -209071,7 +209071,7 @@
   },
   "universetcg.com:52273617076565": {
     "available": false,
-    "price": "7.00",
+    "price": "10.00",
     "product_title": "One Piece Card Game: OP-14 The Azure Sea's Seven – Booster Pack (EN)"
   },
   "universetcg.com:54651687371093": {
@@ -211885,7 +211885,7 @@
     "product_title": "Pokémon TCG Mega Evolution Oscuridad Absoluta Sleeved Booster - Spanish"
   },
   "universetcg.com:54340367810901": {
-    "available": true,
+    "available": false,
     "price": "34.99",
     "product_title": "Pokémon TCG Mega Evolution Oscuridad Absoluta Booster Bundle - Spanish"
   },
@@ -236687,7 +236687,7 @@
   "cardcrack.com:8541:8542": {
     "available": true,
     "price": 179.95,
-    "product_title": "Riftbound League of Legends TCG: Radiance &#8211; Caja de 24 sobres / Case sellado de 6 cajas (Inglés) &#8211; RESERVA"
+    "product_title": "Riftbound League of Legends TCG: Radiance &#8211; Caja de 24 sobres / Case sellado de 6 cajas (Inglés)"
   },
   "cardcrack.com:8541:8543": {
     "available": true,
@@ -321232,7 +321232,7 @@
   "cardcrack.com:8534": {
     "available": true,
     "price": 43.95,
-    "product_title": "Riftbound League of Legends TCG: Radiance &#8211; Vault Bundle 6 sobres (Inglés) &#8211; RESERVA"
+    "product_title": "Riftbound League of Legends TCG: Radiance &#8211; Vault Bundle 6 sobres (Inglés)"
   },
   "holoplazatcg.com:12120": {
     "available": false,
@@ -322771,7 +322771,7 @@
   },
   "cardcosmos.de:55029969027415": {
     "available": true,
-    "price": "29.90",
+    "price": "21.90",
     "product_title": "Yu-Gi-Oh! - Rarity Collection 5 RA05 Tuckbox - EN"
   },
   "kamehousecards.com:54728717566290": {
@@ -352510,12 +352510,12 @@
     "product_title": "Magic | Bundle 9 Sobres Reality Fracture"
   },
   "pokemillon.com:54831863398723": {
-    "available": false,
+    "available": true,
     "price": "132.90",
     "product_title": "Magic | Play Booster 30 Sobres Reality Fracture"
   },
   "pokemillon.com:54831863431491": {
-    "available": true,
+    "available": false,
     "price": "132.90",
     "product_title": "Magic | Play Booster 30 Sobres Reality Fracture"
   },
@@ -352930,7 +352930,7 @@
     "product_title": "Dungeons & Dragons - Arcana Unleashed: Deadfall Alternate-Art Cover (Inglés)"
   },
   "laescotillajuegos.com:58868077527375": {
-    "available": true,
+    "available": false,
     "price": "12.55",
     "product_title": "Fort: Perros y Gatos"
   },
@@ -353785,7 +353785,7 @@
     "product_title": "Illumineer's Quest The Great Hunny Rescue (Inglés)"
   },
   "laescotillajuegos.com:58873622430031": {
-    "available": true,
+    "available": false,
     "price": "89.99",
     "product_title": "Digimon Card Game - Chivalrous XIII Extra Booster Display EX13 (24 Packs)"
   },
@@ -354911,7 +354911,7 @@
   },
   "cardzone.es:58584435917144": {
     "available": true,
-    "price": "450.00",
+    "price": "400.00",
     "product_title": "Mega Rayquaza EX M6 113 - NM Japonés"
   },
   "lanavetcg.com:57496923275639": {
@@ -357035,7 +357035,7 @@
     "product_title": "Pokémon - Collect 151 First Partner Schiggy Display Set - CHN"
   },
   "cardcosmos.de:55226736050519": {
-    "available": false,
+    "available": true,
     "price": "14.90",
     "product_title": "Pokémon - Pokémon 30 Jahre Booster Pack - DE"
   },
@@ -357345,7 +357345,7 @@
     "product_title": "Adeptus Custodes: Set de dados"
   },
   "laescotillajuegos.com:58901374697807": {
-    "available": true,
+    "available": false,
     "price": "24.65",
     "product_title": "Adeptus Custodes: Pack De Mando (Español)"
   },
@@ -366130,12 +366130,12 @@
     "product_title": "[EVENTO] One Piece - MANGA EXPERIENCE - 17 de Octubre a las 11H"
   },
   "laescotillajuegos.com:59060645757263": {
-    "available": true,
+    "available": false,
     "price": "30.00",
     "product_title": "[EVENTO] Pokémon TCG - Presentación Dominio Delta"
   },
   "laescotillajuegos.com:59060645790031": {
-    "available": true,
+    "available": false,
     "price": "30.00",
     "product_title": "[EVENTO] Pokémon TCG - Presentación Dominio Delta"
   },
@@ -368512,12 +368512,12 @@
   "todohits.com:55207987347793": {
     "available": true,
     "price": "119.99",
-    "product_title": "Booster Box 30 Aniversario | POKÉMON | Chino"
+    "product_title": "Booster Box 30 Aniversario | POKÉMON | 30th Celebration Chino"
   },
   "todohits.com:55208204697937": {
     "available": true,
     "price": "6.19",
-    "product_title": "Sobre 30 Aniversario | POKÉMON | Chino"
+    "product_title": "Sobre 30 Aniversario | POKÉMON | 30th Celebration Chino"
   },
   "universetcg.com:55321425117525": {
     "available": false,
@@ -369865,7 +369865,7 @@
     "product_title": "Elite Trainer Box - Delta Reign [ENG]"
   },
   "elitestoretcg.com:54333521330504": {
-    "available": true,
+    "available": false,
     "price": "154.95",
     "product_title": "Celebraciones 30th ETB - INGLÉS"
   },
@@ -369886,7 +369886,7 @@
   },
   "elitestoretcg.com:54333471031624": {
     "available": true,
-    "price": "82.95",
+    "price": "79.95",
     "product_title": "Celebraciones 30th Booster Bundle - INGLÉS"
   },
   "laescotillajuegos.com:59094275490127": {
@@ -370540,7 +370540,7 @@
     "product_title": "Sobre juego cartas coleccionables Evoluciones en Paldea Pokemon surtido español"
   },
   "canarypop.es:53538783494491": {
-    "available": true,
+    "available": false,
     "price": "36.95",
     "product_title": "Blister Poster Collection - 30th Celebration INGLÉS"
   },
@@ -370555,24 +370555,24 @@
     "product_title": "[EVENTO] Riftbound: Presentación Radiance Miércoles 21 de Octubre"
   },
   "laescotillajuegos.com:59192283758927": {
-    "available": true,
+    "available": false,
     "price": "15.00",
     "product_title": "[EVENTO] GUNDAM: Primer aniversario Sábado 24 de Octubre"
   },
   "laescotillajuegos.com:59075021046095": {
     "available": true,
     "price": "34.99",
-    "product_title": "[PREPEDIDO] Riftbound: League of Legends TCG - Radiance - Vault Bundle"
+    "product_title": "Riftbound: League of Legends TCG - Radiance - Vault Bundle"
   },
   "laescotillajuegos.com:59075111485775": {
     "available": true,
     "price": "34.99",
-    "product_title": "[PREPEDIDO] Riftbound: League of Legends TCG - Radiance - Showdown Decks - Evelynn vs Seraphine"
+    "product_title": "Riftbound: League of Legends TCG - Radiance - Showdown Decks - Evelynn vs Seraphine"
   },
   "laescotillajuegos.com:59074981429583": {
     "available": true,
     "price": "127.99",
-    "product_title": "[PREPEDIDO] Riftbound: League of Legends TCG - Radiance - Booster Display (24 packs)"
+    "product_title": "Riftbound: League of Legends TCG - Radiance - Booster Display (24 packs)"
   },
   "pokemillon.com:54943944245571": {
     "available": false,
@@ -373225,7 +373225,7 @@
     "product_title": "9 Cajas First Partner Illustration Collections Pokémon 30th Anniversary"
   },
   "pokemillon.com:54957190381891": {
-    "available": true,
+    "available": false,
     "price": "23.90",
     "product_title": "First Partner Illustration Collections Pokémon 30th Anniversary"
   },
@@ -373353,5 +373353,95 @@
     "available": false,
     "price": 27.9,
     "product_title": "30 Aniversario Blister con Moneda"
+  },
+  "elitestoretcg.com:54383850160456": {
+    "available": true,
+    "price": "29.95",
+    "product_title": "Album Premium Toploader Ultra Pro"
+  },
+  "laescotillajuegos.com:59229920035151": {
+    "available": true,
+    "price": "24.99",
+    "product_title": "Ciudadelas Duel"
+  },
+  "laescotillajuegos.com:59229174104399": {
+    "available": true,
+    "price": "127.80",
+    "product_title": "Escenografía Plegable Prepintada 11ª edición"
+  },
+  "laescotillajuegos.com:59229007020367": {
+    "available": true,
+    "price": "30.00",
+    "product_title": "Riftbound: League of Legends TCG - Radiance - Pre-Rift kit"
+  },
+  "laescotillajuegos.com:59228927721807": {
+    "available": true,
+    "price": "20.19",
+    "product_title": "Airbrush Flúor - Set de pintura"
+  },
+  "laescotillajuegos.com:59228878700879": {
+    "available": true,
+    "price": "3.45",
+    "product_title": "Peanas de plástico - Rectangulares 40x60mm"
+  },
+  "laescotillajuegos.com:59228847767887": {
+    "available": true,
+    "price": "8.30",
+    "product_title": "Organizador Vertical de Pinturas 30ml - LITE"
+  },
+  "todohits.com:55432336277841": {
+    "available": true,
+    "price": "32.99",
+    "product_title": "Pikachu Dream Figure 30 Aniversario | POKÉMON | Chino"
+  },
+  "cardcrack.com:10303": {
+    "available": true,
+    "price": 6.5,
+    "product_title": "MTG: El Hobbit &#8211; Sobre de 14 cartas (Español)"
+  },
+  "supercollectors.es:78060": {
+    "available": true,
+    "price": 249.0,
+    "product_title": "2025-26 Panini Select Basketball &#8211; Hobby Box"
+  },
+  "supercollectors.es:77931": {
+    "available": true,
+    "price": 350.0,
+    "product_title": "2026 Cryptozoic CZX Jurassic Park &#8211; Hobby Box"
+  },
+  "supercollectors.es:53262": {
+    "available": true,
+    "price": 240.0,
+    "product_title": "2025 Topps Star Wars Meiyo &#8211; Hobby Box"
+  },
+  "supercollectors.es:76927": {
+    "available": true,
+    "price": 145.0,
+    "product_title": "2026 Kakawow Phantom Stranger Things &#8211; Hobby Box"
+  },
+  "supercollectors.es:76926": {
+    "available": true,
+    "price": 210.0,
+    "product_title": "2026 Panini Luminance Germany – Hobby Box"
+  },
+  "supercollectors.es:76923": {
+    "available": true,
+    "price": 9.5,
+    "product_title": "2022-23 Panini Elite Premier League EPL &#8211; Fat Pack"
+  },
+  "supercollectors.es:76922": {
+    "available": true,
+    "price": 95.0,
+    "product_title": "2022-23 Panini Score FIFA &#8211; Retail Box"
+  },
+  "supercollectors.es:76921": {
+    "available": true,
+    "price": 95.0,
+    "product_title": "2021-22 Panini Score FIFA &#8211; Retail Box"
+  },
+  "supercollectors.es:77929": {
+    "available": true,
+    "price": 42.0,
+    "product_title": "2025-26 Panini Donruss Basketball &#8211; Blaster Box"
   }
 }
