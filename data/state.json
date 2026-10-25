@@ -235497,17 +235497,17 @@
   "bimbacards.com:60603:60605": {
     "available": true,
     "price": 3.9,
-    "product_title": "Storm Emerald &#8211; JP"
+    "product_title": "Storm Emerald Booster Box Japonés"
   },
   "bimbacards.com:60603:60606": {
     "available": true,
     "price": 3.9,
-    "product_title": "Storm Emerald &#8211; JP"
+    "product_title": "Storm Emerald Booster Box Japonés"
   },
   "bimbacards.com:60458": {
     "available": true,
     "price": 33.9,
-    "product_title": "Team Rocket Chasing Glory Slim"
+    "product_title": "Team Rocket&#8217;s Glory Booster Box Chino"
   },
   "bimbacards.com:60454": {
     "available": true,
@@ -235717,7 +235717,7 @@
   "bimbacards.com:58174": {
     "available": true,
     "price": 74.9,
-    "product_title": "Booster Bundle – Rivales Predestinados"
+    "product_title": "Rivales Predestinados Booster Bundle Inglés"
   },
   "bimbacards.com:58172:60625": {
     "available": true,
@@ -235775,9 +235775,9 @@
     "product_title": "Pokémon 151 JP"
   },
   "bimbacards.com:58146": {
-    "available": false,
+    "available": true,
     "price": 179.9,
-    "product_title": "Glory of Team Rocket Japonés"
+    "product_title": "Glory of Team Rocket Booster Box Japonés"
   },
   "bimbacards.com:58126": {
     "available": true,
@@ -235887,7 +235887,7 @@
   "bimbacards.com:57846": {
     "available": true,
     "price": 61.9,
-    "product_title": "White Flare &#8211; Coreano"
+    "product_title": "White Flare Booster Box Coreano"
   },
   "bimbacards.com:57844": {
     "available": true,
@@ -236162,7 +236162,7 @@
   "bimbacards.com:57486": {
     "available": false,
     "price": 47.9,
-    "product_title": "Booster Bundle – Llama Blanca"
+    "product_title": "Llama Blanca Booster Bundle Español"
   },
   "bimbacards.com:57484": {
     "available": false,
@@ -284335,7 +284335,7 @@
     "product_title": "Bullyland &#8211; Figura Echo Aviones Planes Disney"
   },
   "industria61.com:156827": {
-    "available": true,
+    "available": false,
     "price": 10.0,
     "product_title": "Yu-Gi-Oh &#8211; Baraja de Estructura &#8211; Blue Eyes White Destiny &#8211; INGLES"
   },
@@ -321607,7 +321607,7 @@
   "bimbacards.com:61394": {
     "available": false,
     "price": 169.9,
-    "product_title": "30 Aniversario Collector Display Box CN"
+    "product_title": "30 Aniversario Colección Espeon ex y Umbreon ex con Imanes Chino"
   },
   "cardcrack.com:1323:1325": {
     "available": true,
@@ -323337,7 +323337,7 @@
   "bimbacards.com:61529": {
     "available": false,
     "price": 209.9,
-    "product_title": "30th Aniversario Premium Deck Set Espeon &amp; Umbreon JP"
+    "product_title": "30 Aniversario Premium Deck Set Espeon y Umbreon Japonés"
   },
   "toyplanet.com:54815349309763": {
     "available": false,
@@ -358575,7 +358575,7 @@
     "product_title": "Lightning Dragon (OP15-077) (V.1) - Adventure on Kami’s Island (Rare) [OP15-077]"
   },
   "universetcg.com:55200809222485": {
-    "available": true,
+    "available": false,
     "price": "0.50",
     "product_title": "Lightning Beast Kiten (OP15-076) - Adventure on Kami’s Island (Uncommon) [OP15-076]"
   },
@@ -358585,7 +358585,7 @@
     "product_title": "El Thor (OP15-075) - Adventure on Kami’s Island (Uncommon) [OP15-075]"
   },
   "universetcg.com:55200809091413": {
-    "available": true,
+    "available": false,
     "price": "0.50",
     "product_title": "Varie (OP15-074) - Adventure on Kami’s Island (Uncommon) [OP15-074]"
   },
@@ -358640,7 +358640,7 @@
     "product_title": "Captain Seamars (OP15-062) - Adventure on Kami’s Island (Uncommon) [OP15-062]"
   },
   "universetcg.com:55200808567125": {
-    "available": true,
+    "available": false,
     "price": "1.00",
     "product_title": "Ohm (OP15-061) (V.1) - Adventure on Kami’s Island (Rare) [OP15-061]"
   },
@@ -358720,7 +358720,7 @@
     "product_title": "Orlumbus (OP15-041) - Adventure on Kami’s Island (Uncommon) [OP15-041]"
   },
   "universetcg.com:55200807518549": {
-    "available": true,
+    "available": false,
     "price": "1.00",
     "product_title": "Viola (OP15-040) - Adventure on Kami’s Island (Rare) [OP15-040]"
   },
@@ -359485,12 +359485,12 @@
     "product_title": "Groggy Monsters (EB04-033) - The Azure Sea's Seven (Common) [OP14-EB04-033]"
   },
   "universetcg.com:55200796016981": {
-    "available": true,
+    "available": false,
     "price": "3.85",
     "product_title": "Queen (EB04-032) - The Azure Sea's Seven (Rare) [OP14-EB04-032]"
   },
   "universetcg.com:55200795984213": {
-    "available": true,
+    "available": false,
     "price": "1.00",
     "product_title": "King (EB04-031) (V.1) - The Azure Sea's Seven (Rare) [OP14-EB04-031]"
   },
@@ -360205,7 +360205,7 @@
     "product_title": "Topknot Neptunian (OP11-107) - A Fist of Divine Speed (Common) [OP11-107]"
   },
   "universetcg.com:55200772784469": {
-    "available": true,
+    "available": false,
     "price": "2.90",
     "product_title": "Zeus (OP11-106) (V.1) - A Fist of Divine Speed (Rare) [OP11-106]"
   },
@@ -369827,12 +369827,12 @@
   "bimbacards.com:62284:62553": {
     "available": true,
     "price": 6.5,
-    "product_title": "30 Aniversario &#8211; Coreano"
+    "product_title": "30 Aniversario Booster Box Coreano"
   },
   "bimbacards.com:62284:62554": {
     "available": true,
     "price": 6.5,
-    "product_title": "30 Aniversario &#8211; Coreano"
+    "product_title": "30 Aniversario Booster Box Coreano"
   },
   "pokebank.es:62594": {
     "available": true,
@@ -373505,12 +373505,12 @@
     "product_title": "El Señor De Los Anillos Ed. Aniversario"
   },
   "bimbacards.com:62873": {
-    "available": false,
+    "available": true,
     "price": 17.9,
     "product_title": "Caos Creciente Blíster de 3 Sobres Charmeleon"
   },
   "bimbacards.com:62872": {
-    "available": false,
+    "available": true,
     "price": 5.9,
     "product_title": "Caos Creciente Sobre Individual en Blíster"
   },
@@ -374480,62 +374480,62 @@
     "product_title": "[EVENTO] One Piece - SELLADO EB05 - 30 de Octubre"
   },
   "latiendadelascartas.es:59214625636616": {
-    "available": true,
+    "available": false,
     "price": "15.67",
     "product_title": "POKEMON 30TH CELEBRATION GEN 9 PROMO SET - JAPONES"
   },
   "latiendadelascartas.es:59214623375624": {
-    "available": true,
+    "available": false,
     "price": "12.95",
     "product_title": "POKEMON 30TH CELEBRATION GEN 9 PROMO SET - JAPONES"
   },
   "latiendadelascartas.es:59214622130440": {
-    "available": true,
+    "available": false,
     "price": "15.67",
     "product_title": "POKEMON 30TH CELEBRATION GEN 8 PROMO SET - JAPONES"
   },
   "latiendadelascartas.es:59214614987016": {
-    "available": true,
+    "available": false,
     "price": "12.95",
     "product_title": "POKEMON 30TH CELEBRATION GEN 8 PROMO SET - JAPONES"
   },
   "latiendadelascartas.es:59214614429960": {
-    "available": true,
+    "available": false,
     "price": "15.67",
     "product_title": "POKEMON 30TH CELEBRATION GEN 7 PROMO SET - JAPONES"
   },
   "latiendadelascartas.es:59214612562184": {
-    "available": true,
+    "available": false,
     "price": "12.95",
     "product_title": "POKEMON 30TH CELEBRATION GEN 7 PROMO SET - JAPONES"
   },
   "latiendadelascartas.es:59214612431112": {
-    "available": true,
+    "available": false,
     "price": "15.67",
     "product_title": "POKEMON 30TH CELEBRATION GEN 6 PROMO SET - JAPONES"
   },
   "latiendadelascartas.es:59214609056008": {
-    "available": true,
+    "available": false,
     "price": "12.95",
     "product_title": "POKEMON 30TH CELEBRATION GEN 6 PROMO SET - JAPONES"
   },
   "latiendadelascartas.es:59214608072968": {
-    "available": true,
+    "available": false,
     "price": "15.67",
     "product_title": "POKEMON 30TH CELEBRATION GEN 5 PROMO SET - JAPONES"
   },
   "latiendadelascartas.es:59214603452680": {
-    "available": true,
+    "available": false,
     "price": "12.95",
     "product_title": "POKEMON 30TH CELEBRATION GEN 5 PROMO SET - JAPONES"
   },
   "latiendadelascartas.es:59214603256072": {
-    "available": true,
+    "available": false,
     "price": "15.67",
     "product_title": "POKEMON 30TH CELEBRATION GEN 4 PROMO SET - JAPONES"
   },
   "latiendadelascartas.es:59214590378248": {
-    "available": true,
+    "available": false,
     "price": "12.95",
     "product_title": "POKEMON 30TH CELEBRATION GEN 4 PROMO SET - JAPONES"
   },
