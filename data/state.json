@@ -33655,7 +33655,7 @@
     "product_title": "Magic: The Gathering - Star Trek Collector Booster Pack - EN"
   },
   "cardcosmos.de:54024245313879": {
-    "available": true,
+    "available": false,
     "price": "6.99",
     "product_title": "Magic: The Gathering - Star Trek Play Booster Pack - EN"
   },
@@ -34000,7 +34000,7 @@
     "product_title": "Pokémon - Terastal Grand Gathering Binder Box - CHN"
   },
   "cardcosmos.de:53956936335703": {
-    "available": true,
+    "available": false,
     "price": "119.90",
     "product_title": "Pokémon - Terastal Grand Gathering Binder Box - CHN"
   },
@@ -60995,7 +60995,7 @@
     "product_title": "YuGiOh! | Case 12 Cajas Magnificent Monsters"
   },
   "pokemillon.com:54777022054723": {
-    "available": true,
+    "available": false,
     "price": "1019.40",
     "product_title": "Case 6 Caja de Sobres Oscuridad Absoluta | Pitch Black"
   },
@@ -61020,7 +61020,7 @@
     "product_title": "Maya (PFL 129) Fuegos Fantasmales"
   },
   "pokemillon.com:54776896684355": {
-    "available": true,
+    "available": false,
     "price": "39.90",
     "product_title": "Iron Hands ex (sv8a 210) Terastal Festival ex"
   },
@@ -61045,7 +61045,7 @@
     "product_title": "Charizard VSTAR (BRS 174) Brilliant Stars"
   },
   "pokemillon.com:54776876761411": {
-    "available": true,
+    "available": false,
     "price": "39.90",
     "product_title": "Celesteela GX (sm9b 066) Full Metal Wall"
   },
@@ -62885,7 +62885,7 @@
     "product_title": "Scorbunny (MEP 053) MEP Black Star Promos"
   },
   "pokemillon.com:54631551467843": {
-    "available": true,
+    "available": false,
     "price": "49.90",
     "product_title": "Grookey (MEP 052) MEP Black Star Promos"
   },
@@ -65060,8 +65060,8 @@
     "product_title": "ONLY PRISTINE - 1 Carta CGC 10"
   },
   "pokemillon.com:54501782061379": {
-    "available": false,
-    "price": "48.90",
+    "available": true,
+    "price": "49.90",
     "product_title": "ONLY PRISTINE - 1 Carta CGC 10"
   },
   "pokemillon.com:54501723275587": {
@@ -76970,7 +76970,7 @@
     "product_title": "Buggy (OP09-051) Unnumbered Promos"
   },
   "pokemillon.com:54089192538435": {
-    "available": true,
+    "available": false,
     "price": "166.90",
     "product_title": "Buggy (OP09-051) Unnumbered Promos"
   },
@@ -80100,7 +80100,7 @@
     "product_title": "ONLY CGC10 - 1 Carta CGC 10"
   },
   "pokemillon.com:53858772615491": {
-    "available": false,
+    "available": true,
     "price": "39.90",
     "product_title": "ONLY CGC10 - 1 Carta CGC 10"
   },
@@ -84025,7 +84025,7 @@
     "product_title": "ETB POKEMON FUEGOS FANTASMALES ELITE TRAINER BOX (ESPAÑOL)"
   },
   "sunnystore.es:56287826346370": {
-    "available": true,
+    "available": false,
     "price": "104.90",
     "product_title": "CAJA POKEMON MEGA DREAM EX M2A (JAPONÉS)"
   },
@@ -85475,7 +85475,7 @@
     "product_title": "BOOSTER POKEMON WHITE FLARE SV11W RESHIRAM - SOBRE JAPONÉS"
   },
   "sunnystore.es:55294337352066": {
-    "available": true,
+    "available": false,
     "price": "10.00",
     "product_title": "BOOSTER POKEMON BLACK BOLT SV11B ZEKROM - SOBRE JAPONÉS"
   },
@@ -96705,7 +96705,7 @@
     "product_title": "Pokémon TCG - 30th Celebration Ultra Premium Collection Day | Espeon ex (Inglés & Español)"
   },
   "jjcollection.es:55006246666569": {
-    "available": true,
+    "available": false,
     "price": "73.00",
     "product_title": "Pokémon TCG - Booster Bundle 30th Celebration (Inglés & Español)"
   },
@@ -160930,7 +160930,7 @@
     "product_title": "MTG SPIDERMAN - BUNDLE (INGLÉS)"
   },
   "sarumangames.es:55619003089275": {
-    "available": true,
+    "available": false,
     "price": "22.00",
     "product_title": "DISNEY LORCANA: FABLED - PORTFOLIO ALBUM PRINCESAS"
   },
@@ -182705,7 +182705,7 @@
     "product_title": "Muñeca K-Pop Idol Fashion Doll Dae"
   },
   "toyplanet.com:54800918184259": {
-    "available": false,
+    "available": true,
     "price": "16.95",
     "product_title": "Botella Acero Inoxidable TOPModel PIN IT 600 ml"
   },
@@ -183705,7 +183705,7 @@
     "product_title": "Topmodel Glamour Stickerworld"
   },
   "toyplanet.com:52349875061059": {
-    "available": false,
+    "available": true,
     "price": "22.95",
     "product_title": "TOPModel Diario con Código Secreto Team"
   },
@@ -183875,7 +183875,7 @@
     "product_title": "Topmodel Bloc De Notas Con Cierre Magnetico"
   },
   "toyplanet.com:52349735436611": {
-    "available": false,
+    "available": true,
     "price": "22.95",
     "product_title": "TOPModel diario con código secreto NIGHT LIGHT"
   },
@@ -183980,7 +183980,7 @@
     "product_title": "Topmodel Gorro De Pescador Reversible Jo"
   },
   "toyplanet.com:52349681140035": {
-    "available": false,
+    "available": true,
     "price": "17.95",
     "product_title": "Topmodel Bolso Media Luna Joy"
   },
@@ -184505,7 +184505,7 @@
     "product_title": "Petit Planet Animalitos Buenas Noches Dormilón – Peluche Musical con Luz Multicolor"
   },
   "toyplanet.com:52349439934787": {
-    "available": false,
+    "available": true,
     "price": "12.95",
     "product_title": "Reloj Despertador TOPModel GLITTER QUEEN"
   },
@@ -184635,7 +184635,7 @@
     "product_title": "Piscina Hinchable Seta"
   },
   "toyplanet.com:52349379871043": {
-    "available": false,
+    "available": true,
     "price": "9.95",
     "product_title": "TopModel Taza Snap Shots de 300 ml"
   },
@@ -184710,7 +184710,7 @@
     "product_title": "Injusa Quad Eléctrico Kawasaki KFX90 de 6v"
   },
   "toyplanet.com:52349355688259": {
-    "available": false,
+    "available": true,
     "price": "24.95",
     "product_title": "Topmodel Bolso Cruzado Grande Snap Shots"
   },
@@ -200635,7 +200635,7 @@
     "product_title": "Batman Todoterreno Batmóvil Radio Control"
   },
   "toyplanet.com:52353195376963": {
-    "available": false,
+    "available": true,
     "price": "9.95",
     "product_title": "TOPModel taza MERMAID"
   },
@@ -201165,7 +201165,7 @@
     "product_title": "Mascara de Bellatrix Lestrange"
   },
   "toyplanet.com:52353133642051": {
-    "available": false,
+    "available": true,
     "price": "39.95",
     "product_title": "Topmodel Estuche Triple Con Pasador Happ"
   },
@@ -291495,7 +291495,7 @@
     "product_title": "XPRESS COLOR-VALLEJO-72.408- Púrpura Cardenal"
   },
   "miceliongames.com:30926": {
-    "available": true,
+    "available": false,
     "price": 3.5,
     "product_title": "XPRESS COLOR-VALLEJO-72.407- Rojo Terciopelo"
   },
@@ -352565,12 +352565,12 @@
     "product_title": "Pista Bidón Nitro Catapulta  Motor Planet"
   },
   "toyplanet.com:54832604283203": {
-    "available": false,
+    "available": true,
     "price": "14.99",
     "product_title": "Rummi Viaje en Caja de Metal Game Planet"
   },
   "toyplanet.com:54832604184899": {
-    "available": false,
+    "available": true,
     "price": "24.99",
     "product_title": "Rummi Classic en Caja de Metal Game Planet"
   },
@@ -369045,7 +369045,7 @@
     "product_title": "Pokémon - Charizard #006 (Neo Premium File 2) – AOG 9 Mint"
   },
   "cardcosmos.de:55419306049879": {
-    "available": true,
+    "available": false,
     "price": "150.00",
     "product_title": "Pokémon - Dark Raichu #83/82 (Team Rocket) – AOG 7.5 Near Mint"
   },
@@ -369175,7 +369175,7 @@
     "product_title": "Eternal Decks"
   },
   "laescotillajuegos.com:59124447445327": {
-    "available": true,
+    "available": false,
     "price": "53.99",
     "product_title": "[PREPEDIDO] Arkham Horror: el juego de rol - Terra Antarctica"
   },
@@ -370285,7 +370285,7 @@
     "product_title": "First Partner Collection Pokemon 30TH Celebration"
   },
   "labovedafriki.es:57694451073364": {
-    "available": true,
+    "available": false,
     "price": "30.50",
     "product_title": "First Partner Collection Pokemon 30TH Celebration"
   },
@@ -370575,7 +370575,7 @@
     "product_title": "Riftbound: League of Legends TCG - Radiance - Booster Display (24 packs)"
   },
   "pokemillon.com:54943944245571": {
-    "available": true,
+    "available": false,
     "price": "90.00",
     "product_title": "Panini | Harry Potter ALWAYS Trading Card - TREASURE BOX"
   },
@@ -370650,7 +370650,7 @@
     "product_title": "[PRE-VENTA] ONE PIECE TCG: Double Pack OP17 DP-12 - INGLÉS"
   },
   "toyplanet.com:54944192004419": {
-    "available": true,
+    "available": false,
     "price": "15.00",
     "product_title": "Bolso Bandolera Real Madrid Sport Juvenil 21 cm"
   },
@@ -370790,7 +370790,7 @@
     "product_title": "Protector Acrílico para Sobres - The Acrylic Box \"embalaje dañado\""
   },
   "cardzone.es:58864474554712": {
-    "available": true,
+    "available": false,
     "price": "20.95",
     "product_title": "Pack Especial First Partner Accesory Bundle - Ultra Pro \"embalaje dañado\""
   },
@@ -374690,7 +374690,7 @@
     "product_title": "Sobre Bleach Thousand-Year Blood War vol.3  UA (JP)"
   },
   "pokemillon.com:54963540328771": {
-    "available": true,
+    "available": false,
     "price": "24.90",
     "product_title": "Sobres 25th Anniversary"
   },
@@ -380083,5 +380083,3170 @@
     "available": true,
     "price": 29.99,
     "product_title": "Starcraft TMG: Protoss Hero Expansion Set: Zeratul"
+  },
+  "laescotillajuegos.com:59268605837647": {
+    "available": true,
+    "price": "20.00",
+    "product_title": "[EVENTO] Gundam - Presentación Stardust Trails GD06 - 31 de Octubre a las 17:00 H"
+  },
+  "lanavetcg.com:57641659761015": {
+    "available": true,
+    "price": "179.90",
+    "product_title": "RESERVA Booster Box Llamas obsidianas ENVIO FINAL NOVIEMBRE"
+  },
+  "lanavetcg.com:57641659564407": {
+    "available": true,
+    "price": "179.90",
+    "product_title": "RESERVA Booster Box Evoluciones en paldea ENVIO FINAL NOVIEMBRE"
+  },
+  "tcglevel.com:53481806496011": {
+    "available": true,
+    "price": "30.90",
+    "product_title": "First Partner Pokémon 2nd Generation 30th Celebration | Japonés"
+  },
+  "tcglevel.com:53481778282763": {
+    "available": true,
+    "price": "40.90",
+    "product_title": "First Partner Pokémon 1st Generation 30th Celebration | Japonés"
+  },
+  "universetcg.com:55534837301589": {
+    "available": false,
+    "price": "38.50",
+    "product_title": "Warriors of Rohan™ Commanders"
+  },
+  "universetcg.com:55534837203285": {
+    "available": false,
+    "price": "6.50",
+    "product_title": "Contrast: Doomfire Magenta"
+  },
+  "universetcg.com:55534837137749": {
+    "available": false,
+    "price": "60.00",
+    "product_title": "Winged Nazgûl Miniature Kit"
+  },
+  "universetcg.com:55534837039445": {
+    "available": false,
+    "price": "43.00",
+    "product_title": "Legions Imperialis: Legiones Astartes Fast Attack"
+  },
+  "universetcg.com:55534836941141": {
+    "available": false,
+    "price": "31.50",
+    "product_title": "Héra, Daughter of Helm"
+  },
+  "universetcg.com:55534836842837": {
+    "available": false,
+    "price": "43.00",
+    "product_title": "Legions Imperialis: Mechanicum Krios Squadron"
+  },
+  "universetcg.com:55534836777301": {
+    "available": false,
+    "price": "6.50",
+    "product_title": "Citadel Contrast: Magmadroth Flame"
+  },
+  "universetcg.com:55534836711765": {
+    "available": false,
+    "price": "19.60",
+    "product_title": "Macragge Blue Spray Paint - Citadel Colour"
+  },
+  "universetcg.com:55534836613461": {
+    "available": false,
+    "price": "6.50",
+    "product_title": "Contrast: Aeldari Emerald"
+  },
+  "universetcg.com:55534836547925": {
+    "available": false,
+    "price": "34.00",
+    "product_title": "Archmagos Prime"
+  },
+  "universetcg.com:55534836449621": {
+    "available": false,
+    "price": "38.50",
+    "product_title": "Saruman the White & Gríma"
+  },
+  "universetcg.com:55534836351317": {
+    "available": false,
+    "price": "19.60",
+    "product_title": "Citadel Colour Death Guard Green Spray"
+  },
+  "universetcg.com:55534836285781": {
+    "available": false,
+    "price": "43.00",
+    "product_title": "Riders of Rohan"
+  },
+  "universetcg.com:55534836187477": {
+    "available": false,
+    "price": "43.00",
+    "product_title": "Warriors of Rohan"
+  },
+  "universetcg.com:55534836121941": {
+    "available": false,
+    "price": "43.00",
+    "product_title": "Warriors of Minas Tirith™"
+  },
+  "universetcg.com:55534835958101": {
+    "available": false,
+    "price": "6.50",
+    "product_title": "Contrast: Fyreslayer Flesh"
+  },
+  "universetcg.com:55534835892565": {
+    "available": false,
+    "price": "28.50",
+    "product_title": "Citadel Skulls (340-Piece Bits Box)"
+  },
+  "universetcg.com:55534835794261": {
+    "available": false,
+    "price": "90.00",
+    "product_title": "Karacnos Assault Tank"
+  },
+  "universetcg.com:55534835728725": {
+    "available": false,
+    "price": "6.50",
+    "product_title": "Citadel Contrast: Imperial Fist (18ml)"
+  },
+  "universetcg.com:55534835630421": {
+    "available": false,
+    "price": "43.00",
+    "product_title": "Elrond, Master of Rivendell"
+  },
+  "universetcg.com:55534835564885": {
+    "available": false,
+    "price": "6.50",
+    "product_title": "Citadel Colour Contrast: Striking Scorpion Green"
+  },
+  "universetcg.com:55534835466581": {
+    "available": false,
+    "price": "80.00",
+    "product_title": "Isengard™ Battlehost"
+  },
+  "universetcg.com:55534835401045": {
+    "available": false,
+    "price": "6.50",
+    "product_title": "Citadel Contrast: Baal Red"
+  },
+  "universetcg.com:55534835302741": {
+    "available": false,
+    "price": "7.00",
+    "product_title": "Warhammer Colour Plastic Glue"
+  },
+  "universetcg.com:55534835106133": {
+    "available": false,
+    "price": "6.50",
+    "product_title": "Citadel Contrast: Sigvald Burgundy"
+  },
+  "universetcg.com:55534835007829": {
+    "available": false,
+    "price": "38.50",
+    "product_title": "Knights of Minas Tirith"
+  },
+  "universetcg.com:55534834942293": {
+    "available": false,
+    "price": "43.00",
+    "product_title": "Morannon Orcs"
+  },
+  "universetcg.com:55534834843989": {
+    "available": false,
+    "price": "6.50",
+    "product_title": "Citadel Contrast: Space Wolves Grey"
+  },
+  "universetcg.com:55534834778453": {
+    "available": false,
+    "price": "6.50",
+    "product_title": "Citadel Contrast: Celestium Blue"
+  },
+  "universetcg.com:55534834680149": {
+    "available": false,
+    "price": "5.45",
+    "product_title": "Warhammer Colour Layer Brush Small"
+  },
+  "universetcg.com:55534831468885": {
+    "available": false,
+    "price": "6.50",
+    "product_title": "Citadel Colour Contrast: Bad Moon Yellow"
+  },
+  "universetcg.com:55534831337813": {
+    "available": false,
+    "price": "43.00",
+    "product_title": "Uruk-hai Warriors"
+  },
+  "universetcg.com:55534831239509": {
+    "available": false,
+    "price": "6.50",
+    "product_title": "Citadel Colour Contrast: Ultramarines Blue"
+  },
+  "universetcg.com:55534831075669": {
+    "available": false,
+    "price": "6.50",
+    "product_title": "Citadel Contrast: Frostheart"
+  },
+  "universetcg.com:55534830977365": {
+    "available": false,
+    "price": "6.50",
+    "product_title": "Citadel Colour Contrast: Basilicanum Grey"
+  },
+  "universetcg.com:55534830879061": {
+    "available": false,
+    "price": "43.00",
+    "product_title": "Hill Tribesmen (Middle-earth Strategy Battle Game)"
+  },
+  "universetcg.com:55534830813525": {
+    "available": false,
+    "price": "6.50",
+    "product_title": "Citadel Contrast: Briar Queen Chill"
+  },
+  "universetcg.com:55534830715221": {
+    "available": false,
+    "price": "60.00",
+    "product_title": "The Balrog – Middle-earth Strategy Battle Game"
+  },
+  "universetcg.com:55534830649685": {
+    "available": false,
+    "price": "6.50",
+    "product_title": "Citadel Contrast: Mantis Warriors Green"
+  },
+  "universetcg.com:55534830551381": {
+    "available": false,
+    "price": "31.50",
+    "product_title": "The Witch-king of Angmar™"
+  },
+  "universetcg.com:55534830485845": {
+    "available": false,
+    "price": "80.00",
+    "product_title": "Mirkwood Battlehost"
+  },
+  "universetcg.com:55534830387541": {
+    "available": false,
+    "price": "6.50",
+    "product_title": "Contrast: Talassar Blue"
+  },
+  "universetcg.com:55534830322005": {
+    "available": false,
+    "price": "6.50",
+    "product_title": "Citadel Colour Contrast: Ork Flesh"
+  },
+  "universetcg.com:55534830223701": {
+    "available": false,
+    "price": "6.50",
+    "product_title": "Contrast: Garaghak's Sewer"
+  },
+  "universetcg.com:55534828388693": {
+    "available": false,
+    "price": "19.60",
+    "product_title": "Mephiston Red Spray (Citadel Colour)"
+  },
+  "universetcg.com:55534828323157": {
+    "available": false,
+    "price": "6.50",
+    "product_title": "Citadel Colour Contrast: Creed Camo"
+  },
+  "universetcg.com:55534828224853": {
+    "available": false,
+    "price": "6.50",
+    "product_title": "Contrast: Black Templar"
+  },
+  "universetcg.com:55534828126549": {
+    "available": false,
+    "price": "6.50",
+    "product_title": "Contrast: Plaguebearer Flesh"
+  },
+  "universetcg.com:55534828028245": {
+    "available": false,
+    "price": "19.60",
+    "product_title": "Leadbelcher Citadel Colour Spray"
+  },
+  "universetcg.com:55534827962709": {
+    "available": false,
+    "price": "6.50",
+    "product_title": "Contrast: Luxion Purple"
+  },
+  "universetcg.com:55534827864405": {
+    "available": false,
+    "price": "6.50",
+    "product_title": "Citadel Air: Phoenician Purple"
+  },
+  "universetcg.com:55534827798869": {
+    "available": false,
+    "price": "6.50",
+    "product_title": "Citadel Contrast: Gryph-Charger Grey"
+  },
+  "universetcg.com:55534827733333": {
+    "available": false,
+    "price": "6.50",
+    "product_title": "Citadel Colour Air: Typhon Ash"
+  },
+  "universetcg.com:55534827635029": {
+    "available": false,
+    "price": "6.50",
+    "product_title": "Citadel Contrast: Aggaros Dunes"
+  },
+  "universetcg.com:55534827503957": {
+    "available": false,
+    "price": "6.50",
+    "product_title": "Citadel Colour Air: Phalanx Yellow"
+  },
+  "universetcg.com:55534827405653": {
+    "available": false,
+    "price": "80.00",
+    "product_title": "Rohan Battlehost"
+  },
+  "universetcg.com:55534827340117": {
+    "available": false,
+    "price": "6.50",
+    "product_title": "Contrast: Aethermatic Blue"
+  },
+  "universetcg.com:55534827077973": {
+    "available": false,
+    "price": "43.00",
+    "product_title": "Easterling Warriors"
+  },
+  "universetcg.com:55534827012437": {
+    "available": false,
+    "price": "6.50",
+    "product_title": "Citadel Colour Contrast: Ratling Grime"
+  },
+  "universetcg.com:55534826946901": {
+    "available": false,
+    "price": "6.50",
+    "product_title": "Citadel Colour Contrast: Nazdreg Yellow"
+  },
+  "universetcg.com:55534826848597": {
+    "available": false,
+    "price": "38.50",
+    "product_title": "Warg Riders"
+  },
+  "universetcg.com:55534826750293": {
+    "available": false,
+    "price": "80.00",
+    "product_title": "Dol Guldur™ Battlehost"
+  },
+  "universetcg.com:55534826684757": {
+    "available": false,
+    "price": "6.50",
+    "product_title": "Citadel Air: Ulthuan Grey"
+  },
+  "universetcg.com:55534826619221": {
+    "available": false,
+    "price": "6.50",
+    "product_title": "Citadel Contrast: Wyldwood"
+  },
+  "universetcg.com:55534826488149": {
+    "available": false,
+    "price": "6.50",
+    "product_title": "Citadel Contrast: Militarum Green"
+  },
+  "universetcg.com:55534825767253": {
+    "available": false,
+    "price": "6.50",
+    "product_title": "Air: Baneblade Brown – Citadel Colour Paint"
+  },
+  "universetcg.com:55534824358229": {
+    "available": false,
+    "price": "6.50",
+    "product_title": "Citadel Colour Contrast: Snakebite Leather"
+  },
+  "universetcg.com:55534823604565": {
+    "available": false,
+    "price": "6.50",
+    "product_title": "Citadel Contrast: Gore-Grunta Fur"
+  },
+  "universetcg.com:55534823539029": {
+    "available": false,
+    "price": "6.50",
+    "product_title": "Citadel Contrast: Pylar Glacier"
+  },
+  "universetcg.com:55534823276885": {
+    "available": false,
+    "price": "6.50",
+    "product_title": "Citadel Contrast: Darkoath Flesh"
+  },
+  "universetcg.com:55534823211349": {
+    "available": false,
+    "price": "6.50",
+    "product_title": "Citadel Contrast: Kroxigor Scales"
+  },
+  "universetcg.com:55534823113045": {
+    "available": false,
+    "price": "6.50",
+    "product_title": "Citadel Air: White Scar"
+  },
+  "universetcg.com:55534823047509": {
+    "available": false,
+    "price": "6.50",
+    "product_title": "Citadel Colour Air: Evil Sunz Scarlet"
+  },
+  "universetcg.com:55534822916437": {
+    "available": false,
+    "price": "6.50",
+    "product_title": "Citadel Contrast: Volupus Pink"
+  },
+  "universetcg.com:55534601994581": {
+    "available": false,
+    "price": "6.50",
+    "product_title": "Citadel Colour Air: Corvus Black"
+  },
+  "universetcg.com:55534601896277": {
+    "available": false,
+    "price": "6.50",
+    "product_title": "Citadel Contrast: Magos Purple"
+  },
+  "universetcg.com:55534601830741": {
+    "available": false,
+    "price": "6.50",
+    "product_title": "Citadel Colour Contrast: Warp Lightning Paint"
+  },
+  "universetcg.com:55534601732437": {
+    "available": false,
+    "price": "6.50",
+    "product_title": "Contrast: Terradon Turquoise"
+  },
+  "universetcg.com:55534601634133": {
+    "available": false,
+    "price": "6.50",
+    "product_title": "Citadel Colour Contrast: Flesh Tearers Red"
+  },
+  "universetcg.com:55534601535829": {
+    "available": false,
+    "price": "6.50",
+    "product_title": "Citadel Air: Grey Knights Steel"
+  },
+  "universetcg.com:55534601437525": {
+    "available": false,
+    "price": "6.50",
+    "product_title": "Air: Russ Grey (Citadel Colour)"
+  },
+  "universetcg.com:55534601339221": {
+    "available": false,
+    "price": "6.50",
+    "product_title": "Citadel Colour Air: The Fang"
+  },
+  "universetcg.com:55534601240917": {
+    "available": false,
+    "price": "6.50",
+    "product_title": "Citadel Colour Air: Lothern Blue"
+  },
+  "universetcg.com:55534601175381": {
+    "available": false,
+    "price": "6.50",
+    "product_title": "Citadel Air: Mortarion Green Clear"
+  },
+  "universetcg.com:55534601077077": {
+    "available": false,
+    "price": "6.50",
+    "product_title": "Citadel Colour Air: Administratum Grey"
+  },
+  "universetcg.com:55534601011541": {
+    "available": false,
+    "price": "6.50",
+    "product_title": "Air: Caliban Green – Citadel Air Paint"
+  },
+  "universetcg.com:55534600814933": {
+    "available": false,
+    "price": "6.50",
+    "product_title": "Citadel Air: Angron Red Clear"
+  },
+  "universetcg.com:55534600618325": {
+    "available": false,
+    "price": "6.50",
+    "product_title": "Citadel Colour Air: Moot Green"
+  },
+  "universetcg.com:55534600552789": {
+    "available": false,
+    "price": "6.50",
+    "product_title": "Citadel Colour Air: Calth Blue Clear"
+  },
+  "universetcg.com:55534600454485": {
+    "available": false,
+    "price": "6.50",
+    "product_title": "Citadel Colour Air: Castellan Green"
+  },
+  "universetcg.com:55534600388949": {
+    "available": false,
+    "price": "6.50",
+    "product_title": "Citadel Colour Contrast: Cygor Brown"
+  },
+  "universetcg.com:55534600323413": {
+    "available": false,
+    "price": "6.50",
+    "product_title": "Citadel Colour Contrast: Skeleton Horde"
+  },
+  "universetcg.com:55534600225109": {
+    "available": false,
+    "price": "6.50",
+    "product_title": "Citadel Colour Air: Night Lords Blue"
+  },
+  "universetcg.com:55534600028501": {
+    "available": false,
+    "price": "6.50",
+    "product_title": "Citadel Air: Troll Slayer Orange"
+  },
+  "universetcg.com:55534599930197": {
+    "available": false,
+    "price": "6.50",
+    "product_title": "Citadel Colour Air: Khorne Red"
+  },
+  "universetcg.com:55534599831893": {
+    "available": false,
+    "price": "6.50",
+    "product_title": "Air: Kislev Flesh – Citadel Colour Paint"
+  },
+  "universetcg.com:55534599766357": {
+    "available": false,
+    "price": "6.50",
+    "product_title": "Citadel Colour Air: Zandri Dust"
+  },
+  "universetcg.com:55534599635285": {
+    "available": false,
+    "price": "6.50",
+    "product_title": "Technical: Armageddon Dust"
+  },
+  "universetcg.com:55534599569749": {
+    "available": false,
+    "price": "6.50",
+    "product_title": "Citadel Technical: Stirland Mud"
+  },
+  "universetcg.com:55534599110997": {
+    "available": false,
+    "price": "6.50",
+    "product_title": "Air: Ogryn Camo"
+  },
+  "universetcg.com:55534598029653": {
+    "available": false,
+    "price": "6.50",
+    "product_title": "Citadel Air: Runefang Steel"
+  },
+  "universetcg.com:55534596522325": {
+    "available": false,
+    "price": "6.50",
+    "product_title": "Contrast: Hexwraith Flame"
+  },
+  "universetcg.com:55534595277141": {
+    "available": false,
+    "price": "6.50",
+    "product_title": "Citadel Colour Air: Ushabti Bone"
+  },
+  "universetcg.com:55534594228565": {
+    "available": false,
+    "price": "6.50",
+    "product_title": "Citadel Technical: Valhallan Blizzard"
+  },
+  "universetcg.com:55534592983381": {
+    "available": false,
+    "price": "6.50",
+    "product_title": "Citadel Colour Air: Dawnstone"
+  },
+  "universetcg.com:55534590525781": {
+    "available": false,
+    "price": "6.50",
+    "product_title": "Citadel Contrast: Shyish Purple"
+  },
+  "universetcg.com:55534589673813": {
+    "available": false,
+    "price": "6.50",
+    "product_title": "Citadel Colour Air: Balthasar Gold"
+  },
+  "universetcg.com:55534588199253": {
+    "available": false,
+    "price": "6.50",
+    "product_title": "Shade: Soulblight Grey"
+  },
+  "universetcg.com:55534587740501": {
+    "available": false,
+    "price": "6.50",
+    "product_title": "Citadel Air: Mechanicus Standard Grey"
+  },
+  "universetcg.com:55534586790229": {
+    "available": false,
+    "price": "6.50",
+    "product_title": "Air: Macragge Blue"
+  },
+  "universetcg.com:55534584594773": {
+    "available": false,
+    "price": "6.50",
+    "product_title": "Air: Temple Guard Blue"
+  },
+  "universetcg.com:55534584299861": {
+    "available": false,
+    "price": "6.50",
+    "product_title": "Citadel Colour Air: Fenrisian Grey"
+  },
+  "universetcg.com:55534583742805": {
+    "available": false,
+    "price": "6.50",
+    "product_title": "Citadel Colour Air: Abaddon Black"
+  },
+  "universetcg.com:55534583415125": {
+    "available": false,
+    "price": "6.50",
+    "product_title": "Citadel Technical: Mordant Earth"
+  },
+  "universetcg.com:55534581416277": {
+    "available": false,
+    "price": "6.50",
+    "product_title": "Air: Flash Gitz Yellow - Citadel Colour Paint"
+  },
+  "universetcg.com:55534581186901": {
+    "available": false,
+    "price": "6.50",
+    "product_title": "Citadel Air: Eidolon Purple Clear"
+  },
+  "universetcg.com:55534580072789": {
+    "available": false,
+    "price": "6.50",
+    "product_title": "Technical: Martian Ironcrust"
+  },
+  "universetcg.com:55534578205013": {
+    "available": false,
+    "price": "6.50",
+    "product_title": "Citadel Colour Air: Mephiston Red"
+  },
+  "universetcg.com:55534577844565": {
+    "available": false,
+    "price": "6.50",
+    "product_title": "Technical: Lahmian Medium"
+  },
+  "universetcg.com:55534577746261": {
+    "available": false,
+    "price": "6.50",
+    "product_title": "Citadel Colour Air: Deathworld Forest"
+  },
+  "universetcg.com:55534574993749": {
+    "available": false,
+    "price": "3.75",
+    "product_title": "Citadel Technical: Nihilakh Oxide"
+  },
+  "universetcg.com:55534573355349": {
+    "available": false,
+    "price": "6.50",
+    "product_title": "Citadel Colour Air: Air Caste Thinner"
+  },
+  "universetcg.com:55534571880789": {
+    "available": false,
+    "price": "6.50",
+    "product_title": "Citadel Colour Technical: Stormshield"
+  },
+  "universetcg.com:55534571684181": {
+    "available": false,
+    "price": "6.50",
+    "product_title": "Air: Kantor Blue"
+  },
+  "universetcg.com:55534570013013": {
+    "available": false,
+    "price": "6.50",
+    "product_title": "Citadel Technical: Tesseract Glow"
+  },
+  "universetcg.com:55534568636757": {
+    "available": false,
+    "price": "6.50",
+    "product_title": "Citadel Colour Shade: Mortarion Grime"
+  },
+  "universetcg.com:55534568341845": {
+    "available": false,
+    "price": "6.50",
+    "product_title": "Shade: Druchii Violet"
+  },
+  "universetcg.com:55534566998357": {
+    "available": false,
+    "price": "6.50",
+    "product_title": "Citadel Air: Leadbelcher"
+  },
+  "universetcg.com:55534565720405": {
+    "available": false,
+    "price": "6.50",
+    "product_title": "Air: Mournfang Brown"
+  },
+  "universetcg.com:55534564802901": {
+    "available": false,
+    "price": "6.50",
+    "product_title": "Citadel Technical: Astrogranite"
+  },
+  "universetcg.com:55534564049237": {
+    "available": false,
+    "price": "6.50",
+    "product_title": "Shade: Berserker Bloodshade"
+  },
+  "universetcg.com:55534563885397": {
+    "available": false,
+    "price": "3.75",
+    "product_title": "Technical: Typhus Corrosion"
+  },
+  "universetcg.com:55534563688789": {
+    "available": false,
+    "price": "3.75",
+    "product_title": "Citadel Technical: Spiritstone Red"
+  },
+  "universetcg.com:55534562148693": {
+    "available": false,
+    "price": "3.75",
+    "product_title": "Citadel Technical: Waystone Green"
+  },
+  "universetcg.com:55534561853781": {
+    "available": false,
+    "price": "6.50",
+    "product_title": "Shade: Athonian Camoshade"
+  },
+  "universetcg.com:55534560608597": {
+    "available": false,
+    "price": "6.50",
+    "product_title": "Citadel Shade: Carroburg Crimson"
+  },
+  "universetcg.com:55534559986005": {
+    "available": false,
+    "price": "6.50",
+    "product_title": "Citadel Technical: Contrast Medium"
+  },
+  "universetcg.com:55534559494485": {
+    "available": false,
+    "price": "3.75",
+    "product_title": "Hoeth Blue (Citadel Colour Dry)"
+  },
+  "universetcg.com:55534558019925": {
+    "available": false,
+    "price": "6.50",
+    "product_title": "Citadel Colour Air: Averland Sunset"
+  },
+  "universetcg.com:55534556184917": {
+    "available": false,
+    "price": "3.75",
+    "product_title": "Citadel Colour Dry: Imrik Blue"
+  },
+  "universetcg.com:55534553956693": {
+    "available": false,
+    "price": "6.50",
+    "product_title": "Citadel Colour Shade: Seraphim Sepia"
+  },
+  "universetcg.com:55534553596245": {
+    "available": false,
+    "price": "3.75",
+    "product_title": "Technical: Blood For The Blood God"
+  },
+  "universetcg.com:55534552514901": {
+    "available": false,
+    "price": "6.50",
+    "product_title": "Citadel Colour Shade: Tyran Blue"
+  },
+  "universetcg.com:55534551695701": {
+    "available": false,
+    "price": "6.50",
+    "product_title": "Shade: Agrax Earthshade"
+  },
+  "universetcg.com:55534551466325": {
+    "available": false,
+    "price": "3.75",
+    "product_title": "Citadel Colour Technical: Soulstone Blue"
+  },
+  "universetcg.com:55534551204181": {
+    "available": false,
+    "price": "6.50",
+    "product_title": "Shade: Reikland Fleshshade – Citadel Colour"
+  },
+  "universetcg.com:55534550188373": {
+    "available": false,
+    "price": "3.75",
+    "product_title": "Praxeti White – Citadel Dry Paint"
+  },
+  "universetcg.com:55534548910421": {
+    "available": false,
+    "price": "6.50",
+    "product_title": "Citadel Colour Shade: Targor Rageshade"
+  },
+  "universetcg.com:55534548123989": {
+    "available": false,
+    "price": "3.75",
+    "product_title": "Wrack White – Citadel Colour Dry Paint (24g)"
+  },
+  "universetcg.com:55534546387285": {
+    "available": false,
+    "price": "3.75",
+    "product_title": "Golden Griffon (Citadel Colour Dry)"
+  },
+  "universetcg.com:55534176600405": {
+    "available": false,
+    "price": "6.50",
+    "product_title": "Shade: Kroak Green"
+  },
+  "universetcg.com:55534176469333": {
+    "available": false,
+    "price": "3.75",
+    "product_title": "Etherium Blue (Citadel Dry Paint)"
+  },
+  "universetcg.com:55534176371029": {
+    "available": false,
+    "price": "3.75",
+    "product_title": "Citadel Colour Technical: Nurgle's Rot"
+  },
+  "universetcg.com:55534176305493": {
+    "available": false,
+    "price": "3.75",
+    "product_title": "Golgfag Brown (Citadel Colour Dry Paint)"
+  },
+  "universetcg.com:55534176207189": {
+    "available": false,
+    "price": "6.50",
+    "product_title": "Citadel Shade: Fuegan Orange"
+  },
+  "universetcg.com:55534176141653": {
+    "available": false,
+    "price": "3.75",
+    "product_title": "Astorath Red Citadel Colour Dry Paint"
+  },
+  "universetcg.com:55534176043349": {
+    "available": false,
+    "price": "3.75",
+    "product_title": "Citadel Colour Dry: Dawnstone"
+  },
+  "universetcg.com:55534175977813": {
+    "available": false,
+    "price": "3.75",
+    "product_title": "Citadel Colour Dry: Underhive Ash"
+  },
+  "universetcg.com:55534175912277": {
+    "available": false,
+    "price": "3.75",
+    "product_title": "Nurgling Green - Citadel Colour Dry Paint"
+  },
+  "universetcg.com:55534175813973": {
+    "available": false,
+    "price": "3.75",
+    "product_title": "Citadel Colour Layer: Lugganath Orange"
+  },
+  "universetcg.com:55534175748437": {
+    "available": false,
+    "price": "3.75",
+    "product_title": "Citadel Colour Dry – Sylvaneth Bark"
+  },
+  "universetcg.com:55534175682901": {
+    "available": false,
+    "price": "6.50",
+    "product_title": "Citadel Shade: Nuln Oil"
+  },
+  "universetcg.com:55534175551829": {
+    "available": false,
+    "price": "5.00",
+    "product_title": "Citadel Colour Layer: Canoptek Alloy"
+  },
+  "universetcg.com:55534175453525": {
+    "available": false,
+    "price": "6.50",
+    "product_title": "Shade: Coelia Greenshade"
+  },
+  "universetcg.com:55534175224149": {
+    "available": false,
+    "price": "3.75",
+    "product_title": "Citadel Colour Layer: Kakophoni Purple"
+  },
+  "universetcg.com:55534175093077": {
+    "available": false,
+    "price": "3.75",
+    "product_title": "Citadel Colour Layer: Phalanx Yellow"
+  },
+  "universetcg.com:55534174896469": {
+    "available": false,
+    "price": "3.75",
+    "product_title": "Tyrant Skull (Citadel Colour Dry Paint, Bone)"
+  },
+  "universetcg.com:55534174732629": {
+    "available": false,
+    "price": "3.75",
+    "product_title": "Citadel Colour Dry: Terminatus Stone"
+  },
+  "universetcg.com:55534174667093": {
+    "available": false,
+    "price": "3.75",
+    "product_title": "Necron Compound - Citadel Colour Dry Paint"
+  },
+  "universetcg.com:55534174568789": {
+    "available": false,
+    "price": "5.00",
+    "product_title": "Citadel Colour Layer: Skullcrusher Brass"
+  },
+  "universetcg.com:55534174372181": {
+    "available": false,
+    "price": "3.75",
+    "product_title": "Lucius Lilac"
+  },
+  "universetcg.com:55534174175573": {
+    "available": false,
+    "price": "3.75",
+    "product_title": "Citadel Colour Stormfang Dry Paint"
+  },
+  "universetcg.com:55534174077269": {
+    "available": false,
+    "price": "3.75",
+    "product_title": "Citadel Dry Longbeard Grey Paint"
+  },
+  "universetcg.com:55534174011733": {
+    "available": false,
+    "price": "3.75",
+    "product_title": "Citadel Colour Layer: Dechala Lilac"
+  },
+  "universetcg.com:55534173880661": {
+    "available": false,
+    "price": "5.00",
+    "product_title": "Citadel Colour Layer: Fulgurite Copper"
+  },
+  "universetcg.com:55534173389141": {
+    "available": false,
+    "price": "3.75",
+    "product_title": "Citadel Colour Layer: Blue Horror"
+  },
+  "universetcg.com:55534173258069": {
+    "available": false,
+    "price": "3.75",
+    "product_title": "Citadel Colour Layer: Vulkan Green"
+  },
+  "universetcg.com:55534173159765": {
+    "available": false,
+    "price": "3.75",
+    "product_title": "Niblet Green (Citadel Colour Dry Paint)"
+  },
+  "universetcg.com:55534173061461": {
+    "available": false,
+    "price": "3.75",
+    "product_title": "Layer: Ahriman Blue"
+  },
+  "universetcg.com:55534172799317": {
+    "available": false,
+    "price": "3.75",
+    "product_title": "Citadel Colour Layer: Knight-Questor Flesh"
+  },
+  "universetcg.com:55534172537173": {
+    "available": false,
+    "price": "3.75",
+    "product_title": "Layer: Runefang Steel"
+  },
+  "universetcg.com:55534171423061": {
+    "available": false,
+    "price": "3.75",
+    "product_title": "Citadel Layer: Word Bearers Red"
+  },
+  "universetcg.com:55534170243413": {
+    "available": false,
+    "price": "3.75",
+    "product_title": "Citadel Colour Dry Paint — Skink Blue"
+  },
+  "universetcg.com:55534170177877": {
+    "available": false,
+    "price": "3.75",
+    "product_title": "Layer: Gehenna's Gold"
+  },
+  "universetcg.com:55534169915733": {
+    "available": false,
+    "price": "3.75",
+    "product_title": "Layer: Emperor's Children"
+  },
+  "universetcg.com:55534169620821": {
+    "available": false,
+    "price": "3.75",
+    "product_title": "Hexos Palesun"
+  },
+  "universetcg.com:55534169555285": {
+    "available": false,
+    "price": "3.75",
+    "product_title": "Citadel Colour Layer Paint: Gauss Blaster Green"
+  },
+  "universetcg.com:55534169456981": {
+    "available": false,
+    "price": "3.75",
+    "product_title": "Eldar Flesh"
+  },
+  "universetcg.com:55534169391445": {
+    "available": false,
+    "price": "3.75",
+    "product_title": "Citadel Colour Layer: Bloodreaver Flesh"
+  },
+  "universetcg.com:55534168637781": {
+    "available": false,
+    "price": "3.75",
+    "product_title": "Citadel Colour Layer: Flayed One Flesh"
+  },
+  "universetcg.com:55534168539477": {
+    "available": false,
+    "price": "3.75",
+    "product_title": "Layer: Baneblade Brown"
+  },
+  "universetcg.com:55534168375637": {
+    "available": false,
+    "price": "3.75",
+    "product_title": "Citadel Colour Layer: Fulgrim Pink"
+  },
+  "universetcg.com:55534168277333": {
+    "available": false,
+    "price": "3.75",
+    "product_title": "Citadel Colour Layer: Hashut Copper"
+  },
+  "universetcg.com:55534168113493": {
+    "available": false,
+    "price": "3.75",
+    "product_title": "Citadel Colour Layer: Brass Scorpion"
+  },
+  "universetcg.com:55534168015189": {
+    "available": false,
+    "price": "3.75",
+    "product_title": "Citadel Colour Layer: Ironbreaker"
+  },
+  "universetcg.com:55534167884117": {
+    "available": false,
+    "price": "3.75",
+    "product_title": "Citadel Colour Layer: Castellax Bronze"
+  },
+  "universetcg.com:55534165328213": {
+    "available": false,
+    "price": "3.75",
+    "product_title": "Citadel Colour Layer: Baharroth Blue"
+  },
+  "universetcg.com:55534165131605": {
+    "available": false,
+    "price": "3.75",
+    "product_title": "Citadel Layer: Sons of Horus Green"
+  },
+  "universetcg.com:55534165000533": {
+    "available": false,
+    "price": "3.75",
+    "product_title": "Citadel Colour Layer Paint: Krieg Khaki"
+  },
+  "universetcg.com:55534164836693": {
+    "available": false,
+    "price": "3.75",
+    "product_title": "Citadel Colour Layer: White Scar"
+  },
+  "universetcg.com:55534164771157": {
+    "available": false,
+    "price": "3.75",
+    "product_title": "Citadel Colour Layer: Dawnstone"
+  },
+  "universetcg.com:55534164705621": {
+    "available": false,
+    "price": "3.75",
+    "product_title": "Layer: Eshin Grey - Citadel Colour Paint"
+  },
+  "universetcg.com:55534164541781": {
+    "available": false,
+    "price": "3.75",
+    "product_title": "Citadel Colour Layer: Dorn Yellow"
+  },
+  "universetcg.com:55534163263829": {
+    "available": false,
+    "price": "3.75",
+    "product_title": "Layer: Thunderhawk Blue"
+  },
+  "universetcg.com:55534163165525": {
+    "available": false,
+    "price": "3.75",
+    "product_title": "Citadel Colour Layer: Russ Grey"
+  },
+  "universetcg.com:55534163034453": {
+    "available": false,
+    "price": "3.75",
+    "product_title": "Citadel Colour Layer: Pink Horror"
+  },
+  "universetcg.com:55534162936149": {
+    "available": false,
+    "price": "3.75",
+    "product_title": "Citadel Colour Layer: Doombull Brown"
+  },
+  "universetcg.com:55534162837845": {
+    "available": false,
+    "price": "3.75",
+    "product_title": "Citadel Colour Layer: Gorthor Brown"
+  },
+  "universetcg.com:55534162641237": {
+    "available": false,
+    "price": "5.00",
+    "product_title": "Citadel Colour Layer: Liberator Gold"
+  },
+  "universetcg.com:55534162510165": {
+    "available": false,
+    "price": "3.75",
+    "product_title": "Citadel Colour Layer: Ungor Flesh"
+  },
+  "universetcg.com:55534162379093": {
+    "available": false,
+    "price": "3.75",
+    "product_title": "Layer: Cadian Fleshtone"
+  },
+  "universetcg.com:55534161822037": {
+    "available": false,
+    "price": "3.75",
+    "product_title": "Citadel Colour Layer: Ulthuan Grey"
+  },
+  "universetcg.com:55534161690965": {
+    "available": false,
+    "price": "3.75",
+    "product_title": "Citadel Colour Layer: Deepkin Flesh"
+  },
+  "universetcg.com:55534161592661": {
+    "available": false,
+    "price": "3.75",
+    "product_title": "Citadel Colour Layer: Fenrisian Grey"
+  },
+  "universetcg.com:55534160118101": {
+    "available": false,
+    "price": "3.75",
+    "product_title": "Layer: Kislev Flesh"
+  },
+  "universetcg.com:55534159987029": {
+    "available": false,
+    "price": "5.00",
+    "product_title": "Layer: Stormhost Silver"
+  },
+  "universetcg.com:55534159888725": {
+    "available": false,
+    "price": "3.75",
+    "product_title": "Layer: Skavenblight Dinge"
+  },
+  "universetcg.com:55534159331669": {
+    "available": false,
+    "price": "3.75",
+    "product_title": "Citadel Colour Layer: Deathclaw Brown"
+  },
+  "universetcg.com:55534159266133": {
+    "available": false,
+    "price": "3.75",
+    "product_title": "Citadel Colour Layer: Pallid Wych Flesh"
+  },
+  "universetcg.com:55534159135061": {
+    "available": false,
+    "price": "3.75",
+    "product_title": "Citadel Colour Layer: Karak Stone"
+  },
+  "universetcg.com:55534159003989": {
+    "available": false,
+    "price": "3.75",
+    "product_title": "Citadel Colour Layer: Loren Forest"
+  },
+  "universetcg.com:55534158938453": {
+    "available": false,
+    "price": "3.75",
+    "product_title": "Citadel Colour Layer: Screaming Skull (Bone Range)"
+  },
+  "universetcg.com:55534158610773": {
+    "available": false,
+    "price": "3.75",
+    "product_title": "Layer: Auric Armour Gold"
+  },
+  "universetcg.com:55534158545237": {
+    "available": false,
+    "price": "3.75",
+    "product_title": "Citadel Colour Layer: Sycorax Bronze"
+  },
+  "universetcg.com:55534158348629": {
+    "available": false,
+    "price": "3.75",
+    "product_title": "Layer: Tau Light Ochre (Citadel Colour)"
+  },
+  "universetcg.com:55534158184789": {
+    "available": false,
+    "price": "3.75",
+    "product_title": "Layer: Stormvermin Fur"
+  },
+  "universetcg.com:55534157988181": {
+    "available": false,
+    "price": "3.75",
+    "product_title": "Layer: Warboss Green"
+  },
+  "universetcg.com:55534157791573": {
+    "available": false,
+    "price": "3.75",
+    "product_title": "Layer: Kabalite Green"
+  },
+  "universetcg.com:55534157726037": {
+    "available": false,
+    "price": "3.75",
+    "product_title": "Citadel Colour Layer: Moot Green"
+  },
+  "universetcg.com:55534157562197": {
+    "available": false,
+    "price": "3.75",
+    "product_title": "Citadel Colour Layer: Tuskgor Fur"
+  },
+  "universetcg.com:55534157431125": {
+    "available": false,
+    "price": "3.75",
+    "product_title": "Citadel Colour Layer: Nurgling Green"
+  },
+  "universetcg.com:55534157332821": {
+    "available": false,
+    "price": "3.75",
+    "product_title": "Citadel Colour Layer: Altdorf Guard Blue"
+  },
+  "universetcg.com:55534157234517": {
+    "available": false,
+    "price": "3.75",
+    "product_title": "Citadel Colour Layer: Administratum Grey"
+  },
+  "universetcg.com:55534157070677": {
+    "available": false,
+    "price": "3.75",
+    "product_title": "Citadel Colour Layer: Warpstone Glow"
+  },
+  "universetcg.com:55534156972373": {
+    "available": false,
+    "price": "3.75",
+    "product_title": "Citadel Colour Layer: Balor Brown"
+  },
+  "universetcg.com:55534156841301": {
+    "available": false,
+    "price": "3.75",
+    "product_title": "Citadel Colour Layer: Alaitoc Blue"
+  },
+  "universetcg.com:55534156611925": {
+    "available": false,
+    "price": "3.75",
+    "product_title": "Citadel Layer: Slaanesh Grey"
+  },
+  "universetcg.com:55534156218709": {
+    "available": false,
+    "price": "3.75",
+    "product_title": "Layer: Tallarn Sand"
+  },
+  "universetcg.com:55534156087637": {
+    "available": false,
+    "price": "3.75",
+    "product_title": "Layer: Zamesi Desert"
+  },
+  "universetcg.com:55534153269589": {
+    "available": false,
+    "price": "3.75",
+    "product_title": "Citadel Colour Layer: Dark Reaper"
+  },
+  "universetcg.com:55534153007445": {
+    "available": false,
+    "price": "3.75",
+    "product_title": "Layer: Squig Orange"
+  },
+  "universetcg.com:55534152745301": {
+    "available": false,
+    "price": "3.75",
+    "product_title": "Citadel Colour Layer: Bestigor Flesh"
+  },
+  "universetcg.com:55533934281045": {
+    "available": false,
+    "price": "3.75",
+    "product_title": "Citadel Layer: Ushabti Bone"
+  },
+  "universetcg.com:55533934182741": {
+    "available": false,
+    "price": "5.00",
+    "product_title": "Citadel Base: Runelord Brass"
+  },
+  "universetcg.com:55533934117205": {
+    "available": false,
+    "price": "3.75",
+    "product_title": "Layer: Skrag Brown"
+  },
+  "universetcg.com:55533934018901": {
+    "available": false,
+    "price": "3.75",
+    "product_title": "Citadel Colour Layer: Genestealer Purple"
+  },
+  "universetcg.com:55533933953365": {
+    "available": false,
+    "price": "3.75",
+    "product_title": "Citadel Layer: Elysian Green"
+  },
+  "universetcg.com:55533933855061": {
+    "available": false,
+    "price": "3.75",
+    "product_title": "Citadel Colour Base: Orruk Flesh"
+  },
+  "universetcg.com:55533933789525": {
+    "available": false,
+    "price": "3.75",
+    "product_title": "Citadel Layer: Flash Gitz Yellow"
+  },
+  "universetcg.com:55533933691221": {
+    "available": false,
+    "price": "3.75",
+    "product_title": "Citadel Colour Base: Corax White"
+  },
+  "universetcg.com:55533933592917": {
+    "available": false,
+    "price": "3.75",
+    "product_title": "Citadel Colour Layer: Sybarite Green"
+  },
+  "universetcg.com:55533933429077": {
+    "available": false,
+    "price": "3.75",
+    "product_title": "Citadel Colour Layer: Teclis Blue"
+  },
+  "universetcg.com:55533933330773": {
+    "available": false,
+    "price": "3.75",
+    "product_title": "Citadel Layer: Skarsnik Green"
+  },
+  "universetcg.com:55533933232469": {
+    "available": false,
+    "price": "3.75",
+    "product_title": "Layer: Ogryn Camo"
+  },
+  "universetcg.com:55533933134165": {
+    "available": false,
+    "price": "3.75",
+    "product_title": "Citadel Base: Night Lords Blue"
+  },
+  "universetcg.com:55533933068629": {
+    "available": false,
+    "price": "3.75",
+    "product_title": "Citadel Colour Layer Paint: Straken Green"
+  },
+  "universetcg.com:55533933003093": {
+    "available": false,
+    "price": "3.75",
+    "product_title": "Citadel Colour Base: Corvus Black"
+  },
+  "universetcg.com:55533932872021": {
+    "available": false,
+    "price": "3.75",
+    "product_title": "Citadel Colour Base: Grey Seer"
+  },
+  "universetcg.com:55533932806485": {
+    "available": false,
+    "price": "3.75",
+    "product_title": "Citadel Layer: Temple Guard Blue"
+  },
+  "universetcg.com:55533932708181": {
+    "available": false,
+    "price": "3.75",
+    "product_title": "Citadel Colour Layer: Xereus Purple"
+  },
+  "universetcg.com:55533932642645": {
+    "available": false,
+    "price": "3.75",
+    "product_title": "Citadel Colour Layer: Sotek Green"
+  },
+  "universetcg.com:55533932511573": {
+    "available": false,
+    "price": "3.75",
+    "product_title": "Layer: Lothern Blue"
+  },
+  "universetcg.com:55533932446037": {
+    "available": false,
+    "price": "3.75",
+    "product_title": "Citadel Colour Base: Balthasar Gold"
+  },
+  "universetcg.com:55533932380501": {
+    "available": false,
+    "price": "3.75",
+    "product_title": "Citadel Colour Layer: Fire Dragon Bright"
+  },
+  "universetcg.com:55533932249429": {
+    "available": false,
+    "price": "3.75",
+    "product_title": "Citadel Layer: Calgar Blue"
+  },
+  "universetcg.com:55533932151125": {
+    "available": false,
+    "price": "3.75",
+    "product_title": "Citadel Colour Base: Death Korps Drab"
+  },
+  "universetcg.com:55533932020053": {
+    "available": false,
+    "price": "3.75",
+    "product_title": "Citadel Colour Base: Leadbelcher"
+  },
+  "universetcg.com:55533931790677": {
+    "available": false,
+    "price": "3.75",
+    "product_title": "Citadel Colour Layer: Hoeth Blue"
+  },
+  "universetcg.com:55533931659605": {
+    "available": false,
+    "price": "3.75",
+    "product_title": "Citadel Colour Base: Ionrach Skin"
+  },
+  "universetcg.com:55533931594069": {
+    "available": false,
+    "price": "3.75",
+    "product_title": "Citadel Base: Wraithbone"
+  },
+  "universetcg.com:55533931528533": {
+    "available": false,
+    "price": "3.75",
+    "product_title": "Layer: Evil Sunz Scarlet"
+  },
+  "universetcg.com:55533931430229": {
+    "available": false,
+    "price": "3.75",
+    "product_title": "Citadel Colour Base: Rakarth Flesh"
+  },
+  "universetcg.com:55533931331925": {
+    "available": false,
+    "price": "3.75",
+    "product_title": "Base: Zandri Dust"
+  },
+  "universetcg.com:55533931168085": {
+    "available": false,
+    "price": "3.75",
+    "product_title": "Citadel Colour Base: Warplock Bronze"
+  },
+  "universetcg.com:55533930971477": {
+    "available": false,
+    "price": "3.75",
+    "product_title": "Citadel Colour Base: Iron Warriors (Silver Paint)"
+  },
+  "universetcg.com:55533930905941": {
+    "available": false,
+    "price": "3.75",
+    "product_title": "Layer: Yriel Yellow"
+  },
+  "universetcg.com:55533930676565": {
+    "available": false,
+    "price": "3.75",
+    "product_title": "Citadel Colour Layer: Wild Rider Red"
+  },
+  "universetcg.com:55533930578261": {
+    "available": false,
+    "price": "3.75",
+    "product_title": "Citadel Colour Base: Khorne Red"
+  },
+  "universetcg.com:55533930447189": {
+    "available": false,
+    "price": "3.75",
+    "product_title": "Citadel Colour Base: Phoenician Purple Paint"
+  },
+  "universetcg.com:55533930381653": {
+    "available": false,
+    "price": "3.75",
+    "product_title": "Citadel Colour Layer: Wazdakka Red"
+  },
+  "universetcg.com:55533930316117": {
+    "available": false,
+    "price": "3.75",
+    "product_title": "Citadel Colour Layer: Troll Slayer Orange"
+  },
+  "universetcg.com:55533930217813": {
+    "available": false,
+    "price": "3.75",
+    "product_title": "Citadel Base: Deathworld Forest"
+  },
+  "universetcg.com:55533930152277": {
+    "available": false,
+    "price": "3.75",
+    "product_title": "Citadel Colour Base: Castellan Green"
+  },
+  "universetcg.com:55533930053973": {
+    "available": false,
+    "price": "3.75",
+    "product_title": "Citadel Base: Screamer Pink"
+  },
+  "universetcg.com:55533929988437": {
+    "available": false,
+    "price": "3.75",
+    "product_title": "Citadel Colour Base: Abaddon Black"
+  },
+  "universetcg.com:55533929890133": {
+    "available": false,
+    "price": "3.75",
+    "product_title": "Base: Catachan Flesh"
+  },
+  "universetcg.com:55533929791829": {
+    "available": false,
+    "price": "3.75",
+    "product_title": "Citadel Base: Celestra Grey"
+  },
+  "universetcg.com:55533929726293": {
+    "available": false,
+    "price": "3.75",
+    "product_title": "Citadel Colour Base: Bugman's Glow"
+  },
+  "universetcg.com:55533929627989": {
+    "available": false,
+    "price": "3.75",
+    "product_title": "Citadel Colour Base: Mephiston Red"
+  },
+  "universetcg.com:55533929562453": {
+    "available": false,
+    "price": "3.75",
+    "product_title": "Citadel Colour Base: XV-88"
+  },
+  "universetcg.com:55533929398613": {
+    "available": false,
+    "price": "5.00",
+    "product_title": "Citadel Colour Base: Retributor Armour"
+  },
+  "universetcg.com:55533929300309": {
+    "available": false,
+    "price": "3.75",
+    "product_title": "Base: Morghast Bone"
+  },
+  "universetcg.com:55533929070933": {
+    "available": false,
+    "price": "3.75",
+    "product_title": "Base: Lupercal Green"
+  },
+  "universetcg.com:55533928939861": {
+    "available": false,
+    "price": "3.75",
+    "product_title": "Citadel Colour Base: Waaagh! Flesh"
+  },
+  "universetcg.com:55533928677717": {
+    "available": false,
+    "price": "51.00",
+    "product_title": "Legions Imperialis: Acastus Knights Porphyrion"
+  },
+  "universetcg.com:55533928546645": {
+    "available": false,
+    "price": "3.75",
+    "product_title": "Citadel Colour Base: Jokaero Orange"
+  },
+  "universetcg.com:55533928481109": {
+    "available": false,
+    "price": "3.75",
+    "product_title": "Citadel Colour Base: Daemonette Hide"
+  },
+  "universetcg.com:55533928382805": {
+    "available": false,
+    "price": "3.75",
+    "product_title": "Citadel Base: Caliban Green"
+  },
+  "universetcg.com:55533928284501": {
+    "available": false,
+    "price": "66.00",
+    "product_title": "Legions Imperialis: Cerastus Knights Acheron and Castigator"
+  },
+  "universetcg.com:55533928186197": {
+    "available": false,
+    "price": "3.75",
+    "product_title": "Base: Thousand Sons Blue"
+  },
+  "universetcg.com:55533928120661": {
+    "available": false,
+    "price": "3.75",
+    "product_title": "Citadel Base: The Fang – Citadel Colour Base Paint"
+  },
+  "universetcg.com:55533928022357": {
+    "available": false,
+    "price": "3.75",
+    "product_title": "Citadel Base: Death Guard Green"
+  },
+  "universetcg.com:55533927956821": {
+    "available": false,
+    "price": "102.50",
+    "product_title": "Legions Imperialis: Warlord Titan with Volkite Destructor and Macro-Gatling Blaster"
+  },
+  "universetcg.com:55533927891285": {
+    "available": false,
+    "price": "3.75",
+    "product_title": "Citadel Colour Base: Rhinox Hide"
+  },
+  "universetcg.com:55533927792981": {
+    "available": false,
+    "price": "3.75",
+    "product_title": "Base: Screaming Bell"
+  },
+  "universetcg.com:55533927694677": {
+    "available": false,
+    "price": "3.75",
+    "product_title": "Base: Macragge Blue"
+  },
+  "universetcg.com:55533927563605": {
+    "available": false,
+    "price": "102.50",
+    "product_title": "Legions Imperialis: Warlord Titan with Quake Cannon and Conversion Beam Extirpator"
+  },
+  "universetcg.com:55533927498069": {
+    "available": false,
+    "price": "22.50",
+    "product_title": "Journal Tactica: Skitarii – The Steel Hand of Mars"
+  },
+  "universetcg.com:55533927399765": {
+    "available": false,
+    "price": "60.00",
+    "product_title": "Rapier Fire Support Battery"
+  },
+  "universetcg.com:55533927334229": {
+    "available": false,
+    "price": "38.50",
+    "product_title": "Legions Imperialis: Questoris Knights"
+  },
+  "universetcg.com:55533927203157": {
+    "available": false,
+    "price": "3.75",
+    "product_title": "Citadel Colour Base: Dryad Bark"
+  },
+  "universetcg.com:55533927104853": {
+    "available": false,
+    "price": "3.75",
+    "product_title": "Citadel Base: Mournfang Brown"
+  },
+  "universetcg.com:55533927039317": {
+    "available": false,
+    "price": "139.00",
+    "product_title": "Legions Imperialis: Mechanicum Combat Force"
+  },
+  "universetcg.com:55533926875477": {
+    "available": false,
+    "price": "60.00",
+    "product_title": "Rapier Direct Fire Battery – Solar Auxilia (The Horus Heresy)"
+  },
+  "universetcg.com:55533926809941": {
+    "available": false,
+    "price": "3.75",
+    "product_title": "Citadel Colour Base: Steel Legion Drab"
+  },
+  "universetcg.com:55533926711637": {
+    "available": false,
+    "price": "3.75",
+    "product_title": "Citadel Colour Base: Caledor Sky"
+  },
+  "universetcg.com:55533926646101": {
+    "available": false,
+    "price": "66.00",
+    "product_title": "Legions Imperialis: Warhound Titans with Ursus Claws and Melta Lances"
+  },
+  "universetcg.com:55533926580565": {
+    "available": false,
+    "price": "66.00",
+    "product_title": "Legions Imperialis: Mechanicum Cerastus Knights Atrapos"
+  },
+  "universetcg.com:55533926482261": {
+    "available": false,
+    "price": "56.50",
+    "product_title": "Hermes Light/Veletaris Sentinel Squadron"
+  },
+  "universetcg.com:55533704642901": {
+    "available": false,
+    "price": "66.00",
+    "product_title": "Legions Imperialis: Warhound Scout Titans with Turbo-laser Destructors and Vulcan Mega-Bolters"
+  },
+  "universetcg.com:55533703233877": {
+    "available": false,
+    "price": "3.75",
+    "product_title": "Base: Mechanicus Standard Grey"
+  },
+  "universetcg.com:55533703135573": {
+    "available": false,
+    "price": "43.00",
+    "product_title": "Legions Imperialis: Leman Russ Strike Squadron"
+  },
+  "universetcg.com:55533702971733": {
+    "available": false,
+    "price": "56.50",
+    "product_title": "Kill Team: Celestian Insidiants"
+  },
+  "universetcg.com:55533702873429": {
+    "available": false,
+    "price": "60.00",
+    "product_title": "Charonite Ogryn Section"
+  },
+  "universetcg.com:55533702807893": {
+    "available": false,
+    "price": "66.00",
+    "product_title": "Legions Imperialis: Dire Wolf Heavy Scout Titans"
+  },
+  "universetcg.com:55533702709589": {
+    "available": false,
+    "price": "3.75",
+    "product_title": "Citadel Colour Base: Kantor Blue"
+  },
+  "universetcg.com:55533702644053": {
+    "available": false,
+    "price": "3.75",
+    "product_title": "Citadel Base: Naggaroth Night"
+  },
+  "universetcg.com:55533701595477": {
+    "available": false,
+    "price": "57.50",
+    "product_title": "Solar Auxilia Basilisk/Medusa"
+  },
+  "universetcg.com:55533701497173": {
+    "available": false,
+    "price": "3.75",
+    "product_title": "Base: Stegadon Scale Green"
+  },
+  "universetcg.com:55533701398869": {
+    "available": false,
+    "price": "139.00",
+    "product_title": "Lord of Change – Greater Daemon of Tzeentch"
+  },
+  "universetcg.com:55533701071189": {
+    "available": false,
+    "price": "100.00",
+    "product_title": "Legions Imperialis: Warlord Titan With Power Claw and Plasma Annihilator"
+  },
+  "universetcg.com:55533700907349": {
+    "available": false,
+    "price": "34.00",
+    "product_title": "Flamers of Tzeentch"
+  },
+  "universetcg.com:55533700841813": {
+    "available": false,
+    "price": "57.50",
+    "product_title": "Solar Auxilia Leman Russ Assault Tank"
+  },
+  "universetcg.com:55533699268949": {
+    "available": false,
+    "price": "66.00",
+    "product_title": "Arvus Lighter"
+  },
+  "universetcg.com:55533699170645": {
+    "available": false,
+    "price": "28.50",
+    "product_title": "Solar Auxilia Tactical Command Section"
+  },
+  "universetcg.com:55533699105109": {
+    "available": false,
+    "price": "22.50",
+    "product_title": "Journal Tactica: The Battle of Tallarn – Part One"
+  },
+  "universetcg.com:55533699006805": {
+    "available": false,
+    "price": "3.75",
+    "product_title": "Citadel Colour Base: Incubi Darkness"
+  },
+  "universetcg.com:55533698908501": {
+    "available": false,
+    "price": "175.00",
+    "product_title": "Cerastus Knight Castigator"
+  },
+  "universetcg.com:55533698842965": {
+    "available": false,
+    "price": "139.00",
+    "product_title": "Solar Auxilia: Combat Force"
+  },
+  "universetcg.com:55533698744661": {
+    "available": false,
+    "price": "57.50",
+    "product_title": "Solar Auxilia Leman Russ Strike/Command Tank"
+  },
+  "universetcg.com:55533698613589": {
+    "available": false,
+    "price": "22.50",
+    "product_title": "Journal Tactica: Zone Mortalis"
+  },
+  "universetcg.com:55533698318677": {
+    "available": false,
+    "price": "87.00",
+    "product_title": "Legions Imperialis: Warbringer Nemesis Titan with Quake Cannon, Volcano Cannon, and Laser Blaster"
+  },
+  "universetcg.com:55533698220373": {
+    "available": false,
+    "price": "43.00",
+    "product_title": "Legions Imperialis: Mechanicum Questoris Knights Magaera and Styrix"
+  },
+  "universetcg.com:55533698089301": {
+    "available": false,
+    "price": "36.00",
+    "product_title": "Skulltaker"
+  },
+  "universetcg.com:55533698023765": {
+    "available": false,
+    "price": "22.50",
+    "product_title": "Journal Tactica: Prospero Burns – The Judgement Of Valdor"
+  },
+  "universetcg.com:55533697696085": {
+    "available": false,
+    "price": "51.00",
+    "product_title": "Flesh Hounds"
+  },
+  "universetcg.com:55533696483669": {
+    "available": false,
+    "price": "51.00",
+    "product_title": "Legions Imperialis: Mechanicum Acastus Knights Asterius"
+  },
+  "universetcg.com:55533696418133": {
+    "available": false,
+    "price": "155.00",
+    "product_title": "Legions Imperialis: Warmaster Heavy Battle Titan with Plasma Destructors"
+  },
+  "universetcg.com:55533696319829": {
+    "available": false,
+    "price": "43.00",
+    "product_title": "Legions Imperialis: Solar Auxilia Infantry"
+  },
+  "universetcg.com:55533696057685": {
+    "available": false,
+    "price": "51.00",
+    "product_title": "Aethon Heavy Sentinel – Solar Auxilia Combat Walker"
+  },
+  "universetcg.com:55533695893845": {
+    "available": false,
+    "price": "51.00",
+    "product_title": "Breaka-boss on Mirebrute Troggoth"
+  },
+  "universetcg.com:55533695762773": {
+    "available": false,
+    "price": "53.00",
+    "product_title": "Legions Imperialis: Reaver Titan with Graviton Obliterator and Volkite Annihilator"
+  },
+  "universetcg.com:55533695697237": {
+    "available": false,
+    "price": "56.50",
+    "product_title": "Whirlwind Missile Tank"
+  },
+  "universetcg.com:55533695566165": {
+    "available": false,
+    "price": "175.00",
+    "product_title": "Cerastus Knight Acheron"
+  },
+  "universetcg.com:55533695467861": {
+    "available": false,
+    "price": "53.00",
+    "product_title": "Legions Imperialis: Reaver Battle Titan with Melta Cannon and Chainfist"
+  },
+  "universetcg.com:55533692027221": {
+    "available": false,
+    "price": "34.00",
+    "product_title": "Sloppity Bilepiper"
+  },
+  "universetcg.com:55533682721109": {
+    "available": false,
+    "price": "38.50",
+    "product_title": "Pink Horrors"
+  },
+  "universetcg.com:55533676921173": {
+    "available": false,
+    "price": "53.00",
+    "product_title": "Swampboss Skumdrekk"
+  },
+  "universetcg.com:55533670269269": {
+    "available": false,
+    "price": "43.00",
+    "product_title": "Legions Imperialis: Shadowswords, Stormblades and Stormswords"
+  },
+  "universetcg.com:55533664928085": {
+    "available": false,
+    "price": "125.00",
+    "product_title": "Spearhead: Orruk Warclans"
+  },
+  "universetcg.com:55533655130453": {
+    "available": false,
+    "price": "139.00",
+    "product_title": "Legions Imperialis: Solar Auxilia Combat Force"
+  },
+  "universetcg.com:55533654671701": {
+    "available": false,
+    "price": "155.00",
+    "product_title": "Legions Imperialis: Warmaster Iconoclast Heavy Battle Titan"
+  },
+  "universetcg.com:55533654573397": {
+    "available": false,
+    "price": "51.00",
+    "product_title": "Veletaris Storm Section"
+  },
+  "universetcg.com:55533654507861": {
+    "available": false,
+    "price": "43.00",
+    "product_title": "Legions Imperialis: Araknae Weapons Platform Batteries"
+  },
+  "universetcg.com:55533654376789": {
+    "available": false,
+    "price": "125.00",
+    "product_title": "Spearhead: Orruk Warclans – Ironjawz Bigmob"
+  },
+  "universetcg.com:55533654278485": {
+    "available": false,
+    "price": "139.00",
+    "product_title": "Bloodthirster – Blades of Khorne Miniature Kit"
+  },
+  "universetcg.com:55533654049109": {
+    "available": false,
+    "price": "80.00",
+    "product_title": "Dracosan Armoured Transport"
+  },
+  "universetcg.com:55533653950805": {
+    "available": false,
+    "price": "139.00",
+    "product_title": "Legiones Astartes: Combat Force"
+  },
+  "universetcg.com:55533653688661": {
+    "available": false,
+    "price": "66.00",
+    "product_title": "Solar Auxilia Lasrifle Section"
+  },
+  "universetcg.com:55533652902229": {
+    "available": false,
+    "price": "139.00",
+    "product_title": "Keeper of Secrets"
+  },
+  "universetcg.com:55533652771157": {
+    "available": false,
+    "price": "34.00",
+    "product_title": "Nurglings"
+  },
+  "universetcg.com:55533652672853": {
+    "available": false,
+    "price": "53.00",
+    "product_title": "Argent Shards (Disciples of Tzeentch Terrain)"
+  },
+  "universetcg.com:55533652541781": {
+    "available": false,
+    "price": "76.00",
+    "product_title": "Valdor Tank Destroyer – Solar Auxilia Heavy Tank Kit"
+  },
+  "universetcg.com:55533652410709": {
+    "available": false,
+    "price": "80.00",
+    "product_title": "Malcador Heavy Tank"
+  },
+  "universetcg.com:55533652312405": {
+    "available": false,
+    "price": "125.00",
+    "product_title": "Spearhead: Disciples of Tzeentch – Tzaangor Warflock"
+  },
+  "universetcg.com:55533652246869": {
+    "available": false,
+    "price": "47.50",
+    "product_title": "Legion Drop Pod"
+  },
+  "universetcg.com:55533652148565": {
+    "available": false,
+    "price": "51.00",
+    "product_title": "Marshcrawla Sloggoth"
+  },
+  "universetcg.com:55533651722581": {
+    "available": false,
+    "price": "43.00",
+    "product_title": "Legions Imperialis: Baneblade Squadron"
+  },
+  "universetcg.com:55533651493205": {
+    "available": false,
+    "price": "43.00",
+    "product_title": "Legions Imperialis: Medusa and Basilisk Batteries"
+  },
+  "universetcg.com:55533651394901": {
+    "available": false,
+    "price": "139.00",
+    "product_title": "Gobsprakk, The Mouth of Mork"
+  },
+  "universetcg.com:55533651263829": {
+    "available": false,
+    "price": "46.50",
+    "product_title": "Beast of Nurgle"
+  },
+  "universetcg.com:55533651165525": {
+    "available": false,
+    "price": "34.00",
+    "product_title": "The Masque – Herald of Slaanesh"
+  },
+  "universetcg.com:55533651034453": {
+    "available": false,
+    "price": "87.50",
+    "product_title": "Malcador Infernus – Solar Auxilia Heavy Tank"
+  },
+  "universetcg.com:55533650968917": {
+    "available": false,
+    "price": "22.50",
+    "product_title": "Journal Tactica: The Forges of Saturn"
+  },
+  "universetcg.com:55533650903381": {
+    "available": false,
+    "price": "36.00",
+    "product_title": "Lord of Hysteria – Hedonites of Slaanesh"
+  },
+  "universetcg.com:55533650706773": {
+    "available": false,
+    "price": "125.00",
+    "product_title": "Spearhead: Hedonites of Slaanesh – Epicurean Revellers"
+  },
+  "universetcg.com:55533650477397": {
+    "available": false,
+    "price": "31.25",
+    "product_title": "Hobgrot Slittaboss – Orruk Warclans Miniature Kit"
+  },
+  "universetcg.com:55533650411861": {
+    "available": false,
+    "price": "224.00",
+    "product_title": "Sons of Behemat Stomper Tribe"
+  },
+  "universetcg.com:55533650346325": {
+    "available": false,
+    "price": "47.50",
+    "product_title": "Man-Skewer Boltboyz"
+  },
+  "universetcg.com:55533650248021": {
+    "available": false,
+    "price": "38.50",
+    "product_title": "Blue Horrors and Brimstone Horrors"
+  },
+  "universetcg.com:55533650149717": {
+    "available": false,
+    "price": "36.00",
+    "product_title": "Bloodletters – Daemons of Khorne (Warhammer 40,000)"
+  },
+  "universetcg.com:55533650084181": {
+    "available": false,
+    "price": "139.00",
+    "product_title": "Legions Imperialis: Legiones Astartes Combat Force"
+  },
+  "universetcg.com:55533649985877": {
+    "available": false,
+    "price": "38.50",
+    "product_title": "Megaboss"
+  },
+  "universetcg.com:55533649658197": {
+    "available": false,
+    "price": "27.00",
+    "product_title": "Bloodmaster, Herald of Khorne"
+  },
+  "universetcg.com:55533649527125": {
+    "available": false,
+    "price": "53.00",
+    "product_title": "Maggotkin of Nurgle: Rotswords"
+  },
+  "universetcg.com:55533649297749": {
+    "available": false,
+    "price": "100.00",
+    "product_title": "Spartan Prometheus Assault Tank"
+  },
+  "universetcg.com:55533649199445": {
+    "available": false,
+    "price": "150.00",
+    "product_title": "Ma Maegran – Chooser of the Mighty"
+  },
+  "universetcg.com:55533649133909": {
+    "available": false,
+    "price": "51.00",
+    "product_title": "Weirdbrute Wrekkaz (Orruk Warclans)"
+  },
+  "universetcg.com:55533649035605": {
+    "available": false,
+    "price": "139.00",
+    "product_title": "Great Unclean One"
+  },
+  "universetcg.com:55533648970069": {
+    "available": false,
+    "price": "125.00",
+    "product_title": "Spearhead: Maggotkin of Nurgle – Bubonic Cell"
+  },
+  "universetcg.com:55533648871765": {
+    "available": false,
+    "price": "34.00",
+    "product_title": "Curseling, Eye of Tzeentch"
+  },
+  "universetcg.com:55533648773461": {
+    "available": false,
+    "price": "36.00",
+    "product_title": "Daemonettes of Slaanesh"
+  },
+  "universetcg.com:55533648511317": {
+    "available": false,
+    "price": "107.50",
+    "product_title": "Dexcessa, the Talon of Slaanesh"
+  },
+  "universetcg.com:55533648380245": {
+    "available": false,
+    "price": "34.00",
+    "product_title": "Ardboy Big Boss"
+  },
+  "universetcg.com:55533648314709": {
+    "available": false,
+    "price": "100.00",
+    "product_title": "Auric Runefather on Magmadroth"
+  },
+  "universetcg.com:55533647823189": {
+    "available": false,
+    "price": "36.00",
+    "product_title": "Plaguebearers"
+  },
+  "universetcg.com:55533647626581": {
+    "available": false,
+    "price": "51.00",
+    "product_title": "Gutrippaz – Kruleboyz Multipart Plastic Miniature Kit"
+  },
+  "universetcg.com:55533647331669": {
+    "available": false,
+    "price": "45.00",
+    "product_title": "Underworld Denizens Blood Bowl Team – The Underworld Creepers"
+  },
+  "universetcg.com:55533647266133": {
+    "available": false,
+    "price": "56.50",
+    "product_title": "Kill Team: Wolf Scouts"
+  },
+  "universetcg.com:55533647003989": {
+    "available": false,
+    "price": "45.00",
+    "product_title": "Khorne Blood Bowl Team - Skull-tribe Slaughterers"
+  },
+  "universetcg.com:55533646905685": {
+    "available": false,
+    "price": "51.50",
+    "product_title": "Orruk Brutes (Orruk Warclans) – Age of Sigmar Miniature Kit"
+  },
+  "universetcg.com:55533646840149": {
+    "available": false,
+    "price": "70.00",
+    "product_title": "Tuskboss on Maw-grunta"
+  },
+  "universetcg.com:55533646741845": {
+    "available": false,
+    "price": "47.50",
+    "product_title": "Orruk Warclans: Manifestations"
+  },
+  "universetcg.com:55533645529429": {
+    "available": false,
+    "price": "53.50",
+    "product_title": "Bossrokk Tower"
+  },
+  "universetcg.com:55533645398357": {
+    "available": false,
+    "price": "135.00",
+    "product_title": "Boss-stompers"
+  },
+  "universetcg.com:55533645267285": {
+    "available": false,
+    "price": "120.00",
+    "product_title": "Megaboss on Maw-krusha"
+  },
+  "universetcg.com:55533644710229": {
+    "available": false,
+    "price": "28.50",
+    "product_title": "Geigor Fell-Hand, Space Wolves Thegn"
+  },
+  "universetcg.com:55533644415317": {
+    "available": false,
+    "price": "51.00",
+    "product_title": "Blissbarb Archers"
+  },
+  "universetcg.com:55533644317013": {
+    "available": false,
+    "price": "45.00",
+    "product_title": "Old World Alliance Blood Bowl Team – The Middenheim Maulers"
+  },
+  "universetcg.com:55533643792725": {
+    "available": false,
+    "price": "34.00",
+    "product_title": "Tzaangor Shaman"
+  },
+  "universetcg.com:55533643727189": {
+    "available": false,
+    "price": "28.50",
+    "product_title": "Fafnir Rann"
+  },
+  "universetcg.com:55533643661653": {
+    "available": false,
+    "price": "34.00",
+    "product_title": "Beast-skewer Killbow"
+  },
+  "universetcg.com:55533643530581": {
+    "available": false,
+    "price": "34.00",
+    "product_title": "Weirdnob Shaman - Orruk Warclans Miniature Kit"
+  },
+  "universetcg.com:55533643366741": {
+    "available": false,
+    "price": "47.50",
+    "product_title": "Tzaangors (Citadel Miniatures Kit)"
+  },
+  "universetcg.com:55533643268437": {
+    "available": false,
+    "price": "34.00",
+    "product_title": "Lord of Hubris"
+  },
+  "universetcg.com:55533643137365": {
+    "available": false,
+    "price": "45.00",
+    "product_title": "Snotling Blood Bowl Team – Crud Creek Nosepickers"
+  },
+  "universetcg.com:55533643039061": {
+    "available": false,
+    "price": "34.00",
+    "product_title": "Fatemaster – Disciples of Tzeentch"
+  },
+  "universetcg.com:55533642809685": {
+    "available": false,
+    "price": "77.00",
+    "product_title": "Festus the Leechlord – Maggotkin of Nurgle Daemon Prince"
+  },
+  "universetcg.com:55533642547541": {
+    "available": false,
+    "price": "53.00",
+    "product_title": "Orruk Ardboyz"
+  },
+  "universetcg.com:55533642383701": {
+    "available": false,
+    "price": "34.00",
+    "product_title": "Kharadron Overlords Codewright"
+  },
+  "universetcg.com:55533642219861": {
+    "available": false,
+    "price": "28.50",
+    "product_title": "Ahzek Ahriman, Chief Librarian of the Thousand Sons"
+  },
+  "universetcg.com:55533642056021": {
+    "available": false,
+    "price": "28.50",
+    "product_title": "Vampire Lord – Soulblight Gravelords Miniature Kit"
+  },
+  "universetcg.com:55533641859413": {
+    "available": false,
+    "price": "28.50",
+    "product_title": "Shardspeaker of Slaanesh"
+  },
+  "universetcg.com:55533641630037": {
+    "available": false,
+    "price": "51.00",
+    "product_title": "Tzaangor Enlightened"
+  },
+  "universetcg.com:55533641498965": {
+    "available": false,
+    "price": "56.50",
+    "product_title": "Blades of the Hollow King"
+  },
+  "universetcg.com:55533641269589": {
+    "available": false,
+    "price": "38.50",
+    "product_title": "Grandfather's Gardeners – Warhammer Underworlds Warband"
+  },
+  "universetcg.com:55533641007445": {
+    "available": false,
+    "price": "28.50",
+    "product_title": "Rotbringer Sorcerer"
+  },
+  "universetcg.com:55533640778069": {
+    "available": false,
+    "price": "45.00",
+    "product_title": "Soulblight Gravelords: Manifestations"
+  },
+  "universetcg.com:55533640712533": {
+    "available": false,
+    "price": "28.50",
+    "product_title": "Lord of Pain – Hedonites of Slaanesh"
+  },
+  "universetcg.com:55533640614229": {
+    "available": false,
+    "price": "51.00",
+    "product_title": "Battletome: Hedonites of Slaanesh (Age of Sigmar)"
+  },
+  "universetcg.com:55533640384853": {
+    "available": false,
+    "price": "45.00",
+    "product_title": "Necromantic Horror Blood Bowl Team – The Wolfenburg Crypt-Stealers"
+  },
+  "universetcg.com:55533640188245": {
+    "available": false,
+    "price": "34.00",
+    "product_title": "Abhorrant Cardinal (Flesh-eater Courts)"
+  },
+  "universetcg.com:55533639991637": {
+    "available": false,
+    "price": "53.00",
+    "product_title": "Putrid Blightkings – Maggotkin of Nurgle"
+  },
+  "universetcg.com:55533639696725": {
+    "available": false,
+    "price": "51.00",
+    "product_title": "Slaangor Fiendbloods"
+  },
+  "universetcg.com:55533639467349": {
+    "available": false,
+    "price": "177.50",
+    "product_title": "King Brodd – Sons of Behemat Mega-Gargant Kit"
+  },
+  "universetcg.com:55533639303509": {
+    "available": false,
+    "price": "53.00",
+    "product_title": "Deathrattle Skeletons – Soulblight Gravelords (Age of Sigmar)"
+  },
+  "universetcg.com:55533639139669": {
+    "available": false,
+    "price": "120.00",
+    "product_title": "The Glottkin"
+  },
+  "universetcg.com:55533638975829": {
+    "available": false,
+    "price": "56.50",
+    "product_title": "Sloven Knights – Maggotkin of Nurgle Cavalry Kit"
+  },
+  "universetcg.com:55533638680917": {
+    "available": false,
+    "price": "56.50",
+    "product_title": "Blood Warriors"
+  },
+  "universetcg.com:55533638287701": {
+    "available": false,
+    "price": "100.00",
+    "product_title": "Ushoran, Mortarch of Delusion"
+  },
+  "universetcg.com:55533637894485": {
+    "available": false,
+    "price": "53.00",
+    "product_title": "Sigvald, Prince of Slaanesh"
+  },
+  "universetcg.com:55533637763413": {
+    "available": false,
+    "price": "53.50",
+    "product_title": "Zontari Endrin Dock – Kharadron Overlords Terrain Kit"
+  },
+  "universetcg.com:55533637435733": {
+    "available": false,
+    "price": "125.00",
+    "product_title": "Spearhead: Blades of Khorne – Fangs of the Blood God"
+  },
+  "universetcg.com:55533637108053": {
+    "available": false,
+    "price": "15.50",
+    "product_title": "Lord of Plagues – Maggotkin of Nurgle"
+  },
+  "universetcg.com:55533636059477": {
+    "available": false,
+    "price": "51.50",
+    "product_title": "Myrmidesh Painbringers"
+  },
+  "universetcg.com:55533634748757": {
+    "available": false,
+    "price": "51.00",
+    "product_title": "Arkanaut Company"
+  },
+  "universetcg.com:55533634453845": {
+    "available": false,
+    "price": "38.50",
+    "product_title": "Null-Khemist (Kharadron Overlords)"
+  },
+  "universetcg.com:55533634060629": {
+    "available": false,
+    "price": "43.00",
+    "product_title": "Craventhrone Guard – Nighthaunt Miniatures Kit"
+  },
+  "universetcg.com:55533633634645": {
+    "available": false,
+    "price": "47.50",
+    "product_title": "Auric Hearthguard"
+  },
+  "universetcg.com:55533633241429": {
+    "available": false,
+    "price": "38.50",
+    "product_title": "Kamandora's Blades"
+  },
+  "universetcg.com:55533633012053": {
+    "available": false,
+    "price": "32.50",
+    "product_title": "Royal Decapitator (Flesh-eater Courts)"
+  },
+  "universetcg.com:55533632618837": {
+    "available": false,
+    "price": "50.00",
+    "product_title": "Pestigors"
+  },
+  "universetcg.com:55533632520533": {
+    "available": false,
+    "price": "52.00",
+    "product_title": "Grundstok Gunhauler – Kharadron Overlords"
+  },
+  "universetcg.com:55533632160085": {
+    "available": false,
+    "price": "67.00",
+    "product_title": "Cursed Sepulchre / Nexus of Grief"
+  },
+  "universetcg.com:55533631045973": {
+    "available": false,
+    "price": "36.00",
+    "product_title": "Krulghast Cruciator"
+  },
+  "universetcg.com:55533630521685": {
+    "available": false,
+    "price": "51.00",
+    "product_title": "Radukar the Beast"
+  },
+  "universetcg.com:55533188940117": {
+    "available": false,
+    "price": "31.50",
+    "product_title": "Deathbringer (Blades of Khorne)"
+  },
+  "universetcg.com:55533188055381": {
+    "available": false,
+    "price": "53.00",
+    "product_title": "Barrow Knights – Soulblight Gravelords Cavalry (Age of Sigmar)"
+  },
+  "universetcg.com:55533187334485": {
+    "available": false,
+    "price": "125.00",
+    "product_title": "Spearhead: Kharadron Overlords – Grundstok Trailblazers"
+  },
+  "universetcg.com:55533187268949": {
+    "available": false,
+    "price": "27.00",
+    "product_title": "Lord of Blights"
+  },
+  "universetcg.com:55533186875733": {
+    "available": false,
+    "price": "51.00",
+    "product_title": "Morbheg Knights"
+  },
+  "universetcg.com:55533186810197": {
+    "available": false,
+    "price": "125.00",
+    "product_title": "Spearhead: Nighthaunt – Cursed Shacklehorde"
+  },
+  "universetcg.com:55533186548053": {
+    "available": false,
+    "price": "47.50",
+    "product_title": "Grundstok Thunderers"
+  },
+  "universetcg.com:55533186253141": {
+    "available": false,
+    "price": "51.00",
+    "product_title": "Dire Wolves – Soulblight Gravelords"
+  },
+  "universetcg.com:55533185532245": {
+    "available": false,
+    "price": "125.00",
+    "product_title": "Arkanaut Ironclad (Kharadron Overlords)"
+  },
+  "universetcg.com:55533185433941": {
+    "available": false,
+    "price": "60.00",
+    "product_title": "Blood Knights – Soulblight Gravelords"
+  },
+  "universetcg.com:55533183992149": {
+    "available": false,
+    "price": "156.00",
+    "product_title": "Prince Vhordrai, Lord of the Crimson Keep / Revenant Draconith"
+  },
+  "universetcg.com:55533182583125": {
+    "available": false,
+    "price": "60.00",
+    "product_title": "Lauka Vai, Mother of Nightmares"
+  },
+  "universetcg.com:55533182189909": {
+    "available": false,
+    "price": "45.00",
+    "product_title": "Vampire Blood Bowl Team: The Drakfang Thirsters"
+  },
+  "universetcg.com:55533181960533": {
+    "available": false,
+    "price": "28.50",
+    "product_title": "Dominion Zephon – Blood Angels"
+  },
+  "universetcg.com:55533181141333": {
+    "available": false,
+    "price": "27.00",
+    "product_title": "Spirit Hosts – Nighthaunt (Age of Sigmar)"
+  },
+  "universetcg.com:55533181043029": {
+    "available": false,
+    "price": "36.00",
+    "product_title": "Grand Justice Gormayne – Flesh-eater Courts Miniature Kit"
+  },
+  "universetcg.com:55533180780885": {
+    "available": false,
+    "price": "38.50",
+    "product_title": "Sekhar, Fang of Nulahmia (Soulblight Gravelords)"
+  },
+  "universetcg.com:55533180453205": {
+    "available": false,
+    "price": "51.50",
+    "product_title": "Khorne Wrathmongers / Skullreapers"
+  },
+  "universetcg.com:55533180387669": {
+    "available": false,
+    "price": "15.50",
+    "product_title": "Wight King"
+  },
+  "universetcg.com:55533179208021": {
+    "available": false,
+    "price": "27.00",
+    "product_title": "Abhorrant Archregent"
+  },
+  "universetcg.com:55533177471317": {
+    "available": false,
+    "price": "38.50",
+    "product_title": "Reikenor the Grimhailer – Nighthaunt Miniature Kit (Age of Sigmar)"
+  },
+  "universetcg.com:55533177405781": {
+    "available": false,
+    "price": "47.50",
+    "product_title": "Vampire Lord on Nightmare Steed"
+  },
+  "universetcg.com:55533177110869": {
+    "available": false,
+    "price": "47.50",
+    "product_title": "Endrinriggers – Kharadron Overlords (Age of Sigmar)"
+  },
+  "universetcg.com:55533176783189": {
+    "available": false,
+    "price": "43.00",
+    "product_title": "Cryptguard – Flesh-eater Courts Miniatures Kit"
+  },
+  "universetcg.com:55533176455509": {
+    "available": false,
+    "price": "125.00",
+    "product_title": "Spearhead: Ossiarch Bonereapers – Kavalos Vanguard"
+  },
+  "universetcg.com:55533175570773": {
+    "available": false,
+    "price": "125.00",
+    "product_title": "Spearhead: Soulblight Gravelords – Deathrattle Tomb Host"
+  },
+  "universetcg.com:55533175144789": {
+    "available": false,
+    "price": "51.00",
+    "product_title": "Vongrim Harpoon Crew"
+  },
+  "universetcg.com:55533175079253": {
+    "available": false,
+    "price": "47.50",
+    "product_title": "Lady Olynder, Mortarch of Grief"
+  },
+  "universetcg.com:55533174817109": {
+    "available": false,
+    "price": "45.00",
+    "product_title": "Black Orc Blood Bowl Team: The Thunder Valley Greenskins"
+  },
+  "universetcg.com:55533174489429": {
+    "available": false,
+    "price": "47.50",
+    "product_title": "Bladegheist Revenants – Nighthaunt (Age of Sigmar)"
+  },
+  "universetcg.com:55533174194517": {
+    "available": false,
+    "price": "51.00",
+    "product_title": "Necropolis Stalkers"
+  },
+  "universetcg.com:55533173702997": {
+    "available": false,
+    "price": "53.00",
+    "product_title": "Mortek Triaxes – Ossiarch Bonereapers Miniature Kit"
+  },
+  "universetcg.com:55533172261205": {
+    "available": false,
+    "price": "34.50",
+    "product_title": "Lord Vitriolic – Nighthaunt Hero (Warhammer Age of Sigmar)"
+  },
+  "universetcg.com:55533171605845": {
+    "available": false,
+    "price": "36.00",
+    "product_title": "Gnome Treeman – Blood Bowl Big Guy Miniature"
+  },
+  "universetcg.com:55533170786645": {
+    "available": false,
+    "price": "66.00",
+    "product_title": "Dankhold Troggoth"
+  },
+  "universetcg.com:55533170655573": {
+    "available": false,
+    "price": "51.00",
+    "product_title": "Deadwalker Zombies"
+  },
+  "universetcg.com:55533170458965": {
+    "available": false,
+    "price": "87.00",
+    "product_title": "Trugg the Troggoth King – Gloomspite Gitz Miniature Kit"
+  },
+  "universetcg.com:55533170164053": {
+    "available": false,
+    "price": "51.00",
+    "product_title": "Fell Bats"
+  },
+  "universetcg.com:55533170065749": {
+    "available": false,
+    "price": "51.00",
+    "product_title": "Mortis Reapers – Ossiarch Bonereapers Miniatures Kit"
+  },
+  "universetcg.com:55533169901909": {
+    "available": false,
+    "price": "51.00",
+    "product_title": "Barrow Guard – Soulblight Gravelords (Age of Sigmar)"
+  },
+  "universetcg.com:55533169344853": {
+    "available": false,
+    "price": "32.50",
+    "product_title": "Liege-Mortek (Ossiarch Bonereapers)"
+  },
+  "universetcg.com:55533168820565": {
+    "available": false,
+    "price": "125.00",
+    "product_title": "Spearhead: Flesh-eater Courts – Charnel Watch"
+  },
+  "universetcg.com:55533168755029": {
+    "available": false,
+    "price": "45.00",
+    "product_title": "Norse Blood Bowl Team: Norsca Rampagers"
+  },
+  "universetcg.com:55533168427349": {
+    "available": false,
+    "price": "38.50",
+    "product_title": "Crypt Ghouls – Flesh-eater Courts (Age of Sigmar)"
+  },
+  "universetcg.com:55533167903061": {
+    "available": false,
+    "price": "34.50",
+    "product_title": "High Falconer Felgryn"
+  },
+  "universetcg.com:55533167542613": {
+    "available": false,
+    "price": "23.50",
+    "product_title": "Dreadblade Harrows – Nighthaunt Miniature Kit (Age of Sigmar)"
+  },
+  "universetcg.com:55533167018325": {
+    "available": false,
+    "price": "53.00",
+    "product_title": "Snarlfang Riders"
+  },
+  "universetcg.com:55533166920021": {
+    "available": false,
+    "price": "36.00",
+    "product_title": "Snarlboss and Wolfgit Retinue"
+  },
+  "universetcg.com:55533166330197": {
+    "available": false,
+    "price": "74.00",
+    "product_title": "Iron Hail Gunners & Crane Gunner Teams (Grand Cathay)"
+  },
+  "universetcg.com:55533165969749": {
+    "available": false,
+    "price": "15.50",
+    "product_title": "Necromancer – Soulblight Gravelords Miniature"
+  },
+  "universetcg.com:55533165379925": {
+    "available": false,
+    "price": "74.00",
+    "product_title": "Peasant Levy – Grand Cathay Infantry Kit (Warhammer: The Old World)"
+  },
+  "universetcg.com:55533164921173": {
+    "available": false,
+    "price": "80.00",
+    "product_title": "Mangler Squigs – Gloomspite Gitz"
+  },
+  "universetcg.com:55533164822869": {
+    "available": false,
+    "price": "45.00",
+    "product_title": "Gnome Blood Bowl Team: The Glimdwarrow Groundhogs"
+  },
+  "universetcg.com:55533164364117": {
+    "available": false,
+    "price": "125.00",
+    "product_title": "Black Coach – Nighthaunt (Age of Sigmar)"
+  },
+  "universetcg.com:55533163905365": {
+    "available": false,
+    "price": "47.50",
+    "product_title": "Awlrach the Drowner"
+  },
+  "universetcg.com:55533163479381": {
+    "available": false,
+    "price": "17.00",
+    "product_title": "Myrmourn Banshees – Nighthaunt Miniatures (Age of Sigmar)"
+  },
+  "universetcg.com:55533163413845": {
+    "available": false,
+    "price": "53.00",
+    "product_title": "Kavalos Deathriders"
+  },
+  "universetcg.com:55533162922325": {
+    "available": false,
+    "price": "52.00",
+    "product_title": "Crypt Horrors – Flesh-eater Courts Miniature Kit"
+  },
+  "universetcg.com:55533162660181": {
+    "available": false,
+    "price": "51.00",
+    "product_title": "Squig Hoppers – Gloomspite Gitz"
+  },
+  "universetcg.com:55533161775445": {
+    "available": false,
+    "price": "38.50",
+    "product_title": "Chainrasp Hordes – Nighthaunt Push-Fit Kit (Age of Sigmar)"
+  },
+  "universetcg.com:55533161578837": {
+    "available": false,
+    "price": "125.00",
+    "product_title": "Miao Ying, the Storm Dragon"
+  },
+  "universetcg.com:55533161185621": {
+    "available": false,
+    "price": "51.00",
+    "product_title": "Snarlpack Cavalry"
+  },
+  "universetcg.com:55533159776597": {
+    "available": false,
+    "price": "32.50",
+    "product_title": "Idoneth Deepkin Ikon of the Sea / Ikon of the Storm"
+  },
+  "universetcg.com:55533159711061": {
+    "available": false,
+    "price": "147.50",
+    "product_title": "Armies of Grand Cathay: Battle March Army"
+  },
+  "universetcg.com:55533159154005": {
+    "available": false,
+    "price": "47.50",
+    "product_title": "Squig Herd"
+  },
+  "universetcg.com:55533159055701": {
+    "available": false,
+    "price": "28.50",
+    "product_title": "Mortisan Ossifector"
+  },
+  "universetcg.com:55533158531413": {
+    "available": false,
+    "price": "47.50",
+    "product_title": "Kurdoss Valentian, The Craven King"
+  },
+  "universetcg.com:55533158465877": {
+    "available": false,
+    "price": "51.00",
+    "product_title": "Arch-Kavalos Zandtos – Ossiarch Bonereapers"
+  },
+  "universetcg.com:55533158334805": {
+    "available": false,
+    "price": "27.00",
+    "product_title": "Mortisan Boneshaper"
+  },
+  "universetcg.com:55533158072661": {
+    "available": false,
+    "price": "47.50",
+    "product_title": "Akhelian Allopex – Idoneth Deepkin"
+  },
+  "universetcg.com:55533157450069": {
+    "available": false,
+    "price": "53.00",
+    "product_title": "Mortek Guard (Ossiarch Bonereapers)"
+  },
+  "universetcg.com:55533157318997": {
+    "available": false,
+    "price": "22.50",
+    "product_title": "Arcane Journal: Dawn of the Storm Dragon"
+  },
+  "universetcg.com:55533156827477": {
+    "available": false,
+    "price": "125.00",
+    "product_title": "Eidolon of Mathlann – Aspect of the Storm"
+  },
+  "universetcg.com:55533155909973": {
+    "available": false,
+    "price": "90.00",
+    "product_title": "Doom Diver Catapult (Gloomspite Gitz)"
+  },
+  "universetcg.com:55533155647829": {
+    "available": false,
+    "price": "125.00",
+    "product_title": "Spearhead: Gloomspite Gitz – Snarlpack Huntaz"
+  },
+  "universetcg.com:55533155582293": {
+    "available": false,
+    "price": "74.00",
+    "product_title": "Jade Warriors"
+  },
+  "universetcg.com:55533155352917": {
+    "available": false,
+    "price": "43.00",
+    "product_title": "Tornus the Redeemed"
+  },
+  "universetcg.com:55533154828629": {
+    "available": false,
+    "price": "47.50",
+    "product_title": "Idoneth Deepkin: Manifestations"
+  },
+  "universetcg.com:55533153845589": {
+    "available": false,
+    "price": "80.00",
+    "product_title": "Sunsteala Wheelas (Gloomspite Gitz)"
+  },
+  "universetcg.com:55533153550677": {
+    "available": false,
+    "price": "38.50",
+    "product_title": "Lord-Celestant (Stormcast Eternals)"
+  },
+  "universetcg.com:55533153091925": {
+    "available": false,
+    "price": "28.50",
+    "product_title": "Squigboss with Gnasha-squig"
+  },
+  "universetcg.com:55533151945045": {
+    "available": false,
+    "price": "64.00",
+    "product_title": "Liege-Kavalos on War Chariot (Ossiarch Bonereapers)"
+  },
+  "universetcg.com:55533151453525": {
+    "available": false,
+    "price": "51.00",
+    "product_title": "Akhelian Morrsarr Guard"
+  },
+  "universetcg.com:55533151355221": {
+    "available": false,
+    "price": "30.50",
+    "product_title": "Rabble-Rowza – Gloomspite Gitz Miniature Kit"
+  },
+  "universetcg.com:55533150601557": {
+    "available": false,
+    "price": "53.00",
+    "product_title": "Rockgut Troggoths – Gloomspite Gitz"
+  },
+  "universetcg.com:55533150470485": {
+    "available": false,
+    "price": "52.00",
+    "product_title": "Reclusians (Stormcast Eternals Miniature Kit)"
+  },
+  "universetcg.com:55533150044501": {
+    "available": false,
+    "price": "51.00",
+    "product_title": "Namarti Reavers (Idoneth Deepkin)"
+  },
+  "universetcg.com:55533149618517": {
+    "available": false,
+    "price": "38.50",
+    "product_title": "Lord-Commander Bastian Carthalos"
+  },
+  "universetcg.com:55533149487445": {
+    "available": false,
+    "price": "135.00",
+    "product_title": "Sky Lantern – Grand Cathay Miniature Kit (Warhammer: The Old World)"
+  },
+  "universetcg.com:55533148406101": {
+    "available": false,
+    "price": "100.00",
+    "product_title": "Iridan the Witness (Stormcast Eternals Miniature Kit)"
+  },
+  "universetcg.com:55533147717973": {
+    "available": false,
+    "price": "56.50",
+    "product_title": "Vigilors – Stormcast Eternals Miniatures Kit"
+  },
+  "universetcg.com:55533147554133": {
+    "available": false,
+    "price": "38.50",
+    "product_title": "Moonclan Stabbas"
+  },
+  "universetcg.com:55533146505557": {
+    "available": false,
+    "price": "22.50",
+    "product_title": "Arcane Journal: The Breaching of the Great Bastion"
+  },
+  "universetcg.com:55533145424213": {
+    "available": false,
+    "price": "53.00",
+    "product_title": "Shugengan Lord on Great Spirit Longma"
+  },
+  "universetcg.com:55533145293141": {
+    "available": false,
+    "price": "83.00",
+    "product_title": "Snarlboss on War-Wheela"
+  },
+  "universetcg.com:55533144211797": {
+    "available": false,
+    "price": "56.50",
+    "product_title": "Stormstrike Palladors"
+  },
+  "universetcg.com:55533143327061": {
+    "available": false,
+    "price": "45.00",
+    "product_title": "Amazon Blood Bowl Team: Kara Temple Harpies"
+  },
+  "universetcg.com:55533143130453": {
+    "available": false,
+    "price": "140.50",
+    "product_title": "Krondys, Son of Dracothion"
+  },
+  "universetcg.com:55533141557589": {
+    "available": false,
+    "price": "22.50",
+    "product_title": "Arcane Journal: The War of Settra's Fury"
+  },
+  "universetcg.com:55533139853653": {
+    "available": false,
+    "price": "107.50",
+    "product_title": "Cathayan Sentinel"
+  },
+  "universetcg.com:55533139329365": {
+    "available": false,
+    "price": "27.00",
+    "product_title": "Isharann Tidecaster"
+  },
+  "universetcg.com:55533138772309": {
+    "available": false,
+    "price": "56.50",
+    "product_title": "Kill Team: Brood Brothers"
+  },
+  "universetcg.com:55533137985877": {
+    "available": false,
+    "price": "36.00",
+    "product_title": "Lord-Terminos"
+  },
+  "universetcg.com:55533137166677": {
+    "available": false,
+    "price": "51.00",
+    "product_title": "Stormcast Eternals Annihilators"
+  },
+  "universetcg.com:55533136380245": {
+    "available": false,
+    "price": "43.00",
+    "product_title": "Legions Imperialis: Stalker Constructs"
+  },
+  "universetcg.com:55533135561045": {
+    "available": false,
+    "price": "36.00",
+    "product_title": "Loonboss on Giant Cave Squig"
+  },
+  "universetcg.com:55533134741845": {
+    "available": false,
+    "price": "36.00",
+    "product_title": "Mathaela, Oracle of the Abyss – Idoneth Deepkin"
+  },
+  "universetcg.com:55533133988181": {
+    "available": false,
+    "price": "43.00",
+    "product_title": "Gate Masters of the Celestial Cities – Grand Cathay"
+  },
+  "universetcg.com:55533133463893": {
+    "available": false,
+    "price": "56.50",
+    "product_title": "Vanquishers – Stormcast Eternals (Age of Sigmar)"
+  },
+  "universetcg.com:55533132710229": {
+    "available": false,
+    "price": "43.00",
+    "product_title": "Royal Heralds"
+  },
+  "universetcg.com:55533132054869": {
+    "available": false,
+    "price": "34.00",
+    "product_title": "Knight-Judicator with Gryph-hounds"
+  },
+  "universetcg.com:55533131170133": {
+    "available": false,
+    "price": "125.00",
+    "product_title": "Spearhead: Idoneth Deepkin – Akhelian Tide Guard"
+  },
+  "universetcg.com:55533130383701": {
+    "available": false,
+    "price": "66.00",
+    "product_title": "The Blacktalons – Stormcast Eternals Warband (Age of Sigmar)"
+  },
+  "universetcg.com:55533129695573": {
+    "available": false,
+    "price": "74.00",
+    "product_title": "Gor Herd – Beastmen Brayherds (Warhammer: The Old World)"
+  },
+  "universetcg.com:55533129204053": {
+    "available": false,
+    "price": "74.00",
+    "product_title": "Jade Lancers – Grand Cathay Heavy Cavalry (Warhammer: The Old World)"
+  },
+  "universetcg.com:55533128745301": {
+    "available": false,
+    "price": "56.50",
+    "product_title": "Kill Team: Hernkyn Yaegirs"
+  },
+  "universetcg.com:55533128155477": {
+    "available": false,
+    "price": "51.00",
+    "product_title": "Vindictors – Stormcast Eternals"
+  },
+  "universetcg.com:55533127827797": {
+    "available": false,
+    "price": "67.00",
+    "product_title": "Stormreach Portal – Stormcast Eternals Terrain"
+  },
+  "universetcg.com:55533127434581": {
+    "available": false,
+    "price": "43.00",
+    "product_title": "Liche Priests – Tomb Kings of Khemri | Warhammer: The Old World"
+  },
+  "universetcg.com:55533127270741": {
+    "available": false,
+    "price": "22.50",
+    "product_title": "Warhammer: The Old World – Arcane Journal: Beastmen Brayherds"
+  },
+  "universetcg.com:55533127074133": {
+    "available": false,
+    "price": "43.00",
+    "product_title": "Legions Imperialis: Serperos 'Overlord' Heavy Stalkers"
+  },
+  "universetcg.com:55533126910293": {
+    "available": false,
+    "price": "23.50",
+    "product_title": "Beastman Shaman (Beastmen Brayherds)"
+  },
+  "universetcg.com:55533126648149": {
+    "available": false,
+    "price": "120.00",
+    "product_title": "Ionus Cryptborn, Warden of Lost Souls"
+  },
+  "universetcg.com:55533126418773": {
+    "available": false,
+    "price": "64.00",
+    "product_title": "Maulbeast Raiders – Ogor Mawtribes (Warhammer Age of Sigmar)"
+  },
+  "universetcg.com:55533124976981": {
+    "available": false,
+    "price": "107.50",
+    "product_title": "Stormdrake Guard"
+  },
+  "universetcg.com:55533124419925": {
+    "available": false,
+    "price": "60.00",
+    "product_title": "Kill Team: Battleclade"
+  },
+  "universetcg.com:55533123699029": {
+    "available": false,
+    "price": "27.00",
+    "product_title": "Gryph-hounds (Stormcast Eternals)"
+  },
+  "universetcg.com:55533123109205": {
+    "available": false,
+    "price": "66.00",
+    "product_title": "Fulminators"
+  },
+  "universetcg.com:55533122093397": {
+    "available": false,
+    "price": "50.00",
+    "product_title": "Ironguts"
+  },
+  "universetcg.com:55533121536341": {
+    "available": false,
+    "price": "87.00",
+    "product_title": "Tomb King/Liche Priest on Necrolith Bone Dragon"
+  },
+  "universetcg.com:55533119406421": {
+    "available": false,
+    "price": "34.00",
+    "product_title": "Knight-Relictor"
+  },
+  "universetcg.com:55533118619989": {
+    "available": false,
+    "price": "42.00",
+    "product_title": "Butcher – Ogor Mawtribes Miniature Kit"
+  },
+  "universetcg.com:55533117899093": {
+    "available": false,
+    "price": "74.00",
+    "product_title": "Bestigor Herd"
+  },
+  "universetcg.com:55533117440341": {
+    "available": false,
+    "price": "56.50",
+    "product_title": "Sepulchral Stalkers (Tomb Kings of Khemri)"
+  },
+  "universetcg.com:55533117178197": {
+    "available": false,
+    "price": "38.50",
+    "product_title": "Vanguard-Raptors With Hurricane Crossbows & Aetherwings"
+  },
+  "universetcg.com:55533116195157": {
+    "available": false,
+    "price": "45.00",
+    "product_title": "Tomb Kings Blood Bowl Team: The Nehekhara Nightmares"
+  },
+  "universetcg.com:55533115736405": {
+    "available": false,
+    "price": "51.50",
+    "product_title": "Hunters with Sabrefangs"
+  },
+  "universetcg.com:55533115572565": {
+    "available": false,
+    "price": "51.00",
+    "product_title": "Volturnos, High King of the Deep"
+  },
+  "universetcg.com:55533114491221": {
+    "available": false,
+    "price": "53.00",
+    "product_title": "Witch Aelves"
+  },
+  "universetcg.com:55533114229077": {
+    "available": false,
+    "price": "45.00",
+    "product_title": "Goblin Team: Scarcrag Snivellers"
+  },
+  "universetcg.com:55533113442645": {
+    "available": false,
+    "price": "22.50",
+    "product_title": "Arcane Journal: Tomb Kings of Khemri"
+  },
+  "universetcg.com:55533113213269": {
+    "available": false,
+    "price": "155.00",
+    "product_title": "Lord-Celestant on Stardrake"
+  },
+  "universetcg.com:55533112885589": {
+    "available": false,
+    "price": "55.00",
+    "product_title": "Shrine of Dark Tribute"
+  },
+  "universetcg.com:55533112688981": {
+    "available": false,
+    "price": "74.00",
+    "product_title": "Tomb Guard (Tomb Kings of Khemri)"
+  },
+  "universetcg.com:55533112131925": {
+    "available": false,
+    "price": "97.00",
+    "product_title": "Morga the Mighty – Overtyrant"
+  },
+  "universetcg.com:55533111607637": {
+    "available": false,
+    "price": "51.50",
+    "product_title": "Gluttons – Ogor Mawtribes"
+  },
+  "universetcg.com:55533111247189": {
+    "available": false,
+    "price": "51.50",
+    "product_title": "Blood Sisters – Daughters of Khaine Miniatures Kit"
+  },
+  "universetcg.com:55533111148885": {
+    "available": false,
+    "price": "36.00",
+    "product_title": "Stormcast Eternals Lord-Relictor"
+  },
+  "universetcg.com:55533110886741": {
+    "available": false,
+    "price": "32.50",
+    "product_title": "Daemonsmith / Ashen Elder – Helsmiths of Hashut (Age of Sigmar)"
+  },
+  "universetcg.com:55533110690133": {
+    "available": false,
+    "price": "135.00",
+    "product_title": "Beastmen Brayherds: Battle March Army"
+  },
+  "universetcg.com:55533109739861": {
+    "available": false,
+    "price": "42.00",
+    "product_title": "Grell Firefist – Ogor Mawtribes Mercenary Miniature"
+  },
+  "universetcg.com:55533109051733": {
+    "available": false,
+    "price": "45.00",
+    "product_title": "Blood Bowl: Chaos Chosen Team – The Doom Lords"
+  },
+  "universetcg.com:55533108298069": {
+    "available": false,
+    "price": "50.00",
+    "product_title": "Deathshrieker Rocket Battery / Tormentor Bombard"
+  },
+  "universetcg.com:55533107478869": {
+    "available": false,
+    "price": "47.50",
+    "product_title": "Stormstrike Chariot (Stormcast Eternals)"
+  },
+  "universetcg.com:55533107151189": {
+    "available": false,
+    "price": "115.00",
+    "product_title": "Redd the Maw – High Slaughtermaster"
+  },
+  "holoplazatcg.com:13139:13140": {
+    "available": false,
+    "price": 0.0,
+    "product_title": "Dominio Delta Blíster 3 Sobres"
+  },
+  "holoplazatcg.com:13139:13141": {
+    "available": false,
+    "price": 0.0,
+    "product_title": "Dominio Delta Blíster 3 Sobres"
+  },
+  "holoplazatcg.com:13136:13137": {
+    "available": false,
+    "price": 0.0,
+    "product_title": "Dominio Delta Caja de Sobres"
+  },
+  "holoplazatcg.com:13136:13138": {
+    "available": false,
+    "price": 0.0,
+    "product_title": "Dominio Delta Caja de Sobres"
+  },
+  "holoplazatcg.com:13124:13125": {
+    "available": false,
+    "price": 0.0,
+    "product_title": "Dominio Delta ETB"
+  },
+  "holoplazatcg.com:13124:13126": {
+    "available": false,
+    "price": 0.0,
+    "product_title": "Dominio Delta ETB"
+  },
+  "pokebank.es:61112": {
+    "available": true,
+    "price": 74.99,
+    "product_title": "<p style=\"color: red\"><u>Precio PRO: 24,99€</u></p>1 Caja &#8211; Hounstone &#8211; ESPAÑOL"
   }
 }
