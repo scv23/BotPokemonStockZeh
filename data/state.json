@@ -56055,7 +56055,7 @@
     "product_title": "Maletin de Cartas Gradeadas"
   },
   "elbazartcg.com:54512969580892": {
-    "available": false,
+    "available": true,
     "price": "9.99",
     "product_title": "Bumper Metálicas para Gradeadas PSA/CGC/EG"
   },
@@ -56070,12 +56070,12 @@
     "product_title": "Bumper Metálicas para Gradeadas PSA/CGC/EG"
   },
   "elbazartcg.com:54512969679196": {
-    "available": false,
+    "available": true,
     "price": "9.99",
     "product_title": "Bumper Metálicas para Gradeadas PSA/CGC/EG"
   },
   "elbazartcg.com:54512969711964": {
-    "available": false,
+    "available": true,
     "price": "9.99",
     "product_title": "Bumper Metálicas para Gradeadas PSA/CGC/EG"
   },
@@ -56105,7 +56105,7 @@
     "product_title": "Bumper Metálicas para Gradeadas PSA/CGC/EG"
   },
   "elbazartcg.com:57732081713500": {
-    "available": false,
+    "available": true,
     "price": "9.99",
     "product_title": "Bumper Metálicas para Gradeadas PSA/CGC/EG"
   },
@@ -56355,7 +56355,7 @@
     "product_title": "Acrílico de Sobre"
   },
   "elbazartcg.com:54872232132956": {
-    "available": false,
+    "available": true,
     "price": "9.99",
     "product_title": "Bumper Metálicas para Gradeadas Beckett"
   },
@@ -56375,17 +56375,17 @@
     "product_title": "Bumper Metálicas para Gradeadas Beckett"
   },
   "elbazartcg.com:54872232264028": {
-    "available": false,
+    "available": true,
     "price": "9.99",
     "product_title": "Bumper Metálicas para Gradeadas Beckett"
   },
   "elbazartcg.com:54872232296796": {
-    "available": false,
+    "available": true,
     "price": "9.99",
     "product_title": "Bumper Metálicas para Gradeadas Beckett"
   },
   "elbazartcg.com:54872232329564": {
-    "available": false,
+    "available": true,
     "price": "9.99",
     "product_title": "Bumper Metálicas para Gradeadas Beckett"
   },
@@ -355410,7 +355410,7 @@
     "product_title": "Booster Box Bleach Thousand-Year Blood War vol.2  UA (JP)"
   },
   "elbazartcg.com:59310596325724": {
-    "available": true,
+    "available": false,
     "price": "97.99",
     "product_title": "Booster Box 30th (CH)"
   },
@@ -375028,5 +375028,10 @@
     "available": true,
     "price": "15.00",
     "product_title": "LIGA PREMODERN I – TORNEO ESPECIAL"
+  },
+  "pokebank.es:61114": {
+    "available": true,
+    "price": 76.99,
+    "product_title": "<p style=\"color: red\"><u>Precio PRO: 26,99€</u></p>Caja Palafin Ex &#8211; ESPAÑOL"
   }
 }
