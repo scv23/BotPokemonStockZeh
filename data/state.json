@@ -383248,5 +383248,1880 @@
     "available": true,
     "price": 74.99,
     "product_title": "<p style=\"color: red\"><u>Precio PRO: 24,99€</u></p>1 Caja &#8211; Hounstone &#8211; ESPAÑOL"
+  },
+  "universetcg.com:55536010789205": {
+    "available": false,
+    "price": "6.50",
+    "product_title": "Citadel Contrast: Dark Angels Green"
+  },
+  "universetcg.com:55536010723669": {
+    "available": false,
+    "price": "6.50",
+    "product_title": "Technical: Agrellan Badland"
+  },
+  "universetcg.com:55536010690901": {
+    "available": false,
+    "price": "3.75",
+    "product_title": "Ryza Rust (Citadel Colour Dry Paint)"
+  },
+  "universetcg.com:55536010658133": {
+    "available": false,
+    "price": "6.80",
+    "product_title": "Warhammer Colour Shade Brush Medium"
+  },
+  "universetcg.com:55536010592597": {
+    "available": false,
+    "price": "22.00",
+    "product_title": "Nexus of Power Rivals Deck (English)"
+  },
+  "universetcg.com:55536010625365": {
+    "available": false,
+    "price": "22.00",
+    "product_title": "Nexus of Power Rivals Deck (English)"
+  },
+  "universetcg.com:55536010559829": {
+    "available": false,
+    "price": "6.50",
+    "product_title": "Citadel Colour Air: Thallax Gold"
+  },
+  "universetcg.com:55536010527061": {
+    "available": false,
+    "price": "6.50",
+    "product_title": "Citadel Air: Elysian Green (36 g)"
+  },
+  "universetcg.com:55536010494293": {
+    "available": false,
+    "price": "3.75",
+    "product_title": "Base: Barak-Nar Burgundy"
+  },
+  "universetcg.com:55536010461525": {
+    "available": false,
+    "price": "43.00",
+    "product_title": "Legions Imperialis: Drop Pods"
+  },
+  "universetcg.com:55536010428757": {
+    "available": false,
+    "price": "139.00",
+    "product_title": "Skarbrand – Citadel Miniature Kit (Warhammer 40,000 / Age of Sigmar)"
+  },
+  "universetcg.com:55536010395989": {
+    "available": false,
+    "price": "3.75",
+    "product_title": "Base: Grey Knights Steel"
+  },
+  "universetcg.com:55536010363221": {
+    "available": false,
+    "price": "3.75",
+    "product_title": "Citadel Colour Base: Iron Hands Steel"
+  },
+  "universetcg.com:55536010330453": {
+    "available": false,
+    "price": "6.50",
+    "product_title": "Citadel Colour Shade: Drakenhof Nightshade"
+  },
+  "universetcg.com:55536010297685": {
+    "available": false,
+    "price": "51.50",
+    "product_title": "Khinerai Heartrenders"
+  },
+  "universetcg.com:55536010264917": {
+    "available": false,
+    "price": "53.00",
+    "product_title": "Empire Archers"
+  },
+  "universetcg.com:55536010232149": {
+    "available": false,
+    "price": "90.00",
+    "product_title": "Wood Elf Realms: Battle March Army"
+  },
+  "universetcg.com:55536010199381": {
+    "available": false,
+    "price": "43.00",
+    "product_title": "Escher Cutters (Necromunda)"
+  },
+  "universetcg.com:55536010166613": {
+    "available": false,
+    "price": "47.50",
+    "product_title": "Grimghast Reapers"
+  },
+  "universetcg.com:55535990079829": {
+    "available": false,
+    "price": "245.00",
+    "product_title": "Brawlers of Behemat (English)"
+  },
+  "universetcg.com:55535990112597": {
+    "available": false,
+    "price": "245.00",
+    "product_title": "Brawlers of Behemat (English)"
+  },
+  "universetcg.com:55535990014293": {
+    "available": false,
+    "price": "180.00",
+    "product_title": "Warhammer Age of Sigmar: Spearhead Starter Set (English)"
+  },
+  "universetcg.com:55535990047061": {
+    "available": false,
+    "price": "180.00",
+    "product_title": "Warhammer Age of Sigmar: Spearhead Starter Set (English)"
+  },
+  "universetcg.com:55535989948757": {
+    "available": false,
+    "price": "93.00",
+    "product_title": "Kill Team: Starter Set (English)"
+  },
+  "universetcg.com:55535989981525": {
+    "available": false,
+    "price": "93.00",
+    "product_title": "Kill Team: Starter Set (English)"
+  },
+  "universetcg.com:55535989817685": {
+    "available": false,
+    "price": "93.00",
+    "product_title": "Warhammer Age of Sigmar: Starter Set (English)"
+  },
+  "universetcg.com:55535989850453": {
+    "available": false,
+    "price": "93.00",
+    "product_title": "Warhammer Age of Sigmar: Starter Set (English)"
+  },
+  "universetcg.com:55535989752149": {
+    "available": false,
+    "price": "212.00",
+    "product_title": "Warhammer Quest: Darkwater (English)"
+  },
+  "universetcg.com:55535989784917": {
+    "available": false,
+    "price": "212.00",
+    "product_title": "Warhammer Quest: Darkwater (English)"
+  },
+  "universetcg.com:55535989686613": {
+    "available": false,
+    "price": "160.00",
+    "product_title": "Khazalite Holds Army Set (English)"
+  },
+  "universetcg.com:55535989719381": {
+    "available": false,
+    "price": "160.00",
+    "product_title": "Khazalite Holds Army Set (English)"
+  },
+  "universetcg.com:55535989588309": {
+    "available": false,
+    "price": "139.00",
+    "product_title": "Warhammer 40,000 Getting Started with Orks (English)"
+  },
+  "universetcg.com:55535989621077": {
+    "available": false,
+    "price": "139.00",
+    "product_title": "Warhammer 40,000 Getting Started with Orks (English)"
+  },
+  "universetcg.com:55535989522773": {
+    "available": false,
+    "price": "93.00",
+    "product_title": "Warhammer Underworlds: Embergard (English)"
+  },
+  "universetcg.com:55535989555541": {
+    "available": false,
+    "price": "93.00",
+    "product_title": "Warhammer Underworlds: Embergard (English)"
+  },
+  "universetcg.com:55535965372757": {
+    "available": false,
+    "price": "43.00",
+    "product_title": "Liber Custodes: The Forces of the Emperor Army Book (English)"
+  },
+  "universetcg.com:55535965307221": {
+    "available": false,
+    "price": "51.00",
+    "product_title": "Death Battletome: Soulblight Gravelords (English)"
+  },
+  "universetcg.com:55535965339989": {
+    "available": false,
+    "price": "51.00",
+    "product_title": "Death Battletome: Soulblight Gravelords (English)"
+  },
+  "universetcg.com:55535965274453": {
+    "available": false,
+    "price": "26.00",
+    "product_title": "Kill Team: Mandrakes – Datacards (English)"
+  },
+  "universetcg.com:55535965208917": {
+    "available": false,
+    "price": "51.00",
+    "product_title": "Destruction Battletome: Gloomspite Gitz (English)"
+  },
+  "universetcg.com:55535965241685": {
+    "available": false,
+    "price": "51.00",
+    "product_title": "Destruction Battletome: Gloomspite Gitz (English)"
+  },
+  "universetcg.com:55535965176149": {
+    "available": false,
+    "price": "60.00",
+    "product_title": "Liber Hereticus: Traitor Legiones Astartes Army Book (English)"
+  },
+  "universetcg.com:55535965143381": {
+    "available": false,
+    "price": "10.00",
+    "product_title": "White Dwarf 528 (English)"
+  },
+  "universetcg.com:55535965077845": {
+    "available": false,
+    "price": "51.00",
+    "product_title": "Chaos Battletome: Skaven (English)"
+  },
+  "universetcg.com:55535965110613": {
+    "available": false,
+    "price": "51.00",
+    "product_title": "Chaos Battletome: Skaven (English)"
+  },
+  "universetcg.com:55535965045077": {
+    "available": false,
+    "price": "60.00",
+    "product_title": "Liber Astartes: Loyalist Legiones Astartes Army Book (English)"
+  },
+  "universetcg.com:55535964979541": {
+    "available": false,
+    "price": "51.00",
+    "product_title": "Chaos Battletome: Slaves to Darkness (English)"
+  },
+  "universetcg.com:55535965012309": {
+    "available": false,
+    "price": "51.00",
+    "product_title": "Chaos Battletome: Slaves to Darkness (English)"
+  },
+  "universetcg.com:55535964914005": {
+    "available": false,
+    "price": "29.00",
+    "product_title": "Warscroll Cards: Sons of Behemat (English)"
+  },
+  "universetcg.com:55535964946773": {
+    "available": false,
+    "price": "29.00",
+    "product_title": "Warscroll Cards: Sons of Behemat (English)"
+  },
+  "universetcg.com:55535964881237": {
+    "available": false,
+    "price": "51.00",
+    "product_title": "Death Battletome: Flesh-eater Courts (English)"
+  },
+  "universetcg.com:55535964848469": {
+    "available": false,
+    "price": "51.00",
+    "product_title": "Death Battletome: Nighthaunt (English)"
+  },
+  "universetcg.com:55535964782933": {
+    "available": false,
+    "price": "51.00",
+    "product_title": "Chaos Battletome: Helsmiths of Hashut (English)"
+  },
+  "universetcg.com:55535964815701": {
+    "available": false,
+    "price": "51.00",
+    "product_title": "Chaos Battletome: Helsmiths of Hashut (English)"
+  },
+  "universetcg.com:55535964750165": {
+    "available": false,
+    "price": "51.00",
+    "product_title": "Order Battletome: Lumineth Realm-lords (English)"
+  },
+  "universetcg.com:55535964717397": {
+    "available": false,
+    "price": "22.50",
+    "product_title": "Arcane Journal: Armies of Grand Cathay (English)"
+  },
+  "universetcg.com:55535964684629": {
+    "available": false,
+    "price": "70.00",
+    "product_title": "Warhammer Underworlds: Spitewood (English)"
+  },
+  "universetcg.com:55535964651861": {
+    "available": false,
+    "price": "10.00",
+    "product_title": "White Dwarf 527 (English)"
+  },
+  "universetcg.com:55535942762837": {
+    "available": false,
+    "price": "10.00",
+    "product_title": "White Dwarf 526 (English)"
+  },
+  "universetcg.com:55535942730069": {
+    "available": false,
+    "price": "26.00",
+    "product_title": "Kill Team: Ratlings – Datacards (English)"
+  },
+  "universetcg.com:55535942697301": {
+    "available": false,
+    "price": "12.50",
+    "product_title": "Krieg (Paperback, English)"
+  },
+  "universetcg.com:55535942566229": {
+    "available": false,
+    "price": "11.50",
+    "product_title": "Saturnine (Paperback) – The Horus Heresy: Siege of Terra Book 4 (English)"
+  },
+  "universetcg.com:55535942533461": {
+    "available": false,
+    "price": "47.50",
+    "product_title": "Adeptus Titanicus: Traitor Legios (English)"
+  },
+  "universetcg.com:55535942500693": {
+    "available": false,
+    "price": "43.00",
+    "product_title": "Warhammer: The Old World – Forces of Fantasy (English)"
+  },
+  "universetcg.com:55535942435157": {
+    "available": false,
+    "price": "51.00",
+    "product_title": "Codex: Thousand Sons (English)"
+  },
+  "universetcg.com:55535942467925": {
+    "available": false,
+    "price": "51.00",
+    "product_title": "Codex: Thousand Sons (English)"
+  },
+  "universetcg.com:55535942369621": {
+    "available": false,
+    "price": "23.50",
+    "product_title": "Edge of the Knife Rivals Deck (English)"
+  },
+  "universetcg.com:55535942402389": {
+    "available": false,
+    "price": "23.50",
+    "product_title": "Edge of the Knife Rivals Deck (English)"
+  },
+  "universetcg.com:55535942336853": {
+    "available": false,
+    "price": "43.00",
+    "product_title": "Liber Auxilia: Solar Auxilia Army Book (English)"
+  },
+  "universetcg.com:55535942271317": {
+    "available": false,
+    "price": "51.00",
+    "product_title": "Codex: Adepta Sororitas (English)"
+  },
+  "universetcg.com:55535942304085": {
+    "available": false,
+    "price": "51.00",
+    "product_title": "Codex: Adepta Sororitas (English)"
+  },
+  "universetcg.com:55535942238549": {
+    "available": false,
+    "price": "51.00",
+    "product_title": "Chaos Battletome: Hedonites of Slaanesh (English)"
+  },
+  "universetcg.com:55535942173013": {
+    "available": false,
+    "price": "51.00",
+    "product_title": "Destruction Battletome: Orruk Warclans (English)"
+  },
+  "universetcg.com:55535942205781": {
+    "available": false,
+    "price": "51.00",
+    "product_title": "Destruction Battletome: Orruk Warclans (English)"
+  },
+  "universetcg.com:55535942140245": {
+    "available": false,
+    "price": "43.00",
+    "product_title": "Liber Mechanicum: Forces of the Taghmata Army Book (English)"
+  },
+  "universetcg.com:55535942074709": {
+    "available": false,
+    "price": "51.00",
+    "product_title": "Codex: Tyranids (English)"
+  },
+  "universetcg.com:55535942107477": {
+    "available": false,
+    "price": "51.00",
+    "product_title": "Codex: Tyranids (English)"
+  },
+  "universetcg.com:55535942041941": {
+    "available": false,
+    "price": "47.50",
+    "product_title": "Adeptus Titanicus: Loyalist Legios (English)"
+  },
+  "universetcg.com:55535941976405": {
+    "available": false,
+    "price": "64.00",
+    "product_title": "Spearhead: City of Ash Gaming Pack (English)"
+  },
+  "universetcg.com:55535942009173": {
+    "available": false,
+    "price": "64.00",
+    "product_title": "Spearhead: City of Ash Gaming Pack (English)"
+  },
+  "universetcg.com:55535941943637": {
+    "available": false,
+    "price": "26.00",
+    "product_title": "Kill Team: Scout Squad – Datacards (English)"
+  },
+  "universetcg.com:55535941878101": {
+    "available": false,
+    "price": "51.00",
+    "product_title": "Death Battletome: Ossiarch Bonereapers (English)"
+  },
+  "universetcg.com:55535941910869": {
+    "available": false,
+    "price": "51.00",
+    "product_title": "Death Battletome: Ossiarch Bonereapers (English)"
+  },
+  "universetcg.com:55535941845333": {
+    "available": false,
+    "price": "26.00",
+    "product_title": "Kill Team: Brood Brothers – Datacards (English)"
+  },
+  "universetcg.com:55535941812565": {
+    "available": false,
+    "price": "51.00",
+    "product_title": "Order Battletome: Kharadron Overlords (English)"
+  },
+  "universetcg.com:55535941747029": {
+    "available": false,
+    "price": "51.00",
+    "product_title": "Codex: Imperial Knights (English)"
+  },
+  "universetcg.com:55535941779797": {
+    "available": false,
+    "price": "51.00",
+    "product_title": "Codex: Imperial Knights (English)"
+  },
+  "universetcg.com:55535941714261": {
+    "available": false,
+    "price": "12.50",
+    "product_title": "Dark Imperium: Godblight (Paperback, English)"
+  },
+  "universetcg.com:55535941648725": {
+    "available": false,
+    "price": "23.50",
+    "product_title": "Wrack and Ruin Rivals Deck (English)"
+  },
+  "universetcg.com:55535941681493": {
+    "available": false,
+    "price": "23.50",
+    "product_title": "Wrack and Ruin Rivals Deck (English)"
+  },
+  "universetcg.com:55535941615957": {
+    "available": false,
+    "price": "51.00",
+    "product_title": "Chaos Battletome: Blades of Khorne (English)"
+  },
+  "universetcg.com:55535941550421": {
+    "available": false,
+    "price": "29.00",
+    "product_title": "Command Pack: Adeptus Custodes (English)"
+  },
+  "universetcg.com:55535941583189": {
+    "available": false,
+    "price": "29.00",
+    "product_title": "Command Pack: Adeptus Custodes (English)"
+  },
+  "universetcg.com:55535941484885": {
+    "available": false,
+    "price": "23.50",
+    "product_title": "Raging Slayers Rivals Deck (English)"
+  },
+  "universetcg.com:55535941517653": {
+    "available": false,
+    "price": "23.50",
+    "product_title": "Raging Slayers Rivals Deck (English)"
+  },
+  "universetcg.com:55535941419349": {
+    "available": false,
+    "price": "51.00",
+    "product_title": "Codex: Emperor's Children (English)"
+  },
+  "universetcg.com:55535941452117": {
+    "available": false,
+    "price": "51.00",
+    "product_title": "Codex: Emperor's Children (English)"
+  },
+  "universetcg.com:55535939256661": {
+    "available": false,
+    "price": "51.00",
+    "product_title": "Chaos Battletome: Disciples of Tzeentch (English)"
+  },
+  "universetcg.com:55535939289429": {
+    "available": false,
+    "price": "51.00",
+    "product_title": "Chaos Battletome: Disciples of Tzeentch (English)"
+  },
+  "universetcg.com:55535939158357": {
+    "available": false,
+    "price": "12.50",
+    "product_title": "Dark Imperium: Plague War (Paperback) (English)"
+  },
+  "universetcg.com:55535939125589": {
+    "available": false,
+    "price": "26.00",
+    "product_title": "Kill Team: Hierotek Circle – Datacards (English)"
+  },
+  "universetcg.com:55535939060053": {
+    "available": false,
+    "price": "56.50",
+    "product_title": "Warhammer 40,000: Boarding Actions (English)"
+  },
+  "universetcg.com:55535939092821": {
+    "available": false,
+    "price": "56.50",
+    "product_title": "Warhammer 40,000: Boarding Actions (English)"
+  },
+  "universetcg.com:55535939027285": {
+    "available": false,
+    "price": "26.00",
+    "product_title": "Kill Team: Blades of Khaine – Datacards (English)"
+  },
+  "universetcg.com:55535938961749": {
+    "available": false,
+    "price": "51.00",
+    "product_title": "Codex: Necrons (English)"
+  },
+  "universetcg.com:55535938994517": {
+    "available": false,
+    "price": "51.00",
+    "product_title": "Codex: Necrons (English)"
+  },
+  "universetcg.com:55535938896213": {
+    "available": false,
+    "price": "51.00",
+    "product_title": "Destruction Battletome: Ogor Mawtribes (English)"
+  },
+  "universetcg.com:55535938928981": {
+    "available": false,
+    "price": "51.00",
+    "product_title": "Destruction Battletome: Ogor Mawtribes (English)"
+  },
+  "universetcg.com:55535938863445": {
+    "available": false,
+    "price": "43.00",
+    "product_title": "Warhammer: The Old World - Ravening Hordes (English)"
+  },
+  "universetcg.com:55535938666837": {
+    "available": false,
+    "price": "51.00",
+    "product_title": "Order Battletome: Stormcast Eternals (English)"
+  },
+  "universetcg.com:55535938699605": {
+    "available": false,
+    "price": "51.00",
+    "product_title": "Order Battletome: Stormcast Eternals (English)"
+  },
+  "universetcg.com:55535938634069": {
+    "available": false,
+    "price": "10.00",
+    "product_title": "White Dwarf 525 (English)"
+  },
+  "universetcg.com:55535938535765": {
+    "available": false,
+    "price": "34.00",
+    "product_title": "Kill Team: Nemesis Operatives (English)"
+  },
+  "universetcg.com:55535938568533": {
+    "available": false,
+    "price": "34.00",
+    "product_title": "Kill Team: Nemesis Operatives (English)"
+  },
+  "universetcg.com:55535938437461": {
+    "available": false,
+    "price": "51.00",
+    "product_title": "Codex: World Eaters (English)"
+  },
+  "universetcg.com:55535938470229": {
+    "available": false,
+    "price": "51.00",
+    "product_title": "Codex: World Eaters (English)"
+  },
+  "universetcg.com:55535938371925": {
+    "available": false,
+    "price": "21.50",
+    "product_title": "The Rise of Nagash (Paperback)"
+  },
+  "universetcg.com:55535938306389": {
+    "available": false,
+    "price": "27.00",
+    "product_title": "Chapter Approved 2026-27: Mission Deck (English)"
+  },
+  "universetcg.com:55535938339157": {
+    "available": false,
+    "price": "27.00",
+    "product_title": "Chapter Approved 2026-27: Mission Deck (English)"
+  },
+  "universetcg.com:55535938240853": {
+    "available": false,
+    "price": "51.00",
+    "product_title": "Order Battletome: Daughters of Khaine (English)"
+  },
+  "universetcg.com:55535938273621": {
+    "available": false,
+    "price": "51.00",
+    "product_title": "Order Battletome: Daughters of Khaine (English)"
+  },
+  "universetcg.com:55535937716565": {
+    "available": false,
+    "price": "51.00",
+    "product_title": "Order Battletome: Cities of Sigmar (English)"
+  },
+  "universetcg.com:55535937749333": {
+    "available": false,
+    "price": "51.00",
+    "product_title": "Order Battletome: Cities of Sigmar (English)"
+  },
+  "universetcg.com:55535937421653": {
+    "available": false,
+    "price": "51.00",
+    "product_title": "Order Battletome: Sylvaneth (English)"
+  },
+  "universetcg.com:55535937454421": {
+    "available": false,
+    "price": "51.00",
+    "product_title": "Order Battletome: Sylvaneth (English)"
+  },
+  "universetcg.com:55535937323349": {
+    "available": false,
+    "price": "51.00",
+    "product_title": "Chaos Battletome: Maggotkin of Nurgle (English)"
+  },
+  "universetcg.com:55535937356117": {
+    "available": false,
+    "price": "51.00",
+    "product_title": "Chaos Battletome: Maggotkin of Nurgle (English)"
+  },
+  "universetcg.com:55535937290581": {
+    "available": false,
+    "price": "13.50",
+    "product_title": "Flames of Betrayal (Paperback)"
+  },
+  "universetcg.com:55535936242005": {
+    "available": false,
+    "price": "15.00",
+    "product_title": "Getting Started With Warhammer Age of Sigmar (English)"
+  },
+  "universetcg.com:55535936274773": {
+    "available": false,
+    "price": "15.00",
+    "product_title": "Getting Started With Warhammer Age of Sigmar (English)"
+  },
+  "universetcg.com:55535936176469": {
+    "available": false,
+    "price": "29.00",
+    "product_title": "Horus Rising (Hardback)"
+  },
+  "universetcg.com:55535936143701": {
+    "available": false,
+    "price": "139.00",
+    "product_title": "Warhammer 40,000 Getting Started with Space Marines (English)"
+  },
+  "universetcg.com:55535936078165": {
+    "available": false,
+    "price": "51.00",
+    "product_title": "Path to Glory: Blighted Wilds (English)"
+  },
+  "universetcg.com:55535936045397": {
+    "available": false,
+    "price": "20.00",
+    "product_title": "War for the Mortal Realms (Paperback)"
+  },
+  "universetcg.com:55535936012629": {
+    "available": false,
+    "price": "212.00",
+    "product_title": "Ogor Mawtribes Army Set (Spanish Edition)"
+  },
+  "universetcg.com:55535935979861": {
+    "available": false,
+    "price": "29.00",
+    "product_title": "Grombrindal: Ancestor's Burden (Hardback)"
+  },
+  "universetcg.com:55535935914325": {
+    "available": false,
+    "price": "155.00",
+    "product_title": "Adeptus Titanicus: The Horus Heresy (English)"
+  },
+  "universetcg.com:55535935881557": {
+    "available": false,
+    "price": "13.50",
+    "product_title": "Skaventide (Paperback)"
+  },
+  "universetcg.com:55535935848789": {
+    "available": false,
+    "price": "83.00",
+    "product_title": "Chaos Warbands: Reavers of Ruin"
+  },
+  "universetcg.com:55535935750485": {
+    "available": false,
+    "price": "51.00",
+    "product_title": "Codex: Death Guard (English)"
+  },
+  "universetcg.com:55535935783253": {
+    "available": false,
+    "price": "51.00",
+    "product_title": "Codex: Death Guard (English)"
+  },
+  "universetcg.com:55535935717717": {
+    "available": false,
+    "price": "43.00",
+    "product_title": "Liber Questoris: Knights and Titans Army Book (English)"
+  },
+  "universetcg.com:55535935684949": {
+    "available": false,
+    "price": "11.50",
+    "product_title": "The First Heretic (Paperback) – The Horus Heresy Book 14"
+  },
+  "universetcg.com:55535935652181": {
+    "available": false,
+    "price": "20.00",
+    "product_title": "Eisenhorn: The Omnibus (Paperback) (English)"
+  },
+  "universetcg.com:55535935553877": {
+    "available": false,
+    "price": "51.00",
+    "product_title": "Codex: Imperial Agents (English)"
+  },
+  "universetcg.com:55535935586645": {
+    "available": false,
+    "price": "51.00",
+    "product_title": "Codex: Imperial Agents (English)"
+  },
+  "universetcg.com:55535934505301": {
+    "available": false,
+    "price": "260.00",
+    "product_title": "Warhammer: The Horus Heresy – Saturnine (English)"
+  },
+  "universetcg.com:55535934439765": {
+    "available": false,
+    "price": "12.50",
+    "product_title": "The Hollow King (Paperback, English)"
+  },
+  "universetcg.com:55535934374229": {
+    "available": false,
+    "price": "12.00",
+    "product_title": "Servo-Skull Palette"
+  },
+  "universetcg.com:55535934308693": {
+    "available": false,
+    "price": "29.00",
+    "product_title": "Command Pack: Space Marines (English)"
+  },
+  "universetcg.com:55535934341461": {
+    "available": false,
+    "price": "29.00",
+    "product_title": "Command Pack: Space Marines (English)"
+  },
+  "universetcg.com:55535934243157": {
+    "available": false,
+    "price": "43.00",
+    "product_title": "MKIII Legion Command Squad"
+  },
+  "universetcg.com:55535934177621": {
+    "available": false,
+    "price": "23.50",
+    "product_title": "Reckless Fury Rivals Deck (English)"
+  },
+  "universetcg.com:55535934210389": {
+    "available": false,
+    "price": "23.50",
+    "product_title": "Reckless Fury Rivals Deck (English)"
+  },
+  "universetcg.com:55535934112085": {
+    "available": false,
+    "price": "60.00",
+    "product_title": "Warhammer Age of Sigmar Core Book (English)"
+  },
+  "universetcg.com:55535934144853": {
+    "available": false,
+    "price": "60.00",
+    "product_title": "Warhammer Age of Sigmar Core Book (English)"
+  },
+  "universetcg.com:55535934046549": {
+    "available": false,
+    "price": "200.00",
+    "product_title": "Warhammer: The Old World – Fantasy Battles In the World of Legend Core Set (English)"
+  },
+  "universetcg.com:55535934013781": {
+    "available": false,
+    "price": "175.00",
+    "product_title": "Warhammer: The Horus Heresy – Legions Imperialis (English)"
+  },
+  "universetcg.com:55535933948245": {
+    "available": false,
+    "price": "51.00",
+    "product_title": "Destruction Battletome: Sons of Behemat (English)"
+  },
+  "universetcg.com:55535933981013": {
+    "available": false,
+    "price": "51.00",
+    "product_title": "Destruction Battletome: Sons of Behemat (English)"
+  },
+  "universetcg.com:55535933882709": {
+    "available": false,
+    "price": "11.50",
+    "product_title": "Galaxy in Flames (Paperback) – The Horus Heresy Book 3"
+  },
+  "universetcg.com:55535933817173": {
+    "available": false,
+    "price": "51.00",
+    "product_title": "Codex: Astra Militarum (English)"
+  },
+  "universetcg.com:55535933849941": {
+    "available": false,
+    "price": "51.00",
+    "product_title": "Codex: Astra Militarum (English)"
+  },
+  "universetcg.com:55535933751637": {
+    "available": false,
+    "price": "12.50",
+    "product_title": "Dark Imperium (Paperback, English)"
+  },
+  "universetcg.com:55535933686101": {
+    "available": false,
+    "price": "64.00",
+    "product_title": "Warhammer 40,000 Introductory Set (English)"
+  },
+  "universetcg.com:55535933718869": {
+    "available": false,
+    "price": "64.00",
+    "product_title": "Warhammer 40,000 Introductory Set (English)"
+  },
+  "universetcg.com:55535933587797": {
+    "available": false,
+    "price": "51.00",
+    "product_title": "Codex: T'au Empire (English)"
+  },
+  "universetcg.com:55535933620565": {
+    "available": false,
+    "price": "51.00",
+    "product_title": "Codex: T'au Empire (English)"
+  },
+  "universetcg.com:55535933489493": {
+    "available": false,
+    "price": "56.50",
+    "product_title": "Warhammer Age of Sigmar: Introductory Set (English)"
+  },
+  "universetcg.com:55535933522261": {
+    "available": false,
+    "price": "56.50",
+    "product_title": "Warhammer Age of Sigmar: Introductory Set (English)"
+  },
+  "universetcg.com:55535933456725": {
+    "available": false,
+    "price": "64.00",
+    "product_title": "Deimos Pattern Predator Support Tank"
+  },
+  "universetcg.com:55535933391189": {
+    "available": false,
+    "price": "23.50",
+    "product_title": "Realmstone Raiders Rivals Deck (English)"
+  },
+  "universetcg.com:55535933423957": {
+    "available": false,
+    "price": "23.50",
+    "product_title": "Realmstone Raiders Rivals Deck (English)"
+  },
+  "universetcg.com:55535933325653": {
+    "available": false,
+    "price": "80.00",
+    "product_title": "Land Raider Explorator/Carrier"
+  },
+  "universetcg.com:55535933292885": {
+    "available": false,
+    "price": "53.00",
+    "product_title": "Reiver Squad – Deathwatch Kit (Warhammer 40,000)"
+  },
+  "universetcg.com:55535933194581": {
+    "available": false,
+    "price": "43.00",
+    "product_title": "Primaris Invader ATV (Español)"
+  },
+  "universetcg.com:55535933096277": {
+    "available": false,
+    "price": "27.00",
+    "product_title": "Warhammer 40,000: Combat Patrol Companion (English)"
+  },
+  "universetcg.com:55535933129045": {
+    "available": false,
+    "price": "27.00",
+    "product_title": "Warhammer 40,000: Combat Patrol Companion (English)"
+  },
+  "universetcg.com:55535933030741": {
+    "available": false,
+    "price": "51.00",
+    "product_title": "Order Battletome: Idoneth Deepkin (English)"
+  },
+  "universetcg.com:55535933063509": {
+    "available": false,
+    "price": "51.00",
+    "product_title": "Order Battletome: Idoneth Deepkin (English)"
+  },
+  "universetcg.com:55535932965205": {
+    "available": false,
+    "price": "13.50",
+    "product_title": "Siege of Terra: The Shattered and the Soulless (Paperback)"
+  },
+  "universetcg.com:55535932932437": {
+    "available": false,
+    "price": "60.00",
+    "product_title": "Warhammer: The Horus Heresy – Age of Darkness Rulebook (English)"
+  },
+  "universetcg.com:55535932866901": {
+    "available": false,
+    "price": "51.00",
+    "product_title": "Codex: Chaos Knights (English)"
+  },
+  "universetcg.com:55535932899669": {
+    "available": false,
+    "price": "51.00",
+    "product_title": "Codex: Chaos Knights (English)"
+  },
+  "universetcg.com:55535932801365": {
+    "available": false,
+    "price": "8.75",
+    "product_title": "Warhammer Water Pot"
+  },
+  "universetcg.com:55535932768597": {
+    "available": false,
+    "price": "11.50",
+    "product_title": "Mortis (Paperback) The Horus Heresy: Siege of Terra Book 5 (English)"
+  },
+  "universetcg.com:55535932703061": {
+    "available": false,
+    "price": "51.00",
+    "product_title": "Codex: Grey Knights (English)"
+  },
+  "universetcg.com:55535932735829": {
+    "available": false,
+    "price": "51.00",
+    "product_title": "Codex: Grey Knights (English)"
+  },
+  "universetcg.com:55535932670293": {
+    "available": false,
+    "price": "26.00",
+    "product_title": "Kill Team: Tempestus Aquilons – Datacards (English)"
+  },
+  "universetcg.com:55535932637525": {
+    "available": false,
+    "price": "13.50",
+    "product_title": "Anvils of the Heldenhammer: The Ancients (Paperback)"
+  },
+  "universetcg.com:55535932604757": {
+    "available": false,
+    "price": "166.50",
+    "product_title": "Glaive Super-heavy Special Weapons Tank"
+  },
+  "universetcg.com:55535932506453": {
+    "available": false,
+    "price": "51.00",
+    "product_title": "Codex: Genestealer Cults (English)"
+  },
+  "universetcg.com:55535932539221": {
+    "available": false,
+    "price": "51.00",
+    "product_title": "Codex: Genestealer Cults (English)"
+  },
+  "universetcg.com:55535932473685": {
+    "available": false,
+    "price": "29.00",
+    "product_title": "Blood of the Godeater (Hardback)"
+  },
+  "universetcg.com:55535932440917": {
+    "available": false,
+    "price": "74.00",
+    "product_title": "Deredeo Dreadnought: Anvilus Configuration"
+  },
+  "universetcg.com:55535932375381": {
+    "available": false,
+    "price": "51.00",
+    "product_title": "Codex: Leagues of Votann (English)"
+  },
+  "universetcg.com:55535932408149": {
+    "available": false,
+    "price": "51.00",
+    "product_title": "Codex: Leagues of Votann (English)"
+  },
+  "universetcg.com:55535932277077": {
+    "available": false,
+    "price": "20.00",
+    "product_title": "Minka Lesk: The Last Whiteshield (English)"
+  },
+  "universetcg.com:55535932178773": {
+    "available": false,
+    "price": "20.50",
+    "product_title": "Warhammer 40,000: Core Rules (English)"
+  },
+  "universetcg.com:55535932211541": {
+    "available": false,
+    "price": "20.50",
+    "product_title": "Warhammer 40,000: Core Rules (English)"
+  },
+  "universetcg.com:55535932113237": {
+    "available": false,
+    "price": "50.00",
+    "product_title": "General's Handbook 2026-27 (English)"
+  },
+  "universetcg.com:55535932146005": {
+    "available": false,
+    "price": "50.00",
+    "product_title": "General's Handbook 2026-27 (English)"
+  },
+  "universetcg.com:55535932080469": {
+    "available": false,
+    "price": "11.50",
+    "product_title": "Know No Fear (Paperback) – The Horus Heresy Book 19"
+  },
+  "universetcg.com:55535931982165": {
+    "available": false,
+    "price": "32.50",
+    "product_title": "Codex: Space Marines (English)"
+  },
+  "universetcg.com:55535932014933": {
+    "available": false,
+    "price": "32.50",
+    "product_title": "Codex: Space Marines (English)"
+  },
+  "universetcg.com:55535931916629": {
+    "available": false,
+    "price": "40.00",
+    "product_title": "Legiones Astartes Combi-Weapons & Shotgun Upgrades"
+  },
+  "universetcg.com:55535931883861": {
+    "available": false,
+    "price": "13.50",
+    "product_title": "Bad Loon Rising (Paperback)"
+  },
+  "universetcg.com:55535931818325": {
+    "available": false,
+    "price": "32.50",
+    "product_title": "Codex: Orks (English)"
+  },
+  "universetcg.com:55535931851093": {
+    "available": false,
+    "price": "32.50",
+    "product_title": "Codex: Orks (English)"
+  },
+  "universetcg.com:55535931752789": {
+    "available": false,
+    "price": "43.00",
+    "product_title": "Saturnine Praetor"
+  },
+  "universetcg.com:55535931720021": {
+    "available": false,
+    "price": "13.50",
+    "product_title": "Callis & Toll (Paperback) – Warhammer Age of Sigmar Novel"
+  },
+  "universetcg.com:55535931687253": {
+    "available": false,
+    "price": "60.00",
+    "product_title": "MkII Assault Squad – Warhammer: The Horus Heresy"
+  },
+  "universetcg.com:55535931654485": {
+    "available": false,
+    "price": "53.00",
+    "product_title": "Venerable Dreadnought (Spanish Edition)"
+  },
+  "universetcg.com:55535931621717": {
+    "available": false,
+    "price": "13.50",
+    "product_title": "Verminslayer (Paperback) – A Gotrek Gurnisson Novel"
+  },
+  "universetcg.com:55535931523413": {
+    "available": false,
+    "price": "51.00",
+    "product_title": "Codex: Drukhari (English)"
+  },
+  "universetcg.com:55535931556181": {
+    "available": false,
+    "price": "51.00",
+    "product_title": "Codex: Drukhari (English)"
+  },
+  "universetcg.com:55535931490645": {
+    "available": false,
+    "price": "29.00",
+    "product_title": "Galaxy in Flames (Hardback) – The Horus Heresy, Book 3"
+  },
+  "universetcg.com:55535931457877": {
+    "available": false,
+    "price": "40.00",
+    "product_title": "Legiones Astartes Special Weapons Upgrade Set"
+  },
+  "universetcg.com:55535931392341": {
+    "available": false,
+    "price": "93.00",
+    "product_title": "Saturnine Siege Dreadnought – Ophion Configuration"
+  },
+  "universetcg.com:55535931359573": {
+    "available": false,
+    "price": "11.50",
+    "product_title": "False Gods (Paperback) – The Horus Heresy Book 2"
+  },
+  "universetcg.com:55535931294037": {
+    "available": false,
+    "price": "83.00",
+    "product_title": "Order Warbands: Seekers in Shadow"
+  },
+  "universetcg.com:55535931261269": {
+    "available": false,
+    "price": "21.50",
+    "product_title": "The Sundering (Paperback) – Warhammer: The Old World Omnibus"
+  },
+  "universetcg.com:55535931228501": {
+    "available": false,
+    "price": "13.50",
+    "product_title": "Realmslayer: Legend of the Doomseeker (Paperback)"
+  },
+  "universetcg.com:55535931195733": {
+    "available": false,
+    "price": "20.00",
+    "product_title": "Gotrek and Felix: The First Omnibus (Paperback)"
+  },
+  "universetcg.com:55535931097429": {
+    "available": false,
+    "price": "52.00",
+    "product_title": "Kill Team: Core Book (English)"
+  },
+  "universetcg.com:55535931130197": {
+    "available": false,
+    "price": "52.00",
+    "product_title": "Kill Team: Core Book (English)"
+  },
+  "universetcg.com:55535832072533": {
+    "available": false,
+    "price": "40.00",
+    "product_title": "Melee Weapons Upgrade Set"
+  },
+  "universetcg.com:55535831974229": {
+    "available": false,
+    "price": "43.00",
+    "product_title": "MKVI Legion Command Squad"
+  },
+  "universetcg.com:55535831908693": {
+    "available": false,
+    "price": "43.00",
+    "product_title": "Legions Imperialis: Land Raider Proteus Explorator Squadron"
+  },
+  "universetcg.com:55535831777621": {
+    "available": false,
+    "price": "51.00",
+    "product_title": "Codex: Adeptus Mechanicus (English)"
+  },
+  "universetcg.com:55535831810389": {
+    "available": false,
+    "price": "51.00",
+    "product_title": "Codex: Adeptus Mechanicus (English)"
+  },
+  "universetcg.com:55535831712085": {
+    "available": false,
+    "price": "60.00",
+    "product_title": "Rapier Laser Destroyer and Quad Launcher Battery"
+  },
+  "universetcg.com:55535831613781": {
+    "available": false,
+    "price": "60.00",
+    "product_title": "Rapier Quad Heavy Bolters and Graviton Cannon Battery"
+  },
+  "universetcg.com:55535831548245": {
+    "available": false,
+    "price": "13.50",
+    "product_title": "Darkoath (Paperback)"
+  },
+  "universetcg.com:55535831482709": {
+    "available": false,
+    "price": "51.00",
+    "product_title": "Eliminator Squad (Español)"
+  },
+  "universetcg.com:55535831384405": {
+    "available": false,
+    "price": "66.00",
+    "product_title": "Kill Team: Scout Squad"
+  },
+  "universetcg.com:55535831318869": {
+    "available": false,
+    "price": "29.00",
+    "product_title": "False Gods (Hardback) – Horus Heresy Book 2"
+  },
+  "universetcg.com:55535831220565": {
+    "available": false,
+    "price": "20.00",
+    "product_title": "The Twice-Dead King: Omnibus (Paperback)"
+  },
+  "universetcg.com:55535831155029": {
+    "available": false,
+    "price": "38.50",
+    "product_title": "Borgit's Beastgrabbaz – Warhammer Underworlds Warband"
+  },
+  "universetcg.com:55535831089493": {
+    "available": false,
+    "price": "51.00",
+    "product_title": "Codex: Chaos Space Marines (English)"
+  },
+  "universetcg.com:55535830991189": {
+    "available": false,
+    "price": "43.00",
+    "product_title": "Legions Imperialis: Typhon Heavy Siege Tank Squadron"
+  },
+  "universetcg.com:55535830925653": {
+    "available": false,
+    "price": "11.50",
+    "product_title": "The Lost and the Damned (Paperback) – The Horus Heresy: Siege of Terra Book 2"
+  },
+  "universetcg.com:55535830827349": {
+    "available": false,
+    "price": "43.00",
+    "product_title": "Legions Imperialis: Kratos Heavy Tank Squadron"
+  },
+  "universetcg.com:55535830761813": {
+    "available": false,
+    "price": "74.00",
+    "product_title": "Leviathan Siege Dreadnought with Claw & Drill Weapons"
+  },
+  "universetcg.com:55535830663509": {
+    "available": false,
+    "price": "43.00",
+    "product_title": "Legions Imperialis: Vindicator Siege Tank Squadron"
+  },
+  "universetcg.com:55535830597973": {
+    "available": false,
+    "price": "13.50",
+    "product_title": "The Dead Kingdom (Paperback)"
+  },
+  "universetcg.com:55535830532437": {
+    "available": false,
+    "price": "11.50",
+    "product_title": "The Horus Heresy: Siege of Terra Book 1 – Solar War (Paperback)"
+  },
+  "universetcg.com:55535830434133": {
+    "available": false,
+    "price": "64.00",
+    "product_title": "Legion Vindicator Siege Tank"
+  },
+  "universetcg.com:55535830368597": {
+    "available": false,
+    "price": "40.00",
+    "product_title": "Breacher Squad Upgrade Set"
+  },
+  "universetcg.com:55535830303061": {
+    "available": false,
+    "price": "96.50",
+    "product_title": "Spartan Assault Tank"
+  },
+  "universetcg.com:55535830171989": {
+    "available": false,
+    "price": "74.00",
+    "product_title": "Deredeo Dreadnought: Boreas Configuration"
+  },
+  "universetcg.com:55535830106453": {
+    "available": false,
+    "price": "155.00",
+    "product_title": "Kragnos, the End of Empires"
+  },
+  "universetcg.com:55535830008149": {
+    "available": false,
+    "price": "11.50",
+    "product_title": "The Master of Mankind (Paperback) – The Horus Heresy Book 41"
+  },
+  "universetcg.com:55535829942613": {
+    "available": false,
+    "price": "28.00",
+    "product_title": "Codex Supplement: Blood Angels (Spanish Edition)"
+  },
+  "universetcg.com:55535829877077": {
+    "available": false,
+    "price": "139.00",
+    "product_title": "Mechanicum: Combat Force"
+  },
+  "universetcg.com:55535829778773": {
+    "available": false,
+    "price": "83.00",
+    "product_title": "Death Warbands: Morbid Minions (Warhammer Underworlds)"
+  },
+  "universetcg.com:55535829713237": {
+    "available": false,
+    "price": "13.50",
+    "product_title": "False Gods (Paperback) – The Horus Heresy, Book 2"
+  },
+  "universetcg.com:55535829614933": {
+    "available": false,
+    "price": "74.00",
+    "product_title": "MKVI Tactical Squad"
+  },
+  "universetcg.com:55535829549397": {
+    "available": false,
+    "price": "74.00",
+    "product_title": "MkIV Tactical Squad"
+  },
+  "universetcg.com:55535829451093": {
+    "available": false,
+    "price": "74.00",
+    "product_title": "Sicaran Venator Tank Hunter"
+  },
+  "universetcg.com:55535829352789": {
+    "available": false,
+    "price": "5.45",
+    "product_title": "Warhammer Colour Painting Handle"
+  },
+  "universetcg.com:55535829254485": {
+    "available": false,
+    "price": "43.00",
+    "product_title": "Legions Imperialis: Rhino Transport Detachment"
+  },
+  "universetcg.com:55535829188949": {
+    "available": false,
+    "price": "61.50",
+    "product_title": "Scimitar Jetbike Squadron"
+  },
+  "universetcg.com:55535829123413": {
+    "available": false,
+    "price": "51.00",
+    "product_title": "Codex: Aeldari (English)"
+  },
+  "universetcg.com:55535829025109": {
+    "available": false,
+    "price": "66.00",
+    "product_title": "Saturnine Terminator Squad"
+  },
+  "universetcg.com:55535828959573": {
+    "available": false,
+    "price": "9.75",
+    "product_title": "Warhammer Dice Set (20 Dice)"
+  },
+  "universetcg.com:55535828861269": {
+    "available": false,
+    "price": "20.00",
+    "product_title": "Gotrek and Maleneth: The Omnibus (Paperback)"
+  },
+  "universetcg.com:55535828795733": {
+    "available": false,
+    "price": "67.00",
+    "product_title": "MKIII Tactical Squad (Warhammer: The Horus Heresy)"
+  },
+  "universetcg.com:55535828664661": {
+    "available": false,
+    "price": "13.50",
+    "product_title": "Starseer's Ruin (Paperback)"
+  },
+  "universetcg.com:55535828599125": {
+    "available": false,
+    "price": "40.00",
+    "product_title": "Heavy Weapons Upgrade Set – Volkite Culverins, Lascannons, and Autocannons"
+  },
+  "universetcg.com:55535828533589": {
+    "available": false,
+    "price": "64.00",
+    "product_title": "Myrmidon Destructor Host"
+  },
+  "universetcg.com:55535828435285": {
+    "available": false,
+    "price": "34.00",
+    "product_title": "Skitarii Battle-Pilgrym Marshal"
+  },
+  "universetcg.com:55535828369749": {
+    "available": false,
+    "price": "5.75",
+    "product_title": "Warhammer Colour Shade Brush Small"
+  },
+  "universetcg.com:55535828304213": {
+    "available": false,
+    "price": "40.00",
+    "product_title": "Heavy Weapons Upgrade Set – Missile Launchers and Heavy Bolters"
+  },
+  "universetcg.com:55535828205909": {
+    "available": false,
+    "price": "61.50",
+    "product_title": "Scorpius Missile Tank"
+  },
+  "universetcg.com:55535828140373": {
+    "available": false,
+    "price": "60.00",
+    "product_title": "MKIII Breacher Squad (Warhammer: The Horus Heresy)"
+  },
+  "universetcg.com:55535828042069": {
+    "available": false,
+    "price": "166.50",
+    "product_title": "Falchion Super-heavy Tank Destroyer – Warhammer: The Horus Heresy"
+  },
+  "universetcg.com:55535827976533": {
+    "available": false,
+    "price": "11.50",
+    "product_title": "Slaves to Darkness (Paperback) – The Horus Heresy Book 51"
+  },
+  "universetcg.com:55535827878229": {
+    "available": false,
+    "price": "53.00",
+    "product_title": "Contemptor Dreadnought"
+  },
+  "universetcg.com:55535827779925": {
+    "available": false,
+    "price": "93.00",
+    "product_title": "Stormvault Combat Case"
+  },
+  "universetcg.com:55535827681621": {
+    "available": false,
+    "price": "115.00",
+    "product_title": "Kratos Assault Tank (Warhammer: The Horus Heresy)"
+  },
+  "universetcg.com:55535827616085": {
+    "available": false,
+    "price": "13.50",
+    "product_title": "Grombrindal: Ancestor's Burden (Paperback)"
+  },
+  "universetcg.com:55535827517781": {
+    "available": false,
+    "price": "154.50",
+    "product_title": "Warhammer Crusade Figure Case"
+  },
+  "universetcg.com:55535827419477": {
+    "available": false,
+    "price": "47.50",
+    "product_title": "Legion Cataphractii Praetor & Chaplain Consul"
+  },
+  "universetcg.com:55535827190101": {
+    "available": false,
+    "price": "83.00",
+    "product_title": "Destruction Warbands: Gitz and Goliaths"
+  },
+  "universetcg.com:55535827091797": {
+    "available": false,
+    "price": "74.00",
+    "product_title": "Sicaran Battle Tank"
+  },
+  "universetcg.com:55535827026261": {
+    "available": false,
+    "price": "26.90",
+    "product_title": "S Artificer Layer Brush"
+  },
+  "universetcg.com:55535826895189": {
+    "available": false,
+    "price": "43.00",
+    "product_title": "Legions Imperialis: Spartan Assault Tanks"
+  },
+  "universetcg.com:55535826829653": {
+    "available": false,
+    "price": "34.00",
+    "product_title": "Centurion with Power Maul – Warhammer: The Horus Heresy"
+  },
+  "universetcg.com:55535826731349": {
+    "available": false,
+    "price": "50.00",
+    "product_title": "Tarantula Sentry Guns (Horus Heresy)"
+  },
+  "universetcg.com:55535826665813": {
+    "available": false,
+    "price": "8.50",
+    "product_title": "Warhammer Colour Dry Brush Large"
+  },
+  "universetcg.com:55535826567509": {
+    "available": false,
+    "price": "64.00",
+    "product_title": "Deimos Pattern Predator Battle Tank"
+  },
+  "universetcg.com:55535826501973": {
+    "available": false,
+    "price": "56.50",
+    "product_title": "Cataphractii Terminators with Volkite Chargers and Power Mauls"
+  },
+  "universetcg.com:55535826436437": {
+    "available": false,
+    "price": "11.50",
+    "product_title": "The First Wall (Paperback) – The Horus Heresy: Siege of Terra Book 3"
+  },
+  "universetcg.com:55535826338133": {
+    "available": false,
+    "price": "8.50",
+    "product_title": "Warhammer Colour Texture Tool"
+  },
+  "universetcg.com:55535826272597": {
+    "available": false,
+    "price": "43.00",
+    "product_title": "Legions Imperialis: Sicaran Arcus and Punisher Squadron"
+  },
+  "universetcg.com:55535826207061": {
+    "available": false,
+    "price": "43.00",
+    "product_title": "Legions Imperialis: Predator Squadron"
+  },
+  "universetcg.com:55535826108757": {
+    "available": false,
+    "price": "6.80",
+    "product_title": "Warhammer Colour Base Brush Medium"
+  },
+  "universetcg.com:55535826043221": {
+    "available": false,
+    "price": "56.50",
+    "product_title": "Cataphractii Terminators with Combi-bolters and Power Fists"
+  },
+  "universetcg.com:55535825781077": {
+    "available": false,
+    "price": "43.00",
+    "product_title": "Legions Imperialis: Cerberus Heavy Tank Destroyer Squadron"
+  },
+  "universetcg.com:55535825715541": {
+    "available": false,
+    "price": "19.60",
+    "product_title": "Citadel Colour Mechanicus Standard Grey Spray"
+  },
+  "universetcg.com:55535825650005": {
+    "available": false,
+    "price": "40.00",
+    "product_title": "Heavy Weapons Upgrade Set – Heavy Flamers, Multi-meltas, and Plasma Cannons (Warhammer: The Horus Heresy)"
+  },
+  "universetcg.com:55535825551701": {
+    "available": false,
+    "price": "102.50",
+    "product_title": "Cerberus Heavy Tank Destroyer"
+  },
+  "universetcg.com:55535825486165": {
+    "available": false,
+    "price": "50.00",
+    "product_title": "Tarantula Missile Battery"
+  },
+  "universetcg.com:55535825420629": {
+    "available": false,
+    "price": "80.00",
+    "product_title": "Legion Tartaros Terminator Squad"
+  },
+  "universetcg.com:55535825322325": {
+    "available": false,
+    "price": "125.00",
+    "product_title": "Nagash, Supreme Lord of the Undead"
+  },
+  "universetcg.com:55535825224021": {
+    "available": false,
+    "price": "43.00",
+    "product_title": "Legions Imperialis: Legiones Astartes Support"
+  },
+  "universetcg.com:55535825158485": {
+    "available": false,
+    "price": "43.00",
+    "product_title": "Legions Imperialis: Storm Eagle Squadron"
+  },
+  "universetcg.com:55535824929109": {
+    "available": false,
+    "price": "64.00",
+    "product_title": "Krios Battle Tank/Venator (Mechanicum)"
+  },
+  "universetcg.com:55535824666965": {
+    "available": false,
+    "price": "19.60",
+    "product_title": "Grey Seer - Citadel Colour Spray"
+  },
+  "universetcg.com:55535824535893": {
+    "available": false,
+    "price": "22.50",
+    "product_title": "Journal Tactica: The Isstvan V Dropsite Massacre – Part One"
+  },
+  "universetcg.com:55535824437589": {
+    "available": false,
+    "price": "7.50",
+    "product_title": "Warhammer Colour Base Brush Large"
+  },
+  "universetcg.com:55535824339285": {
+    "available": false,
+    "price": "29.00",
+    "product_title": "Legion Praetor with Power Sword"
+  },
+  "universetcg.com:55535824240981": {
+    "available": false,
+    "price": "43.00",
+    "product_title": "Legions Imperialis: Mastodon Super-heavy Assault Transports"
+  },
+  "universetcg.com:55535824175445": {
+    "available": false,
+    "price": "43.00",
+    "product_title": "Legions Imperialis: Sabre Strike Tank Squadron"
+  },
+  "universetcg.com:55535824109909": {
+    "available": false,
+    "price": "43.00",
+    "product_title": "Legions Imperialis: Falchion / Ascalon Super-heavy Tanks"
+  },
+  "universetcg.com:55535824011605": {
+    "available": false,
+    "price": "43.00",
+    "product_title": "Legions Imperialis: Fellblade / Glaive Super-heavy Tanks"
+  },
+  "universetcg.com:55535823683925": {
+    "available": false,
+    "price": "8.25",
+    "product_title": "Games Workshop Tape Measure (Warhammer: The Horus Heresy)"
+  },
+  "universetcg.com:55535823585621": {
+    "available": false,
+    "price": "66.00",
+    "product_title": "Tech-thralls Covenant"
+  },
+  "universetcg.com:55535823487317": {
+    "available": false,
+    "price": "66.00",
+    "product_title": "Vultarax Stratos-Automata"
+  },
+  "universetcg.com:55535822897493": {
+    "available": false,
+    "price": "43.00",
+    "product_title": "Legions Imperialis: Legiones Astartes Infantry"
+  },
+  "universetcg.com:55535822799189": {
+    "available": false,
+    "price": "43.00",
+    "product_title": "Legions Imperialis: Thunderhawk Gunship"
+  },
+  "universetcg.com:55535822733653": {
+    "available": false,
+    "price": "43.00",
+    "product_title": "Legions Imperialis: Saturnine Heavy Assault Cadre"
+  },
+  "universetcg.com:55535822635349": {
+    "available": false,
+    "price": "166.50",
+    "product_title": "Fellblade Super-Heavy Battle Tank"
+  },
+  "universetcg.com:55535822569813": {
+    "available": false,
+    "price": "19.60",
+    "product_title": "White Scar"
+  },
+  "universetcg.com:55535821455701": {
+    "available": false,
+    "price": "31.50",
+    "product_title": "Éomer, Marshal of the Riddermark"
+  },
+  "universetcg.com:55535821357397": {
+    "available": false,
+    "price": "60.00",
+    "product_title": "Legion MKVI Assault Squad"
+  },
+  "universetcg.com:55535821259093": {
+    "available": false,
+    "price": "43.00",
+    "product_title": "Haleth & Háma, Princes of Rohan"
+  },
+  "universetcg.com:55535821193557": {
+    "available": false,
+    "price": "43.00",
+    "product_title": "Legions Imperialis: Mechanicum Karacnos Assault Tank Squadron"
+  },
+  "universetcg.com:55535821095253": {
+    "available": false,
+    "price": "93.00",
+    "product_title": "Warhammer Battle Figure Case"
+  },
+  "universetcg.com:55535820702037": {
+    "available": false,
+    "price": "43.00",
+    "product_title": "Legions Imperialis: Fire Raptor Squadron"
+  },
+  "universetcg.com:55535820439893": {
+    "available": false,
+    "price": "66.00",
+    "product_title": "Castellax Battle-automata Maniple"
+  },
+  "universetcg.com:55535820308821": {
+    "available": false,
+    "price": "66.00",
+    "product_title": "Thallax Cohort (Mechanicum, Horus Heresy)"
+  },
+  "universetcg.com:55535820243285": {
+    "available": false,
+    "price": "29.00",
+    "product_title": "Legion Praetor with Power Axe (Horus Heresy)"
+  },
+  "universetcg.com:55535820144981": {
+    "available": false,
+    "price": "74.00",
+    "product_title": "Skitarii Battle-Pilgrym Corpus"
+  },
+  "universetcg.com:55535820079445": {
+    "available": false,
+    "price": "31.50",
+    "product_title": "Bolg™, Spawn of Azog™"
+  },
+  "universetcg.com:55535819981141": {
+    "available": false,
+    "price": "6.80",
+    "product_title": "Warhammer Colour Dry Brush Medium"
+  },
+  "universetcg.com:55535819915605": {
+    "available": false,
+    "price": "31.50",
+    "product_title": "Helm Hammerhand, King of Rohan (Middle-earth Strategy Battle Game)"
+  },
+  "universetcg.com:55535819817301": {
+    "available": false,
+    "price": "74.00",
+    "product_title": "Leviathan Siege Dreadnought with Ranged Weapons"
+  },
+  "universetcg.com:55535819751765": {
+    "available": false,
+    "price": "80.00",
+    "product_title": "Mechanicum Triaros Armoured Conveyor"
+  },
+  "universetcg.com:55535819686229": {
+    "available": false,
+    "price": "6.50",
+    "product_title": "Citadel Contrast: Leviathan Purple"
+  },
+  "universetcg.com:55535819587925": {
+    "available": false,
+    "price": "87.00",
+    "product_title": "Thanatar Calix Siege-automata"
+  },
+  "universetcg.com:55535819489621": {
+    "available": false,
+    "price": "51.00",
+    "product_title": "Stormvault Skirmish Case"
+  },
+  "universetcg.com:55535819424085": {
+    "available": false,
+    "price": "9.25",
+    "product_title": "Warhammer Colour Shade Brush Large"
+  },
+  "universetcg.com:55535819129173": {
+    "available": false,
+    "price": "15.00",
+    "product_title": "Warhammer Colour Tool Set"
+  },
+  "universetcg.com:55535819030869": {
+    "available": false,
+    "price": "102.50",
+    "product_title": "Typhon Heavy Siege Tank"
+  },
+  "universetcg.com:55535818965333": {
+    "available": false,
+    "price": "43.00",
+    "product_title": "Legions Imperialis: Mechanicum Infantry"
+  },
+  "universetcg.com:55535818899797": {
+    "available": false,
+    "price": "43.00",
+    "product_title": "Legions Imperialis: Whirlwind and Scorpius Missile Tank Squadrons"
+  },
+  "universetcg.com:55535818801493": {
+    "available": false,
+    "price": "6.50",
+    "product_title": "Citadel Contrast: Dreadful Visage"
+  },
+  "universetcg.com:55535818735957": {
+    "available": false,
+    "price": "31.50",
+    "product_title": "Prince Imrahil of Dol Amroth"
+  },
+  "universetcg.com:55535818637653": {
+    "available": false,
+    "price": "5.45",
+    "product_title": "Warhammer Colour Base Brush Small"
+  },
+  "universetcg.com:55535818572117": {
+    "available": false,
+    "price": "7.50",
+    "product_title": "Warhammer Pro Base Brush Small"
+  },
+  "universetcg.com:55535818506581": {
+    "available": false,
+    "price": "64.00",
+    "product_title": "Ursarax Cohort"
+  },
+  "universetcg.com:55535818408277": {
+    "available": false,
+    "price": "13.25",
+    "product_title": "Warhammer Colour Verdia Veldt Tufts"
+  },
+  "universetcg.com:55535818342741": {
+    "available": false,
+    "price": "6.50",
+    "product_title": "Warhammer Colour Dry Brush Small"
+  },
+  "universetcg.com:55535818244437": {
+    "available": false,
+    "price": "10.50",
+    "product_title": "Warhammer Colour: Sub-Assembly Holder"
+  },
+  "universetcg.com:55535818146133": {
+    "available": false,
+    "price": "22.50",
+    "product_title": "XS Artificer Layer Brush"
+  },
+  "universetcg.com:55535673508181": {
+    "available": false,
+    "price": "74.00",
+    "product_title": "MKII Tactical Squad"
+  },
+  "universetcg.com:55535673344341": {
+    "available": false,
+    "price": "100.00",
+    "product_title": "War Mûmak™ Of Harad™"
+  },
+  "universetcg.com:55535673246037": {
+    "available": false,
+    "price": "9.50",
+    "product_title": "Warhammer Pro Layer Brush Medium"
+  },
+  "universetcg.com:55535673114965": {
+    "available": false,
+    "price": "38.50",
+    "product_title": "Hill Tribesmen Commanders"
+  },
+  "universetcg.com:55535672951125": {
+    "available": false,
+    "price": "19.60",
+    "product_title": "Citadel Colour Wraithbone Spray"
+  },
+  "universetcg.com:55535672852821": {
+    "available": false,
+    "price": "6.50",
+    "product_title": "Citadel Contrast: Black Legion"
+  },
+  "universetcg.com:55535672688981": {
+    "available": false,
+    "price": "8.75",
+    "product_title": "Warhammer Colour Base Brush Extra Large"
+  },
+  "universetcg.com:55535672590677": {
+    "available": false,
+    "price": "13.25",
+    "product_title": "Warhammer Colour Mordian Corpsegrass Tufts"
+  },
+  "universetcg.com:55535672492373": {
+    "available": false,
+    "price": "43.00",
+    "product_title": "Fréaláf Hildeson™, Olwyn™ & Lief™, Heroes of Rohan™"
+  },
+  "universetcg.com:55535672361301": {
+    "available": false,
+    "price": "43.00",
+    "product_title": "Legions Imperialis: Xiphon Interceptor Squadron"
+  },
+  "universetcg.com:55535672230229": {
+    "available": false,
+    "price": "29.00",
+    "product_title": "Retributor Armour Spray"
+  },
+  "universetcg.com:55535672099157": {
+    "available": false,
+    "price": "38.50",
+    "product_title": "King of the Dead & Heralds"
+  },
+  "universetcg.com:55535671935317": {
+    "available": false,
+    "price": "46.50",
+    "product_title": "Deimos Pattern Rhino – Legiones Astartes"
+  },
+  "universetcg.com:55535671738709": {
+    "available": false,
+    "price": "5.75",
+    "product_title": "Warhammer Colour Layer Brush Medium"
+  },
+  "universetcg.com:55535671640405": {
+    "available": false,
+    "price": "32.35",
+    "product_title": "M Artificer Layer Brush"
+  },
+  "universetcg.com:55535671509333": {
+    "available": false,
+    "price": "43.00",
+    "product_title": "Mordor Troll"
+  },
+  "universetcg.com:55535671411029": {
+    "available": false,
+    "price": "19.60",
+    "product_title": "Zandri Dust Spray"
+  },
+  "universetcg.com:55535671181653": {
+    "available": false,
+    "price": "87.00",
+    "product_title": "Thanatar-Cavas Siege-automata – Mechanicum Multipart Plastic Kit"
   }
 }
