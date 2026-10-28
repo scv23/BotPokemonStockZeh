@@ -67135,7 +67135,7 @@
     "product_title": "Lata Mega Clefable ex"
   },
   "pokemillon.com:54298254213443": {
-    "available": false,
+    "available": true,
     "price": "39.90",
     "product_title": "Lata Mega Clefable ex"
   },
@@ -97790,7 +97790,7 @@
     "product_title": "Disney Lorcana - Tapete Rescue Rangers Away Reign of Jafar"
   },
   "jjcollection.es:52783518220617": {
-    "available": true,
+    "available": false,
     "price": "39.98",
     "product_title": "Disney Lorcana - Illumineer's Trove Reign of Jafar (Inglés)"
   },
@@ -280206,7 +280206,7 @@
   },
   "industria61.com:167918": {
     "available": false,
-    "price": 149.95,
+    "price": 134.95,
     "product_title": "One Piece Card Game &#8211; Heroines Ed.Vol.2 EB-05 Extra Booster Display (24 Booster) &#8211; EN"
   },
   "industria61.com:167887": {
@@ -281402,7 +281402,7 @@
   "industria61.com:164817": {
     "available": true,
     "price": 6.0,
-    "product_title": "**INSCRIPCION** Torneo RIFTBOUND dimecres 30 d&#8217;Octubre"
+    "product_title": "**INSCRIPCION** Torneo RIFTBOUND dimecres 28 d&#8217;Octubre"
   },
   "industria61.com:164810": {
     "available": true,
@@ -282525,7 +282525,7 @@
     "product_title": "Monster High Frankie Aniversario &#8211; Mattel"
   },
   "industria61.com:161263": {
-    "available": true,
+    "available": false,
     "price": 32.95,
     "product_title": "Monster High Draculaura Scooter &#8211; Mattel"
   },
@@ -357495,7 +357495,7 @@
     "product_title": "Panini &#8211; Harry Potter Premium Treasure Box"
   },
   "industria61.com:175956": {
-    "available": true,
+    "available": false,
     "price": 6.0,
     "product_title": "Panini &#8211; SOBRE Premium de Harry Potter Always Trading Card Collection"
   },
@@ -357505,7 +357505,7 @@
     "product_title": "Devir &#8211; Fritanga"
   },
   "industria61.com:175943": {
-    "available": true,
+    "available": false,
     "price": 54.0,
     "product_title": "Panini &#8211; Caja Premium de Harry Potter Always Trading Card Collection"
   },
@@ -385803,5 +385803,220 @@
     "available": true,
     "price": "25.90",
     "product_title": "First Partner Pokémon 3rd Generation 30th Celebration | Japonés"
+  },
+  "pokemillon.com:54973227106627": {
+    "available": true,
+    "price": "99.90",
+    "product_title": "Gundam TCG | Booster Box 24 Sobres Stardust Trails GD-06"
+  },
+  "pokemillon.com:54973221798211": {
+    "available": true,
+    "price": "12.00",
+    "product_title": "One Piece | Sobres EB05 Heroines Edition Vol 2"
+  },
+  "pokemillon.com:54973221830979": {
+    "available": false,
+    "price": "2.90",
+    "product_title": "One Piece | Sobres EB05 Heroines Edition Vol 2"
+  },
+  "universetcg.com:55554541257045": {
+    "available": true,
+    "price": "8.40",
+    "product_title": "Insured Shipping – To Next Grading or Back to You"
+  },
+  "universetcg.com:55554541289813": {
+    "available": true,
+    "price": "10.90",
+    "product_title": "Insured Shipping – To Next Grading or Back to You"
+  },
+  "universetcg.com:55554541322581": {
+    "available": true,
+    "price": "15.90",
+    "product_title": "Insured Shipping – To Next Grading or Back to You"
+  },
+  "universetcg.com:55554541355349": {
+    "available": true,
+    "price": "25.90",
+    "product_title": "Insured Shipping – To Next Grading or Back to You"
+  },
+  "universetcg.com:55554541388117": {
+    "available": true,
+    "price": "35.90",
+    "product_title": "Insured Shipping – To Next Grading or Back to You"
+  },
+  "universetcg.com:55554541420885": {
+    "available": true,
+    "price": "55.90",
+    "product_title": "Insured Shipping – To Next Grading or Back to You"
+  },
+  "universetcg.com:55554541191509": {
+    "available": true,
+    "price": "15.00",
+    "product_title": "Remote Grading Order Handling"
+  },
+  "universetcg.com:55554541224277": {
+    "available": true,
+    "price": "1.00",
+    "product_title": "Remote Grading Order Handling"
+  },
+  "universetcg.com:55554540962133": {
+    "available": true,
+    "price": "5.00",
+    "product_title": "Next Grading – Grading Add-ons"
+  },
+  "universetcg.com:55554540994901": {
+    "available": true,
+    "price": "2.00",
+    "product_title": "Next Grading – Grading Add-ons"
+  },
+  "universetcg.com:55554541027669": {
+    "available": true,
+    "price": "1.00",
+    "product_title": "Next Grading – Grading Add-ons"
+  },
+  "universetcg.com:55554541060437": {
+    "available": true,
+    "price": "10.00",
+    "product_title": "Next Grading – Grading Add-ons"
+  },
+  "universetcg.com:55554541093205": {
+    "available": true,
+    "price": "10.00",
+    "product_title": "Next Grading – Grading Add-ons"
+  },
+  "universetcg.com:55554541125973": {
+    "available": true,
+    "price": "100.00",
+    "product_title": "Next Grading – Grading Add-ons"
+  },
+  "universetcg.com:55554539684181": {
+    "available": true,
+    "price": "40.00",
+    "product_title": "Next Grading – Booster Box, Sealed Product & Collectible Grading"
+  },
+  "universetcg.com:55554539716949": {
+    "available": true,
+    "price": "60.00",
+    "product_title": "Next Grading – Booster Box, Sealed Product & Collectible Grading"
+  },
+  "universetcg.com:55554539749717": {
+    "available": true,
+    "price": "75.00",
+    "product_title": "Next Grading – Booster Box, Sealed Product & Collectible Grading"
+  },
+  "universetcg.com:55554539782485": {
+    "available": true,
+    "price": "90.00",
+    "product_title": "Next Grading – Booster Box, Sealed Product & Collectible Grading"
+  },
+  "universetcg.com:55554539487573": {
+    "available": true,
+    "price": "12.00",
+    "product_title": "Next Grading – Card Casing (Encapsulation Without Grade)"
+  },
+  "universetcg.com:55554539520341": {
+    "available": true,
+    "price": "62.25",
+    "product_title": "Next Grading – Card Casing (Encapsulation Without Grade)"
+  },
+  "universetcg.com:55554539553109": {
+    "available": true,
+    "price": "186.75",
+    "product_title": "Next Grading – Card Casing (Encapsulation Without Grade)"
+  },
+  "universetcg.com:55554539585877": {
+    "available": true,
+    "price": "373.50",
+    "product_title": "Next Grading – Card Casing (Encapsulation Without Grade)"
+  },
+  "universetcg.com:55554539618645": {
+    "available": true,
+    "price": "747.00",
+    "product_title": "Next Grading – Card Casing (Encapsulation Without Grade)"
+  },
+  "universetcg.com:55554539258197": {
+    "available": true,
+    "price": "27.90",
+    "product_title": "Next Grading – Sealed Pack Grading"
+  },
+  "universetcg.com:55554539290965": {
+    "available": true,
+    "price": "139.50",
+    "product_title": "Next Grading – Sealed Pack Grading"
+  },
+  "universetcg.com:55554539323733": {
+    "available": true,
+    "price": "418.50",
+    "product_title": "Next Grading – Sealed Pack Grading"
+  },
+  "universetcg.com:55554539356501": {
+    "available": true,
+    "price": "837.00",
+    "product_title": "Next Grading – Sealed Pack Grading"
+  },
+  "universetcg.com:55554539389269": {
+    "available": true,
+    "price": "1674.00",
+    "product_title": "Next Grading – Sealed Pack Grading"
+  },
+  "universetcg.com:55554539422037": {
+    "available": true,
+    "price": "2790.00",
+    "product_title": "Next Grading – Sealed Pack Grading"
+  },
+  "universetcg.com:55554539061589": {
+    "available": true,
+    "price": "24.90",
+    "product_title": "Next Grading – Card Grading"
+  },
+  "universetcg.com:55554539094357": {
+    "available": true,
+    "price": "124.50",
+    "product_title": "Next Grading – Card Grading"
+  },
+  "universetcg.com:55554539127125": {
+    "available": true,
+    "price": "373.50",
+    "product_title": "Next Grading – Card Grading"
+  },
+  "universetcg.com:55554539159893": {
+    "available": true,
+    "price": "747.00",
+    "product_title": "Next Grading – Card Grading"
+  },
+  "universetcg.com:55554539192661": {
+    "available": true,
+    "price": "1494.00",
+    "product_title": "Next Grading – Card Grading"
+  },
+  "universetcg.com:55554539225429": {
+    "available": true,
+    "price": "2490.00",
+    "product_title": "Next Grading – Card Grading"
+  },
+  "universetcg.com:55555303899477": {
+    "available": true,
+    "price": "7.00",
+    "product_title": "Pre-Grading Service – Card Evaluation Before Grading"
+  },
+  "universetcg.com:55555303932245": {
+    "available": true,
+    "price": "0.00",
+    "product_title": "Pre-Grading Service – Card Evaluation Before Grading"
+  },
+  "universetcg.com:55555303965013": {
+    "available": true,
+    "price": "20.00",
+    "product_title": "Pre-Grading Service – Card Evaluation Before Grading"
+  },
+  "universetcg.com:55555303997781": {
+    "available": true,
+    "price": "0.00",
+    "product_title": "Pre-Grading Service – Card Evaluation Before Grading"
+  },
+  "pokebank.es:62821": {
+    "available": true,
+    "price": 77.99,
+    "product_title": "<p style=\"color: red\"><u>Precio PRO: 27,99€</u></p>Caja Festival Halloween &#8211; CHINO"
   }
 }
