@@ -39040,7 +39040,7 @@
     "product_title": "Pokémon - 25th Anniversary Collection Booster Pack - JPN"
   },
   "cardcosmos.de:51716671177047": {
-    "available": true,
+    "available": false,
     "price": "6.90",
     "product_title": "Pokémon - Mega Inferno X Booster Pack - JPN"
   },
@@ -42680,7 +42680,7 @@
     "product_title": "40k Warhammer Kill Team - Tomb World (EN)"
   },
   "cardcosmos.de:52025032180055": {
-    "available": true,
+    "available": false,
     "price": "7.49",
     "product_title": "Cabo Kartenspiel von Smiling Monster Games"
   },
@@ -48245,7 +48245,7 @@
     "product_title": "Bundle Gift Edition Marvel Super Heroes Magic the Gathering - Ingles"
   },
   "cardzone.es:57748338671960": {
-    "available": true,
+    "available": false,
     "price": "75.00",
     "product_title": "Team Rocket's Nidoking EX (2025) Destined Rivals - CGC 10"
   },
@@ -55635,7 +55635,7 @@
     "product_title": "N´s Battle Gift Box (CH)"
   },
   "elbazartcg.com:58663263469916": {
-    "available": true,
+    "available": false,
     "price": "84.99",
     "product_title": "Lillie Battle Gift Box (CH)"
   },
@@ -63490,7 +63490,7 @@
     "product_title": "Greninja Special Box Celebraciones 30 Aniversario | Celebrations 30th"
   },
   "pokemillon.com:54597561844035": {
-    "available": true,
+    "available": false,
     "price": "79.90",
     "product_title": "Greninja Special Box Celebraciones 30 Aniversario | Celebrations 30th"
   },
@@ -69645,7 +69645,7 @@
     "product_title": "Caja Póster Pokémon 151"
   },
   "pokemillon.com:53572179657027": {
-    "available": false,
+    "available": true,
     "price": "179.90",
     "product_title": "Caja Álbum Pokémon 151"
   },
@@ -74930,7 +74930,7 @@
     "product_title": "Ditto Premium Box Celebraciones 30 Aniversario | Celebrations 30th"
   },
   "pokemillon.com:54195975258435": {
-    "available": true,
+    "available": false,
     "price": "49.90",
     "product_title": "Sylveon Special Box Celebraciones 30 Aniversario | Celebrations 30th"
   },
@@ -88880,7 +88880,7 @@
     "product_title": "CAJA POKEMON SV1S SCARLET EX (JAPONÉS)"
   },
   "sunnystore.es:48588911903017": {
-    "available": true,
+    "available": false,
     "price": "94.90",
     "product_title": "CAJA POKEMON SV2D CLAY BURST (JAPONÉS)"
   },
@@ -118600,7 +118600,7 @@
     "product_title": "Marvel Champions: Synthezoid Smackdown - Pack de Escenario"
   },
   "laescotillajuegos.com:55772429091151": {
-    "available": false,
+    "available": true,
     "price": "4.75",
     "product_title": "Quick Cement Extra Thin (pegamento para plástico)"
   },
@@ -121995,7 +121995,7 @@
     "product_title": "Codex: World Eaters (Español)"
   },
   "laescotillajuegos.com:54962997395791": {
-    "available": true,
+    "available": false,
     "price": "48.45",
     "product_title": "Codex: Death Guard (Español)"
   },
@@ -122860,7 +122860,7 @@
     "product_title": "Flesh & Blood - High Seas booster box (Inglés)"
   },
   "laescotillajuegos.com:54745464045903": {
-    "available": true,
+    "available": false,
     "price": "14.99",
     "product_title": "Arkham Horror Lovecraft Letter"
   },
@@ -134285,7 +134285,7 @@
     "product_title": "SOBRE POKEMON HEAT WAVE ARENA SV9A - JAPONES"
   },
   "latiendadelascartas.es:58087773995272": {
-    "available": true,
+    "available": false,
     "price": "9.67",
     "product_title": "SOBRE POKEMON GLORY OF TEAM ROCKET SV10 - JAPONES"
   },
@@ -137560,7 +137560,7 @@
     "product_title": "SOBRE POKEMON 151 SV2A - JAPONES"
   },
   "latiendadelascartas.es:51725450215688": {
-    "available": true,
+    "available": false,
     "price": "5.90",
     "product_title": "SOBRE RIVALES PREDESTINADOS - ESPAÑOL"
   },
@@ -140560,7 +140560,7 @@
     "product_title": "Caja Mega Symphonia - Japonés"
   },
   "metamorphcenter.com:50863498101078": {
-    "available": true,
+    "available": false,
     "price": "77.95",
     "product_title": "Caja Mega Brave - Japonés"
   },
@@ -172391,12 +172391,12 @@
   },
   "solohits.es:59353572868441": {
     "available": true,
-    "price": "198.00",
-    "product_title": "Booster Box 30 Aniversario - Japonés"
+    "price": "189.00",
+    "product_title": "Booster Box 30 Aniversario - Japonés(Reserva)"
   },
   "solohits.es:59353508708697": {
-    "available": false,
-    "price": "120.00",
+    "available": true,
+    "price": "92.50",
     "product_title": "Storm Emerald M6 - Japonés"
   },
   "solohits.es:59353462341977": {
@@ -172405,28 +172405,28 @@
     "product_title": "Pokémon - Terastal Gathering Quicksand Gift Box"
   },
   "solohits.es:59353426952537": {
-    "available": false,
-    "price": "14.90",
+    "available": true,
+    "price": "12.90",
     "product_title": "Pokemon - Terastal Gathering Eevee Coin Set"
   },
   "solohits.es:59353284673881": {
-    "available": false,
-    "price": "35.90",
+    "available": true,
+    "price": "32.90",
     "product_title": "Pokémon - Pokemon Dream Drawing VOL.3 & Eeveelution Family"
   },
   "solohits.es:59353212420441": {
-    "available": false,
-    "price": "16.90",
+    "available": true,
+    "price": "14.90",
     "product_title": "Pokémon - Crystal Gathering Badge Set"
   },
   "solohits.es:59353047728473": {
-    "available": true,
+    "available": false,
     "price": "1100.00",
     "product_title": "Riftbound - League of Legends - Origins (Case Sellado)"
   },
   "solohits.es:59353040748889": {
-    "available": false,
-    "price": "169.90",
+    "available": true,
+    "price": "139.90",
     "product_title": "Riftbound - League of Legends - Origins"
   },
   "solohits.es:59218245517657": {
@@ -172440,8 +172440,8 @@
     "product_title": "Pokémon - Case Sellado Mini Latas Summer"
   },
   "solohits.es:58781788406105": {
-    "available": false,
-    "price": "35.00",
+    "available": true,
+    "price": "32.90",
     "product_title": "Pokémon - Lata Megaluz Lunar Ex"
   },
   "solohits.es:58777121653081": {
@@ -172460,7 +172460,7 @@
     "product_title": "Riftbound - League of Legends - Vendetta (Reserva)"
   },
   "solohits.es:58768185721177": {
-    "available": false,
+    "available": true,
     "price": "29.90",
     "product_title": "Pokémon - First Partner Serie III (Reserva)"
   },
@@ -172470,8 +172470,8 @@
     "product_title": "Bundle Marvel Super Heroes Magic the Gathering - Ingles"
   },
   "solohits.es:58671070019929": {
-    "available": false,
-    "price": "99.00",
+    "available": true,
+    "price": "89.90",
     "product_title": "Magic: Marvel Super Heroes - Draft Night (Inglés)"
   },
   "solohits.es:58669920452953": {
@@ -172481,7 +172481,7 @@
   },
   "solohits.es:58643292356953": {
     "available": true,
-    "price": "160.00",
+    "price": "130.00",
     "product_title": "Magic:  The Gathering - Marvel Super Heroes Booster Box"
   },
   "solohits.es:58635655053657": {
@@ -172500,7 +172500,7 @@
     "product_title": "Pokémon - Blíster de 3 Sobres Oscuridad Absoluta"
   },
   "solohits.es:58580670775641": {
-    "available": true,
+    "available": false,
     "price": "175.00",
     "product_title": "Pokémon - Booster Box Oscuridad Absoluta"
   },
@@ -172620,12 +172620,12 @@
     "product_title": "Ultra Pro - Toploader Pikachu + Fundas Económicas (25)"
   },
   "solohits.es:58403591881049": {
-    "available": true,
+    "available": false,
     "price": "5.90",
     "product_title": "Ultra Pro - Fundas Pokémon Mega Charizard X"
   },
   "solohits.es:58403575791961": {
-    "available": true,
+    "available": false,
     "price": "5.90",
     "product_title": "Ultra Pro - Fundas Mega Charizard Y"
   },
@@ -172695,13 +172695,13 @@
     "product_title": "Pokémon - Case Sellado Mini Latas Summer"
   },
   "solohits.es:58199059366233": {
-    "available": true,
+    "available": false,
     "price": "12.90",
     "product_title": "Pokémon - Mini Lata Summer"
   },
   "solohits.es:58182039339353": {
     "available": true,
-    "price": "70.00",
+    "price": "69.90",
     "product_title": "Naruto Mythos - Booster 24 Sobres First set 2nd Edition"
   },
   "solohits.es:58140413526361": {
@@ -172726,8 +172726,8 @@
   },
   "solohits.es:58035345752409": {
     "available": true,
-    "price": "195.00",
-    "product_title": "Lego - Pokémon Pikachu y Poké Ball 72152 (RESERVA)"
+    "price": "150.00",
+    "product_title": "Lego - Pokémon Pikachu y Poké Ball 72152"
   },
   "solohits.es:57978502381913": {
     "available": false,
@@ -301630,7 +301630,7 @@
     "product_title": "2026 Topps Chrome MLB &#8211; Logofractor Box"
   },
   "supercollectors.es:75608": {
-    "available": true,
+    "available": false,
     "price": 174.0,
     "product_title": "2026 Topps WWE Universe &#8211; Hobby Box"
   },
@@ -322142,7 +322142,7 @@
   "elbazartcg.com:58770875220316": {
     "available": true,
     "price": "20.00",
-    "product_title": "Torneo 3Sobres Oscuridad Absoluta de ETB"
+    "product_title": "Evento Torneo Halloween 3Sobres Oscuridad Absoluta de ETB"
   },
   "latiendadelascartas.es:58720917553416": {
     "available": true,
@@ -356395,8 +356395,8 @@
     "product_title": "Play Booster Box Reality Fracture | Magic: The Gathering"
   },
   "solohits.es:59652588503385": {
-    "available": false,
-    "price": "12.50",
+    "available": true,
+    "price": "11.50",
     "product_title": "Blister 2 Sobres Zarude - Español"
   },
   "solohits.es:59652560290137": {
@@ -356425,23 +356425,23 @@
     "product_title": "Mega Brave M1L - Japonés"
   },
   "solohits.es:59652488135001": {
-    "available": false,
-    "price": "109.90",
+    "available": true,
+    "price": "104.90",
     "product_title": "Mega Dream EX M2A - Japonés"
   },
   "solohits.es:59652425122137": {
-    "available": false,
-    "price": "32.50",
+    "available": true,
+    "price": "29.90",
     "product_title": "Lata Mega Potencia EX - Español"
   },
   "solohits.es:59652425154905": {
-    "available": false,
-    "price": "32.50",
+    "available": true,
+    "price": "29.90",
     "product_title": "Lata Mega Potencia EX - Español"
   },
   "solohits.es:59652425187673": {
-    "available": false,
-    "price": "32.50",
+    "available": true,
+    "price": "29.90",
     "product_title": "Lata Mega Potencia EX - Español"
   },
   "todohits.com:55144659255633": {
@@ -357370,7 +357370,7 @@
     "product_title": "Adeptus Custodes: Custodian Guard Sodality"
   },
   "laescotillajuegos.com:58901374894415": {
-    "available": true,
+    "available": false,
     "price": "76.50",
     "product_title": "Adeptus Custodes: Telemon Heavy Dreadnought"
   },
@@ -365141,7 +365141,7 @@
   },
   "pokemillon.com:54887370293571": {
     "available": true,
-    "price": "44.90",
+    "price": "49.90",
     "product_title": "Weiß Schwarz | Booster Box 10 Sobre Goddess Of Victory: Nikke vol 2"
   },
   "solohits.es:59649848607065": {
@@ -365565,7 +365565,7 @@
     "product_title": "Caja 30th Celebration Sylveon EX Set - Chino"
   },
   "cardzone.es:58682397491544": {
-    "available": true,
+    "available": false,
     "price": "29.95",
     "product_title": "Caja 30th Celebration Greninja EX Set - Chino"
   },
@@ -366140,13 +366140,13 @@
     "product_title": "[EVENTO] Pokémon TCG - Presentación Dominio Delta"
   },
   "solohits.es:59807436243289": {
-    "available": false,
-    "price": "160.00",
+    "available": true,
+    "price": "139.90",
     "product_title": "Riftbound League of Legends - SpiritForged Booster Box (Inglés)"
   },
   "solohits.es:59807410520409": {
-    "available": false,
-    "price": "15.50",
+    "available": true,
+    "price": "13.95",
     "product_title": "Blister 2 Sobres Promo Gengar  – Pokémon TCG (Español)"
   },
   "darizard9.com:57479142342982": {
@@ -367410,7 +367410,7 @@
     "product_title": "StarCraft: Tassadar"
   },
   "laescotillajuegos.com:59094499950927": {
-    "available": true,
+    "available": false,
     "price": "40.50",
     "product_title": "StarCraft: Zagara"
   },
@@ -368445,7 +368445,7 @@
     "product_title": "Feebas (2024) SV8 JP - PSA 10"
   },
   "cardzone.es:58772634632536": {
-    "available": true,
+    "available": false,
     "price": "50.00",
     "product_title": "Houndoom (2021) JPN.SWSH - PSA 10"
   },
@@ -373000,7 +373000,7 @@
     "product_title": "Lama"
   },
   "laescotillajuegos.com:59222266413391": {
-    "available": true,
+    "available": false,
     "price": "13.99",
     "product_title": "IQ Fit"
   },
@@ -385767,7 +385767,7 @@
   "solohits.es:60238378008921": {
     "available": true,
     "price": "108.00",
-    "product_title": "Dragon Ball Super Card Game Fusion World - Story Booster 01"
+    "product_title": "Dragon Ball Super Card Game Fusion World - Story Booster 01 (Reserva)"
   },
   "tcglevel.com:53488004071691": {
     "available": true,
@@ -392937,7 +392937,7 @@
   "alfriki.com:55697639047507": {
     "available": true,
     "price": "69.99",
-    "product_title": "Mega Box Fórmula 1 2026 (6 Sobres) - Topps Europe"
+    "product_title": "Mega Box Fórmula 1 2026 (6 Sobres) Formula 1 F1- Topps Europe"
   },
   "alfriki.com:55697620631891": {
     "available": true,
@@ -392978,5 +392978,50 @@
     "available": false,
     "price": "0.00",
     "product_title": "ONE PIECE OP18 THE DOMINANCE OF GOD BOOSTER BOX - JAPONES"
+  },
+  "alfriki.com:55697903223123": {
+    "available": true,
+    "price": "34.99",
+    "product_title": "Value Box Fórmula 1 2026 (7 Sobres) Formula 1 F1- Topps Europe"
+  },
+  "alfriki.com:55697880875347": {
+    "available": true,
+    "price": "29.99",
+    "product_title": "Value Box Tennis 2026 - TOPPS"
+  },
+  "alfriki.com:55697847681363": {
+    "available": true,
+    "price": "29.99",
+    "product_title": "Value Box Star Wars 2026 (8 Sobres) - Topps Europe"
+  },
+  "alfriki.com:55697784111443": {
+    "available": true,
+    "price": "89.99",
+    "product_title": "Treasure Box Harry Potter Always (5 Sobres) - Panini Cromos"
+  },
+  "alfriki.com:55697725096275": {
+    "available": true,
+    "price": "274.99",
+    "product_title": "2026 Club Legacyz Icons Back to School Fifth Edition Soccer Hobby"
+  },
+  "solohits.es:60256744145241": {
+    "available": true,
+    "price": "128.90",
+    "product_title": "LEGO Pokémon Rayquaza (Reserva)"
+  },
+  "solohits.es:60256731693401": {
+    "available": true,
+    "price": "99.99",
+    "product_title": "LEGO Pokémon Arcanine (Reserva)"
+  },
+  "solohits.es:60256673235289": {
+    "available": true,
+    "price": "74.90",
+    "product_title": "Pokémon - ETB Pitch Black - Inglés (Reserva)"
+  },
+  "miceliongames.com:40355": {
+    "available": true,
+    "price": 10.0,
+    "product_title": "Inscripción POKÉMON Cup Noviembre"
   }
 }
