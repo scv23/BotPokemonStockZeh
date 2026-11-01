@@ -32150,7 +32150,7 @@
     "product_title": "Pokémon - Ho-Oh #7 (Neo Revelation 1st Edition) – PSA 9 Mint"
   },
   "cardcosmos.de:54305581891927": {
-    "available": true,
+    "available": false,
     "price": "390.00",
     "product_title": "Pokémon - Pichu #31 (SoulSilver Collection) – PSA 10 Gem Mint"
   },
@@ -36360,7 +36360,7 @@
     "product_title": "Magic: The Gathering - Aetherdrift- Commander-Deck – Eternal Might - EN"
   },
   "cardcosmos.de:49701569921367": {
-    "available": true,
+    "available": false,
     "price": "34.99",
     "product_title": "Magic: The Gathering - Ätherdrift Fat Pack Bundle - DE"
   },
@@ -37495,7 +37495,7 @@
     "product_title": "Magic: The Gathering - Commander Masters Commander-Deck – Eldrazi entfesselt - DE"
   },
   "cardcosmos.de:48932538745175": {
-    "available": true,
+    "available": false,
     "price": "79.99",
     "product_title": "Magic: The Gathering - Commander Masters Commander-Deck – Ewige Verzauberungen - DE"
   },
@@ -37555,7 +37555,7 @@
     "product_title": "Magic: The Gathering - Kamigawa: Neon Dynasty Commander Deck Upgrades Unleashed - EN"
   },
   "cardcosmos.de:50138463994199": {
-    "available": true,
+    "available": false,
     "price": "74.99",
     "product_title": "Magic: The Gathering - Tarkir: Dragonstorm Abzan Armor Commander Deck - EN"
   },
@@ -37625,7 +37625,7 @@
     "product_title": "Magic: The Gathering - Am Rande der Ewigkeiten Marken-Intelligenz Commander Deck - DE"
   },
   "cardcosmos.de:50890894803287": {
-    "available": true,
+    "available": false,
     "price": "54.90",
     "product_title": "Magic: The Gathering - Final Fantasy VII Limit-Break Commander Deck - DE"
   },
@@ -40185,7 +40185,7 @@
     "product_title": "Magic: The Gathering - Bloomburrow Prerelease Pack - EN"
   },
   "cardcosmos.de:48809957654871": {
-    "available": true,
+    "available": false,
     "price": "39.99",
     "product_title": "Magic: The Gathering - Bloomburrow Starter-Kit - DE"
   },
@@ -40310,7 +40310,7 @@
     "product_title": "Pokémon - Scarlet & Violet: Journey Together 3 Pack Blister Yanmega - EN"
   },
   "cardcosmos.de:49851734360407": {
-    "available": true,
+    "available": false,
     "price": "14.99",
     "product_title": "Pokémon - Enhanced März 2025 - 2-Pack Blister - DE"
   },
@@ -66750,7 +66750,7 @@
     "product_title": "Sobre Shadow of The Blue Sea Lugia"
   },
   "pokemillon.com:54312959246659": {
-    "available": false,
+    "available": true,
     "price": "69.90",
     "product_title": "Pikachu (M-P 020) M-P Promos"
   },
@@ -70745,7 +70745,7 @@
     "product_title": "Union Arena | Caja de 16 Sobre Yu Yu Hakusho Japonés 2024"
   },
   "pokemillon.com:53395710476611": {
-    "available": true,
+    "available": false,
     "price": "89.90",
     "product_title": "Kingdra ex Special Illustration Fábula Sombría | Shrouded Fable"
   },
@@ -75005,8 +75005,8 @@
     "product_title": "Dragon Ball | FB09 Dual Evolution"
   },
   "pokemillon.com:54181969920323": {
-    "available": false,
-    "price": "109.90",
+    "available": true,
+    "price": "79.90",
     "product_title": "Pikachu (SV-P 001) Black Star Promos Scarlet & Violet"
   },
   "pokemillon.com:54181933318467": {
@@ -75405,12 +75405,12 @@
     "product_title": "Anniversary PACK - 1 Carta"
   },
   "pokemillon.com:54247895040323": {
-    "available": false,
+    "available": true,
     "price": "59.90",
     "product_title": "Anniversary PACK - 1 Carta"
   },
   "pokemillon.com:54247895073091": {
-    "available": false,
+    "available": true,
     "price": "59.90",
     "product_title": "Anniversary PACK - 1 Carta"
   },
@@ -97940,7 +97940,7 @@
     "product_title": "Latas Pokémon Megapotencia"
   },
   "kamehousecards.com:53009013834066": {
-    "available": true,
+    "available": false,
     "price": "53.95",
     "product_title": "Zeraora y Deoxys VMAX & VSTAR Caja de Combate"
   },
@@ -99140,12 +99140,12 @@
     "product_title": "Poké Ball E25 Pokémon"
   },
   "kamehousecards.com:53009004691794": {
-    "available": true,
+    "available": false,
     "price": "17.95",
     "product_title": "Poké Ball E25 Pokémon"
   },
   "kamehousecards.com:53009004724562": {
-    "available": true,
+    "available": false,
     "price": "24.95",
     "product_title": "Poké Ball E25 Pokémon"
   },
@@ -99160,7 +99160,7 @@
     "product_title": "Poké Ball E25 Pokémon"
   },
   "kamehousecards.com:53009004822866": {
-    "available": true,
+    "available": false,
     "price": "24.95",
     "product_title": "Poké Ball E25 Pokémon"
   },
@@ -99170,7 +99170,7 @@
     "product_title": "Poké Ball E25 Pokémon"
   },
   "kamehousecards.com:53133973455186": {
-    "available": true,
+    "available": false,
     "price": "24.95",
     "product_title": "Poké Ball E25 Pokémon"
   },
@@ -99185,12 +99185,12 @@
     "product_title": "Dual Evolution FB09 - Dragon Ball Super Card Game Fusion World"
   },
   "kamehousecards.com:53009003938130": {
-    "available": true,
+    "available": false,
     "price": "39.95",
     "product_title": "Starter Deck EX The Phase of Evolution FS11 - Dragon Ball Super Card Game Fusion World"
   },
   "kamehousecards.com:53009003839826": {
-    "available": true,
+    "available": false,
     "price": "32.95",
     "product_title": "Starter Deck EX The Beat of Ki FS12 - Dragon Ball Super Card Game Fusion World"
   },
@@ -121135,7 +121135,7 @@
     "product_title": "German Grey 18 Ml - Quick Gen"
   },
   "laescotillajuegos.com:55274525491535": {
-    "available": true,
+    "available": false,
     "price": "2.95",
     "product_title": "Cold Steel 18 Ml - Quick Gen"
   },
@@ -121180,7 +121180,7 @@
     "product_title": "Wood 18 Ml - Quick Gen"
   },
   "laescotillajuegos.com:55274523001167": {
-    "available": true,
+    "available": false,
     "price": "2.95",
     "product_title": "Dark Flesh 18 Ml - Quick Gen"
   },
@@ -124035,7 +124035,7 @@
     "product_title": "Codex: Aeldari (English) 2025"
   },
   "laescotillajuegos.com:54258673156431": {
-    "available": true,
+    "available": false,
     "price": "48.45",
     "product_title": "Codex: Aeldari (Español) 2025"
   },
@@ -139315,7 +139315,7 @@
     "product_title": "Premium Card Collection 6 Assort Vol. 1 - Japonés"
   },
   "metamorphcenter.com:53998586921302": {
-    "available": true,
+    "available": false,
     "price": "41.95",
     "product_title": "VaultX EXO-TEC® Zip Binder XXL 16 Pockets Signature Black — Álbum 1088 Cartas"
   },
@@ -173425,12 +173425,12 @@
     "product_title": "Pokémon First Partner 30 Aniversario Vol.3 | Chino"
   },
   "tcglevel.com:53328259219723": {
-    "available": true,
+    "available": false,
     "price": "27.90",
     "product_title": "Dream Painting Vol.3 Eevee And Friends | Chino"
   },
   "tcglevel.com:53328365551883": {
-    "available": true,
+    "available": false,
     "price": "34.90",
     "product_title": "Booster Box Demon Slayer Infinity Castle Mapniverse | Coreano"
   },
@@ -173985,7 +173985,7 @@
     "product_title": "Pokémon Nuzzling Plush Toy & Card Display Gift | Chino |"
   },
   "tcglevel.com:53090081276171": {
-    "available": true,
+    "available": false,
     "price": "49.90",
     "product_title": "Booster Box Jumbo Riftbound Unleashed | Chino"
   },
@@ -176200,7 +176200,7 @@
     "product_title": "Booster Box OP15 Adventure on the Island of the Gods Japonés | One Piece 24 sobres"
   },
   "tigercards.es:46770331975865": {
-    "available": true,
+    "available": false,
     "price": "175.95",
     "product_title": "Booster Box One Piece: The New Emperor OP09 Japonés | Caja Sellada 24 Sobres"
   },
@@ -273640,7 +273640,7 @@
     "product_title": "Ultimate Guard MatPod Tubo Porta Tapete Clear Transparente"
   },
   "holoplazatcg.com:9770": {
-    "available": true,
+    "available": false,
     "price": 39.95,
     "product_title": "Álbum Cremallera Ultimate Guard 12 bolsillos 480 Petrol"
   },
@@ -321020,7 +321020,7 @@
     "product_title": "Album Portfolio - Archivador 4 bolsillos Portfolio Mega Evolution Pitch Black - Pokémon - Ultra Pro"
   },
   "elbazartcg.com:57757797646684": {
-    "available": false,
+    "available": true,
     "price": "19.16",
     "product_title": "MECHA OP17 CHINO"
   },
@@ -351755,7 +351755,7 @@
     "product_title": "Pokémon - Battle Styles V Strikers Tyranitar-V Tin - EN"
   },
   "cardcosmos.de:55089641095511": {
-    "available": true,
+    "available": false,
     "price": "39.90",
     "product_title": "Pokémon - Verborgenes Potenzial Galagladi-V Tin - DE"
   },
@@ -351765,12 +351765,12 @@
     "product_title": "Pokémon - Verborgenes Potenzial Giratina-V Tin - DE"
   },
   "cardcosmos.de:55089520640343": {
-    "available": true,
+    "available": false,
     "price": "49.90",
     "product_title": "Pokémon - Glänzendes Schicksal Bellektro-V Tin - DE"
   },
   "cardcosmos.de:55089444225367": {
-    "available": true,
+    "available": false,
     "price": "59.90",
     "product_title": "Pokémon - Glänzendes Schicksal Urgl-V Tin - DE"
   },
@@ -356365,7 +356365,7 @@
     "product_title": "Commander Deck Marvel Super Heroes | Magic: The Gathering"
   },
   "kamehousecards.com:54909744120146": {
-    "available": true,
+    "available": false,
     "price": "34.95",
     "product_title": "Commander Deck Marvel Super Heroes | Magic: The Gathering"
   },
@@ -357036,7 +357036,7 @@
   },
   "cardcosmos.de:55226736050519": {
     "available": true,
-    "price": "14.90",
+    "price": "12.90",
     "product_title": "Pokémon - Pokémon 30 Jahre Booster Pack - DE"
   },
   "cardcosmos.de:55216010101079": {
@@ -364061,7 +364061,7 @@
   },
   "lanavetcg.com:57511655309687": {
     "available": true,
-    "price": "157.90",
+    "price": "155.90",
     "product_title": "Premium Starter Set Espeon & Umbreon 30th CELEBRATION"
   },
   "pokezilla.com:67612670197850": {
@@ -372840,7 +372840,7 @@
     "product_title": "Pokémon - Inteleon V #180/192 (Rebel Clash) – PSA 10 Gem Mint"
   },
   "cardcosmos.de:55515779694935": {
-    "available": true,
+    "available": false,
     "price": "35.00",
     "product_title": "Pokémon - Ninetales ex #188/165 (Pokémon Card 151) – PSA 10 Gem Mint"
   },
@@ -372880,7 +372880,7 @@
     "product_title": "Pokémon - Dracozolt VMAX #024/070 (Matchless Fighters) – CGC 10 Gem Mint"
   },
   "cardcosmos.de:55515780219223": {
-    "available": true,
+    "available": false,
     "price": "15.00",
     "product_title": "Pokémon - Altaria #194/172 (VSTAR Universe) – CGC 8.5 NM/Mint+"
   },
@@ -373555,12 +373555,12 @@
     "product_title": "30 Aniversario Colección con Figura Mew"
   },
   "bimbacards.com:62845:62846": {
-    "available": true,
+    "available": false,
     "price": 99.9,
     "product_title": "30 Aniversario Ditto Premium Collection"
   },
   "bimbacards.com:62845:62847": {
-    "available": true,
+    "available": false,
     "price": 99.9,
     "product_title": "30 Aniversario Ditto Premium Collection"
   },
@@ -386050,7 +386050,7 @@
     "product_title": "2026-27 Topps Flagship NBA - Hanger Box"
   },
   "darizard9.com:56632472011078": {
-    "available": true,
+    "available": false,
     "price": "69.99",
     "product_title": "Elite Trainer Box Chaos Rising"
   },
@@ -387642,237 +387642,237 @@
   "universetcg.com:55591853588821": {
     "available": false,
     "price": "65.00",
-    "product_title": "Pokémon TCG Double Blaze (SM10) Collector Set – Japanese"
+    "product_title": "Pokémon TCG Double Blaze (SM10) Collector Set"
   },
   "universetcg.com:55591853392213": {
     "available": false,
     "price": "65.00",
-    "product_title": "Pokémon TCG Miracle Twins (SM11) Collector Set – Japanese"
+    "product_title": "Pokémon TCG Miracle Twins (SM11) Collector Set"
   },
   "universetcg.com:55591853326677": {
     "available": false,
     "price": "65.00",
-    "product_title": "Pokémon TCG Alter Genesis (SM12) Collector Set – Japanese"
+    "product_title": "Pokémon TCG Alter Genesis (SM12) Collector Set"
   },
   "universetcg.com:55591853162837": {
     "available": false,
     "price": "35.00",
-    "product_title": "Pokémon TCG Sword (S1W) Collector Set – Japanese"
+    "product_title": "Pokémon TCG Sword (S1W) Collector Set"
   },
   "universetcg.com:55591853097301": {
     "available": false,
     "price": "65.00",
-    "product_title": "Pokémon TCG Rebel Crash (S2a) Collector Set – Japanese"
+    "product_title": "Pokémon TCG Rebel Crash (S2a) Collector Set"
   },
   "universetcg.com:55591853064533": {
     "available": false,
     "price": "10.00",
-    "product_title": "Pokémon TCG Rebel Crash (S2a) Collector Set – Japanese"
+    "product_title": "Pokémon TCG Rebel Crash (S2a) Collector Set"
   },
   "universetcg.com:55591853031765": {
     "available": false,
     "price": "65.00",
-    "product_title": "Pokémon TCG Infinity Zone (S3) Collector Set – Japanese"
+    "product_title": "Pokémon TCG Infinity Zone (S3) Collector Set"
   },
   "universetcg.com:55591852998997": {
     "available": false,
     "price": "70.00",
-    "product_title": "Pokémon TCG Legendary Heartbeat (S3a) Collector Set – Japanese"
+    "product_title": "Pokémon TCG Legendary Heartbeat (S3a) Collector Set"
   },
   "universetcg.com:55591852966229": {
     "available": false,
     "price": "65.00",
-    "product_title": "Pokémon TCG Astonishing Volt Tackle (S4) Collector Set – Japanese"
+    "product_title": "Pokémon TCG Astonishing Volt Tackle (S4) Collector Set"
   },
   "universetcg.com:55591852933461": {
     "available": false,
     "price": "10.00",
-    "product_title": "Pokémon TCG Astonishing Volt Tackle (S4) Collector Set – Japanese"
+    "product_title": "Pokémon TCG Astonishing Volt Tackle (S4) Collector Set"
   },
   "universetcg.com:55591852638549": {
     "available": false,
     "price": "30.00",
-    "product_title": "Pokémon TCG Sword (S1W) Collector Set – Japanese"
+    "product_title": "Pokémon TCG Sword (S1W) Collector Set"
   },
   "universetcg.com:55591852605781": {
     "available": false,
     "price": "30.00",
-    "product_title": "Pokémon TCG Sword (S1W) Collector Set – Japanese"
+    "product_title": "Pokémon TCG Sword (S1W) Collector Set"
   },
   "universetcg.com:55591852573013": {
     "available": false,
     "price": "65.00",
-    "product_title": "Pokémon TCG Rapid Strike Master (S5R) Collector Set – Japanese"
+    "product_title": "Pokémon TCG Rapid Strike Master (S5R) Collector Set"
   },
   "universetcg.com:55591852278101": {
     "available": false,
     "price": "70.00",
-    "product_title": "Pokémon TCG Matchless Fighters (S5a) Collector Set – Japanese"
+    "product_title": "Pokémon TCG Matchless Fighters (S5a) Collector Set"
   },
   "universetcg.com:55591852245333": {
     "available": false,
     "price": "65.00",
-    "product_title": "Pokémon TCG Silver Lance (S6H) Collector Set – Japanese"
+    "product_title": "Pokémon TCG Silver Lance (S6H) Collector Set"
   },
   "universetcg.com:55591852212565": {
     "available": false,
     "price": "10.00",
-    "product_title": "Pokémon TCG Silver Lance (S6H) Jumbo Card Set – Japanese"
+    "product_title": "Pokémon TCG Silver Lance (S6H) Jumbo Card Set"
   },
   "universetcg.com:55591852147029": {
     "available": false,
     "price": "15.00",
-    "product_title": "Pokémon TCG Eevee Heroes (S6a) Collector Set – Japanese"
+    "product_title": "Pokémon TCG Eevee Heroes (S6a) Collector Set"
   },
   "universetcg.com:55591852114261": {
     "available": false,
     "price": "65.00",
-    "product_title": "Pokémon TCG Eevee Heroes (S6a) Collector Set – Japanese"
+    "product_title": "Pokémon TCG Eevee Heroes (S6a) Collector Set"
   },
   "universetcg.com:55591851852117": {
     "available": false,
     "price": "10.00",
-    "product_title": "Pokémon TCG 25th Anniversary Collection (S8a) Collector Box – Japanese"
+    "product_title": "Pokémon TCG 25th Anniversary Collection (S8a) Collector Box"
   },
   "universetcg.com:55591851131221": {
     "available": false,
     "price": "10.00",
-    "product_title": "Pokémon TCG スターターセットV　闘 (SA) Starter Set – Japanese"
+    "product_title": "Pokémon TCG V Starter Set Fighting (SA) Starter Set"
   },
   "universetcg.com:55591851098453": {
     "available": false,
     "price": "10.00",
-    "product_title": "Pokémon TCG スターターセットV　雷 (SA) Starter Set – Japanese"
+    "product_title": "Pokémon TCG V Starter Set Lightning (SA) Starter Set"
   },
   "universetcg.com:55591851065685": {
     "available": false,
     "price": "10.00",
-    "product_title": "Pokémon TCG スターターセットV　水 (SA) Starter Set – Japanese"
+    "product_title": "Pokémon TCG V Starter Set Water (SA) Starter Set"
   },
   "universetcg.com:55591851032917": {
     "available": false,
     "price": "10.00",
-    "product_title": "Pokémon TCG スターターセットV　炎 (SA) Starter Set – Japanese"
+    "product_title": "Pokémon TCG V Starter Set Fire (SA) Starter Set"
   },
   "universetcg.com:55591851000149": {
     "available": false,
     "price": "10.00",
-    "product_title": "Pokémon TCG スターターセットV　草 (SA) Starter Set – Japanese"
+    "product_title": "Pokémon TCG V Starter Set Grass (SA) Starter Set"
   },
   "universetcg.com:55591850901845": {
     "available": false,
     "price": "5.00",
-    "product_title": "Pokémon TCG Vスタートデッキ無色　イーブイ (SD) Starter Set – Japanese"
+    "product_title": "Pokémon TCG V Start Deck Colorless Eevee (SD) Starter Set"
   },
   "universetcg.com:55591850869077": {
     "available": false,
     "price": "5.00",
-    "product_title": "Pokémon TCG Vスタートデッキ鋼　ジュラルドン (SD) Starter Set – Japanese"
+    "product_title": "Pokémon TCG V Start Deck Metal Duraludon (SD) Starter Set"
   },
   "universetcg.com:55591850803541": {
     "available": false,
     "price": "5.00",
-    "product_title": "Pokémon TCG Vスタートデッキ悪　ガラルヤドラン (SD) Starter Set – Japanese"
+    "product_title": "Pokémon TCG V Start DeckDarkness Galarian Slowbro (SD) Starter Set"
   },
   "universetcg.com:55591850770773": {
     "available": false,
     "price": "5.00",
-    "product_title": "Pokémon TCG Vスタートデッキ闘　ルカリオ (SD) Starter Set – Japanese"
+    "product_title": "Pokémon TCG V Start Deck Fighting Lucario (SD) Starter Set"
   },
   "universetcg.com:55591850738005": {
     "available": false,
     "price": "5.00",
-    "product_title": "Pokémon TCG Vスタートデッキ超　ミュウ (SD) Starter Set – Japanese"
+    "product_title": "Pokémon TCG V Start Deck Psychic Mew (SD) Starter Set"
   },
   "universetcg.com:55591850705237": {
     "available": false,
     "price": "5.00",
-    "product_title": "Pokémon TCG Vスタートデッキ雷　ピカチュウ (SD) Starter Set – Japanese"
+    "product_title": "Pokémon TCG V Start Deck Lightning Pikachu (SD) Starter Set"
   },
   "universetcg.com:55591850672469": {
     "available": false,
     "price": "5.00",
-    "product_title": "Pokémon TCG Vスタートデッキ水　ホエルオー (SD) Starter Set – Japanese"
+    "product_title": "Pokémon TCG V Start DeckWater Wailord (SD) Starter Set"
   },
   "universetcg.com:55591850639701": {
     "available": false,
     "price": "5.00",
-    "product_title": "Pokémon TCG Vスタートデッキ炎　ガオガエン (SD) Starter Set – Japanese"
+    "product_title": "Pokémon TCG V Start DeckFire Incineroar (SD) Starter Set"
   },
   "universetcg.com:55591850606933": {
     "available": false,
     "price": "5.00",
-    "product_title": "Pokémon TCG Vスタートデッキ草　フシギバナ (SD) Starter Set – Japanese"
+    "product_title": "Pokémon TCG V Start Deck Grass Venusaur (SD) Starter Set"
   },
   "universetcg.com:55591850443093": {
     "available": false,
     "price": "10.00",
-    "product_title": "Pokémon TCG いつでもどこでもファミリーポケモンカードゲーム (SH) Deck – Japanese"
+    "product_title": "Pokémon TCG Anytime AnywhereFamily Pokémon Card Game (SH) Deck"
   },
   "universetcg.com:55591850410325": {
     "available": false,
     "price": "15.00",
-    "product_title": "Pokémon TCG Sword & Shield Family Pokémon Card Game (sH) Starter Deck – Japanese"
+    "product_title": "Pokémon TCG Sword & Shield Family Pokémon Card Game (sH) Starter Deck"
   },
   "universetcg.com:55591850344789": {
     "available": false,
     "price": "5.00",
-    "product_title": "Pokémon TCG スタートデッキ100 (SI) Starter Set – Japanese"
+    "product_title": "Pokémon TCG Start Deck 100 (SI) Starter Set"
   },
   "universetcg.com:55591850082645": {
     "available": false,
     "price": "30.00",
-    "product_title": "Pokémon TCG Double Blaze (SM10) Booster Box – Japanese"
+    "product_title": "Pokémon TCG Double Blaze (SM10) Booster Box"
   },
   "universetcg.com:55591850049877": {
     "available": false,
     "price": "10.00",
-    "product_title": "Pokémon TCG GG End (SM11b) High Class Pack – Japanese"
+    "product_title": "Pokémon TCG GG End (SM11b) High Class Pack"
   },
   "universetcg.com:55591849984341": {
     "available": false,
     "price": "20.00",
-    "product_title": "Pokémon TCG Sky Legend (SM10a) Enhanced Expansion Box – Japanese"
+    "product_title": "Pokémon TCG Sky Legend (SM10a) Enhanced Expansion Box"
   },
   "universetcg.com:55591849951573": {
     "available": false,
     "price": "30.00",
-    "product_title": "Pokémon TCG Miracle Twins (SM11) Booster Box – Japanese"
+    "product_title": "Pokémon TCG Miracle Twins (SM11) Booster Box"
   },
   "universetcg.com:55591849918805": {
     "available": false,
     "price": "30.00",
-    "product_title": "Pokémon TCG Remix Bout (SM10b) Booster Box – Japanese"
+    "product_title": "Pokémon TCG Remix Bout (SM10b) Booster Box"
   },
   "universetcg.com:55591849886037": {
     "available": false,
     "price": "20.00",
-    "product_title": "Pokémon TCG Dream League (SM11a) Enhanced Expansion Box – Japanese"
+    "product_title": "Pokémon TCG Dream League (SM11a) Enhanced Expansion Box"
   },
   "universetcg.com:55591849853269": {
     "available": false,
     "price": "30.00",
-    "product_title": "Pokémon TCG Alter Genesis (SM12) Booster Box – Japanese"
+    "product_title": "Pokémon TCG Alter Genesis (SM12) Booster Box"
   },
   "universetcg.com:55591849820501": {
     "available": false,
     "price": "35.00",
-    "product_title": "Pokémon TCG TAG All Stars (SM12a) High Class Pack – Japanese"
+    "product_title": "Pokémon TCG TAG All Stars (SM12a) High Class Pack"
   },
   "universetcg.com:55591849787733": {
     "available": false,
     "price": "30.00",
-    "product_title": "Pokémon TCG Shield (S1H) Booster Box – Japanese"
+    "product_title": "Pokémon TCG Shield (S1H) Booster Box"
   },
   "universetcg.com:55591849754965": {
     "available": false,
     "price": "30.00",
-    "product_title": "Pokémon TCG Sword (S1W) Booster Box – Japanese"
+    "product_title": "Pokémon TCG Sword (S1W) Booster Box"
   },
   "universetcg.com:55591849689429": {
     "available": false,
     "price": "30.00",
-    "product_title": "Pokémon TCG Explosive Walker (S2a) Booster Box – Japanese"
+    "product_title": "Pokémon TCG Explosive Walker (S2a) Booster Box"
   },
   "universetcg.com:55591849656661": {
     "available": false,
@@ -387882,47 +387882,47 @@
   "universetcg.com:55591849623893": {
     "available": false,
     "price": "30.00",
-    "product_title": "Pokémon TCG Infinity Zone (S3) Booster Box – Japanese"
+    "product_title": "Pokémon TCG Infinity Zone (S3) Booster Box"
   },
   "universetcg.com:55591849591125": {
     "available": false,
     "price": "30.00",
-    "product_title": "Pokémon TCG Legendary Heartbeat (S3a) Enhanced Expansion Box – Japanese"
+    "product_title": "Pokémon TCG Legendary Heartbeat (S3a) Enhanced Expansion Box"
   },
   "universetcg.com:55591849558357": {
     "available": false,
     "price": "30.00",
-    "product_title": "Pokémon TCG Astonishing Volt Tackle (S4) Booster Box – Japanese"
+    "product_title": "Pokémon TCG Astonishing Volt Tackle (S4) Booster Box"
   },
   "universetcg.com:55591849525589": {
     "available": false,
     "price": "35.00",
-    "product_title": "Pokémon TCG シャイニースターV (S4a) High Class Pack – Japanese"
+    "product_title": "Pokémon TCG Shiny Star V (S4a) High Class Pack"
   },
   "universetcg.com:55591849492821": {
     "available": false,
     "price": "30.00",
-    "product_title": "Pokémon TCG Rapid Strike Master (S5R) Booster Box – Japanese"
+    "product_title": "Pokémon TCG Rapid Strike Master (S5R) Booster Box"
   },
   "universetcg.com:55591849460053": {
     "available": false,
     "price": "30.00",
-    "product_title": "Pokémon TCG Single Strike Master (S5I) Booster Box – Japanese"
+    "product_title": "Pokémon TCG Single Strike Master (S5I) Booster Box"
   },
   "universetcg.com:55591849427285": {
     "available": false,
     "price": "20.00",
-    "product_title": "Pokémon TCG Matchless Fighters (S5a) Enhanced Expansion Box – Japanese"
+    "product_title": "Pokémon TCG Matchless Fighters (S5a) Enhanced Expansion Box"
   },
   "universetcg.com:55591849394517": {
     "available": false,
     "price": "30.00",
-    "product_title": "Pokémon TCG Jet-Black Spirit (S6K) Booster Box – Japanese"
+    "product_title": "Pokémon TCG Jet-Black Spirit (S6K) Booster Box"
   },
   "universetcg.com:55591849361749": {
     "available": false,
     "price": "30.00",
-    "product_title": "Pokémon TCG Silver Lance (S6H) Booster Box – Japanese"
+    "product_title": "Pokémon TCG Silver Lance (S6H) Booster Box"
   },
   "universetcg.com:55591849328981": {
     "available": false,
@@ -387932,147 +387932,147 @@
   "universetcg.com:55591849296213": {
     "available": false,
     "price": "30.00",
-    "product_title": "Pokémon TCG Blue Sky Stream (S7R) Booster Box – Japanese"
+    "product_title": "Pokémon TCG Blue Sky Stream (S7R) Booster Box"
   },
   "universetcg.com:55591849263445": {
     "available": false,
     "price": "30.00",
-    "product_title": "Pokémon TCG Towering Perfection (S7D) Booster Box – Japanese"
+    "product_title": "Pokémon TCG Towering Perfection (S7D) Booster Box"
   },
   "universetcg.com:55591849230677": {
     "available": false,
     "price": "30.00",
-    "product_title": "Pokémon TCG Fusion Arts (S8) Booster Box – Japanese"
+    "product_title": "Pokémon TCG Fusion Arts (S8) Booster Box"
   },
   "universetcg.com:55591849197909": {
     "available": false,
     "price": "20.00",
-    "product_title": "Pokémon TCG 25th Anniversary Collection (S8a) High Class Pack – Japanese"
+    "product_title": "Pokémon TCG 25th Anniversary Collection (S8a) High Class Pack"
   },
   "universetcg.com:55591849165141": {
     "available": false,
     "price": "35.00",
-    "product_title": "Pokémon TCG VMAXクライマックス (S8b) High Class Pack – Japanese"
+    "product_title": "Pokémon TCG VMAX Climax (S8b) High Class Pack"
   },
   "universetcg.com:55591849132373": {
     "available": false,
     "price": "30.00",
-    "product_title": "Pokémon TCG Star Birth (S9) Booster Box – Japanese"
+    "product_title": "Pokémon TCG Star Birth (S9) Booster Box"
   },
   "universetcg.com:55591849099605": {
     "available": false,
     "price": "30.00",
-    "product_title": "Pokémon TCG Battle Region (S9a) Enhanced Expansion Box – Japanese"
+    "product_title": "Pokémon TCG Battle Region (S9a) Enhanced Expansion Box"
   },
   "universetcg.com:55591849066837": {
     "available": false,
     "price": "30.00",
-    "product_title": "Pokémon TCG Space Juggler (S10P) Booster Box – Japanese"
+    "product_title": "Pokémon TCG Space Juggler (S10P) Booster Box"
   },
   "universetcg.com:55591849034069": {
     "available": false,
     "price": "30.00",
-    "product_title": "Pokémon TCG Time Gazer (S10D) Booster Box – Japanese"
+    "product_title": "Pokémon TCG Time Gazer (S10D) Booster Box"
   },
   "universetcg.com:55591849001301": {
     "available": false,
     "price": "30.00",
-    "product_title": "Pokémon TCG Dark Phantasma (S10a) Enhanced Expansion Box – Japanese"
+    "product_title": "Pokémon TCG Dark Phantasma (S10a) Enhanced Expansion Box"
   },
   "universetcg.com:55591848968533": {
     "available": false,
     "price": "30.00",
-    "product_title": "Pokémon TCG Pokémon GO (S10b) Enhanced Expansion Box – Japanese"
+    "product_title": "Pokémon TCG Pokémon GO (S10b) Enhanced Expansion Box"
   },
   "universetcg.com:55591848935765": {
     "available": false,
     "price": "30.00",
-    "product_title": "Pokémon TCG Lost Abyss (S11) Booster Box – Japanese"
+    "product_title": "Pokémon TCG Lost Abyss (S11) Booster Box"
   },
   "universetcg.com:55591848902997": {
     "available": false,
     "price": "30.00",
-    "product_title": "Pokémon TCG Incandescent Arcana (S11a) Enhanced Expansion Box – Japanese"
+    "product_title": "Pokémon TCG Incandescent Arcana (S11a) Enhanced Expansion Box"
   },
   "universetcg.com:55591848870229": {
     "available": false,
     "price": "30.00",
-    "product_title": "Pokémon TCG Paradigm Trigger (S12) Booster Box – Japanese"
+    "product_title": "Pokémon TCG Paradigm Trigger (S12) Booster Box"
   },
   "universetcg.com:55591848837461": {
     "available": false,
     "price": "35.00",
-    "product_title": "Pokémon TCG VSTARユニバース (S12a) High Class Pack – Japanese"
+    "product_title": "Pokémon TCG VSTAR Universe (S12a) High Class Pack"
   },
   "universetcg.com:55591848804693": {
     "available": false,
     "price": "15.00",
-    "product_title": "Pokémon TCG Violet ex (SV1V) Collector Set – Japanese"
+    "product_title": "Pokémon TCG Violet ex (SV1V) Collector Set"
   },
   "universetcg.com:55591848706389": {
     "available": false,
     "price": "25.00",
-    "product_title": "Pokémon TCG スターターセットex ピカチュウスペシャルセット (SVC) Collector Set – Japanese"
+    "product_title": "Pokémon TCG ex Starter Set Pikachu Special Set (SVC) Collector Set"
   },
   "universetcg.com:55591848673621": {
     "available": false,
     "price": "200.00",
-    "product_title": "Pokémon TCG ポケモンカードゲーム Classic (CLASSIC) Collector Set – Japanese"
+    "product_title": "Pokémon TCG Pokémon Card Game Classic (CLASSIC) Collector Set"
   },
   "universetcg.com:55591848640853": {
     "available": false,
     "price": "75.00",
-    "product_title": "Pokémon TCG Clay Burst (SV2D) Collector Set – Japanese"
+    "product_title": "Pokémon TCG Clay Burst (SV2D) Collector Set"
   },
   "universetcg.com:55591848575317": {
     "available": false,
     "price": "15.00",
-    "product_title": "Pokémon TCG Pokémon Card 151 (SV2a) Collector Set – Japanese"
+    "product_title": "Pokémon TCG Pokémon Card 151 (SV2a) Collector Set"
   },
   "universetcg.com:55591848477013": {
     "available": false,
     "price": "15.00",
-    "product_title": "Pokémon TCG Pokémon Card 151 (SV2a) Collector Set – Japanese"
+    "product_title": "Pokémon TCG Pokémon Card 151 (SV2a) Collector Set"
   },
   "universetcg.com:55591848411477": {
     "available": false,
     "price": "25.00",
-    "product_title": "Pokémon TCG Ruler of the Black Flame (SV3) Collector Set – Japanese"
+    "product_title": "Pokémon TCG Ruler of the Black Flame (SV3) Collector Set"
   },
   "universetcg.com:55591848313173": {
     "available": false,
     "price": "25.00",
-    "product_title": "Pokémon TCG Stellar Miracle (SV7) Collector Set – Japanese"
+    "product_title": "Pokémon TCG Stellar Miracle (SV7) Collector Set"
   },
   "universetcg.com:55591848214869": {
     "available": false,
     "price": "30.00",
-    "product_title": "Pokémon TCG スタートデッキGenerations スペシャルバトルセット (SVM) Collector Set – Japanese"
+    "product_title": "Pokémon TCG Start Deck Generations Special Battle Set (SVM) Collector Set"
   },
   "universetcg.com:55591848051029": {
     "available": false,
     "price": "25.00",
-    "product_title": "Pokémon TCG Battle Partners (SV9) Collector Set – Japanese"
+    "product_title": "Pokémon TCG Battle Partners (SV9) Collector Set"
   },
   "universetcg.com:55591847985493": {
     "available": false,
     "price": "20.00",
-    "product_title": "Pokémon TCG Black Bolt (SV11B) Collector Set – Japanese"
+    "product_title": "Pokémon TCG Black Bolt (SV11B) Collector Set"
   },
   "universetcg.com:55591847723349": {
     "available": false,
     "price": "40.00",
-    "product_title": "Pokémon TCG プレミアムトレーナーボックスMEGA (M1) Collector Set – Japanese"
+    "product_title": "Pokémon TCG Premium Trainer Box MEGA (M1) Collector Set"
   },
   "universetcg.com:55591847657813": {
     "available": false,
     "price": "75.00",
-    "product_title": "Pokémon TCG Mega Symphonia (M1S) Collector Set – Japanese"
+    "product_title": "Pokémon TCG Mega Symphonia (M1S) Collector Set"
   },
   "universetcg.com:55591847592277": {
     "available": false,
     "price": "75.00",
-    "product_title": "Pokémon TCG Mega Brave (M1L) Collector Set – Japanese"
+    "product_title": "Pokémon TCG Mega Brave (M1L) Collector Set"
   },
   "universetcg.com:55591847526741": {
     "available": false,
@@ -388082,207 +388082,207 @@
   "universetcg.com:55591847395669": {
     "available": false,
     "price": "160.00",
-    "product_title": "Pokémon TCG 30th CELEBRATION FUTURISTIC BOX (M6a) Collector Set – Japanese"
+    "product_title": "Pokémon TCG 30th CELEBRATION FUTURISTIC BOX (M6a) Collector Set"
   },
   "universetcg.com:55591847330133": {
     "available": false,
     "price": "10.00",
-    "product_title": "Pokémon TCG 30th CELEBRATION カードセット フシギダネ・ヒトカゲ・ゼニガメ (M6a) Collector Set – Japanese"
+    "product_title": "Pokémon TCG 30th CELEBRATION Card Set Bulbasaur · Charmander · Squirtle (M6a) Collector Set"
   },
   "universetcg.com:55591847264597": {
     "available": false,
     "price": "10.00",
-    "product_title": "Pokémon TCG 30th CELEBRATION カードセット チコリータ・ヒノアラシ・ワニノコ (M6a) Collector Set – Japanese"
+    "product_title": "Pokémon TCG 30th CELEBRATION Card Set Chikorita · Cyndaquil · Totodile (M6a) Collector Set"
   },
   "universetcg.com:55591847100757": {
     "available": false,
     "price": "10.00",
-    "product_title": "Pokémon TCG 30th CELEBRATION カードセット キモリ・アチャモ・ミズゴロウ (M6a) Collector Set – Japanese"
+    "product_title": "Pokémon TCG 30th CELEBRATION Card Set Treecko · Torchic · Mudkip (M6a) Collector Set"
   },
   "universetcg.com:55591846936917": {
     "available": false,
     "price": "10.00",
-    "product_title": "Pokémon TCG 30th CELEBRATION カードセット ナエトル・ヒコザル・ポッチャマ (M6a) Collector Set – Japanese"
+    "product_title": "Pokémon TCG 30th CELEBRATION Card Set Turtwig · Chimchar · Piplup (M6a) Collector Set"
   },
   "universetcg.com:55591846904149": {
     "available": false,
     "price": "10.00",
-    "product_title": "Pokémon TCG 30th CELEBRATION カードセット ツタージャ・ポカブ・ミジュマル (M6a) Collector Set – Japanese"
+    "product_title": "Pokémon TCG 30th CELEBRATION Card Set Snivy · Tepig · Oshawott (M6a) Collector Set"
   },
   "universetcg.com:55591846773077": {
     "available": false,
     "price": "10.00",
-    "product_title": "Pokémon TCG 30th CELEBRATION カードセット ハリマロン・フォッコ・ケロマツ (M6a) Collector Set – Japanese"
+    "product_title": "Pokémon TCG 30th CELEBRATION Card Set Chespin · Fennekin · Froakie (M6a) Collector Set"
   },
   "universetcg.com:55591846642005": {
     "available": false,
     "price": "10.00",
-    "product_title": "Pokémon TCG 30th CELEBRATION カードセット モクロー・ニャビー・アシマリ (M6a) Collector Set – Japanese"
+    "product_title": "Pokémon TCG 30th CELEBRATION Card Set Rowlet · Litten · Popplio (M6a) Collector Set"
   },
   "universetcg.com:55591846609237": {
     "available": false,
     "price": "10.00",
-    "product_title": "Pokémon TCG 30th CELEBRATION カードセット サルノリ・ヒバニー・メッソン (M6a) Collector Set – Japanese"
+    "product_title": "Pokémon TCG 30th CELEBRATION Card Set Grookey · Scorbunny · Sobble (M6a) Collector Set"
   },
   "universetcg.com:55591846347093": {
     "available": false,
     "price": "10.00",
-    "product_title": "Pokémon TCG 30th CELEBRATION カードセット ニャオハ・ホゲータ・クワッス (M6a) Collector Set – Japanese"
+    "product_title": "Pokémon TCG 30th CELEBRATION Card Set Sprigatito · Fuecoco · Quaxly (M6a) Collector Set"
   },
   "universetcg.com:55591844774229": {
     "available": false,
     "price": "15.00",
-    "product_title": "Pokémon TCG スターターセットex クワッス&ミミッキュex (SVA) Starter Set – Japanese"
+    "product_title": "Pokémon TCG ex Starter Set Quaxly & Mimikyu ex (SVA) Starter Set"
   },
   "universetcg.com:55591844708693": {
     "available": false,
     "price": "15.00",
-    "product_title": "Pokémon TCG スターターセットex ホゲータ&デンリュウex (SVA) Starter Set – Japanese"
+    "product_title": "Pokémon TCG ex Starter Set Fuecoco&Ampharosex (SVA) Starter Set"
   },
   "universetcg.com:55591844643157": {
     "available": false,
     "price": "15.00",
-    "product_title": "Pokémon TCG スターターセットex ニャオハ&ルカリオex (SVA) Starter Set – Japanese"
+    "product_title": "Pokémon TCG ex Starter Set Sprigatito & Lucario ex (SVA) Starter Set"
   },
   "universetcg.com:55591844577621": {
     "available": false,
     "price": "15.00",
-    "product_title": "Pokémon TCG スターターセットex ピカチュウex&パーモット (SVC) Starter Set – Japanese"
+    "product_title": "Pokémon TCG ex Starter Set Pikachu ex & Pawmot (SVC) Starter Set"
   },
   "universetcg.com:55591844479317": {
     "available": false,
     "price": "5.00",
-    "product_title": "Pokémon TCG おまかせexスタートデッキ (SVD) Starter Set – Japanese"
+    "product_title": "Pokémon TCG Random ex Start Deck (SVD) Starter Set"
   },
   "universetcg.com:55591844381013": {
     "available": false,
     "price": "5.00",
-    "product_title": "Pokémon TCG exスタートデッキ 鋼 メルメタル (SVD) Starter Set – Japanese"
+    "product_title": "Pokémon TCG ex Start Deck Metal Melmetal (SVD) Starter Set"
   },
   "universetcg.com:55591844282709": {
     "available": false,
     "price": "5.00",
-    "product_title": "Pokémon TCG exスタートデッキ 悪 ヘルガー (SVD) Starter Set – Japanese"
+    "product_title": "Pokémon TCG ex Start Deck Darkness Houndoom (SVD) Starter Set"
   },
   "universetcg.com:55591844249941": {
     "available": false,
     "price": "5.00",
-    "product_title": "Pokémon TCG exスタートデッキ 闘 コライドン (SVD) Starter Set – Japanese"
+    "product_title": "Pokémon TCG ex Start Deck Fighting Koraidon (SVD) Starter Set"
   },
   "universetcg.com:55591844184405": {
     "available": false,
     "price": "5.00",
-    "product_title": "Pokémon TCG exスタートデッキ 超 ピクシー (SVD) Starter Set – Japanese"
+    "product_title": "Pokémon TCG ex Start Deck Psychic Clefable (SVD) Starter Set"
   },
   "universetcg.com:55591844118869": {
     "available": false,
     "price": "5.00",
-    "product_title": "Pokémon TCG exスタートデッキ 雷 ミライドン (SVD) Starter Set – Japanese"
+    "product_title": "Pokémon TCG ex Start Deck Lightning Miraidon (SVD) Starter Set"
   },
   "universetcg.com:55591843889493": {
     "available": false,
     "price": "5.00",
-    "product_title": "Pokémon TCG exスタートデッキ 水 ゲッコウガ (SVD) Starter Set – Japanese"
+    "product_title": "Pokémon TCG ex Start Deck Water Greninja (SVD) Starter Set"
   },
   "universetcg.com:55591843856725": {
     "available": false,
     "price": "5.00",
-    "product_title": "Pokémon TCG exスタートデッキ 炎 ビクティニ (SVD) Starter Set – Japanese"
+    "product_title": "Pokémon TCG ex Start Deck Fire Victini (SVD) Starter Set"
   },
   "universetcg.com:55591843594581": {
     "available": false,
     "price": "5.00",
-    "product_title": "Pokémon TCG exスタートデッキ 草 ジュナイパー (SVD) Starter Set – Japanese"
+    "product_title": "Pokémon TCG ex Start Deck Grass Decidueye (SVD) Starter Set"
   },
   "universetcg.com:55591843037525": {
     "available": false,
     "price": "5.00",
-    "product_title": "Pokémon TCG exスタートデッキ テラスタル ヨクバリス (SVD) Starter Set – Japanese"
+    "product_title": "Pokémon TCG ex Start Deck Terastal Greedent (SVD) Starter Set"
   },
   "universetcg.com:55591842971989": {
     "available": false,
     "price": "5.00",
-    "product_title": "Pokémon TCG exスタートデッキ テラスタル カイリュー (SVD) Starter Set – Japanese"
+    "product_title": "Pokémon TCG ex Start Deck Terastal Dragonite (SVD) Starter Set"
   },
   "universetcg.com:55591842382165": {
     "available": false,
     "price": "10.00",
-    "product_title": "Pokémon TCG いつでもどこでも バトルアカデミー (SVI) Deck – Japanese"
+    "product_title": "Pokémon TCG Anytime Anywhere Battle Academy (SVI) Deck"
   },
   "universetcg.com:55591842316629": {
     "available": false,
     "price": "20.00",
-    "product_title": "Pokémon TCG バトルアカデミー (SVI) Deck – Japanese"
+    "product_title": "Pokémon TCG Battle Academy (SVI) Deck"
   },
   "universetcg.com:55591841628501": {
     "available": false,
     "price": "5.00",
-    "product_title": "Pokémon TCG スタートデッキGenerations コライドンex・パルデアドオーex (SVM) Starter Set – Japanese"
+    "product_title": "Pokémon TCG Start Deck Generations Koraidon ex · Paldean Clodsire ex (SVM) Starter Set"
   },
   "universetcg.com:55591841399125": {
     "available": false,
     "price": "5.00",
-    "product_title": "Pokémon TCG スタートデッキGenerations ザシアンex・マホイップex (SVM) Starter Set – Japanese"
+    "product_title": "Pokémon TCG Start Deck Generations Zacianex · Alcremieex (SVM) Starter Set"
   },
   "universetcg.com:55591841366357": {
     "available": false,
     "price": "5.00",
-    "product_title": "Pokémon TCG スタートデッキGenerations カプ・コケコex・ミミッキュex (SVM) Starter Set – Japanese"
+    "product_title": "Pokémon TCG Start Deck Generations Tapu Koko ex · Mimikyu ex (SVM) Starter Set"
   },
   "universetcg.com:55591841038677": {
     "available": false,
     "price": "5.00",
-    "product_title": "Pokémon TCG スタートデッキGenerations ゼルネアスex・オンバーンex (SVM) Starter Set – Japanese"
+    "product_title": "Pokémon TCG Start Deck Generations Xerneasex · Noivernex (SVM) Starter Set"
   },
   "universetcg.com:55591840973141": {
     "available": false,
     "price": "5.00",
-    "product_title": "Pokémon TCG スタートデッキGenerations レシラムex・モロバレルex (SVM) Starter Set – Japanese"
+    "product_title": "Pokémon TCG Start Deck Generations Reshiramex · Amoongussex (SVM) Starter Set"
   },
   "universetcg.com:55591840776533": {
     "available": false,
     "price": "5.00",
-    "product_title": "Pokémon TCG スタートデッキGenerations ディアルガex・ルカリオex (SVM) Starter Set – Japanese"
+    "product_title": "Pokémon TCG Start Deck Generations Dialgaex · Lucarioex (SVM) Starter Set"
   },
   "universetcg.com:55591840710997": {
     "available": false,
     "price": "5.00",
-    "product_title": "Pokémon TCG スタートデッキGenerations カイオーガex・バシャーモex (SVM) Starter Set – Japanese"
+    "product_title": "Pokémon TCG Start Deck Generations Kyogre ex · Blaziken ex (SVM) Starter Set"
   },
   "universetcg.com:55591840514389": {
     "available": false,
     "price": "5.00",
-    "product_title": "Pokémon TCG スタートデッキGenerations ルギアex・バンギラスex (SVM) Starter Set – Japanese"
+    "product_title": "Pokémon TCG Start Deck Generations Lugiaex · Tyranitarex (SVM) Starter Set"
   },
   "universetcg.com:55591840317781": {
     "available": false,
     "price": "5.00",
-    "product_title": "Pokémon TCG スタートデッキGenerations ピカチュウex・カビゴンex (SVM) Starter Set – Japanese"
+    "product_title": "Pokémon TCG Start Deck Generations Pikachuex · Snorlaxex (SVM) Starter Set"
   },
   "universetcg.com:55591839859029": {
     "available": false,
     "price": "10.00",
-    "product_title": "Pokémon TCG スタートデッキ100 バトルコレクション (MC) Starter Set – Japanese"
+    "product_title": "Pokémon TCG Start Deck 100 Battle Collection (MC) Starter Set"
   },
   "universetcg.com:55591839793493": {
     "available": false,
     "price": "40.00",
-    "product_title": "Pokémon TCG 30th Celebration (M6a) Starter Deck – Japanese"
+    "product_title": "Pokémon TCG 30th Celebration (M6a) Starter Deck"
   },
   "universetcg.com:55591839727957": {
     "available": false,
     "price": "15.00",
-    "product_title": "Pokémon TCG スターターセットex ニャオハ＆マスカーニャex (ME) Starter Set – Japanese"
+    "product_title": "Pokémon TCG ex Starter Set Sprigatito & Meowscarada ex (ME) Starter Set"
   },
   "universetcg.com:55591839695189": {
     "available": false,
     "price": "15.00",
-    "product_title": "Pokémon TCG スターターセットex ゾロア＆ゾロアークex (ME) Starter Set – Japanese"
+    "product_title": "Pokémon TCG ex Starter Set Zorua & Zoroark ex (ME) Starter Set"
   },
   "universetcg.com:55591839629653": {
     "available": false,
     "price": "15.00",
-    "product_title": "Pokémon TCG スターターセットex イーブイex (ME) Starter Set – Japanese"
+    "product_title": "Pokémon TCG ex Starter Set Eevee ex (ME) Starter Set"
   },
   "universetcg.com:55591839564117": {
     "available": false,
@@ -388307,7 +388307,7 @@
   "universetcg.com:55591839400277": {
     "available": false,
     "price": "35.00",
-    "product_title": "Pokémon TCG Snow Hazard (SV2P) Booster Box – Japanese"
+    "product_title": "Pokémon TCG Snow Hazard (SV2P) Booster Box"
   },
   "universetcg.com:55591839367509": {
     "available": false,
@@ -388317,7 +388317,7 @@
   "universetcg.com:55591839334741": {
     "available": false,
     "price": "35.00",
-    "product_title": "Pokémon TCG Ruler of the Black Flame (SV3) Booster Box – Japanese"
+    "product_title": "Pokémon TCG Ruler of the Black Flame (SV3) Booster Box"
   },
   "universetcg.com:55591839236437": {
     "available": false,
@@ -388357,7 +388357,7 @@
   "universetcg.com:55591839007061": {
     "available": false,
     "price": "35.00",
-    "product_title": "Pokémon TCG Mask of Change (SV6) Booster Box – Japanese"
+    "product_title": "Pokémon TCG Mask of Change (SV6) Booster Box"
   },
   "universetcg.com:55591838974293": {
     "available": false,
@@ -388367,7 +388367,7 @@
   "universetcg.com:55591838941525": {
     "available": false,
     "price": "35.00",
-    "product_title": "Pokémon TCG Stellar Miracle (SV7) Booster Box – Japanese"
+    "product_title": "Pokémon TCG Stellar Miracle (SV7) Booster Box"
   },
   "universetcg.com:55591838908757": {
     "available": false,
@@ -388377,12 +388377,12 @@
   "universetcg.com:55591838875989": {
     "available": false,
     "price": "35.00",
-    "product_title": "Pokémon TCG Super Electric Breaker (SV8) Booster Box – Japanese"
+    "product_title": "Pokémon TCG Super Electric Breaker (SV8) Booster Box"
   },
   "universetcg.com:55591838843221": {
     "available": false,
     "price": "35.00",
-    "product_title": "Pokémon TCG Terastal Festival ex (SV8a) High Class Pack – Japanese"
+    "product_title": "Pokémon TCG Terastal Festival ex (SV8a) High Class Pack"
   },
   "universetcg.com:55591838810453": {
     "available": false,
@@ -388397,27 +388397,27 @@
   "universetcg.com:55591838744917": {
     "available": false,
     "price": "35.00",
-    "product_title": "Pokémon TCG Rocket Gang's Glory (SV10) Booster Box – Japanese"
+    "product_title": "Pokémon TCG Rocket Gang's Glory (SV10) Booster Box"
   },
   "universetcg.com:55591838712149": {
     "available": false,
     "price": "10.00",
-    "product_title": "Pokémon TCG White Flare (SV11W) Deluxe Expansion Set – Japanese"
+    "product_title": "Pokémon TCG White Flare (SV11W) Deluxe Expansion Set"
   },
   "universetcg.com:55591838679381": {
     "available": false,
     "price": "10.00",
-    "product_title": "Pokémon TCG Black Bolt (SV11B) Deluxe Expansion Set – Japanese"
+    "product_title": "Pokémon TCG Black Bolt (SV11B) Deluxe Expansion Set"
   },
   "universetcg.com:55591838646613": {
     "available": false,
     "price": "35.00",
-    "product_title": "Pokémon TCG White Flare (SV11W) Enhanced Expansion Box – Japanese"
+    "product_title": "Pokémon TCG White Flare (SV11W) Enhanced Expansion Box"
   },
   "universetcg.com:55591838613845": {
     "available": false,
     "price": "35.00",
-    "product_title": "Pokémon TCG Black Bolt (SV11B) Enhanced Expansion Box – Japanese"
+    "product_title": "Pokémon TCG Black Bolt (SV11B) Enhanced Expansion Box"
   },
   "universetcg.com:55591838581077": {
     "available": false,
@@ -388437,7 +388437,7 @@
   "universetcg.com:55591838482773": {
     "available": false,
     "price": "35.00",
-    "product_title": "Pokémon TCG Mega Dream ex (M2a) High Class Pack – Japanese"
+    "product_title": "Pokémon TCG Mega Dream ex (M2a) High Class Pack"
   },
   "universetcg.com:55591838384469": {
     "available": false,
@@ -388456,8 +388456,8 @@
   },
   "universetcg.com:55591838286165": {
     "available": false,
-    "price": "25.00",
-    "product_title": "Pokémon TCG 30th Celebration (M6a) High Class Pack – Japanese"
+    "price": "35.00",
+    "product_title": "Pokémon TCG 30th Celebration (M6a) High Class Pack"
   },
   "universetcg.com:55591838253397": {
     "available": false,
@@ -388522,7 +388522,7 @@
   "universetcg.com:55591828062549": {
     "available": false,
     "price": "15.00",
-    "product_title": "Pokémon TCG Pikachu Special Jumbo Card Set (SV8-PR) – Korean"
+    "product_title": "Pokémon TCG Pikachu Special Jumbo Card Set (SV8-PR)"
   },
   "universetcg.com:55591828029781": {
     "available": false,
@@ -388532,17 +388532,17 @@
   "universetcg.com:55591827997013": {
     "available": false,
     "price": "10.00",
-    "product_title": "Pokémon TCG Terastal Stellar Sylveon ex Starter Set (SV7-SD-SV) – Korean"
+    "product_title": "Pokémon TCG Terastal Stellar Sylveon ex Starter Set (SV7-SD-SV)"
   },
   "universetcg.com:55591827964245": {
     "available": false,
     "price": "10.00",
-    "product_title": "Pokémon TCG Terastal Stellar Terapagos ex Starter Set (SV7-SD-TG) – Korean"
+    "product_title": "Pokémon TCG Terastal Stellar Terapagos ex Starter Set (SV7-SD-TG)"
   },
   "universetcg.com:55591827931477": {
     "available": false,
     "price": "25.00",
-    "product_title": "Pokémon TCG Stellar Miracle (SV7) Battle Booster Box – Korean"
+    "product_title": "Pokémon TCG Stellar Miracle (SV7) Battle Booster Box"
   },
   "universetcg.com:55591827898709": {
     "available": false,
@@ -388557,17 +388557,17 @@
   "universetcg.com:55591827833173": {
     "available": false,
     "price": "10.00",
-    "product_title": "Pokémon TCG Battle Master Deck Chien-Pao ex (SV6-BMD-CP) – Korean"
+    "product_title": "Pokémon TCG Battle Master Deck Chien-Pao ex (SV6-BMD-CP)"
   },
   "universetcg.com:55591827800405": {
     "available": false,
     "price": "10.00",
-    "product_title": "Pokémon TCG Battle Master Deck Terastal Charizard ex (SV6-BMD-CZ) – Korean"
+    "product_title": "Pokémon TCG Battle Master Deck Terastal Charizard ex (SV6-BMD-CZ)"
   },
   "universetcg.com:55591827767637": {
     "available": false,
     "price": "15.00",
-    "product_title": "Pokémon TCG Ogerpon Special Jumbo Card Set (SV6a-PR) – Korean"
+    "product_title": "Pokémon TCG Ogerpon Special Jumbo Card Set (SV6a-PR)"
   },
   "universetcg.com:55591827734869": {
     "available": false,
@@ -388592,7 +388592,7 @@
   "universetcg.com:55591827603797": {
     "available": false,
     "price": "215.00",
-    "product_title": "Pokémon TCG Classic (TCG-CL) – Korean"
+    "product_title": "Pokémon TCG Classic (TCG-CL)"
   },
   "universetcg.com:55591827571029": {
     "available": false,
@@ -388612,17 +388612,17 @@
   "universetcg.com:55591827472725": {
     "available": false,
     "price": "10.00",
-    "product_title": "Pokémon TCG Terastal Skeledirge ex Starter Set (SV3-SD-SK) – Korean"
+    "product_title": "Pokémon TCG Terastal Skeledirge ex Starter Set (SV3-SD-SK)"
   },
   "universetcg.com:55591827439957": {
     "available": false,
     "price": "10.00",
-    "product_title": "Pokémon TCG 60-Card Random ex Starter Deck (SV-RSD) Starter Set – Korean"
+    "product_title": "Pokémon TCG 60-Card Random ex Starter Deck (SV-RSD) Starter Set"
   },
   "universetcg.com:55591827407189": {
     "available": false,
     "price": "30.00",
-    "product_title": "Pokémon TCG Ruler of the Black Flame (SV3) Battle Booster Box – Korean"
+    "product_title": "Pokémon TCG Ruler of the Black Flame (SV3) Battle Booster Box"
   },
   "universetcg.com:55591827341653": {
     "available": false,
@@ -388637,7 +388637,7 @@
   "universetcg.com:55591827276117": {
     "available": false,
     "price": "15.00",
-    "product_title": "Pokémon TCG ex Special Set (SV2-PR) – Korean"
+    "product_title": "Pokémon TCG ex Special Set (SV2-PR)"
   },
   "universetcg.com:55591827243349": {
     "available": false,
@@ -388652,7 +388652,7 @@
   "universetcg.com:55591827177813": {
     "available": false,
     "price": "35.00",
-    "product_title": "Pokémon TCG Scarlet & Violet Premium Trainer Box ex (SV-PTB) – Korean"
+    "product_title": "Pokémon TCG Scarlet & Violet Premium Trainer Box ex (SV-PTB)"
   },
   "universetcg.com:55591827145045": {
     "available": false,
@@ -388667,32 +388667,32 @@
   "universetcg.com:55591827079509": {
     "available": false,
     "price": "10.00",
-    "product_title": "Pokémon TCG Floragato & Lucario ex Starter Set (SV1-SD-FL) – Korean"
+    "product_title": "Pokémon TCG Floragato & Lucario ex Starter Set (SV1-SD-FL)"
   },
   "universetcg.com:55591827046741": {
     "available": false,
     "price": "10.00",
-    "product_title": "Pokémon TCG Oinkologne & Ampharos ex Starter Set (SV1-SD-OA) – Korean"
+    "product_title": "Pokémon TCG Oinkologne & Ampharos ex Starter Set (SV1-SD-OA)"
   },
   "universetcg.com:55591827013973": {
     "available": false,
     "price": "10.00",
-    "product_title": "Pokémon TCG Quaxly & Mimikyu ex Starter Set (SV1-SD-QM) – Korean"
+    "product_title": "Pokémon TCG Quaxly & Mimikyu ex Starter Set (SV1-SD-QM)"
   },
   "universetcg.com:55591826981205": {
     "available": false,
     "price": "15.00",
-    "product_title": "Pokémon TCG Zorua & Zoroark ex Starter Set (M-SD-ZZK) – Korean"
+    "product_title": "Pokémon TCG Zorua & Zoroark ex Starter Set (M-SD-ZZK)"
   },
   "universetcg.com:55591826948437": {
     "available": false,
     "price": "15.00",
-    "product_title": "Pokémon TCG Nemona's Floragato & Meowscarada ex Starter Set (M-SD-NMM) – Korean"
+    "product_title": "Pokémon TCG Nemona's Floragato & Meowscarada ex Starter Set (M-SD-NMM)"
   },
   "universetcg.com:55591826915669": {
     "available": false,
     "price": "15.00",
-    "product_title": "Pokémon TCG Mega Eevee ex Starter Set (M-SD-MEV) – Korean"
+    "product_title": "Pokémon TCG Mega Eevee ex Starter Set (M-SD-MEV)"
   },
   "universetcg.com:55591826882901": {
     "available": false,
@@ -388707,12 +388707,12 @@
   "universetcg.com:55591826817365": {
     "available": false,
     "price": "15.00",
-    "product_title": "Pokémon TCG Mega ex Special Set (M4-PR) – Korean"
+    "product_title": "Pokémon TCG Mega ex Special Set (M4-PR)"
   },
   "universetcg.com:55591826784597": {
     "available": false,
     "price": "35.00",
-    "product_title": "Pokémon TCG Ninja Spinner Special Kit (M4) – Korean"
+    "product_title": "Pokémon TCG Ninja Spinner Special Kit (M4)"
   },
   "universetcg.com:55591826751829": {
     "available": false,
@@ -388722,7 +388722,7 @@
   "universetcg.com:55591826719061": {
     "available": false,
     "price": "15.00",
-    "product_title": "Pokémon TCG Mega Gallade ex Special Card Set (M3-PR-MGL) – Korean"
+    "product_title": "Pokémon TCG Mega Gallade ex Special Card Set (M3-PR-MGL)"
   },
   "universetcg.com:55591826686293": {
     "available": false,
@@ -388732,12 +388732,12 @@
   "universetcg.com:55591826587989": {
     "available": false,
     "price": "10.00",
-    "product_title": "Pokémon TCG Mega Start Deck 100 Battle Collection (M-SD100) Starter Set – Korean"
+    "product_title": "Pokémon TCG Mega Start Deck 100 Battle Collection (M-SD100) Starter Set"
   },
   "universetcg.com:55591826522453": {
     "available": false,
     "price": "60.00",
-    "product_title": "Pokémon TCG Mega N Special Set (M-PR-N) – Korean"
+    "product_title": "Pokémon TCG Mega N Special Set (M-PR-N)"
   },
   "universetcg.com:55591826489685": {
     "available": false,
@@ -388747,17 +388747,17 @@
   "universetcg.com:55591826456917": {
     "available": false,
     "price": "35.00",
-    "product_title": "Pokémon TCG Mega Evolution Premium Trainer Box (M-PTB) – Korean"
+    "product_title": "Pokémon TCG Mega Evolution Premium Trainer Box (M-PTB)"
   },
   "universetcg.com:55591826424149": {
     "available": false,
     "price": "10.00",
-    "product_title": "Pokémon TCG Mega Diancie ex Starter Set (M-SD-MDN) – Korean"
+    "product_title": "Pokémon TCG Mega Diancie ex Starter Set (M-SD-MDN)"
   },
   "universetcg.com:55591826391381": {
     "available": false,
     "price": "10.00",
-    "product_title": "Pokémon TCG Mega Gengar ex Starter Set (M-SD-MGN) – Korean"
+    "product_title": "Pokémon TCG Mega Gengar ex Starter Set (M-SD-MGN)"
   },
   "universetcg.com:55591826358613": {
     "available": false,
@@ -388772,12 +388772,12 @@
   "universetcg.com:55591826293077": {
     "available": false,
     "price": "30.00",
-    "product_title": "Pokémon TCG Black Bolt (SV11B) Booster Box – Korean"
+    "product_title": "Pokémon TCG Black Bolt (SV11B) Booster Box"
   },
   "universetcg.com:55591826260309": {
     "available": false,
     "price": "25.00",
-    "product_title": "Pokémon TCG Charizard ex Special Jumbo Card Set (SV6-PR-CZ) – Korean"
+    "product_title": "Pokémon TCG Charizard ex Special Jumbo Card Set (SV6-PR-CZ)"
   },
   "universetcg.com:55591826194773": {
     "available": false,
@@ -388787,27 +388787,27 @@
   "universetcg.com:55591826162005": {
     "available": false,
     "price": "10.00",
-    "product_title": "Pokémon TCG Larry's Morpeko & Dudunsparce ex Starter Set (SVSD-LMD) – Korean"
+    "product_title": "Pokémon TCG Larry's Morpeko & Dudunsparce ex Starter Set (SVSD-LMD)"
   },
   "universetcg.com:55591826096469": {
     "available": false,
     "price": "10.00",
-    "product_title": "Pokémon TCG Hassel's Beldum & Metagross ex Starter Set (SVSD-HSB) – Korean"
+    "product_title": "Pokémon TCG Hassel's Beldum & Metagross ex Starter Set (SVSD-HSB)"
   },
   "universetcg.com:55591826063701": {
     "available": false,
     "price": "20.00",
-    "product_title": "Pokémon TCG Pikachu Present Box (SV9-PR) – Korean"
+    "product_title": "Pokémon TCG Pikachu Present Box (SV9-PR)"
   },
   "universetcg.com:55591826030933": {
     "available": false,
     "price": "50.00",
-    "product_title": "Pokémon TCG Special Set Munkidori (SV9 bundle) – Korean"
+    "product_title": "Pokémon TCG Special Set Munkidori (SV9 bundle)"
   },
   "universetcg.com:55591825768789": {
     "available": false,
     "price": "30.00",
-    "product_title": "Pokémon TCG White Flare (SV11W) Booster Box – Korean"
+    "product_title": "Pokémon TCG White Flare (SV11W) Booster Box"
   },
   "universetcg.com:55591822852437": {
     "available": false,
@@ -389346,7 +389346,7 @@
   },
   "cardcosmos.de:55680509051223": {
     "available": false,
-    "price": "119.90",
+    "price": "129.90",
     "product_title": "One Piece Card Game - Heroines Edition vol.2 EB05 Display - JPN"
   },
   "cardzone.es:55978510975320": {
@@ -389385,7 +389385,7 @@
     "product_title": "[PREPEDIDO] Necromunda: Orlock Road Warriors"
   },
   "laescotillajuegos.com:59266051899727": {
-    "available": true,
+    "available": false,
     "price": "14.03",
     "product_title": "[PREPEDIDO] Necromunda: Orlock Card Pack"
   },
@@ -389395,7 +389395,7 @@
     "product_title": "[PREPEDIDO] Necromunda: Underhive Journal - Orlock: House Of Iron"
   },
   "laescotillajuegos.com:59266051572047": {
-    "available": true,
+    "available": false,
     "price": "14.03",
     "product_title": "[PREPEDIDO] Necromunda: House Orlock Dice"
   },
@@ -393606,12 +393606,12 @@
   },
   "universetcg.com:55614508859733": {
     "available": false,
-    "price": "3.00",
+    "price": "4.50",
     "product_title": "Pokémon TCG 30th Celebration (M6a) Booster Pack"
   },
   "universetcg.com:55614508892501": {
     "available": false,
-    "price": "4.50",
+    "price": "3.50",
     "product_title": "Pokémon TCG 30th Celebration (M6a) Booster Pack"
   },
   "universetcg.com:55614508761429": {
@@ -394197,96 +394197,546 @@
   "universetcg.com:55614412456277": {
     "available": false,
     "price": "27.00",
-    "product_title": "Pokémon TCG Sword & Shield Family Pokémon Card Game (sH) Starter Deck – Japanese"
+    "product_title": "Pokémon TCG Sword & Shield Family Pokémon Card Game (sH) Starter Deck"
   },
   "universetcg.com:55614412652885": {
     "available": false,
     "price": "20.00",
-    "product_title": "Pokémon TCG Sword (S1W) Booster Box – Japanese"
+    "product_title": "Pokémon TCG Sword (S1W) Booster Box"
   },
   "universetcg.com:55614412587349": {
     "available": false,
     "price": "20.00",
-    "product_title": "Pokémon TCG Explosive Walker (S2a) Booster Box – Japanese"
+    "product_title": "Pokémon TCG Explosive Walker (S2a) Booster Box"
   },
   "universetcg.com:55614412554581": {
     "available": false,
     "price": "20.00",
-    "product_title": "Pokémon TCG Infinity Zone (S3) Booster Box – Japanese"
+    "product_title": "Pokémon TCG Infinity Zone (S3) Booster Box"
   },
   "universetcg.com:55614412521813": {
     "available": false,
     "price": "20.00",
-    "product_title": "Pokémon TCG Astonishing Volt Tackle (S4) Booster Box – Japanese"
+    "product_title": "Pokémon TCG Astonishing Volt Tackle (S4) Booster Box"
   },
   "universetcg.com:55614412489045": {
     "available": false,
     "price": "20.00",
-    "product_title": "Pokémon TCG Matchless Fighters (S5a) Enhanced Expansion Box – Japanese"
+    "product_title": "Pokémon TCG Matchless Fighters (S5a) Enhanced Expansion Box"
   },
   "universetcg.com:55614412620117": {
     "available": false,
     "price": "20.00",
-    "product_title": "Pokémon TCG Silver Lance (S6H) Booster Box – Japanese"
+    "product_title": "Pokémon TCG Silver Lance (S6H) Booster Box"
   },
   "universetcg.com:55614412423509": {
     "available": false,
     "price": "20.00",
-    "product_title": "Pokémon TCG Fusion Arts (S8) Booster Box – Japanese"
+    "product_title": "Pokémon TCG Fusion Arts (S8) Booster Box"
   },
   "universetcg.com:55614412390741": {
     "available": false,
     "price": "20.00",
-    "product_title": "Pokémon TCG Star Birth (S9) Booster Box – Japanese"
+    "product_title": "Pokémon TCG Star Birth (S9) Booster Box"
   },
   "universetcg.com:55614412357973": {
     "available": false,
     "price": "28.00",
-    "product_title": "Pokémon TCG Battle Region (S9a) Enhanced Expansion Box – Japanese"
+    "product_title": "Pokémon TCG Battle Region (S9a) Enhanced Expansion Box"
   },
   "universetcg.com:55614412325205": {
     "available": false,
     "price": "20.00",
-    "product_title": "Pokémon TCG Time Gazer (S10D) Booster Box – Japanese"
+    "product_title": "Pokémon TCG Time Gazer (S10D) Booster Box"
   },
   "universetcg.com:55614412292437": {
     "available": false,
     "price": "28.00",
-    "product_title": "Pokémon TCG Dark Phantasma (S10a) Enhanced Expansion Box – Japanese"
+    "product_title": "Pokémon TCG Dark Phantasma (S10a) Enhanced Expansion Box"
   },
   "universetcg.com:55614412259669": {
     "available": false,
     "price": "20.00",
-    "product_title": "Pokémon TCG Lost Abyss (S11) Booster Box – Japanese"
+    "product_title": "Pokémon TCG Lost Abyss (S11) Booster Box"
   },
   "universetcg.com:55614412226901": {
     "available": false,
     "price": "35.00",
-    "product_title": "Pokémon TCG VSTARユニバース (S12a) High Class Pack – Japanese"
+    "product_title": "Pokémon TCG VSTAR Universe (S12a) High Class Pack"
   },
   "universetcg.com:55614358258005": {
     "available": false,
     "price": "20.00",
-    "product_title": "Pokémon TCG Ruler of the Black Flame (SV3) Booster Box – Japanese"
+    "product_title": "Pokémon TCG Ruler of the Black Flame (SV3) Booster Box"
   },
   "universetcg.com:55614358225237": {
     "available": false,
     "price": "20.00",
-    "product_title": "Pokémon TCG Stellar Miracle (SV7) Booster Box – Japanese"
+    "product_title": "Pokémon TCG Stellar Miracle (SV7) Booster Box"
   },
   "universetcg.com:55614358192469": {
     "available": false,
-    "price": "10001.00",
-    "product_title": "Pokémon TCG Terastal Festival ex (SV8a) High Class Pack – Japanese"
+    "price": "35.00",
+    "product_title": "Pokémon TCG Terastal Festival ex (SV8a) High Class Pack"
   },
   "universetcg.com:55614442766677": {
     "available": false,
-    "price": "35.00",
-    "product_title": "Pokémon TCG 30th Celebration (M6a) High Class Pack – Japanese"
+    "price": "30.00",
+    "product_title": "Pokémon TCG 30th Celebration (M6a) High Class Pack"
   },
   "universetcg.com:55614711890261": {
     "available": false,
     "price": "200.00",
-    "product_title": "Pokémon TCG Classic (TCG-CL) – Korean"
+    "product_title": "Pokémon TCG Classic (TCG-CL)"
+  },
+  "elbazartcg.com:58844497838428": {
+    "available": false,
+    "price": "25.99",
+    "product_title": "PARTY FB03 INGLES"
+  },
+  "universetcg.com:55615534989653": {
+    "available": false,
+    "price": "50.00",
+    "product_title": "Pokémon TCG Remix Bout (SM11a) Booster Box"
+  },
+  "universetcg.com:55615534760277": {
+    "available": false,
+    "price": "35.00",
+    "product_title": "Pokémon TCG GX Ultra Shiny (SM8b) Booster Box"
+  },
+  "universetcg.com:55615534465365": {
+    "available": false,
+    "price": "46.00",
+    "product_title": "Pokémon TCG Tag All Stars (SM12a) Booster Box"
+  },
+  "universetcg.com:55615534268757": {
+    "available": false,
+    "price": "50.00",
+    "product_title": "Pokémon TCG Dream League (SM11b) Booster Box"
+  },
+  "universetcg.com:55615533973845": {
+    "available": false,
+    "price": "50.00",
+    "product_title": "Pokémon TCG Miracle Twin (SM11) Booster Box"
+  },
+  "universetcg.com:55614541070677": {
+    "available": false,
+    "price": "1.50",
+    "product_title": "Pokémon TCG Night Unison (SM9a) Enhanced Pack"
+  },
+  "universetcg.com:55614541005141": {
+    "available": false,
+    "price": "1.50",
+    "product_title": "Pokémon TCG Full Metal Wall (SM9b) Enhanced Pack"
+  },
+  "universetcg.com:55614540939605": {
+    "available": false,
+    "price": "1.50",
+    "product_title": "Pokémon TCG Double Blaze (SM10) Booster Pack"
+  },
+  "universetcg.com:55614540874069": {
+    "available": false,
+    "price": "1.50",
+    "product_title": "Pokémon TCG GG End (SM10a) Enhanced Pack"
+  },
+  "universetcg.com:55614540775765": {
+    "available": false,
+    "price": "2.00",
+    "product_title": "Pokémon TCG Great Detective Pikachu (SMP2) Movie Special Pack"
+  },
+  "universetcg.com:55614540480853": {
+    "available": false,
+    "price": "1.50",
+    "product_title": "Pokémon TCG Sky Legend (SM10b) Enhanced Pack"
+  },
+  "universetcg.com:55614540415317": {
+    "available": false,
+    "price": "1.50",
+    "product_title": "Pokémon TCG Miracle Twin (SM11) Booster Pack"
+  },
+  "universetcg.com:55614540349781": {
+    "available": false,
+    "price": "1.50",
+    "product_title": "Pokémon TCG Remix Bout (SM11a) Enhanced Pack"
+  },
+  "universetcg.com:55614540251477": {
+    "available": false,
+    "price": "1.50",
+    "product_title": "Pokémon TCG Alter Genesis (SM12) Booster Pack"
+  },
+  "universetcg.com:55614539399509": {
+    "available": false,
+    "price": "5.00",
+    "product_title": "Pokémon TCG Tag Team GX All Stars (SM12a) High Class Pack"
+  },
+  "universetcg.com:55614537892181": {
+    "available": false,
+    "price": "2.50",
+    "product_title": "Pokémon TCG Ultra Force (SM5+) Enhanced Pack"
+  },
+  "universetcg.com:55614536122709": {
+    "available": false,
+    "price": "1.50",
+    "product_title": "Pokémon TCG Forbidden Light (SM6) Booster Pack"
+  },
+  "universetcg.com:55614534484309": {
+    "available": false,
+    "price": "1.50",
+    "product_title": "Pokémon TCG Dragon Storm (SM6a) Enhanced Pack"
+  },
+  "universetcg.com:55614534418773": {
+    "available": false,
+    "price": "1.50",
+    "product_title": "Pokémon TCG Champion Road (SM6b) Enhanced Pack"
+  },
+  "universetcg.com:55614534320469": {
+    "available": false,
+    "price": "1.50",
+    "product_title": "Pokémon TCG Charisma of the Cracked Sky (SM7) Booster Pack"
+  },
+  "universetcg.com:55614534254933": {
+    "available": false,
+    "price": "1.50",
+    "product_title": "Pokémon TCG Thunderclap Spark (SM7a) Enhanced Pack"
+  },
+  "universetcg.com:55614534189397": {
+    "available": false,
+    "price": "1.50",
+    "product_title": "Pokémon TCG Fairy Rise (SM7b) Enhanced Pack"
+  },
+  "universetcg.com:55614534091093": {
+    "available": false,
+    "price": "1.50",
+    "product_title": "Pokémon TCG Explosive Impact (SM8) Booster Pack"
+  },
+  "universetcg.com:55614534025557": {
+    "available": false,
+    "price": "1.50",
+    "product_title": "Pokémon TCG Dark Order (SM8a) Enhanced Pack"
+  },
+  "universetcg.com:55614533927253": {
+    "available": false,
+    "price": "5.00",
+    "product_title": "Pokémon TCG GX Ultra Shiny (SM8b) High Class Pack"
+  },
+  "universetcg.com:55614533828949": {
+    "available": false,
+    "price": "1.50",
+    "product_title": "Pokémon TCG Tag Bolt (SM9) Booster Pack"
+  },
+  "universetcg.com:55614533763413": {
+    "available": false,
+    "price": "2.50",
+    "product_title": "Pokémon TCG Strength Expansion Pack Sun & Moon (SM1+) Enhanced Pack"
+  },
+  "universetcg.com:55614533665109": {
+    "available": false,
+    "price": "1.50",
+    "product_title": "Pokémon TCG Alolan Moonlight (SM2L) Booster Pack"
+  },
+  "universetcg.com:55614533599573": {
+    "available": false,
+    "price": "1.50",
+    "product_title": "Pokémon TCG Islands Await You (SM2K) Booster Pack"
+  },
+  "universetcg.com:55614533534037": {
+    "available": false,
+    "price": "4.50",
+    "product_title": "Pokémon TCG The Best of XY (XY-BoXY) High Class Pack"
+  },
+  "universetcg.com:55614533435733": {
+    "available": false,
+    "price": "2.50",
+    "product_title": "Pokémon TCG Facing a New Trial (SM2+) Enhanced Pack"
+  },
+  "universetcg.com:55614533370197": {
+    "available": false,
+    "price": "1.50",
+    "product_title": "Pokémon TCG Light Consuming Darkness (SM3N) Booster Pack"
+  },
+  "universetcg.com:55614533271893": {
+    "available": false,
+    "price": "1.50",
+    "product_title": "Pokémon TCG Seen the Rainbow Battle (SM3H) Booster Pack"
+  },
+  "universetcg.com:55614533140821": {
+    "available": false,
+    "price": "2.50",
+    "product_title": "Pokémon TCG Shining Legends (SM3+) Enhanced Pack"
+  },
+  "universetcg.com:55614533075285": {
+    "available": false,
+    "price": "1.50",
+    "product_title": "Pokémon TCG Transdimensional Beast (SM4A) Booster Pack"
+  },
+  "universetcg.com:55614532976981": {
+    "available": false,
+    "price": "1.50",
+    "product_title": "Pokémon TCG Awakened Heroes (SM4S) Booster Pack"
+  },
+  "universetcg.com:55614532911445": {
+    "available": false,
+    "price": "5.00",
+    "product_title": "Pokémon TCG GX Battle Boost (SM4+) High Class Pack"
+  },
+  "universetcg.com:55614532845909": {
+    "available": false,
+    "price": "1.50",
+    "product_title": "Pokémon TCG Ultra Moon (SM5M) Booster Pack"
+  },
+  "universetcg.com:55614532747605": {
+    "available": false,
+    "price": "1.50",
+    "product_title": "Pokémon TCG Ultra Sun (SM5S) Booster Pack"
+  },
+  "universetcg.com:55614532682069": {
+    "available": false,
+    "price": "2.00",
+    "product_title": "Pokémon TCG PokéKyun Collection (XY15) Concept Pack"
+  },
+  "universetcg.com:55614532550997": {
+    "available": false,
+    "price": "1.50",
+    "product_title": "Pokémon TCG Awakening Psychic King (XY16) Booster Pack"
+  },
+  "universetcg.com:55614532419925": {
+    "available": false,
+    "price": "4.00",
+    "product_title": "Pokémon TCG Premium Champion Pack EX×M×BREAK (CP4) Premium Champion Pack"
+  },
+  "universetcg.com:55614532288853": {
+    "available": false,
+    "price": "1.50",
+    "product_title": "Pokémon TCG Cruel Traitor (XY11-Br) Booster Pack"
+  },
+  "universetcg.com:55614532125013": {
+    "available": false,
+    "price": "1.50",
+    "product_title": "Pokémon TCG Fever-Burst Fighter (XY11-Bb) Booster Pack"
+  },
+  "universetcg.com:55614532026709": {
+    "available": false,
+    "price": "2.00",
+    "product_title": "Pokémon TCG Mythical & Legendary Dream Shine Collection (CP5) Concept Pack"
+  },
+  "universetcg.com:55614531895637": {
+    "available": false,
+    "price": "2.50",
+    "product_title": "Pokémon TCG Expansion Pack 20th Anniversary (CP6) Concept Pack"
+  },
+  "universetcg.com:55614531764565": {
+    "available": false,
+    "price": "1.50",
+    "product_title": "Pokémon TCG Collection Moon (SM1M) Booster Pack"
+  },
+  "universetcg.com:55614531666261": {
+    "available": false,
+    "price": "1.50",
+    "product_title": "Pokémon TCG Collection Sun (SM1S) Booster Pack"
+  },
+  "universetcg.com:55614531469653": {
+    "available": false,
+    "price": "2.00",
+    "product_title": "Pokémon TCG Magma Gang vs Aqua Gang: Double Crisis (XY8) Concept Pack"
+  },
+  "universetcg.com:55614531371349": {
+    "available": false,
+    "price": "1.50",
+    "product_title": "Pokémon TCG Emerald Break (XY9) Booster Pack"
+  },
+  "universetcg.com:55614531240277": {
+    "available": false,
+    "price": "1.50",
+    "product_title": "Pokémon TCG Bandit Ring (XY10) Booster Pack"
+  },
+  "universetcg.com:55614531076437": {
+    "available": false,
+    "price": "2.00",
+    "product_title": "Pokémon TCG Legendary Shine Collection (XY11) Concept Pack"
+  },
+  "universetcg.com:55614530945365": {
+    "available": false,
+    "price": "1.50",
+    "product_title": "Pokémon TCG Red Flash (XY12) Booster Pack"
+  },
+  "universetcg.com:55614530748757": {
+    "available": false,
+    "price": "1.50",
+    "product_title": "Pokémon TCG Blue Shock (XY13) Booster Pack"
+  },
+  "universetcg.com:55614530617685": {
+    "available": false,
+    "price": "1.50",
+    "product_title": "Pokémon TCG Rage of the Broken Heavens (XY14) Booster Pack"
+  },
+  "universetcg.com:55614530388309": {
+    "available": false,
+    "price": "1.50",
+    "product_title": "Pokémon TCG Wild Blaze (XY3) Booster Pack"
+  },
+  "universetcg.com:55614530290005": {
+    "available": false,
+    "price": "1.50",
+    "product_title": "Pokémon TCG Rising Fist (XY4) Booster Pack"
+  },
+  "universetcg.com:55614529962325": {
+    "available": false,
+    "price": "1.50",
+    "product_title": "Pokémon TCG Phantom Gate (XY5) Booster Pack"
+  },
+  "universetcg.com:55614529864021": {
+    "available": false,
+    "price": "1.50",
+    "product_title": "Pokémon TCG Tidal Storm (XY7) Booster Pack"
+  },
+  "universetcg.com:55614529732949": {
+    "available": false,
+    "price": "1.50",
+    "product_title": "Pokémon TCG Gaia Volcano (XY6) Booster Pack"
+  },
+  "universetcg.com:55614529667413": {
+    "available": false,
+    "price": "1.50",
+    "product_title": "Pokémon TCG Shiny Collection (BW15) Concept Pack"
+  },
+  "universetcg.com:55614529569109": {
+    "available": false,
+    "price": "1.50",
+    "product_title": "Pokémon TCG Megalo Cannon (BW16) Booster Pack"
+  },
+  "universetcg.com:55614529503573": {
+    "available": false,
+    "price": "1.50",
+    "product_title": "Pokémon TCG EX Battle Boost (BW17) Concept Pack"
+  },
+  "universetcg.com:55614529438037": {
+    "available": false,
+    "price": "1.50",
+    "product_title": "Pokémon TCG Collection Y (XY2) Booster Pack"
+  },
+  "universetcg.com:55614529339733": {
+    "available": false,
+    "price": "1.50",
+    "product_title": "Pokémon TCG Collection X (XY1) Booster Pack"
+  },
+  "universetcg.com:55614529175893": {
+    "available": false,
+    "price": "2.50",
+    "product_title": "Pokémon TCG Dragon Selection (BW7) Booster Pack"
+  },
+  "universetcg.com:55614529077589": {
+    "available": false,
+    "price": "1.50",
+    "product_title": "Pokémon TCG Dragon Blade (BW8) Booster Pack"
+  },
+  "universetcg.com:55614529012053": {
+    "available": false,
+    "price": "1.50",
+    "product_title": "Pokémon TCG Dragon Blast (BW9) Booster Pack"
+  },
+  "universetcg.com:55614528880981": {
+    "available": false,
+    "price": "1.50",
+    "product_title": "Pokémon TCG Cold Flare (BW11) Booster Pack"
+  },
+  "universetcg.com:55614528782677": {
+    "available": false,
+    "price": "1.50",
+    "product_title": "Pokémon TCG Freeze Bolt (BW10) Booster Pack"
+  },
+  "universetcg.com:55614528717141": {
+    "available": false,
+    "price": "1.50",
+    "product_title": "Pokémon TCG Plasma Gale (BW12) Booster Pack"
+  },
+  "universetcg.com:55614528651605": {
+    "available": false,
+    "price": "1.50",
+    "product_title": "Pokémon TCG Thunder Knuckle (BW14) Booster Pack"
+  },
+  "universetcg.com:55614528520533": {
+    "available": false,
+    "price": "1.50",
+    "product_title": "Pokémon TCG Spiral Force (BW13) Booster Pack"
+  },
+  "universetcg.com:55614528454997": {
+    "available": false,
+    "price": "1.50",
+    "product_title": "Pokémon TCG Red Collection (BW3) Booster Pack"
+  },
+  "universetcg.com:55614528389461": {
+    "available": false,
+    "price": "1.50",
+    "product_title": "Pokémon TCG Hail Blizzard (BW4) Booster Pack"
+  },
+  "universetcg.com:55614528291157": {
+    "available": false,
+    "price": "1.50",
+    "product_title": "Pokémon TCG Psycho Drive (BW5) Booster Pack"
+  },
+  "universetcg.com:55614528225621": {
+    "available": false,
+    "price": "1.50",
+    "product_title": "Pokémon TCG Dark Rush (BW6) Booster Pack"
+  },
+  "universetcg.com:55614528127317": {
+    "available": false,
+    "price": "2.50",
+    "product_title": "Pokémon TCG Reviving Legends (L2) Booster Pack"
+  },
+  "universetcg.com:55614527996245": {
+    "available": false,
+    "price": "2.00",
+    "product_title": "Pokémon TCG Lost Link (LL) Enhanced Pack"
+  },
+  "universetcg.com:55614527930709": {
+    "available": false,
+    "price": "2.50",
+    "product_title": "Pokémon TCG Clash at the Summit (L3) Booster Pack"
+  },
+  "universetcg.com:55614526423381": {
+    "available": false,
+    "price": "1.50",
+    "product_title": "Pokémon TCG White Collection (BW2) Booster Pack"
+  },
+  "universetcg.com:55614522687829": {
+    "available": false,
+    "price": "1.50",
+    "product_title": "Pokémon TCG Black Collection (BW1) Booster Pack"
+  },
+  "universetcg.com:55616482771285": {
+    "available": false,
+    "price": "0.00",
+    "product_title": "Pokémon TCG Mega Evolution Dominio Delta 3-Pack Blister - Spanish"
+  },
+  "universetcg.com:55616507347285": {
+    "available": false,
+    "price": "21.00",
+    "product_title": "Pokémon TCG Mega Evolution Dominio Delta 3-Pack Blister - Spanish"
+  },
+  "universetcg.com:55616474480981": {
+    "available": false,
+    "price": "47.90",
+    "product_title": "Pokémon TCG Mega Evolution Dominio Delta Elite Trainer Box - Spanish"
+  },
+  "universetcg.com:55616505577813": {
+    "available": false,
+    "price": "80.00",
+    "product_title": "Pokémon TCG Mega Evolution Dominio Delta Elite Trainer Box - Spanish"
+  },
+  "miceliongames.com:40400": {
+    "available": true,
+    "price": 6.0,
+    "product_title": "Cyber Rawr"
+  },
+  "miceliongames.com:40395": {
+    "available": true,
+    "price": 7.0,
+    "product_title": "Miceliga pokemon Oscuridad ESPECIAL DESPEDIDA"
+  },
+  "miceliongames.com:40387": {
+    "available": true,
+    "price": 6.0,
+    "product_title": "Inscripción Martes Locos Riftbound"
   }
 }
