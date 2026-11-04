@@ -37755,7 +37755,7 @@
     "product_title": "Magic: The Gathering - Lorwyns Finsternis Commander Deck Tanz der Elemente - DE"
   },
   "cardcosmos.de:52238591852887": {
-    "available": true,
+    "available": false,
     "price": "64.90",
     "product_title": "Magic: The Gathering - Lorwyns Finsternis Commander Deck Fluch der Fäulnis - DE"
   },
@@ -38445,7 +38445,7 @@
     "product_title": "Magic: The Gathering - Avatar: The Last Airbender Commander's Bundle - EN"
   },
   "cardcosmos.de:51531552588119": {
-    "available": true,
+    "available": false,
     "price": "69.90",
     "product_title": "Magic: The Gathering - Avatar: The Last Airbender Bundle - EN"
   },
@@ -38490,7 +38490,7 @@
     "product_title": "Magic: The Gathering - Marvel’s Spider-Man Bundle - DE"
   },
   "cardcosmos.de:50384049504599": {
-    "available": false,
+    "available": true,
     "price": "34.99",
     "product_title": "Magic: The Gathering - Marvel’s Spider-Man Prerelease Pack - EN"
   },
@@ -38670,7 +38670,7 @@
     "product_title": "Pokémon - Paradise Dragona (SV7A) Booster Pack - JPN"
   },
   "cardcosmos.de:50154630218071": {
-    "available": true,
+    "available": false,
     "price": "4.79",
     "product_title": "Pokémon - Mask of Change (SV6) Booster Pack - JPN"
   },
@@ -42665,7 +42665,7 @@
     "product_title": "Wizard Extreme"
   },
   "cardcosmos.de:52025491390807": {
-    "available": true,
+    "available": false,
     "price": "3.29",
     "product_title": "Citadel Layer Troll Slayer Orange (12ml)"
   },
@@ -42690,7 +42690,7 @@
     "product_title": "Citadel Layer Ushabti Bone (12ml)"
   },
   "cardcosmos.de:52025505710423": {
-    "available": true,
+    "available": false,
     "price": "3.29",
     "product_title": "Citadel Layer Hashnut Copper (12ml)"
   },
@@ -42720,7 +42720,7 @@
     "product_title": "Citadel White Scar Grundierung (400ml)"
   },
   "cardcosmos.de:52025522454871": {
-    "available": true,
+    "available": false,
     "price": "15.49",
     "product_title": "Citadel Macragge Blue Grundierung (400ml)"
   },
@@ -42795,7 +42795,7 @@
     "product_title": "Vallejo Game Color Metallic Tinny Tin 18ml"
   },
   "cardcosmos.de:52025509445975": {
-    "available": true,
+    "available": false,
     "price": "3.29",
     "product_title": "Citadel Base Incubi Darkness (12ml)"
   },
@@ -42960,12 +42960,12 @@
     "product_title": "AoS Spearhead: Sylvaneth"
   },
   "cardcosmos.de:52025654509911": {
-    "available": true,
+    "available": false,
     "price": "40.99",
     "product_title": "AoS Sylvaneth: Kurnoth Hunters"
   },
   "cardcosmos.de:52025653723479": {
-    "available": true,
+    "available": false,
     "price": "35.99",
     "product_title": "AoS Sylvaneth: Tree-Revenants"
   },
@@ -42995,12 +42995,12 @@
     "product_title": "AoS Spearhead: Lumineht Realm-Lords"
   },
   "cardcosmos.de:52025651036503": {
-    "available": true,
+    "available": false,
     "price": "40.99",
     "product_title": "AoS Lumineth: Vanari Auralan Sentinels"
   },
   "cardcosmos.de:52025650446679": {
-    "available": true,
+    "available": false,
     "price": "40.99",
     "product_title": "AoS Lumineth: Vanari Auralan Wardens"
   },
@@ -43010,7 +43010,7 @@
     "product_title": "AoS Daughters of Khaine: Witch Aelves"
   },
   "cardcosmos.de:52025645629783": {
-    "available": true,
+    "available": false,
     "price": "40.99",
     "product_title": "AoS Daughters of Khaine: Blood Sisters"
   },
@@ -43065,12 +43065,12 @@
     "product_title": "AoS Nighthaunt: Cairn Wraith"
   },
   "cardcosmos.de:52025639174487": {
-    "available": true,
+    "available": false,
     "price": "40.99",
     "product_title": "AoS Soulblight Gravelords: Deathrattle Skeletons"
   },
   "cardcosmos.de:52025638420823": {
-    "available": true,
+    "available": false,
     "price": "37.99",
     "product_title": "AoS Kharadron Overlords: Arkanaut Company"
   },
@@ -43170,7 +43170,7 @@
     "product_title": "40k Adeptus Mechanicus: Serbery's Raiders"
   },
   "cardcosmos.de:52025696846167": {
-    "available": true,
+    "available": false,
     "price": "40.99",
     "product_title": "40k Genestealer Cults: Atalan Jackals"
   },
@@ -43535,7 +43535,7 @@
     "product_title": "40k Astra Militarum: Rogal Dorn Battle Tank"
   },
   "cardcosmos.de:52025729319255": {
-    "available": true,
+    "available": false,
     "price": "40.99",
     "product_title": "40k Astra Militarum: Attilan Rough Riders"
   },
@@ -52740,8 +52740,8 @@
     "product_title": "Caja Heat Wave Arena - Japones"
   },
   "cardzone.es:54461198729560": {
-    "available": false,
-    "price": "37.95",
+    "available": true,
+    "price": "39.95",
     "product_title": "Booster Bundle Fabula Sombria - Español"
   },
   "cardzone.es:54453747056984": {
@@ -61735,7 +61735,7 @@
     "product_title": "Blister 1 Sobres Dominio Delta | Delta Reign"
   },
   "pokemillon.com:54759187775811": {
-    "available": true,
+    "available": false,
     "price": "23.90",
     "product_title": "Blister 3 Sobres Dominio Delta | Delta Reign"
   },
@@ -81691,7 +81691,7 @@
   },
   "sunnystore.es:56874899636610": {
     "available": true,
-    "price": "54.90",
+    "price": "56.90",
     "product_title": "CAJA POKEMON STORM EMERALD M6 (COREANO)"
   },
   "sunnystore.es:56824953241986": {
@@ -81986,7 +81986,7 @@
   },
   "sunnystore.es:56754494144898": {
     "available": true,
-    "price": "116.90",
+    "price": "94.90",
     "product_title": "PROMO 040/M-P MAGIKARP POKEMON MEGA FESTA 2026 (COREANO)"
   },
   "sunnystore.es:56787515965826": {
@@ -82581,7 +82581,7 @@
   },
   "sunnystore.es:56743747617154": {
     "available": true,
-    "price": "73.90",
+    "price": "74.90",
     "product_title": "CAJA POKEMON ABYSS EYE M5 (JAPONÉS)"
   },
   "sunnystore.es:56650773168514": {
@@ -82665,8 +82665,8 @@
     "product_title": "ONE PIECE MAGAZINE CHOPPER’S JUMP COMICS PROMO CHOPPER EB02-003"
   },
   "sunnystore.es:56597482242434": {
-    "available": false,
-    "price": "42.90",
+    "available": true,
+    "price": "48.90",
     "product_title": "CAJA POKEMON NINJA SPINNER M4 (COREANO)"
   },
   "sunnystore.es:56592365814146": {
@@ -83151,17 +83151,17 @@
   },
   "sunnystore.es:56516967727490": {
     "available": true,
-    "price": "74.90",
+    "price": "79.90",
     "product_title": "CAJA POKEMON NINJA SPINNER M4 (JAPONÉS)"
   },
   "sunnystore.es:56458429006210": {
     "available": true,
-    "price": "42.90",
+    "price": "44.90",
     "product_title": "CAJA POKEMON MUNIKIS NIHIL ZERO M3 (COREANO)"
   },
   "sunnystore.es:56456093172098": {
     "available": true,
-    "price": "74.90",
+    "price": "75.90",
     "product_title": "CAJA ONE PIECE OP15 - ADVENTURE ON KAMI'S ISLAND (JAPONÉS)"
   },
   "sunnystore.es:56435680444802": {
@@ -83761,7 +83761,7 @@
   },
   "sunnystore.es:56231813382530": {
     "available": true,
-    "price": "79.90",
+    "price": "83.90",
     "product_title": "CAJA POKEMON MEGA DREAM EX M2A (COREANO)"
   },
   "sunnystore.es:56203671470466": {
@@ -84026,7 +84026,7 @@
   },
   "sunnystore.es:56287826346370": {
     "available": true,
-    "price": "104.90",
+    "price": "109.90",
     "product_title": "CAJA POKEMON MEGA DREAM EX M2A (JAPONÉS)"
   },
   "sunnystore.es:56410332266882": {
@@ -85750,12 +85750,12 @@
     "product_title": "CAJA POKEMON SV10 DESTINED RIVALS - RIVALES PREDESTINADOS (36 SOBRES)"
   },
   "sunnystore.es:55956451950978": {
-    "available": false,
-    "price": "174.90",
+    "available": true,
+    "price": "179.90",
     "product_title": "Pokémon Black Bolt Booster Box Japonés SV11B | Zekrom TCG 20 sobres"
   },
   "sunnystore.es:55956536033666": {
-    "available": false,
+    "available": true,
     "price": "169.90",
     "product_title": "Pokémon White Flare Booster Box Japonés SV11W | Reshiram TCG 20 sobres"
   },
@@ -86056,7 +86056,7 @@
   },
   "sunnystore.es:56197466063234": {
     "available": false,
-    "price": "49.90",
+    "price": "53.90",
     "product_title": "CAJA POKEMON SV9A HEAT WAVE ARENA (COREANO)"
   },
   "sunnystore.es:55177758638466": {
@@ -86305,8 +86305,8 @@
     "product_title": "BOOSTER POKEMON SV4K ANCIENT ROAR - SOBRE COREANO"
   },
   "sunnystore.es:55090824315266": {
-    "available": false,
-    "price": "46.90",
+    "available": true,
+    "price": "49.90",
     "product_title": "CAJA POKEMON SV7 STELLAR MIRACLE (COREANO)"
   },
   "sunnystore.es:55090815828354": {
@@ -86725,8 +86725,8 @@
     "product_title": "ONE PIECE OP05 - OPK05 \"AWAKENING OF THE NEW ERA\" (COREANO)"
   },
   "sunnystore.es:55475240501634": {
-    "available": false,
-    "price": "49.90",
+    "available": true,
+    "price": "52.90",
     "product_title": "CAJA POKEMON SV9 BATTLE PARTNERS (COREANO)"
   },
   "sunnystore.es:49122667036969": {
@@ -87475,8 +87475,8 @@
     "product_title": "REVISTA WEEKLY SHONEN JUMP No. 1 2025 - 1/25"
   },
   "sunnystore.es:56197474419074": {
-    "available": false,
-    "price": "45.90",
+    "available": true,
+    "price": "48.90",
     "product_title": "CAJA POKEMON SV7A PARADISE DRAGONA (COREANO)"
   },
   "sunnystore.es:56361715204482": {
@@ -87490,8 +87490,8 @@
     "product_title": "FIGURA JUMBO ZAPPO DRAGON TMNT TEENAGE MUTANT NINJA TURTLES BOOTLEG KO 1991 - MADE IN SPAIN"
   },
   "sunnystore.es:56361719398786": {
-    "available": false,
-    "price": "57.90",
+    "available": true,
+    "price": "62.90",
     "product_title": "CAJA POKEMON SUPER ELECTRIC BREAKER SV8 - COREANO"
   },
   "sunnystore.es:54857803301250": {
@@ -105150,7 +105150,7 @@
     "product_title": "Necromunda: Gangs Of The Underhive"
   },
   "laescotillajuegos.com:58318416740687": {
-    "available": true,
+    "available": false,
     "price": "65.45",
     "product_title": "Necromunda: Escher Underhive Crew"
   },
@@ -105985,12 +105985,12 @@
     "product_title": "Infantry Support Platform"
   },
   "laescotillajuegos.com:58242899083599": {
-    "available": true,
+    "available": false,
     "price": "44.99",
     "product_title": "Jedi Council"
   },
   "laescotillajuegos.com:58242875556175": {
-    "available": true,
+    "available": false,
     "price": "35.99",
     "product_title": "Agents of the Empire"
   },
@@ -107190,7 +107190,7 @@
     "product_title": "Skaven: Gutter Runners"
   },
   "laescotillajuegos.com:57922763194703": {
-    "available": true,
+    "available": false,
     "price": "54.40",
     "product_title": "Spearhead: Pack De Juego Ciudad De Ceniza (Español)"
   },
@@ -107800,7 +107800,7 @@
     "product_title": "Halo: Flashpoint Banished Spartan Killers"
   },
   "laescotillajuegos.com:57831886651727": {
-    "available": true,
+    "available": false,
     "price": "10.00",
     "product_title": "White Dwarf 525 (Jun-26) (English)"
   },
@@ -108390,7 +108390,7 @@
     "product_title": "Snowtroopers"
   },
   "laescotillajuegos.com:57743926264143": {
-    "available": true,
+    "available": false,
     "price": "44.99",
     "product_title": "Rogues & Rebels"
   },
@@ -109560,7 +109560,7 @@
     "product_title": "Clan Wren Mandalorians"
   },
   "laescotillajuegos.com:57577179382095": {
-    "available": true,
+    "available": false,
     "price": "40.49",
     "product_title": "Mandalorian Leaders"
   },
@@ -187012,7 +187012,7 @@
   "toyplanet.com:52349977657667": {
     "available": true,
     "price": "9.99",
-    "product_title": "Muñecas Antonio Juan Zapato Diferentes Modelos"
+    "product_title": "Zapatos surtidos"
   },
   "toyplanet.com:52349969236291": {
     "available": true,
@@ -192410,7 +192410,7 @@
     "product_title": "Puzzle 1000 Caballo Al Trote"
   },
   "toyplanet.com:52352728006979": {
-    "available": true,
+    "available": false,
     "price": "19.99",
     "product_title": "Disfraz Catrina Traje Infantil - Talla 5-7 años"
   },
@@ -200220,7 +200220,7 @@
     "product_title": "Patrulla Canina Pelota 23 cm de Diámetro"
   },
   "toyplanet.com:52409553977667": {
-    "available": false,
+    "available": true,
     "price": "10.99",
     "product_title": "Tech Deck Pack 2 Con Accesorio Surtido"
   },
@@ -203275,7 +203275,7 @@
     "product_title": "Disfraz de Brujita naranjita 12-24 meses bebé"
   },
   "toyplanet.com:52409710051651": {
-    "available": false,
+    "available": true,
     "price": "14.99",
     "product_title": "Bum Bumz Retro Jess Daisy Flower Peluche"
   },
@@ -289406,7 +289406,7 @@
   },
   "miceliongames.com:35204": {
     "available": true,
-    "price": 19.95,
+    "price": 17.95,
     "product_title": "(ESP) Pack Presentación – Teenage Mutant Ninja Turtles – TMNT -MTG"
   },
   "miceliongames.com:35156": {
@@ -289816,12 +289816,12 @@
   },
   "miceliongames.com:34170": {
     "available": true,
-    "price": 16.95,
+    "price": 11.95,
     "product_title": "Marvel champions: Pack héroe &#8211; Hércules"
   },
   "miceliongames.com:34164": {
     "available": true,
-    "price": 16.95,
+    "price": 11.95,
     "product_title": "Marvel champions: Pack héroe &#8211; Wonderman"
   },
   "miceliongames.com:34068": {
@@ -289901,7 +289901,7 @@
   },
   "miceliongames.com:33846": {
     "available": true,
-    "price": 14.95,
+    "price": 12.95,
     "product_title": "LIGHT SPEED: ARENA"
   },
   "miceliongames.com:33798": {
@@ -290201,12 +290201,12 @@
   },
   "miceliongames.com:33299": {
     "available": true,
-    "price": 16.95,
+    "price": 11.95,
     "product_title": "Marvel champions: Pack héroe &#8211; Iceman"
   },
   "miceliongames.com:33295": {
     "available": true,
-    "price": 21.95,
+    "price": 14.95,
     "product_title": "Marvel Champions: Pack de escenarios &#8211; Antiguo y futuro KANG"
   },
   "miceliongames.com:33287": {
@@ -290545,7 +290545,7 @@
     "product_title": "SW: Unlimited Soft Crate Vader/Krennic – Caja para mazos y accesorios"
   },
   "miceliongames.com:31928": {
-    "available": true,
+    "available": false,
     "price": 25.95,
     "product_title": "SW: Unlimited 18-Pocket Album Darth Vader"
   },
@@ -290706,7 +290706,7 @@
   },
   "miceliongames.com:31643": {
     "available": true,
-    "price": 19.95,
+    "price": 14.95,
     "product_title": "Carnuta"
   },
   "miceliongames.com:31581": {
@@ -293086,7 +293086,7 @@
   },
   "miceliongames.com:29101": {
     "available": true,
-    "price": 14.95,
+    "price": 9.95,
     "product_title": "Omnisciente &#8211; asmodee"
   },
   "miceliongames.com:29059": {
@@ -293566,7 +293566,7 @@
   },
   "miceliongames.com:28041": {
     "available": true,
-    "price": 19.95,
+    "price": 9.95,
     "product_title": "Taxi Driver &#8211; Barcelona"
   },
   "miceliongames.com:28037": {
@@ -293801,7 +293801,7 @@
   },
   "miceliongames.com:27425": {
     "available": true,
-    "price": 19.95,
+    "price": 14.95,
     "product_title": "¡Tiburón!"
   },
   "miceliongames.com:27407": {
@@ -293891,7 +293891,7 @@
   },
   "miceliongames.com:27189": {
     "available": true,
-    "price": 49.95,
+    "price": 34.95,
     "product_title": "Fromage"
   },
   "miceliongames.com:27156": {
@@ -295451,7 +295451,7 @@
   },
   "miceliongames.com:25209": {
     "available": true,
-    "price": 99.95,
+    "price": 89.95,
     "product_title": "MTG &#8211; Tortugas ninja &#8211; Caja de sobres &#8211; ENG"
   },
   "miceliongames.com:25207": {
@@ -295461,7 +295461,7 @@
   },
   "miceliongames.com:25199": {
     "available": true,
-    "price": 39.95,
+    "price": 34.95,
     "product_title": "MTG &#8211; Tortugas ninja &#8211; Bundle &#8211; ENG"
   },
   "miceliongames.com:25196": {
@@ -295686,7 +295686,7 @@
   },
   "miceliongames.com:24883": {
     "available": true,
-    "price": 119.95,
+    "price": 84.95,
     "product_title": "El confín del trueno &#8211; Twilight Imperium"
   },
   "miceliongames.com:24836": {
@@ -303000,7 +303000,7 @@
     "product_title": "2025-26 Topps Real Madrid &#8211; Team Set"
   },
   "supercollectors.es:63267": {
-    "available": true,
+    "available": false,
     "price": 515.0,
     "product_title": "2025-26 Topps Real Madrid Los Blancos &#8211; Hobby Box"
   },
@@ -323631,7 +323631,7 @@
   },
   "tcglevel.com:53367228956939": {
     "available": true,
-    "price": "194.90",
+    "price": "187.90",
     "product_title": "Booster Box Pokémon 30 Aniversario Celebraciones | Japonés"
   },
   "cardcrack.com:9067": {
@@ -325630,7 +325630,7 @@
     "product_title": "[EVENTO] Torneo Individual 10 de octubre Warhammer 40k"
   },
   "laescotillajuegos.com:58811824865615": {
-    "available": true,
+    "available": false,
     "price": "58.49",
     "product_title": "Jedi BARC Speeder"
   },
@@ -356376,7 +356376,7 @@
   },
   "kamehousecards.com:54909510517074": {
     "available": true,
-    "price": "68.95",
+    "price": "67.95",
     "product_title": "Draft Night Reality Fracture | Magic: The Gathering"
   },
   "kamehousecards.com:54909506879826": {
@@ -356391,7 +356391,7 @@
   },
   "kamehousecards.com:54909509468498": {
     "available": true,
-    "price": "111.95",
+    "price": "110.95",
     "product_title": "Play Booster Box Reality Fracture | Magic: The Gathering"
   },
   "solohits.es:59652588503385": {
@@ -364906,7 +364906,7 @@
   },
   "sunnystore.es:56967769358722": {
     "available": true,
-    "price": "107.90",
+    "price": "99.90",
     "product_title": "CAJA POKEMON 30TH CELEBRATION M6A - COREANO"
   },
   "sunnystore.es:56967681540482": {
@@ -365550,7 +365550,7 @@
     "product_title": "Caja 30th Celebration Espeon EX Deck Set - Chino"
   },
   "cardzone.es:58696536293720": {
-    "available": false,
+    "available": true,
     "price": "34.95",
     "product_title": "Caja 30th Celebration Umbreon EX Deck Set - Chino"
   },
@@ -365560,12 +365560,12 @@
     "product_title": "Caja Dream Painting Collection Eeveelution Figure Set - Chino"
   },
   "cardzone.es:58682436387160": {
-    "available": false,
+    "available": true,
     "price": "29.95",
     "product_title": "Caja 30th Celebration Sylveon EX Set - Chino"
   },
   "cardzone.es:58682397491544": {
-    "available": false,
+    "available": true,
     "price": "29.95",
     "product_title": "Caja 30th Celebration Greninja EX Set - Chino"
   },
@@ -372346,7 +372346,7 @@
   },
   "cardcosmos.de:55534718648663": {
     "available": true,
-    "price": "29.90",
+    "price": "24.90",
     "product_title": "Pokémon - 30th Celebration Card Set Johto: Endivie, Feurigel & Karnimani - JPN"
   },
   "cardcosmos.de:55534679949655": {
@@ -386706,7 +386706,7 @@
   },
   "kamehousecards.com:55265920319826": {
     "available": true,
-    "price": "16.95",
+    "price": "15.95",
     "product_title": "Blíster especial de 2 sobres Pokémon"
   },
   "sarumangames.es:56552180318587": {
@@ -388057,7 +388057,7 @@
   "universetcg.com:55591847985493": {
     "available": false,
     "price": "20.00",
-    "product_title": "Pokémon TCG Black Bolt (SV11B) Collector Set"
+    "product_title": "Pokémon TCG Black Bolt & White Flare (SV11B / SV11W) Card File Set"
   },
   "universetcg.com:55591847723349": {
     "available": false,
@@ -388396,18 +388396,18 @@
   },
   "universetcg.com:55591838744917": {
     "available": false,
-    "price": "35.00",
-    "product_title": "Pokémon TCG Rocket Gang's Glory (SV10) Booster Box"
+    "price": "158.00",
+    "product_title": "Pokémon TCG Glory of Team Rocket (SV10) Booster Box"
   },
   "universetcg.com:55591838712149": {
     "available": false,
     "price": "10.00",
-    "product_title": "Pokémon TCG White Flare (SV11W) Deluxe Expansion Set"
+    "product_title": "Pokémon TCG White Flare Deluxe (SV11W) Booster Box"
   },
   "universetcg.com:55591838679381": {
     "available": false,
     "price": "10.00",
-    "product_title": "Pokémon TCG Black Bolt (SV11B) Deluxe Expansion Set"
+    "product_title": "Pokémon TCG Black Bolt Deluxe (SV11B) Booster Box"
   },
   "universetcg.com:55591838646613": {
     "available": false,
@@ -407010,7 +407010,7 @@
     "product_title": "One Piece EB05 Heroines Edition Vol.2 &#8211; Booster Box (Japonés)"
   },
   "supercollectors.es:77603": {
-    "available": true,
+    "available": false,
     "price": 35.0,
     "product_title": "2025-26 Topps Stadium Club Chrome UCL &#8211; Value Box"
   },
@@ -409715,7 +409715,7 @@
     "product_title": "cardcosmos Geschenkgutschein für TCG & Sammelkarten"
   },
   "cardzone.es:59020028150104": {
-    "available": true,
+    "available": false,
     "price": "42.95",
     "product_title": "Value Box Fórmula 1 2026 Chrome - Topps \"embalaje dañado\""
   },
@@ -412248,5 +412248,620 @@
     "available": true,
     "price": 209.99,
     "product_title": "<p style=\"color: red\"><u>Precio PRO: 159,99€</u></p>Booster Box &#8211; Evoluciones en Paldea &#8211; ESPAÑOL"
+  },
+  "cardzone.es:59022061273432": {
+    "available": true,
+    "price": "45.00",
+    "product_title": "Alolan Golem GX (2017) Japanese Awakened Heroes - CGC 10"
+  },
+  "cardzone.es:59022060355928": {
+    "available": true,
+    "price": "165.00",
+    "product_title": "Raichu GX (2019) Japanese Family Card Game - CGC 10 Pristine"
+  },
+  "cardzone.es:59022054162776": {
+    "available": true,
+    "price": "60.00",
+    "product_title": "Alolan Golem GX (2017) Japanese Awakened Heroes - CGC 10"
+  },
+  "cardzone.es:59022052295000": {
+    "available": true,
+    "price": "80.00",
+    "product_title": "Alolan Golem GX (2017) Japanese Awakened Heroes - CGC 10"
+  },
+  "cardzone.es:59022023360856": {
+    "available": true,
+    "price": "75.00",
+    "product_title": "Mr. Mime GX (2018) Japanese Sun & Moon Promos - CGC 10"
+  },
+  "cardzone.es:59021913489752": {
+    "available": true,
+    "price": "45.00",
+    "product_title": "Jirachi GX (2019) Japanese TAG TEAM GX Starter Set - CGC 10"
+  },
+  "cardzone.es:59021851951448": {
+    "available": true,
+    "price": "125.00",
+    "product_title": "Dialga GX (2018) Japanese Ultra Force - CGC 10"
+  },
+  "cardzone.es:59021654983000": {
+    "available": true,
+    "price": "85.00",
+    "product_title": "Rayquaza GX (2019) Japanese TAG TEAM GX:Tag All Stars - CGC 10"
+  },
+  "cardzone.es:59021648757080": {
+    "available": true,
+    "price": "45.00",
+    "product_title": "Meganium (2000) Japanese Gold, Silver, to a New World Holo - CGC 8"
+  },
+  "cardzone.es:59021647053144": {
+    "available": true,
+    "price": "55.00",
+    "product_title": "Clefable (1997) Japanese Pokémon Jungle Holo - CGC 8"
+  },
+  "cardzone.es:59021643874648": {
+    "available": true,
+    "price": "70.00",
+    "product_title": "Clefairy (1996) Japanese Base Set Holo - CGC 8"
+  },
+  "cardzone.es:59021641187672": {
+    "available": true,
+    "price": "40.00",
+    "product_title": "Koga's Beedrill (1999) Japanese Gym 2: Challenge from the Darkness Holo - CGC 8"
+  },
+  "cardzone.es:59021637484888": {
+    "available": true,
+    "price": "35.00",
+    "product_title": "Crobat (2000) Japanese Awakening Legends Holo - CGC 8"
+  },
+  "cardzone.es:59021162938712": {
+    "available": true,
+    "price": "30.00",
+    "product_title": "Bellossom (2000) Japanese Gold, Silver, to a New World Holo - CGC 8"
+  },
+  "universetcg.com:54622115463509": {
+    "available": false,
+    "price": "95.00",
+    "product_title": "Yu-Gi-Oh! Deck-Build Pack: Glorious Victors Booster Display (24 Boosters) - English"
+  },
+  "universetcg.com:55647562662229": {
+    "available": false,
+    "price": "11.90",
+    "product_title": "Gundam Card Game – Official Card Case Set EX 01 [EVX16] - English"
+  },
+  "universetcg.com:55647562596693": {
+    "available": false,
+    "price": "9.90",
+    "product_title": "Gundam Card Game – Official Sleeves EX 04 [EVX14] - English"
+  },
+  "universetcg.com:55647562531157": {
+    "available": false,
+    "price": "9.90",
+    "product_title": "Gundam Card Game – Official Card Sleeves EX 02 [EVX10] - English"
+  },
+  "universetcg.com:55647562465621": {
+    "available": false,
+    "price": "9.90",
+    "product_title": "Gundam Card Game – Official Damage Counter Dice - Haro - [EVX08] - English"
+  },
+  "universetcg.com:55647562400085": {
+    "available": false,
+    "price": "4.90",
+    "product_title": "Gundam Card Game – Cosmic Crisis [EB02] Extra Booster Pack - English"
+  },
+  "universetcg.com:55647562367317": {
+    "available": false,
+    "price": "110.90",
+    "product_title": "Gundam Card Game – Cosmic Crisis [EB02] Extra Booster Box - English"
+  },
+  "universetcg.com:55647562301781": {
+    "available": false,
+    "price": "36.90",
+    "product_title": "Gundam Card Game – Unicorn Awakening [ST15] - English"
+  },
+  "universetcg.com:55591853621589": {
+    "available": false,
+    "price": "10.00",
+    "product_title": "Pokémon TCG Metal Set Melmetal"
+  },
+  "universetcg.com:55591853523285": {
+    "available": false,
+    "price": "10.00",
+    "product_title": "Pokémon TCG Mewtwo Strikes Back EVOLUTION Set"
+  },
+  "universetcg.com:55591853490517": {
+    "available": false,
+    "price": "10.00",
+    "product_title": "Pokémon TCG Detective Pikachu Charizard GX Ver. Jumbo Card Set"
+  },
+  "universetcg.com:55591853457749": {
+    "available": false,
+    "price": "10.00",
+    "product_title": "Pokémon TCG Detective Pikachu Mewtwo GX Ver. Jumbo Card Set"
+  },
+  "universetcg.com:55591853424981": {
+    "available": false,
+    "price": "30.00",
+    "product_title": "Pokémon TCG TAG TEAM GX Starter Deluxe Set"
+  },
+  "universetcg.com:55591853359445": {
+    "available": false,
+    "price": "10.00",
+    "product_title": "Pokémon TCG Mewtwo & Mew GX Jumbo Card Set"
+  },
+  "universetcg.com:55591853293909": {
+    "available": false,
+    "price": "30.00",
+    "product_title": "Pokémon TCG Extra Regulation BOX"
+  },
+  "universetcg.com:55591853261141": {
+    "available": false,
+    "price": "35.00",
+    "product_title": "Pokémon TCG Toys R Us Limited Triple Starter Set V"
+  },
+  "universetcg.com:55591853228373": {
+    "available": false,
+    "price": "20.00",
+    "product_title": "Pokémon TCG Seven-Eleven Limited Special Set: Starter Set V Fire"
+  },
+  "universetcg.com:55591853195605": {
+    "available": false,
+    "price": "50.00",
+    "product_title": "Pokémon TCG Starter Set V5 Complete Battle Box"
+  },
+  "universetcg.com:55591853130069": {
+    "available": false,
+    "price": "10.00",
+    "product_title": "Pokémon TCG Zacian + Zamazenta BOX"
+  },
+  "universetcg.com:55591852900693": {
+    "available": false,
+    "price": "15.00",
+    "product_title": "Pokémon TCG VMAX Special Set"
+  },
+  "universetcg.com:55591852867925": {
+    "available": false,
+    "price": "75.00",
+    "product_title": "Pokémon TCG High-Class Pack Shiny Star V Nessa Set"
+  },
+  "universetcg.com:55591852835157": {
+    "available": false,
+    "price": "30.00",
+    "product_title": "Pokémon TCG Special BOX Pokémon Center Kanazawa Opening Commemoration"
+  },
+  "universetcg.com:55591852802389": {
+    "available": false,
+    "price": "15.00",
+    "product_title": "Pokémon TCG Trainer Card Collection: Marnie's Practice"
+  },
+  "universetcg.com:55591852769621": {
+    "available": false,
+    "price": "15.00",
+    "product_title": "Pokémon TCG Trainer Card Collection: Bede's Resolve"
+  },
+  "universetcg.com:55591852736853": {
+    "available": false,
+    "price": "15.00",
+    "product_title": "Pokémon TCG Trainer Card Collection: Hop's Daily Routine"
+  },
+  "universetcg.com:55591852704085": {
+    "available": false,
+    "price": "35.00",
+    "product_title": "Pokémon TCG VMAX Battle Triple Starter Set"
+  },
+  "universetcg.com:55591852671317": {
+    "available": false,
+    "price": "25.00",
+    "product_title": "Pokémon TCG SHINY BOX Crobat V"
+  },
+  "universetcg.com:55591852540245": {
+    "available": false,
+    "price": "5.00",
+    "product_title": "Pokémon TCG Energy Pack Metal Energy"
+  },
+  "universetcg.com:55591852507477": {
+    "available": false,
+    "price": "5.00",
+    "product_title": "Pokémon TCG Energy Pack Darkness Energy"
+  },
+  "universetcg.com:55591852474709": {
+    "available": false,
+    "price": "5.00",
+    "product_title": "Pokémon TCG Energy Pack Fighting Energy"
+  },
+  "universetcg.com:55591852441941": {
+    "available": false,
+    "price": "5.00",
+    "product_title": "Pokémon TCG Energy Pack Psychic Energy"
+  },
+  "universetcg.com:55591852409173": {
+    "available": false,
+    "price": "5.00",
+    "product_title": "Pokémon TCG Energy Pack Lightning Energy"
+  },
+  "universetcg.com:55591852376405": {
+    "available": false,
+    "price": "5.00",
+    "product_title": "Pokémon TCG Energy Pack Water Energy"
+  },
+  "universetcg.com:55591852343637": {
+    "available": false,
+    "price": "5.00",
+    "product_title": "Pokémon TCG Energy Pack Fire Energy"
+  },
+  "universetcg.com:55591852310869": {
+    "available": false,
+    "price": "5.00",
+    "product_title": "Pokémon TCG Energy Pack Grass Energy"
+  },
+  "universetcg.com:55591852179797": {
+    "available": false,
+    "price": "40.00",
+    "product_title": "Pokémon TCG High-Class Deck Double BOX Gengar VMAX & Inteleon VMAX"
+  },
+  "universetcg.com:55591852081493": {
+    "available": false,
+    "price": "10.00",
+    "product_title": "Pokémon TCG Special Card Set Zacian V-UNION"
+  },
+  "universetcg.com:55591852048725": {
+    "available": false,
+    "price": "10.00",
+    "product_title": "Pokémon TCG Special Card Set Greninja V-UNION"
+  },
+  "universetcg.com:55591852015957": {
+    "available": false,
+    "price": "10.00",
+    "product_title": "Pokémon TCG Special Card Set Mewtwo V-UNION"
+  },
+  "universetcg.com:55591851983189": {
+    "available": false,
+    "price": "15.00",
+    "product_title": "Pokémon TCG Trainer Card Collection: Raihan's Tenacity"
+  },
+  "universetcg.com:55591851950421": {
+    "available": false,
+    "price": "15.00",
+    "product_title": "Pokémon TCG Trainer Card Collection: Bea's After School"
+  },
+  "universetcg.com:55591851917653": {
+    "available": false,
+    "price": "15.00",
+    "product_title": "Pokémon TCG Trainer Card Collection: Nessa's Rest"
+  },
+  "universetcg.com:55591851884885": {
+    "available": false,
+    "price": "15.00",
+    "product_title": "Pokémon TCG Trainer Card Collection: Leon's Advice"
+  },
+  "universetcg.com:55591851819349": {
+    "available": false,
+    "price": "35.00",
+    "product_title": "Pokémon TCG Premium Trainer Box VSTAR"
+  },
+  "universetcg.com:55591851786581": {
+    "available": false,
+    "price": "15.00",
+    "product_title": "Pokémon TCG Special Card Set Glaceon VSTAR (Ice)"
+  },
+  "universetcg.com:55591851753813": {
+    "available": false,
+    "price": "15.00",
+    "product_title": "Pokémon TCG Special Card Set Leafeon VSTAR (Grass)"
+  },
+  "universetcg.com:55591851721045": {
+    "available": false,
+    "price": "25.00",
+    "product_title": "Pokémon TCG Pokémon GO Special Set"
+  },
+  "universetcg.com:55591851688277": {
+    "available": false,
+    "price": "15.00",
+    "product_title": "Pokémon TCG Pokémon GO Card File Set"
+  },
+  "universetcg.com:55591851655509": {
+    "available": false,
+    "price": "15.00",
+    "product_title": "Pokémon TCG VSTAR Special Set"
+  },
+  "universetcg.com:55591851622741": {
+    "available": false,
+    "price": "20.00",
+    "product_title": "Pokémon TCG Mystery Box"
+  },
+  "universetcg.com:55591851589973": {
+    "available": false,
+    "price": "30.00",
+    "product_title": "Pokémon TCG Pearl Clan Special Set"
+  },
+  "universetcg.com:55591851557205": {
+    "available": false,
+    "price": "30.00",
+    "product_title": "Pokémon TCG Diamond Clan Special Set"
+  },
+  "universetcg.com:55591851524437": {
+    "available": false,
+    "price": "15.00",
+    "product_title": "Pokémon TCG Jumbo Card Collection Latias"
+  },
+  "universetcg.com:55591851491669": {
+    "available": false,
+    "price": "15.00",
+    "product_title": "Pokémon TCG Jumbo Card Collection Mew"
+  },
+  "universetcg.com:55591851458901": {
+    "available": false,
+    "price": "15.00",
+    "product_title": "Pokémon TCG Jumbo Card Collection Lapras"
+  },
+  "universetcg.com:55591851360597": {
+    "available": false,
+    "price": "20.00",
+    "product_title": "Pokémon TCG Trainer Battle Deck: Misty of Cerulean City Gym"
+  },
+  "universetcg.com:55591851262293": {
+    "available": false,
+    "price": "20.00",
+    "product_title": "Pokémon TCG Trainer Battle Deck: Brock of Pewter City Gym"
+  },
+  "universetcg.com:55591851229525": {
+    "available": false,
+    "price": "15.00",
+    "product_title": "Pokémon TCG Family Pokémon Card Game Deck (2019)"
+  },
+  "universetcg.com:55591851196757": {
+    "available": false,
+    "price": "10.00",
+    "product_title": "Pokémon TCG Umbreon & Darkrai GX Starter Set"
+  },
+  "universetcg.com:55591851163989": {
+    "available": false,
+    "price": "10.00",
+    "product_title": "Pokémon TCG Espeon & Deoxys GX Starter Set"
+  },
+  "universetcg.com:55591850967381": {
+    "available": false,
+    "price": "10.00",
+    "product_title": "Pokémon TCG Grimmsnarl VMAX Starter Set"
+  },
+  "universetcg.com:55591850934613": {
+    "available": false,
+    "price": "10.00",
+    "product_title": "Pokémon TCG Charizard VMAX Starter Set"
+  },
+  "universetcg.com:55591850574165": {
+    "available": false,
+    "price": "10.00",
+    "product_title": "Pokémon TCG Blastoise VMAX Starter Set"
+  },
+  "universetcg.com:55591850541397": {
+    "available": false,
+    "price": "10.00",
+    "product_title": "Pokémon TCG Venusaur VMAX Starter Set"
+  },
+  "universetcg.com:55591850508629": {
+    "available": false,
+    "price": "20.00",
+    "product_title": "Pokémon TCG Inteleon VMAX High-Class Deck"
+  },
+  "universetcg.com:55591850475861": {
+    "available": false,
+    "price": "20.00",
+    "product_title": "Pokémon TCG Gengar VMAX High-Class Deck"
+  },
+  "universetcg.com:55591850377557": {
+    "available": false,
+    "price": "35.00",
+    "product_title": "Pokémon TCG Zacian & Zamazenta vs Eternatus Special Deck Set"
+  },
+  "universetcg.com:55591850279253": {
+    "available": false,
+    "price": "10.00",
+    "product_title": "Pokémon TCG Lucario VSTAR Starter Set"
+  },
+  "universetcg.com:55591850180949": {
+    "available": false,
+    "price": "35.00",
+    "product_title": "Pokémon TCG Charizard VSTAR vs Rayquaza VMAX Special Deck Set"
+  },
+  "universetcg.com:55591848739157": {
+    "available": false,
+    "price": "10.00",
+    "product_title": "Pokémon TCG Energy Card Set"
+  },
+  "universetcg.com:55591848182101": {
+    "available": false,
+    "price": "15.00",
+    "product_title": "Pokémon TCG Collection File Set Lillie"
+  },
+  "universetcg.com:55591848116565": {
+    "available": false,
+    "price": "15.00",
+    "product_title": "Pokémon TCG Collection File Set N"
+  },
+  "universetcg.com:55591847887189": {
+    "available": false,
+    "price": "15.00",
+    "product_title": "Pokémon TCG Special BOX Pokémon Center Fukuoka"
+  },
+  "universetcg.com:55591847854421": {
+    "available": false,
+    "price": "15.00",
+    "product_title": "Pokémon TCG Special BOX Pokémon Center Hiroshima"
+  },
+  "universetcg.com:55591847788885": {
+    "available": false,
+    "price": "15.00",
+    "product_title": "Pokémon TCG Special BOX Pokémon Center Tohoku"
+  },
+  "universetcg.com:55591847461205": {
+    "available": false,
+    "price": "15.00",
+    "product_title": "Pokémon TCG Card Illustration Figure Collection"
+  },
+  "universetcg.com:55591846314325": {
+    "available": false,
+    "price": "15.00",
+    "product_title": "Pokémon TCG Card Illustration Figure Collection: Waterside Pokémon"
+  },
+  "universetcg.com:55591843561813": {
+    "available": false,
+    "price": "25.00",
+    "product_title": "Pokémon World Championships 2023 Yokohama Deck: Pikachu"
+  },
+  "universetcg.com:55591843266901": {
+    "available": false,
+    "price": "15.00",
+    "product_title": "Pokémon TCG Terastal Mewtwo ex Starter Set"
+  },
+  "universetcg.com:55591843234133": {
+    "available": false,
+    "price": "35.00",
+    "product_title": "Pokémon TCG Venusaur, Charizard & Blastoise ex Special Deck Set"
+  },
+  "universetcg.com:55591842611541": {
+    "available": false,
+    "price": "25.00",
+    "product_title": "Pokémon TCG Future Miraidon ex Starter Set"
+  },
+  "universetcg.com:55591842414933": {
+    "available": false,
+    "price": "25.00",
+    "product_title": "Pokémon TCG Ancient Koraidon ex Starter Set"
+  },
+  "universetcg.com:55591841890645": {
+    "available": false,
+    "price": "15.00",
+    "product_title": "Pokémon TCG Terastal Stellar Ceruledge ex Starter Set"
+  },
+  "universetcg.com:55591839596885": {
+    "available": false,
+    "price": "35.00",
+    "product_title": "Pokémon TCG Mega Feraligatr, Mega Dragonite & Mega Gengar MEGA Special Deck Set"
+  },
+  "universetcg.com:55647555551573": {
+    "available": false,
+    "price": "9.06",
+    "product_title": "Pokémon TCG White Flare (SV11W) Booster Pack"
+  },
+  "universetcg.com:55647555584341": {
+    "available": false,
+    "price": "2.50",
+    "product_title": "Pokémon TCG White Flare (SV11W) Booster Pack"
+  },
+  "universetcg.com:55647555617109": {
+    "available": false,
+    "price": "2.50",
+    "product_title": "Pokémon TCG White Flare (SV11W) Booster Pack"
+  },
+  "universetcg.com:55647555453269": {
+    "available": false,
+    "price": "8.91",
+    "product_title": "Pokémon TCG Black Bolt (SV11B) Booster Pack"
+  },
+  "universetcg.com:55647555486037": {
+    "available": false,
+    "price": "2.50",
+    "product_title": "Pokémon TCG Black Bolt (SV11B) Booster Pack"
+  },
+  "universetcg.com:55647555518805": {
+    "available": false,
+    "price": "2.50",
+    "product_title": "Pokémon TCG Black Bolt (SV11B) Booster Pack"
+  },
+  "universetcg.com:55647561810261": {
+    "available": false,
+    "price": "15.00",
+    "product_title": "Pokémon TCG Terastal Stellar Sylveon ex Starter Set (SV7-SD-SV)"
+  },
+  "universetcg.com:55647561875797": {
+    "available": false,
+    "price": "20.00",
+    "product_title": "Pokémon TCG Battle Master Deck Chien-Pao ex (SV6-BMD-CP)"
+  },
+  "universetcg.com:55647561843029": {
+    "available": false,
+    "price": "20.00",
+    "product_title": "Pokémon TCG Battle Master Deck Terastal Charizard ex (SV6-BMD-CZ)"
+  },
+  "universetcg.com:55647561908565": {
+    "available": false,
+    "price": "15.00",
+    "product_title": "Pokémon TCG Ogerpon Special Jumbo Card Set (SV6a-PR)"
+  },
+  "universetcg.com:55647561941333": {
+    "available": false,
+    "price": "15.00",
+    "product_title": "Pokémon TCG Terastal Skeledirge ex Starter Set (SV3-SD-SK)"
+  },
+  "universetcg.com:55647561974101": {
+    "available": false,
+    "price": "15.00",
+    "product_title": "Pokémon TCG ex Special Set (SV2-PR)"
+  },
+  "universetcg.com:55647562006869": {
+    "available": false,
+    "price": "40.00",
+    "product_title": "Pokémon TCG Scarlet & Violet Premium Trainer Box ex (SV-PTB)"
+  },
+  "universetcg.com:55647562170709": {
+    "available": false,
+    "price": "15.00",
+    "product_title": "Pokémon TCG Quaxly & Mimikyu ex Starter Set (SV1-SD-QM)"
+  },
+  "universetcg.com:55647562137941": {
+    "available": false,
+    "price": "15.00",
+    "product_title": "Pokémon TCG Zorua & Zoroark ex Starter Set (M-SD-ZZK)"
+  },
+  "universetcg.com:55647562105173": {
+    "available": false,
+    "price": "15.00",
+    "product_title": "Pokémon TCG Mega Gallade ex Special Card Set (M3-PR-MGL)"
+  },
+  "universetcg.com:55647562039637": {
+    "available": false,
+    "price": "10.00",
+    "product_title": "Pokémon TCG Mega Start Deck 100 Battle Collection (M-SD100) Starter Set"
+  },
+  "universetcg.com:55647562072405": {
+    "available": false,
+    "price": "40.00",
+    "product_title": "Pokémon TCG Mega Evolution Premium Trainer Box (M-PTB)"
+  },
+  "universetcg.com:55647561711957": {
+    "available": false,
+    "price": "15.00",
+    "product_title": "Pokémon TCG Mega Diancie ex Starter Set (M-SD-MDN)"
+  },
+  "universetcg.com:55647561679189": {
+    "available": false,
+    "price": "15.00",
+    "product_title": "Pokémon TCG Mega Gengar ex Starter Set (M-SD-MGN)"
+  },
+  "universetcg.com:55647555387733": {
+    "available": false,
+    "price": "35.00",
+    "product_title": "Pokémon TCG Black Bolt (SV11B) Booster Box"
+  },
+  "universetcg.com:55647561744725": {
+    "available": false,
+    "price": "15.00",
+    "product_title": "Pokémon TCG Marnie's Morpeko & Grimmsnarl ex Starter Set (SVOM)"
+  },
+  "universetcg.com:55647561777493": {
+    "available": false,
+    "price": "15.00",
+    "product_title": "Pokémon TCG Steven's Beldum & Metagross ex Starter Set (SVOD)"
+  },
+  "universetcg.com:55647555420501": {
+    "available": false,
+    "price": "35.00",
+    "product_title": "Pokémon TCG White Flare (SV11W) Booster Box"
+  },
+  "supercollectors.es:77605": {
+    "available": true,
+    "price": 475.0,
+    "product_title": "2026 Topps Inception NFL &#8211; Hobby Box"
   }
 }
