@@ -38816,7 +38816,7 @@
   },
   "cardcosmos.de:51536857792855": {
     "available": true,
-    "price": "3.90",
+    "price": "2.99",
     "product_title": "Pokémon - Mega Symphonia (M1S) Booster Pack - JPN"
   },
   "cardcosmos.de:51667292029271": {
@@ -52890,7 +52890,7 @@
     "product_title": "Mini Lata Prismatic Evolutions - Ingles"
   },
   "cardzone.es:54359642669400": {
-    "available": true,
+    "available": false,
     "price": "9.95",
     "product_title": "Mystery Pack 10 Cartas RR/RRR - Japones"
   },
@@ -98960,12 +98960,12 @@
     "product_title": "Saiyan's Pride FB08 - Dragon Ball Super Card Game Fusion World"
   },
   "kamehousecards.com:53009013440850": {
-    "available": false,
+    "available": true,
     "price": "85.95",
     "product_title": "Illustration Box IB05 y IB06 - One Piece Card Game"
   },
   "kamehousecards.com:53009013473618": {
-    "available": false,
+    "available": true,
     "price": "85.95",
     "product_title": "Illustration Box IB05 y IB06 - One Piece Card Game"
   },
@@ -103250,7 +103250,7 @@
     "product_title": "Starcraft: Siege Tank"
   },
   "laescotillajuegos.com:58611173982543": {
-    "available": false,
+    "available": true,
     "price": "53.10",
     "product_title": "Starcraft: Immortal - Protoss"
   },
@@ -181310,7 +181310,7 @@
     "product_title": "Morpeko V-Unión Box | POKÉMON | Inglés"
   },
   "todohits.com:51768650137937": {
-    "available": false,
+    "available": true,
     "price": "3.99",
     "product_title": "Sobre FB04 | Ultra Limit | Fusion World | DRAGON BALL | Inglés"
   },
@@ -187012,7 +187012,7 @@
   "toyplanet.com:52349977657667": {
     "available": true,
     "price": "9.99",
-    "product_title": "Zapatos surtidos"
+    "product_title": "Muñecas Antonio Juan Zapato Diferentes Modelos"
   },
   "toyplanet.com:52349969236291": {
     "available": true,
@@ -192405,7 +192405,7 @@
     "product_title": "Disfraz Catrina Traje - Talla 8-10 años"
   },
   "toyplanet.com:52350706155843": {
-    "available": true,
+    "available": false,
     "price": "13.99",
     "product_title": "Puzzle 1000 Caballo Al Trote"
   },
@@ -200220,7 +200220,7 @@
     "product_title": "Patrulla Canina Pelota 23 cm de Diámetro"
   },
   "toyplanet.com:52409553977667": {
-    "available": true,
+    "available": false,
     "price": "10.99",
     "product_title": "Tech Deck Pack 2 Con Accesorio Surtido"
   },
@@ -203210,7 +203210,7 @@
     "product_title": "Disfraz de Brujita fantasía 3-4 años infantil"
   },
   "toyplanet.com:52409707954499": {
-    "available": false,
+    "available": true,
     "price": "14.99",
     "product_title": "BumBumz Peluche retro Josh Ying y Yang"
   },
@@ -203275,7 +203275,7 @@
     "product_title": "Disfraz de Brujita naranjita 12-24 meses bebé"
   },
   "toyplanet.com:52409710051651": {
-    "available": true,
+    "available": false,
     "price": "14.99",
     "product_title": "Bum Bumz Retro Jess Daisy Flower Peluche"
   },
@@ -323470,7 +323470,7 @@
     "product_title": "Peluche Baby Highland Cow 25 cm Surtido"
   },
   "toyplanet.com:54815348457795": {
-    "available": false,
+    "available": true,
     "price": "29.99",
     "product_title": "Kawakis Pink Pulsera Interactiva con Charms"
   },
@@ -411765,8 +411765,8 @@
     "product_title": "Inscripción picking One Piece Eb05 5€ 17:00"
   },
   "supercollectors.es:78713:78714": {
-    "available": false,
-    "price": 0.0,
+    "available": true,
+    "price": 109.9,
     "product_title": "Pokémon Aura Seeker &#8211; Booster Box (Japonés)"
   },
   "supercollectors.es:78713:78715": {
@@ -413400,12 +413400,12 @@
     "product_title": "Booster Box FB10 | Cross Force | Fusion World | DRAGON BALL | Japonés"
   },
   "todohits.com:55652698882385": {
-    "available": true,
+    "available": false,
     "price": "2.99",
     "product_title": "Sobre FB11 | Brightness of Hope | Fusion World | DRAGON BALL | Japonés"
   },
   "todohits.com:55652672831825": {
-    "available": false,
+    "available": true,
     "price": "67.99",
     "product_title": "Booster Box FB11 | Brightness of Hope | Fusion World | DRAGON BALL | Japonés"
   },
@@ -413703,5 +413703,40 @@
     "available": true,
     "price": 74.99,
     "product_title": "<p style=\"color: red\"><u>Precio PRO: 24,99€</u></p>1 Caja &#8211; Grafaiai Ex &#8211; ESPAÑOL"
+  },
+  "cardcosmos.de:55698471518551": {
+    "available": true,
+    "price": "6.90",
+    "product_title": "Yu-Gi-Oh! - Speed Duel GX: Midterm Paradox Mini Box - EN"
+  },
+  "cardzone.es:56970955981144": {
+    "available": true,
+    "price": "65.00",
+    "product_title": "Espeon & Deoxys GX (2019) Japanese Tag Team GX - CGC 10"
+  },
+  "laescotillajuegos.com:59406488174927": {
+    "available": true,
+    "price": "44.99",
+    "product_title": "[PREPEDIDO] El señor de los anillos: Círculo de conflictos"
+  },
+  "sunnystore.es:57017981370754": {
+    "available": true,
+    "price": "84.90",
+    "product_title": "CAJA POKEMON AURA SEEKER M7 (JAPONÉS)"
+  },
+  "todohits.com:55658045243729": {
+    "available": true,
+    "price": "31.99",
+    "product_title": "Album Toploader 9 Bolsillos Vault X | Exo-Tec Cremallera | 252 bolsillos Binder"
+  },
+  "todohits.com:55657966272849": {
+    "available": true,
+    "price": "24.99",
+    "product_title": "Album Toploader 4 Bolsillos Vault X | Exo-Tec Cremallera | 96 bolsillos Binder"
+  },
+  "cardcrack.com:9386:9390": {
+    "available": true,
+    "price": 45.0,
+    "product_title": "Panini: Caja de 50 sobres Liga Este 2026/27"
   }
 }
