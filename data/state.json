@@ -6396,12 +6396,12 @@
   },
   "allintcg.com:53440820642139": {
     "available": true,
-    "price": "54.95",
+    "price": "49.95",
     "product_title": "Booster Box - Naruto Mythos TCG 2nd Edition"
   },
   "allintcg.com:53440820674907": {
     "available": true,
-    "price": "689.95",
+    "price": "589.95",
     "product_title": "Booster Box - Naruto Mythos TCG 2nd Edition"
   },
   "allintcg.com:53223029113179": {
@@ -6456,7 +6456,7 @@
   },
   "allintcg.com:52425678029147": {
     "available": true,
-    "price": "19.95",
+    "price": "14.95",
     "product_title": "Starter Pack Box - Itachi & Kisame 2nd edition"
   },
   "allintcg.com:52380352381275": {
@@ -48430,7 +48430,7 @@
     "product_title": "Booster Bundle Oscuridad Absoluta - Español"
   },
   "cardzone.es:57709775421784": {
-    "available": true,
+    "available": false,
     "price": "24.95",
     "product_title": "Blister Pokemon Pitch Black - Ingles"
   },
@@ -52430,7 +52430,7 @@
     "product_title": "Protector Acrílico para Booster Box - The Acrylic Box"
   },
   "cardzone.es:54668274303320": {
-    "available": true,
+    "available": false,
     "price": "22.95",
     "product_title": "Protector Acrílico para ETB - The Acrylic Box"
   },
@@ -69116,12 +69116,12 @@
   },
   "pokemillon.com:54758920159555": {
     "available": true,
-    "price": "99.90",
+    "price": "79.90",
     "product_title": "Greninja ex Fábula Sombría | Shrouded Fable"
   },
   "pokemillon.com:54758920192323": {
-    "available": false,
-    "price": "99.90",
+    "available": true,
+    "price": "129.90",
     "product_title": "Greninja ex Fábula Sombría | Shrouded Fable"
   },
   "pokemillon.com:53371291763011": {
@@ -69680,8 +69680,8 @@
     "product_title": "Lata Destinos de Paldea | Paldean Fates"
   },
   "pokemillon.com:47375809773891": {
-    "available": false,
-    "price": "13.90",
+    "available": true,
+    "price": "59.90",
     "product_title": "Mini Lata Destinos de Paldea | Paldean Fates"
   },
   "pokemillon.com:53415547470147": {
@@ -70750,8 +70750,8 @@
     "product_title": "Kingdra ex Special Illustration Fábula Sombría | Shrouded Fable"
   },
   "pokemillon.com:53395710509379": {
-    "available": false,
-    "price": "59.90",
+    "available": true,
+    "price": "129.90",
     "product_title": "Kingdra ex Special Illustration Fábula Sombría | Shrouded Fable"
   },
   "pokemillon.com:48394115940675": {
@@ -72025,8 +72025,8 @@
     "product_title": "Booster Bundle Fulgor Negro | Black Bolt"
   },
   "pokemillon.com:53519733064003": {
-    "available": false,
-    "price": "17.90",
+    "available": true,
+    "price": "44.90",
     "product_title": "Mini Lata de Fulgor Negro y Llama Blanca | Black Bolt and White Flare"
   },
   "pokemillon.com:53519733031235": {
@@ -73715,8 +73715,8 @@
     "product_title": "Magic | Draft Display (36 Sobres) March of the Machine"
   },
   "pokemillon.com:53331221053763": {
-    "available": false,
-    "price": "299.90",
+    "available": true,
+    "price": "319.90",
     "product_title": "Caja 36 Sobres Megaevolución | Mega Evolution"
   },
   "pokemillon.com:53331221086531": {
@@ -73772,12 +73772,12 @@
   "pokemillon.com:53646964195651": {
     "available": false,
     "price": "209.90",
-    "product_title": "Caja Sobres Fuegos Fantasmales | Phantasmal Flames"
+    "product_title": "Caja 36 Sobres Fuegos Fantasmales | Phantasmal Flames"
   },
   "pokemillon.com:53646964228419": {
     "available": false,
     "price": "359.90",
-    "product_title": "Caja Sobres Fuegos Fantasmales | Phantasmal Flames"
+    "product_title": "Caja 36 Sobres Fuegos Fantasmales | Phantasmal Flames"
   },
   "pokemillon.com:53646951547203": {
     "available": false,
@@ -95835,7 +95835,7 @@
     "product_title": "2025 Panini Silhouette Football Hobby Box"
   },
   "darizard9.com:54903058956614": {
-    "available": true,
+    "available": false,
     "price": "1899.99",
     "product_title": "2021/22 Topps Chrome Atletico de Madrid Soccer Hobby Box"
   },
@@ -110680,7 +110680,7 @@
     "product_title": "Dune Imperium - EMBALAJE DAÑADO"
   },
   "laescotillajuegos.com:34186015998088": {
-    "available": true,
+    "available": false,
     "price": "17.99",
     "product_title": "Clash of Kings 2019"
   },
@@ -173515,7 +173515,7 @@
     "product_title": "Booster Box Jumbo Team Rocket Chasing Glory Together CSV10C | Chino"
   },
   "tcglevel.com:53281110950155": {
-    "available": true,
+    "available": false,
     "price": "31.90",
     "product_title": "Booster Box Pokémon Slim Chasing Glory Together CSV10C | Chino"
   },
@@ -321662,7 +321662,7 @@
   "pokemillon.com:54807858676035": {
     "available": true,
     "price": "99.90",
-    "product_title": "Booster Box 20 Sobres Pokémon 30th Celebration Chino"
+    "product_title": "Booster Box 20 Sobres Pokémon 30th Celebration Ch"
   },
   "pokemillon.com:54792966701379": {
     "available": false,
@@ -323926,12 +323926,12 @@
   },
   "allintcg.com:54096215998811": {
     "available": true,
-    "price": "219.95",
+    "price": "169.95",
     "product_title": "Booster Box - 30th Anniversary [JP]"
   },
   "allintcg.com:54096183722331": {
     "available": true,
-    "price": "169.95",
+    "price": "154.95",
     "product_title": "Premium Deck Set - 30th Anniversary [JP]"
   },
   "cardzone.es:57866306683224": {
@@ -368590,7 +368590,7 @@
     "product_title": "30th Celebration Umbreon Battle Deck Celebraciones 30 Aniversario"
   },
   "pokemillon.com:54908753805635": {
-    "available": true,
+    "available": false,
     "price": "69.90",
     "product_title": "30th Celebration Umbreon Battle Deck Celebraciones 30 Aniversario"
   },
@@ -369840,23 +369840,23 @@
     "product_title": "<p style=\"color: red\"><u>Precio PRO: 49,99€</u></p>1 ETB &#8211; Stellar Crown &#8211; ESPAÑOL"
   },
   "allintcg.com:54349822198107": {
-    "available": true,
+    "available": false,
     "price": "549.95",
     "product_title": "Colección Ultra Premium - 30th Anniversary [ENG]"
   },
   "allintcg.com:54349822230875": {
-    "available": true,
+    "available": false,
     "price": "459.95",
     "product_title": "Colección Ultra Premium - 30th Anniversary [ENG]"
   },
   "allintcg.com:54349968015707": {
     "available": true,
-    "price": "109.95",
+    "price": "99.95",
     "product_title": "Caja Colección con Figura - 30th Anniversary [ENG]"
   },
   "allintcg.com:54349968048475": {
     "available": true,
-    "price": "109.95",
+    "price": "99.95",
     "product_title": "Caja Colección con Figura - 30th Anniversary [ENG]"
   },
   "allintcg.com:54373067096411": {
@@ -373515,22 +373515,22 @@
     "product_title": "Caos Creciente Sobre Individual en Blíster"
   },
   "bimbacards.com:62860:62861": {
-    "available": false,
+    "available": true,
     "price": 349.9,
     "product_title": "30 Aniversario Colección Ultraprémium Noche"
   },
   "bimbacards.com:62860:62862": {
-    "available": false,
+    "available": true,
     "price": 349.9,
     "product_title": "30 Aniversario Colección Ultraprémium Noche"
   },
   "bimbacards.com:62854:62856": {
-    "available": false,
+    "available": true,
     "price": 349.9,
     "product_title": "30 Aniversario Colección Ultraprémium Dia"
   },
   "bimbacards.com:62854:62857": {
-    "available": false,
+    "available": true,
     "price": 349.9,
     "product_title": "30 Aniversario Colección Ultraprémium Dia"
   },
@@ -414116,8 +414116,8 @@
   },
   "elbazartcg.com:59775596069212": {
     "available": true,
-    "price": "14.99",
-    "product_title": "PARTY GEM PACK 2"
+    "price": "12.49",
+    "product_title": "PARTY GEM PACK 3"
   },
   "toyplanet.com:55020979290435": {
     "available": true,
@@ -419378,5 +419378,55 @@
     "available": true,
     "price": "74.99",
     "product_title": "Caja de Entrenador Élite Dominio Delta - Español"
+  },
+  "allintcg.com:55096330223963": {
+    "available": true,
+    "price": "189.95",
+    "product_title": "Display (36 sobres) - Oscuridad Absoluta [ENG]"
+  },
+  "allintcg.com:51794323636571": {
+    "available": true,
+    "price": "319.95",
+    "product_title": "Colección Ultra Premium Moltres EX - Team Rocket [ENG]"
+  },
+  "allintcg.com:51820558877019": {
+    "available": true,
+    "price": "219.95",
+    "product_title": "Display (36 Sobres) - Brecha Paradojica [ESP]"
+  },
+  "pokemillon.com:55040425787715": {
+    "available": true,
+    "price": "169.90",
+    "product_title": "Caja 18 Sobres Fuegos Fantasmales | Phantasmal Flames"
+  },
+  "pokemillon.com:55040425820483": {
+    "available": false,
+    "price": "239.90",
+    "product_title": "Caja 18 Sobres Fuegos Fantasmales | Phantasmal Flames"
+  },
+  "pokemillon.com:55040423690563": {
+    "available": true,
+    "price": "179.90",
+    "product_title": "Caja Skeledirge Premium Collection Destinos de Paldea | Paldean Fates"
+  },
+  "pokemillon.com:55040423723331": {
+    "available": false,
+    "price": "199.90",
+    "product_title": "Caja Skeledirge Premium Collection Destinos de Paldea | Paldean Fates"
+  },
+  "pokemillon.com:55040422379843": {
+    "available": true,
+    "price": "179.90",
+    "product_title": "Caja Meowscarada Premium Collection Destinos de Paldea | Paldean Fates"
+  },
+  "pokemillon.com:55040422412611": {
+    "available": false,
+    "price": "199.90",
+    "product_title": "Caja Meowscarada Premium Collection Destinos de Paldea | Paldean Fates"
+  },
+  "toyplanet.com:55040502792515": {
+    "available": true,
+    "price": "0.00",
+    "product_title": "Funko Pop Gremlins 2 - Flashing Gremlin ¡Ideal para coleccionistas y fanáticos de los 80!"
   }
 }
