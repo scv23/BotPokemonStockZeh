@@ -480,8 +480,8 @@
     "product_title": "Blister cartas Pokémon Megaevolución Heroes Ascendentes - Castellano (Promo Tangela)"
   },
   "alfriki.com:52926429135187": {
-    "available": false,
-    "price": "23.99",
+    "available": true,
+    "price": "29.99",
     "product_title": "Blister cartas Special Collection Fuegos Fantasmales Pokemon español - Día de Pokémon 2026"
   },
   "alfriki.com:52909989921107": {
@@ -11870,7 +11870,7 @@
     "product_title": "Mini Latas Black Bolt & White Flare SV10.5 ESPAÑOL"
   },
   "canarypop.es:50556439527771": {
-    "available": true,
+    "available": false,
     "price": "219.95",
     "product_title": "Booster Box Brecha Paradojica SV4 ESPAÑOL 36UDS"
   },
@@ -31570,7 +31570,7 @@
     "product_title": "Pokémon - Snorlax #077/071 (Dark Phantasma) – AOG 10 Gem Mint"
   },
   "cardcosmos.de:54380665176407": {
-    "available": true,
+    "available": false,
     "price": "20.00",
     "product_title": "Pokémon - Mega Zeraora ex #026/081 (Abyss Eye) – PGS 10 Gem Mint"
   },
@@ -32155,7 +32155,7 @@
     "product_title": "Pokémon - Pichu #31 (SoulSilver Collection) – PSA 10 Gem Mint"
   },
   "cardcosmos.de:54305581826391": {
-    "available": true,
+    "available": false,
     "price": "695.00",
     "product_title": "Pokémon - Clefable #36 (Japanese Jungle) – PSA 10 Gem Mint"
   },
@@ -33675,7 +33675,7 @@
     "product_title": "Magic: The Gathering - Star Trek Bundle - DE"
   },
   "cardcosmos.de:54024179614039": {
-    "available": false,
+    "available": true,
     "price": "429.90",
     "product_title": "Magic: The Gathering - Star Trek Collector Booster Display - EN"
   },
@@ -35310,7 +35310,7 @@
     "product_title": "Pokémon - Glänzendes Schicksal Schillerndes Katapuldra-VMAX Kollektion - DE"
   },
   "cardcosmos.de:53706740695383": {
-    "available": true,
+    "available": false,
     "price": "199.90",
     "product_title": "Pokémon - Verlorener Ursprung Top-Trainer-Box - DE"
   },
@@ -42961,12 +42961,12 @@
   },
   "cardcosmos.de:52025654509911": {
     "available": false,
-    "price": "40.99",
+    "price": "39.90",
     "product_title": "AoS Sylvaneth: Kurnoth Hunters"
   },
   "cardcosmos.de:52025653723479": {
     "available": false,
-    "price": "35.99",
+    "price": "34.90",
     "product_title": "AoS Sylvaneth: Tree-Revenants"
   },
   "cardcosmos.de:52025652871511": {
@@ -42991,17 +42991,17 @@
   },
   "cardcosmos.de:52025651429719": {
     "available": false,
-    "price": "91.99",
+    "price": "89.90",
     "product_title": "AoS Spearhead: Lumineht Realm-Lords"
   },
   "cardcosmos.de:52025651036503": {
     "available": false,
-    "price": "40.99",
+    "price": "39.90",
     "product_title": "AoS Lumineth: Vanari Auralan Sentinels"
   },
   "cardcosmos.de:52025650446679": {
     "available": false,
-    "price": "40.99",
+    "price": "39.90",
     "product_title": "AoS Lumineth: Vanari Auralan Wardens"
   },
   "cardcosmos.de:52025645891927": {
@@ -43011,7 +43011,7 @@
   },
   "cardcosmos.de:52025645629783": {
     "available": false,
-    "price": "40.99",
+    "price": "39.90",
     "product_title": "AoS Daughters of Khaine: Blood Sisters"
   },
   "cardcosmos.de:52025645171031": {
@@ -43071,7 +43071,7 @@
   },
   "cardcosmos.de:52025638420823": {
     "available": false,
-    "price": "37.99",
+    "price": "37.90",
     "product_title": "AoS Kharadron Overlords: Arkanaut Company"
   },
   "cardcosmos.de:52025638060375": {
@@ -43171,7 +43171,7 @@
   },
   "cardcosmos.de:52025696846167": {
     "available": false,
-    "price": "40.99",
+    "price": "39.90",
     "product_title": "40k Genestealer Cults: Atalan Jackals"
   },
   "cardcosmos.de:52025695895895": {
@@ -43261,7 +43261,7 @@
   },
   "cardcosmos.de:52025682559319": {
     "available": false,
-    "price": "37.99",
+    "price": "37.90",
     "product_title": "40k Death Guard: Plague Marines"
   },
   "cardcosmos.de:52025681379671": {
@@ -43341,7 +43341,7 @@
   },
   "cardcosmos.de:52025667060055": {
     "available": false,
-    "price": "39.99",
+    "price": "39.90",
     "product_title": "40k Space Marines: Codex - EN"
   },
   "cardcosmos.de:52025666601303": {
@@ -43386,7 +43386,7 @@
   },
   "cardcosmos.de:52025755730263": {
     "available": false,
-    "price": "103.99",
+    "price": "99.90",
     "product_title": "40k Astra Militarum: Combat Patrol"
   },
   "cardcosmos.de:52025754878295": {
@@ -43441,7 +43441,7 @@
   },
   "cardcosmos.de:52025741934935": {
     "available": false,
-    "price": "103.99",
+    "price": "99.90",
     "product_title": "40k Chaos Space Marines: Combat Patrol"
   },
   "cardcosmos.de:52025741148503": {
@@ -43536,7 +43536,7 @@
   },
   "cardcosmos.de:52025729319255": {
     "available": false,
-    "price": "40.99",
+    "price": "39.90",
     "product_title": "40k Astra Militarum: Attilan Rough Riders"
   },
   "cardcosmos.de:52025727877463": {
@@ -43945,7 +43945,7 @@
     "product_title": "Pokémon - Festtagskalender 2025 - DE"
   },
   "cardcosmos.de:51246167621975": {
-    "available": false,
+    "available": true,
     "price": "14.90",
     "product_title": "Dragon Shield Art Sleeves - Halloween Dragon | 100stk"
   },
@@ -56616,8 +56616,8 @@
   },
   "elitestoretcg.com:53053133979976": {
     "available": true,
-    "price": "154.90",
-    "product_title": "Destinos de Paldea Lata CHARIZARD - INGLES"
+    "price": "119.95",
+    "product_title": "Destinos de Paldea Lata CHARIZARD - INGLÉS"
   },
   "elitestoretcg.com:53053001138504": {
     "available": true,
@@ -56691,7 +56691,7 @@
   },
   "elitestoretcg.com:51995460469064": {
     "available": true,
-    "price": "179.90",
+    "price": "349.95",
     "product_title": "Crown Zenith Unown V & Lugia V Special Collection - INGLÉS"
   },
   "elitestoretcg.com:51995453489480": {
@@ -61795,7 +61795,7 @@
     "product_title": "Lata Darkrai Whammy Tins 2024"
   },
   "pokemillon.com:54758051152195": {
-    "available": true,
+    "available": false,
     "price": "19.90",
     "product_title": "Lata Pokeball D24"
   },
@@ -64616,7 +64616,7 @@
   },
   "pokemillon.com:54526981669187": {
     "available": true,
-    "price": "9.99",
+    "price": "8.90",
     "product_title": "Sobre Pokémon 30th Anniversary"
   },
   "pokemillon.com:54526981701955": {
@@ -74941,12 +74941,12 @@
   },
   "pokemillon.com:54195959857475": {
     "available": true,
-    "price": "199.90",
+    "price": "169.90",
     "product_title": "Booster Box 20 Sobres Pokémon 30th Celebration m6a"
   },
   "pokemillon.com:54195959890243": {
     "available": false,
-    "price": "146.90",
+    "price": "116.90",
     "product_title": "Booster Box 20 Sobres Pokémon 30th Celebration m6a"
   },
   "pokemillon.com:54195950387523": {
@@ -82505,7 +82505,7 @@
     "product_title": "BLIND BOX MEGA CAT PROJECT ATTACK ON TITAN - TINYAN Gathering Scout Regiment danyan! (3CM)"
   },
   "sunnystore.es:56670688838018": {
-    "available": false,
+    "available": true,
     "price": "36.90",
     "product_title": "POKEMON STELLAR CRYSTALS CSV9C SLIM BOX CHINO"
   },
@@ -85400,7 +85400,7 @@
     "product_title": "POKEMON TCG CHARIZARD EX SPECIAL COLLECTION BOX (ESPAÑOL)"
   },
   "sunnystore.es:55353072157058": {
-    "available": false,
+    "available": true,
     "price": "2.50",
     "product_title": "BOOSTER POKEMON SV10 GLORY OF THE TEAM ROCKET - SOBRE COREANO"
   },
@@ -86656,7 +86656,7 @@
   },
   "sunnystore.es:55031200055682": {
     "available": true,
-    "price": "1.80",
+    "price": "2.00",
     "product_title": "BOOSTER POKEMON SV7A PARADISE DRAGONA - SOBRE COREANO"
   },
   "sunnystore.es:55031191961986": {
@@ -86706,7 +86706,7 @@
   },
   "sunnystore.es:55029619851650": {
     "available": true,
-    "price": "2.00",
+    "price": "2.50",
     "product_title": "BOOSTER POKEMON SUPER ELECTRIC BREAKER SV8 - SOBRE COREANO"
   },
   "sunnystore.es:55024904110466": {
@@ -97550,7 +97550,7 @@
     "product_title": "Magic The Gathering - Play Booster Box Final Fantasy (Inglés)"
   },
   "jjcollection.es:53002655236425": {
-    "available": true,
+    "available": false,
     "price": "19.99",
     "product_title": "Ultra Pro - Premium Alcove Flip Elite Gengar Caja de Mazo Pokémon"
   },
@@ -98045,7 +98045,7 @@
     "product_title": "Sobre Vendetta Riftbound: League of Legends TCG"
   },
   "kamehousecards.com:54218357866834": {
-    "available": true,
+    "available": false,
     "price": "134.95",
     "product_title": "Riftbound: League of Legends Vendetta"
   },
@@ -98995,8 +98995,8 @@
     "product_title": "Pokémon Day 2026 Collection"
   },
   "kamehousecards.com:53009007477074": {
-    "available": false,
-    "price": "37.95",
+    "available": true,
+    "price": "38.95",
     "product_title": "Tech Sticker Collection Pokémon Héroes Ascendentes y Ascended Heroes"
   },
   "kamehousecards.com:53009007509842": {
@@ -115270,7 +115270,7 @@
     "product_title": "KV-1/2 Heavy Tank"
   },
   "laescotillajuegos.com:56292545036623": {
-    "available": true,
+    "available": false,
     "price": "30.14",
     "product_title": "IS-2 Heavy Tank"
   },
@@ -118550,7 +118550,7 @@
     "product_title": "Legions Imperialis: Vindicator Siege Tank Squadron"
   },
   "laescotillajuegos.com:55755783110991": {
-    "available": true,
+    "available": false,
     "price": "50.35",
     "product_title": "Legions Imperialis: Liber Strategia"
   },
@@ -121225,7 +121225,7 @@
     "product_title": "Paleta Húmeda Ultimate - Green Stuff World"
   },
   "laescotillajuegos.com:55252213793103": {
-    "available": true,
+    "available": false,
     "price": "26.95",
     "product_title": "Paleta Húmeda Ultimate XL - Green Stuff World"
   },
@@ -138440,7 +138440,7 @@
     "product_title": "Sobre Promo Saikyo Jump (Whitebeard, Ace y Luffy) - Japonés"
   },
   "metamorphcenter.com:54582931554646": {
-    "available": true,
+    "available": false,
     "price": "89.95",
     "product_title": "Caja OP17 The World's Strongest Warriors - Japonés"
   },
@@ -141165,7 +141165,7 @@
     "product_title": "POKEBALL TIN D24"
   },
   "pokedealtcg.es:58649504547141": {
-    "available": true,
+    "available": false,
     "price": "74.95",
     "product_title": "MALETIN AVENTURAS EN PALDEA ESPAÑOL"
   },
@@ -141355,7 +141355,7 @@
     "product_title": "WHITE FLARE Y BLACK BOLT VICTINI PROMO"
   },
   "pokedealtcg.es:57959150321989": {
-    "available": false,
+    "available": true,
     "price": "17.95",
     "product_title": "BLISTER 3 SOBRES CHAOS RISING"
   },
@@ -141445,7 +141445,7 @@
     "product_title": "GEMPACK VOL.4 (CHINO)"
   },
   "pokedealtcg.es:57679997305157": {
-    "available": true,
+    "available": false,
     "price": "149.95",
     "product_title": "ULTRA PREMIUM TERRAPAGOS (CASTELLANO)"
   },
@@ -141705,7 +141705,7 @@
     "product_title": "BOOSTER BOX PERFECT ORDER (36 SOBRES)"
   },
   "pokedealtcg.es:57391254503749": {
-    "available": true,
+    "available": false,
     "price": "16.95",
     "product_title": "BLISTER 3 SOBRES PERFECT ORDER"
   },
@@ -141825,7 +141825,7 @@
     "product_title": "BATTLE DECK DELUXE MEWTWO EX"
   },
   "pokedealtcg.es:57395867976005": {
-    "available": true,
+    "available": false,
     "price": "249.95",
     "product_title": "BOOSTER BOX 36 SOBRES EVOLUCIONES DE PALDEA"
   },
@@ -142135,7 +142135,7 @@
     "product_title": "ZACIAN EX DE PAUL COLLECTION"
   },
   "pokedealtcg.es:56572065055045": {
-    "available": true,
+    "available": false,
     "price": "44.95",
     "product_title": "ZACIAN EX DE PAUL COLLECTION"
   },
@@ -142515,7 +142515,7 @@
     "product_title": "FIGURA POP POKEMON MR. MIME"
   },
   "pokedealtcg.es:56252624601413": {
-    "available": true,
+    "available": false,
     "price": "54.95",
     "product_title": "OGERPON EX PREMIUM COLLECTION"
   },
@@ -142915,7 +142915,7 @@
     "product_title": "SPC PRISMATIC EVOLUTIONS"
   },
   "pokedealtcg.es:55332927766853": {
-    "available": true,
+    "available": false,
     "price": "314.95",
     "product_title": "SPC PRISMATIC EVOLUTIONS"
   },
@@ -150905,7 +150905,7 @@
     "product_title": "Vault X: Exo-Tec Carpeta de anillas - Slim - Yellow"
   },
   "sarumangames.es:56309930393979": {
-    "available": true,
+    "available": false,
     "price": "20.70",
     "product_title": "Vault X: Exo-Tec Carpeta de anillas - Slim - Black/Green"
   },
@@ -152715,7 +152715,7 @@
     "product_title": "VALLEJO PINCELES: PRO MODELER - PELO NATURAL - TAMAÑO 4"
   },
   "sarumangames.es:56206101119355": {
-    "available": true,
+    "available": false,
     "price": "23.40",
     "product_title": "VALLEJO PINCELES: PRO MODELER - DESING SET - TAMAÑO 0, 1, 2"
   },
@@ -153400,7 +153400,7 @@
     "product_title": "PREPEDIDO - Gundam Assemble: Deluxe Set 02-(DX02) - EN"
   },
   "sarumangames.es:56160201113979": {
-    "available": true,
+    "available": false,
     "price": "89.95",
     "product_title": "PREPEDIDO - Gundam Assemble: Deluxe Set 01-(DX01) - EN"
   },
@@ -187012,7 +187012,7 @@
   "toyplanet.com:52349977657667": {
     "available": true,
     "price": "9.99",
-    "product_title": "Zapatos surtidos"
+    "product_title": "Muñecas Antonio Juan Zapato Diferentes Modelos"
   },
   "toyplanet.com:52349969236291": {
     "available": true,
@@ -357405,7 +357405,7 @@
     "product_title": "Adeptus Custodes: Aquilon Terminator Sodality"
   },
   "laescotillajuegos.com:58901375418703": {
-    "available": true,
+    "available": false,
     "price": "68.00",
     "product_title": "Adeptus Custodes: Caladius Annihilator Grav-Tank"
   },
@@ -370421,7 +370421,7 @@
   },
   "lanavetcg.com:57618513035639": {
     "available": true,
-    "price": "70.90",
+    "price": "69.90",
     "product_title": "Storm Emerald Japonés Sin plástico 30 Sobres"
   },
   "todohits.com:54843460321617": {
@@ -385360,7 +385360,7 @@
     "product_title": "BUNDLE 30TH CELEBRACIONES BOOSTER BUNDLE POKEMON TCG (ESPAÑOL)"
   },
   "tcglevel.com:53486872396043": {
-    "available": false,
+    "available": true,
     "price": "19.90",
     "product_title": "Mini Adventure First Partner Pokémon 30 Aniversario Blind Box | Chino"
   },
@@ -385790,7 +385790,7 @@
     "product_title": "First Partner Pokémon 6th Generation 30th Celebration | Japonés"
   },
   "tcglevel.com:53487996338443": {
-    "available": false,
+    "available": true,
     "price": "25.90",
     "product_title": "First Partner Pokémon 5th Generation 30th Celebration | Japonés"
   },
@@ -404945,7 +404945,7 @@
     "product_title": "Calendario Adviento Navideño 2024"
   },
   "pokemillon.com:55012931633475": {
-    "available": true,
+    "available": false,
     "price": "34.90",
     "product_title": "Topps | Match Attax UCC 2026/27 - Calendario de Adviento"
   },
@@ -414596,17 +414596,17 @@
   },
   "pidopop.com:https://pidopop.com/pack-6-sobres-pokemon-mega-evolution-delta-reign-booster-bundle-ingles-94099.html": {
     "available": false,
-    "price": "80.95",
+    "price": "69.95",
     "product_title": "Pack 6 Sobres Pokemon Mega Evolution Delta Reign Booster Bundle Ingles"
   },
   "pidopop.com:https://pidopop.com/pack-6-sobres-pokemon-megaevolucion-dominio-delta-94097.html": {
     "available": false,
-    "price": "64.95",
+    "price": "59.95",
     "product_title": "Pack 6 Sobres Pokemon Megaevolucion Dominio Delta Booster Bundle Español"
   },
   "pidopop.com:https://pidopop.com/sobre-pokemon-megaevolucion-delta-reign-ingles-94096.html": {
     "available": false,
-    "price": "8.95",
+    "price": "9.95",
     "product_title": "Sobre Pokemon Megaevolucion Delta Reign Ingles"
   },
   "pidopop.com:https://pidopop.com/sobre-pokemon-megaevolucion-dominio-delta-espanol-94095.html": {
@@ -418240,7 +418240,7 @@
     "product_title": "2026-27 Topps Flagship NBA - Mega Box"
   },
   "darizard9.com:57842170200390": {
-    "available": false,
+    "available": true,
     "price": "209.99",
     "product_title": "Delta Reign - Booster Box"
   },
@@ -418741,7 +418741,7 @@
   },
   "lanavetcg.com:57730358837623": {
     "available": true,
-    "price": "79.90",
+    "price": "75.90",
     "product_title": "Storm Emerald Japonés 30 Sobres"
   },
   "todohits.com:55751497417041": {
@@ -419496,12 +419496,12 @@
   },
   "todohits.com:55752810332497": {
     "available": true,
-    "price": "5.99",
+    "price": "5.79",
     "product_title": "Sobre 30 Aniversario | POKÉMON | 30th Celebration | Coreano"
   },
   "todohits.com:55752665563473": {
     "available": true,
-    "price": "115.99",
+    "price": "109.99",
     "product_title": "Booster Box 30 Aniversario | POKÉMON | 30th Celebration | Coreano"
   },
   "miceliongames.com:40906": {
@@ -420746,7 +420746,7 @@
   },
   "jjcollection.es:55932595208521": {
     "available": true,
-    "price": "99.99",
+    "price": "94.98",
     "product_title": "Pokémon TCG - Delta Reign - Elite Trainer Box (Inglés y Español)"
   },
   "jjcollection.es:55891547783497": {
@@ -425426,7 +425426,7 @@
   },
   "todohits.com:55828809220433": {
     "available": true,
-    "price": "44.99",
+    "price": "42.99",
     "product_title": "Booster Bundle Dominio Delta | POKÉMON | Español"
   },
   "todohits.com:55828122272081": {
@@ -428160,7 +428160,7 @@
     "product_title": "Pokémon - Mega-Entwicklung Drei-Pack Blister - Entoron - DE"
   },
   "cardzone.es:59169101218136": {
-    "available": true,
+    "available": false,
     "price": "64.95",
     "product_title": "Pack Completo 27 Iniciales First Partner Sellados - Japonés"
   },
@@ -428340,7 +428340,7 @@
     "product_title": "Mew y Mewtwo Figure Collection 30th Celebration | POKÉMON | Inglés"
   },
   "todohits.com:55858539626833": {
-    "available": false,
+    "available": true,
     "price": "73.99",
     "product_title": "Mew y Mewtwo Figure Collection 30th Celebration | POKÉMON | Inglés"
   },
@@ -429560,7 +429560,7 @@
     "product_title": "SERAPHON: LANCEROS EN AGRADON"
   },
   "g3tcg.es:7917": {
-    "available": true,
+    "available": false,
     "price": 53.0,
     "product_title": "STORMCAST ETERNALS: GUARDIA DRACOTHIANA"
   },
@@ -429893,5 +429893,175 @@
     "available": false,
     "price": "42.99",
     "product_title": "Gran Camión de Bomberos con Luces y Sonidos"
+  },
+  "darizard9.com:57933791199558": {
+    "available": true,
+    "price": "5.99",
+    "product_title": "Sleeve Dominio Delta"
+  },
+  "elitestoretcg.com:54982507823432": {
+    "available": true,
+    "price": "79.95",
+    "product_title": "Rivales Predestinados Booster Bundle - INGLÉS"
+  },
+  "elitestoretcg.com:53023372411208": {
+    "available": true,
+    "price": "89.95",
+    "product_title": "Heroes Ascendentes Booster Bundle - INGLÉS"
+  },
+  "elitestoretcg.com:51995417870664": {
+    "available": true,
+    "price": "324.95",
+    "product_title": "Caja de Zacian shiny Crown Zenith - INGLÉS"
+  },
+  "elitestoretcg.com:51995432943944": {
+    "available": true,
+    "price": "324.95",
+    "product_title": "Caja Zamazenta shiny Crown Zenith - INGLÉS"
+  },
+  "elitestoretcg.com:51995386577224": {
+    "available": true,
+    "price": "324.95",
+    "product_title": "Crown Zenith Elite Trainer Box - INGLÉS"
+  },
+  "elitestoretcg.com:53058546762056": {
+    "available": true,
+    "price": "54.95",
+    "product_title": "Heroes Ascendentes Premium Mega EX Box - INGLÉS"
+  },
+  "kamehousecards.com:55529856041298": {
+    "available": true,
+    "price": "199.95",
+    "product_title": "Heroines Edition Vol.2  EB05 - One Piece Card Game"
+  },
+  "laescotillajuegos.com:59566839431503": {
+    "available": true,
+    "price": "10.00",
+    "product_title": "Fliptoons"
+  },
+  "laescotillajuegos.com:59566821114191": {
+    "available": true,
+    "price": "22.50",
+    "product_title": "Esquirlas de la Creación"
+  },
+  "laescotillajuegos.com:59566793392463": {
+    "available": true,
+    "price": "13.50",
+    "product_title": "One Round?"
+  },
+  "laescotillajuegos.com:59566784446799": {
+    "available": true,
+    "price": "22.50",
+    "product_title": "Ace of Spades"
+  },
+  "laescotillajuegos.com:59566772879695": {
+    "available": true,
+    "price": "31.50",
+    "product_title": "Through the Desert"
+  },
+  "laescotillajuegos.com:59566620967247": {
+    "available": true,
+    "price": "12.00",
+    "product_title": "Canal Houses"
+  },
+  "laescotillajuegos.com:59566385856847": {
+    "available": true,
+    "price": "22.50",
+    "product_title": "Akropolis"
+  },
+  "laescotillajuegos.com:59566314520911": {
+    "available": true,
+    "price": "24.30",
+    "product_title": "Trailblazers: Edición de Viaje"
+  },
+  "laescotillajuegos.com:59566225129807": {
+    "available": true,
+    "price": "27.00",
+    "product_title": "Cities USA"
+  },
+  "laescotillajuegos.com:59566145143119": {
+    "available": true,
+    "price": "16.20",
+    "product_title": "El Monstruo de Colores: El Juego de Viaje"
+  },
+  "laescotillajuegos.com:59566105461071": {
+    "available": true,
+    "price": "11.70",
+    "product_title": "Kado"
+  },
+  "laescotillajuegos.com:59566092681551": {
+    "available": true,
+    "price": "13.50",
+    "product_title": "Circadia"
+  },
+  "laescotillajuegos.com:59565982089551": {
+    "available": true,
+    "price": "27.00",
+    "product_title": "Paleolino"
+  },
+  "laescotillajuegos.com:59565953777999": {
+    "available": true,
+    "price": "31.50",
+    "product_title": "Gaudí"
+  },
+  "sarumangames.es:56590883586427": {
+    "available": false,
+    "price": "67.50",
+    "product_title": "MCP: Leader, Red Hulk & Sensational She-Hulk"
+  },
+  "sarumangames.es:56590881620347": {
+    "available": false,
+    "price": "58.50",
+    "product_title": "MCP: Dani Moonstar, Jubilee, Multiple Man & Havok"
+  },
+  "todohits.com:55873147601233": {
+    "available": true,
+    "price": "5.69",
+    "product_title": "Blister Dominio Delta | POKÉMON | Español"
+  },
+  "cardcrack.com:10659": {
+    "available": true,
+    "price": 7.0,
+    "product_title": "Panini: Revista Jugón N.º 236"
+  },
+  "cardcrack.com:10621:10622": {
+    "available": true,
+    "price": 49.95,
+    "product_title": "Pokemon TCG: 30 Aniversario &#8211; Cajas EX Sylveon / Greninja (Ingles)"
+  },
+  "cardcrack.com:10621:10623": {
+    "available": true,
+    "price": 49.95,
+    "product_title": "Pokemon TCG: 30 Aniversario &#8211; Cajas EX Sylveon / Greninja (Ingles)"
+  },
+  "cardcrack.com:10619": {
+    "available": true,
+    "price": 39.95,
+    "product_title": "Pokemon TCG: 30 Aniversario &#8211; Poster Collection 3 Legendarios (Ingles)"
+  },
+  "cardcrack.com:10625": {
+    "available": true,
+    "price": 23.95,
+    "product_title": "Pokemon TCG: 30 Aniversario &#8211; Minilatas &#8211; 10 Versiones (Ingles)"
+  },
+  "cardcrack.com:10620": {
+    "available": true,
+    "price": 69.95,
+    "product_title": "Pokemon TCG: 30 Aniversario &#8211; Binder Collection con álbum (Ingles)"
+  },
+  "cardcrack.com:10617": {
+    "available": true,
+    "price": 44.95,
+    "product_title": "Pokemon TCG: 30 Aniversario &#8211; Latas EX Sylveon / Greninja + Promo (Ingles)"
+  },
+  "supercollectors.es:78472": {
+    "available": true,
+    "price": 350.0,
+    "product_title": "2026 Topps Finest Formula 1 F1 &#8211; Hobby Box"
+  },
+  "supercollectors.es:78275": {
+    "available": true,
+    "price": 475.0,
+    "product_title": "2026 Topps Chrome NFL &#8211; Hobby Box"
   }
 }
