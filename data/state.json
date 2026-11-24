@@ -31135,7 +31135,7 @@
     "product_title": "Pokémon - Ewige Rivalen & Wachsendes Chaos 2-Pack Blister - DE"
   },
   "cardcosmos.de:54784662798679": {
-    "available": true,
+    "available": false,
     "price": "29.90",
     "product_title": "Pokémon - Primordial Arts Torrent CS3bC Jumbo Display - CHN"
   },
@@ -33265,7 +33265,7 @@
     "product_title": "Pokémon - Terastal Gathering Coin Set  Evoli Varianten - CHN"
   },
   "cardcosmos.de:54138504118615": {
-    "available": true,
+    "available": false,
     "price": "12.90",
     "product_title": "Pokémon - Terastal Gathering Coin Set  Evoli Varianten - CHN"
   },
@@ -33280,7 +33280,7 @@
     "product_title": "Pokémon - Terastal Gathering Coin Set  Evoli Varianten - CHN"
   },
   "cardcosmos.de:54138504216919": {
-    "available": true,
+    "available": false,
     "price": "10.90",
     "product_title": "Pokémon - Terastal Gathering Coin Set  Evoli Varianten - CHN"
   },
@@ -34160,7 +34160,7 @@
     "product_title": "Pokémon - Terastal Gathering Coin Set - CHN (Zufälliges Design)"
   },
   "cardcosmos.de:53891340599639": {
-    "available": true,
+    "available": false,
     "price": "16.90",
     "product_title": "Pokémon - Terastal Gathering Tin Box CSV9.5 - CHN (Zufälliges Design)"
   },
@@ -56060,7 +56060,7 @@
     "product_title": "Bumper Metálicas para Gradeadas PSA/CGC/EG"
   },
   "elbazartcg.com:54512969613660": {
-    "available": true,
+    "available": false,
     "price": "9.99",
     "product_title": "Bumper Metálicas para Gradeadas PSA/CGC/EG"
   },
@@ -56075,7 +56075,7 @@
     "product_title": "Bumper Metálicas para Gradeadas PSA/CGC/EG"
   },
   "elbazartcg.com:54512969711964": {
-    "available": true,
+    "available": false,
     "price": "9.99",
     "product_title": "Bumper Metálicas para Gradeadas PSA/CGC/EG"
   },
@@ -60240,7 +60240,7 @@
     "product_title": "One Piece OP-17 Booster Pack"
   },
   "mojocards.nl:54672683073869": {
-    "available": true,
+    "available": false,
     "price": "14.99",
     "product_title": "Alien Stage - AAHS Series Figure Blind Box"
   },
@@ -60846,7 +60846,7 @@
   },
   "pokemillon.com:54787394601283": {
     "available": true,
-    "price": "219.90",
+    "price": "199.90",
     "product_title": "One Piece | Caja 24 Sobres OP18 The Dominance of God"
   },
   "pokemillon.com:54787394634051": {
@@ -76505,7 +76505,7 @@
     "product_title": "Carcasa Metalica para Cartas Gradeadas PSA/CGC"
   },
   "pokemillon.com:54103290085699": {
-    "available": true,
+    "available": false,
     "price": "10.90",
     "product_title": "Carcasa Metalica para Cartas Gradeadas PSA/CGC"
   },
@@ -97545,8 +97545,8 @@
     "product_title": "Magic The Gathering - Sobre Final Fantasy (Inglés)"
   },
   "jjcollection.es:53323837407561": {
-    "available": false,
-    "price": "169.95",
+    "available": true,
+    "price": "174.98",
     "product_title": "Magic The Gathering - Play Booster Box Final Fantasy (Inglés)"
   },
   "jjcollection.es:53002655236425": {
@@ -98460,13 +98460,13 @@
     "product_title": "Caja 36 sobres Pokémon Caos Creciente y Chaos Rising"
   },
   "kamehousecards.com:53441462010194": {
-    "available": false,
-    "price": "64.95",
+    "available": true,
+    "price": "69.95",
     "product_title": "Caja de Entrenador Elite Pokémon Caos Creciente y Chaos Rising"
   },
   "kamehousecards.com:53441462042962": {
     "available": true,
-    "price": "84.95",
+    "price": "85.95",
     "product_title": "Caja de Entrenador Elite Pokémon Caos Creciente y Chaos Rising"
   },
   "kamehousecards.com:51872584466770": {
@@ -98485,8 +98485,8 @@
     "product_title": "The Azure Sea's Seven  - One Piece Card Game OP14"
   },
   "kamehousecards.com:51872422887762": {
-    "available": false,
-    "price": "69.95",
+    "available": true,
+    "price": "74.95",
     "product_title": "Mega Venusaur ex Premium Collection"
   },
   "kamehousecards.com:51872422920530": {
@@ -98830,12 +98830,12 @@
     "product_title": "First Partner Illustration Collection Series 1"
   },
   "kamehousecards.com:53009009312082": {
-    "available": true,
+    "available": false,
     "price": "119.95",
     "product_title": "Premium Poster Collection Héroes Ascendentes y Ascended Heroes"
   },
   "kamehousecards.com:53009009344850": {
-    "available": true,
+    "available": false,
     "price": "119.95",
     "product_title": "Premium Poster Collection Héroes Ascendentes y Ascended Heroes"
   },
@@ -98880,7 +98880,7 @@
     "product_title": "Blisters Fuegos Fantasmales y Phantasmal Flames"
   },
   "kamehousecards.com:53009015308626": {
-    "available": false,
+    "available": true,
     "price": "99.95",
     "product_title": "Caja de Entrenador Elite Pokémon Fuegos Fantasmales y Phantasmal Flames"
   },
@@ -98975,8 +98975,8 @@
     "product_title": "Double Pack Set vol.9  DP-09  One Piece Card Game"
   },
   "kamehousecards.com:53009008460114": {
-    "available": false,
-    "price": "129.95",
+    "available": true,
+    "price": "139.95",
     "product_title": "Elite Trainer Box Pokémon Héroes Ascendentes y Ascended Heroes"
   },
   "kamehousecards.com:53009008427346": {
@@ -99706,7 +99706,7 @@
   },
   "kamehousecards.com:51876435263826": {
     "available": true,
-    "price": "179.95",
+    "price": "184.95",
     "product_title": "Elite Trainer Box Pokémon Tempestad Plateada - Español"
   },
   "kamehousecards.com:51876387389778": {
@@ -99845,13 +99845,13 @@
     "product_title": "Colección Premium con Tapete Morpeko V-UNION Cénit Supremo"
   },
   "kamehousecards.com:51876324966738": {
-    "available": false,
-    "price": "79.95",
+    "available": true,
+    "price": "84.95",
     "product_title": "Latas Pokémon Crown Zenith y Cénit Supremo"
   },
   "kamehousecards.com:51876324999506": {
-    "available": false,
-    "price": "79.95",
+    "available": true,
+    "price": "89.95",
     "product_title": "Latas Pokémon Crown Zenith y Cénit Supremo"
   },
   "kamehousecards.com:51876325032274": {
@@ -100255,13 +100255,13 @@
     "product_title": "Elite Trainer Box Pokémon Paradox Rift y Brecha Paradójica"
   },
   "kamehousecards.com:51875970318674": {
-    "available": false,
-    "price": "119.95",
+    "available": true,
+    "price": "129.95",
     "product_title": "Elite Trainer Box Pokémon Paradox Rift y Brecha Paradójica"
   },
   "kamehousecards.com:51875970351442": {
-    "available": false,
-    "price": "119.95",
+    "available": true,
+    "price": "129.95",
     "product_title": "Elite Trainer Box Pokémon Paradox Rift y Brecha Paradójica"
   },
   "kamehousecards.com:51875963994450": {
@@ -100485,7 +100485,7 @@
     "product_title": "Elite Trainer Box Pokémon Temporal Forces y Fuerzas Temporales"
   },
   "kamehousecards.com:51874762719570": {
-    "available": false,
+    "available": true,
     "price": "139.95",
     "product_title": "Elite Trainer Box Pokémon Temporal Forces y Fuerzas Temporales"
   },
@@ -101265,93 +101265,93 @@
     "product_title": "Gastos de envío adicionales"
   },
   "kamehousecards.com:51872449528146": {
-    "available": false,
-    "price": "189.95",
+    "available": true,
+    "price": "229.00",
     "product_title": "Mini Latas Pokémon White Flare - Black Bolt y Llama Blanca - Fulgor Negro"
   },
   "kamehousecards.com:51872449560914": {
-    "available": false,
-    "price": "189.95",
+    "available": true,
+    "price": "249.00",
     "product_title": "Mini Latas Pokémon White Flare - Black Bolt y Llama Blanca - Fulgor Negro"
   },
   "kamehousecards.com:51872449593682": {
     "available": false,
-    "price": "17.95",
+    "price": "27.95",
     "product_title": "Mini Latas Pokémon White Flare - Black Bolt y Llama Blanca - Fulgor Negro"
   },
   "kamehousecards.com:51872449626450": {
     "available": false,
-    "price": "18.95",
+    "price": "29.95",
     "product_title": "Mini Latas Pokémon White Flare - Black Bolt y Llama Blanca - Fulgor Negro"
   },
   "kamehousecards.com:51872449659218": {
     "available": false,
-    "price": "17.95",
+    "price": "27.95",
     "product_title": "Mini Latas Pokémon White Flare - Black Bolt y Llama Blanca - Fulgor Negro"
   },
   "kamehousecards.com:51872449691986": {
     "available": false,
-    "price": "18.95",
+    "price": "29.95",
     "product_title": "Mini Latas Pokémon White Flare - Black Bolt y Llama Blanca - Fulgor Negro"
   },
   "kamehousecards.com:51872449724754": {
     "available": false,
-    "price": "17.95",
+    "price": "27.95",
     "product_title": "Mini Latas Pokémon White Flare - Black Bolt y Llama Blanca - Fulgor Negro"
   },
   "kamehousecards.com:51872449757522": {
     "available": false,
-    "price": "18.95",
+    "price": "29.95",
     "product_title": "Mini Latas Pokémon White Flare - Black Bolt y Llama Blanca - Fulgor Negro"
   },
   "kamehousecards.com:51872449790290": {
     "available": false,
-    "price": "17.95",
+    "price": "27.95",
     "product_title": "Mini Latas Pokémon White Flare - Black Bolt y Llama Blanca - Fulgor Negro"
   },
   "kamehousecards.com:51872449823058": {
     "available": false,
-    "price": "18.95",
+    "price": "29.95",
     "product_title": "Mini Latas Pokémon White Flare - Black Bolt y Llama Blanca - Fulgor Negro"
   },
   "kamehousecards.com:51872449855826": {
     "available": false,
-    "price": "17.95",
+    "price": "27.95",
     "product_title": "Mini Latas Pokémon White Flare - Black Bolt y Llama Blanca - Fulgor Negro"
   },
   "kamehousecards.com:51872449888594": {
     "available": false,
-    "price": "18.95",
+    "price": "29.95",
     "product_title": "Mini Latas Pokémon White Flare - Black Bolt y Llama Blanca - Fulgor Negro"
   },
   "kamehousecards.com:51872449921362": {
     "available": false,
-    "price": "17.95",
+    "price": "27.95",
     "product_title": "Mini Latas Pokémon White Flare - Black Bolt y Llama Blanca - Fulgor Negro"
   },
   "kamehousecards.com:51872449954130": {
     "available": false,
-    "price": "18.95",
+    "price": "29.95",
     "product_title": "Mini Latas Pokémon White Flare - Black Bolt y Llama Blanca - Fulgor Negro"
   },
   "kamehousecards.com:51872449986898": {
     "available": false,
-    "price": "17.95",
+    "price": "27.95",
     "product_title": "Mini Latas Pokémon White Flare - Black Bolt y Llama Blanca - Fulgor Negro"
   },
   "kamehousecards.com:51872450019666": {
     "available": false,
-    "price": "18.95",
+    "price": "29.95",
     "product_title": "Mini Latas Pokémon White Flare - Black Bolt y Llama Blanca - Fulgor Negro"
   },
   "kamehousecards.com:51872450052434": {
     "available": false,
-    "price": "17.95",
+    "price": "27.95",
     "product_title": "Mini Latas Pokémon White Flare - Black Bolt y Llama Blanca - Fulgor Negro"
   },
   "kamehousecards.com:51872450085202": {
     "available": false,
-    "price": "18.95",
+    "price": "29.95",
     "product_title": "Mini Latas Pokémon White Flare - Black Bolt y Llama Blanca - Fulgor Negro"
   },
   "kamehousecards.com:51872447660370": {
@@ -115575,7 +115575,7 @@
     "product_title": "Chaos Space Marines: Traitor Enforcer"
   },
   "laescotillajuegos.com:56184487182671": {
-    "available": true,
+    "available": false,
     "price": "44.20",
     "product_title": "Ultramarines: Victrix Honour Guard"
   },
@@ -118140,7 +118140,7 @@
     "product_title": "Grey Knights: Gran Maestre En Servoterror Nemesis"
   },
   "laescotillajuegos.com:55837823697231": {
-    "available": true,
+    "available": false,
     "price": "48.45",
     "product_title": "Codex: Imperial Knights (Español)"
   },
@@ -141167,7 +141167,7 @@
   "pokedealtcg.es:58649504547141": {
     "available": false,
     "price": "74.95",
-    "product_title": "MALETIN AVENTURAS EN PALDEA ESPAÑOL"
+    "product_title": "MALETIN AVENTURAS EN PALDEA"
   },
   "pokedealtcg.es:58649504448837": {
     "available": false,
@@ -142840,7 +142840,7 @@
     "product_title": "ACRILICO CAJA COREANO/CHINO/JAPONES"
   },
   "pokedealtcg.es:55360048136517": {
-    "available": false,
+    "available": true,
     "price": "19.95",
     "product_title": "ACRILICO CAJA 36 SOBRE"
   },
@@ -142850,7 +142850,7 @@
     "product_title": "ACRILICO ELITE TRAINER BOX"
   },
   "pokedealtcg.es:55360047153477": {
-    "available": false,
+    "available": true,
     "price": "19.95",
     "product_title": "ACRILICO CAJA JAPONESA"
   },
@@ -145475,7 +145475,7 @@
     "product_title": "Pokémon TCG: Umbreon 30 Aniversario Especial Ultra-Premium Collection"
   },
   "pokezilla.com:43614581391450": {
-    "available": true,
+    "available": false,
     "price": "429.95",
     "product_title": "Pokémon TCG: Umbreon 30 Aniversario Especial Ultra-Premium Collection"
   },
@@ -151760,7 +151760,7 @@
     "product_title": "MTG Marvel Super Heroes – Commander Collector (Mazos sueltos y/o Pack 4) - Inglés"
   },
   "sarumangames.es:56267033575803": {
-    "available": true,
+    "available": false,
     "price": "11.69",
     "product_title": "¡AVENTUREROS AL TREN!: EUROPA 1912 - EXPANSIÓN"
   },
@@ -173420,7 +173420,7 @@
     "product_title": "Booster Box Jumbo Riftbound Vendetta | Chino"
   },
   "tcglevel.com:53332193837323": {
-    "available": true,
+    "available": false,
     "price": "14.90",
     "product_title": "Pokémon First Partner 30 Aniversario Vol.3 | Chino"
   },
@@ -179940,7 +179940,7 @@
     "product_title": "Stacking Tins 2024 | POKÉMON | Inglés"
   },
   "todohits.com:51768674517329": {
-    "available": true,
+    "available": false,
     "price": "19.99",
     "product_title": "Album Cartas Jumbo 30-60 Bolsillos | 25 ANIVERSARIO | Binder 30 Jumbo Cards"
   },
@@ -203380,7 +203380,7 @@
     "product_title": "Disfraz de Madrileño bebé 7-12 meses bebé"
   },
   "toyplanet.com:52350391058755": {
-    "available": true,
+    "available": false,
     "price": "29.99",
     "product_title": "Peluche Krusty de Los Simpsons 30 cm - Habla en Inglés"
   },
@@ -262105,7 +262105,7 @@
     "product_title": "Starcraft TMG: Terran Expansion Set: Medic"
   },
   "g3tcg.es:7444": {
-    "available": true,
+    "available": false,
     "price": 37.0,
     "product_title": "Starcraft TMG: Terran Expansion Set: Marauder"
   },
@@ -323791,7 +323791,7 @@
   },
   "jjcollection.es:55365650153801": {
     "available": true,
-    "price": "99.99",
+    "price": "94.98",
     "product_title": "Pokémon TCG - Storm Esmerald booster box (Japonés)"
   },
   "jjcollection.es:55365567054153": {
@@ -352240,7 +352240,7 @@
     "product_title": "Soviet Naval Brigade Forward Observer Team"
   },
   "laescotillajuegos.com:58849716404559": {
-    "available": true,
+    "available": false,
     "price": "17.10",
     "product_title": "Soviet Naval Brigade Weapon Teams"
   },
@@ -352270,7 +352270,7 @@
     "product_title": "US Army 57mm Anti-tank Gun"
   },
   "laescotillajuegos.com:58849258340687": {
-    "available": true,
+    "available": false,
     "price": "32.40",
     "product_title": "British Heavy Weapons Platoon"
   },
@@ -352325,7 +352325,7 @@
     "product_title": "Early War German Infantry on Bicycles"
   },
   "laescotillajuegos.com:58848696762703": {
-    "available": true,
+    "available": false,
     "price": "24.75",
     "product_title": "Panzer II"
   },
@@ -365030,7 +365030,7 @@
     "product_title": "100 Fundas con Tirador Pull Tab Sleeves Vanguard"
   },
   "sunnystore.es:56968932721026": {
-    "available": true,
+    "available": false,
     "price": "16.90",
     "product_title": "METACRILATO MAGNÉTICO PARA CARTAS 30 ANIVERSARIO POKEMON"
   },
@@ -370575,7 +370575,7 @@
     "product_title": "Riftbound: League of Legends TCG - Radiance - Booster Display (24 packs)"
   },
   "pokemillon.com:54943944245571": {
-    "available": true,
+    "available": false,
     "price": "90.00",
     "product_title": "Panini | Harry Potter ALWAYS Trading Card - TREASURE BOX"
   },
@@ -372320,7 +372320,7 @@
     "product_title": "Pokémon - 30th Celebration Card Set Galar: Chimpep, Hopplo & Memmeon - JPN"
   },
   "cardcosmos.de:55534763737431": {
-    "available": true,
+    "available": false,
     "price": "19.90",
     "product_title": "Pokémon - 30th Celebration Card Set Alola: Bauz, Flamiau & Robball - JPN"
   },
@@ -373516,22 +373516,22 @@
   },
   "bimbacards.com:62860:62861": {
     "available": true,
-    "price": 349.9,
+    "price": 399.9,
     "product_title": "30 Aniversario Colección Ultraprémium Noche"
   },
   "bimbacards.com:62860:62862": {
     "available": true,
-    "price": 349.9,
+    "price": 399.9,
     "product_title": "30 Aniversario Colección Ultraprémium Noche"
   },
   "bimbacards.com:62854:62856": {
     "available": true,
-    "price": 349.9,
+    "price": 379.9,
     "product_title": "30 Aniversario Colección Ultraprémium Dia"
   },
   "bimbacards.com:62854:62857": {
     "available": true,
-    "price": 349.9,
+    "price": 379.9,
     "product_title": "30 Aniversario Colección Ultraprémium Dia"
   },
   "bimbacards.com:62851:62852": {
@@ -380065,7 +380065,7 @@
     "product_title": "Starcraft TMG: Terran Starter Set"
   },
   "g3tcg.es:7747": {
-    "available": true,
+    "available": false,
     "price": 58.5,
     "product_title": "Starcraft TMG: Terran Expansion Set: Siege Tank"
   },
@@ -383710,7 +383710,7 @@
     "product_title": "Command Pack: Adeptus Custodes"
   },
   "universetcg.com:55535941583189": {
-    "available": true,
+    "available": false,
     "price": "29.00",
     "product_title": "Command Pack: Adeptus Custodes"
   },
@@ -384515,7 +384515,7 @@
     "product_title": "The Master of Mankind (Paperback) – The Horus Heresy Book 41"
   },
   "universetcg.com:55535829942613": {
-    "available": true,
+    "available": false,
     "price": "28.00",
     "product_title": "Codex Supplement: Blood Angels (Spanish Edition)"
   },
@@ -420760,7 +420760,7 @@
     "product_title": "Pokémon TCG - Dominio Delta - Blíster 3 Sobres (Español)"
   },
   "jjcollection.es:55891516424521": {
-    "available": true,
+    "available": false,
     "price": "189.98",
     "product_title": "Pokémon TCG - Dominio Delta - Booster Box (Español)"
   },
@@ -423655,7 +423655,7 @@
     "product_title": "Bratz Bratziez x LISA Muñeca Sorpresa"
   },
   "miceliongames.com:38541": {
-    "available": true,
+    "available": false,
     "price": 149.95,
     "product_title": "OP-19 Booster Box Display Inglés | One Piece Card Game"
   },
@@ -428170,7 +428170,7 @@
     "product_title": "Lata PokeBall Best of 2021 - Español"
   },
   "darizard9.com:57920573538630": {
-    "available": true,
+    "available": false,
     "price": "159.99",
     "product_title": "One Piece OP18 The Dominance of God Booster Box"
   },
@@ -430835,7 +430835,7 @@
     "product_title": "Entry Grade Doraemon"
   },
   "laescotillajuegos.com:59568173154639": {
-    "available": true,
+    "available": false,
     "price": "7.99",
     "product_title": "SD Gundam EX-Standard - Aile Strike Gundam"
   },
@@ -432755,7 +432755,7 @@
     "product_title": "Booster Box 36 Sobres Resplandor Astral"
   },
   "metamorphcenter.com:56761769689430": {
-    "available": true,
+    "available": false,
     "price": "85.95",
     "product_title": "[ RESERVA ] Caja OP18 The Dominance of God - Japonés"
   },
@@ -432812,97 +432812,97 @@
   "universetcg.com:56029424877909": {
     "available": true,
     "price": "13.50",
-    "product_title": "Black Library The Scouring Ashes of The Imperium ENG"
+    "product_title": "Ashes of the Imperium: The Scouring Book 1 (Paperback)"
   },
   "universetcg.com:56029424484693": {
     "available": true,
     "price": "13.50",
-    "product_title": "Black Library Chem Dog ENG"
+    "product_title": "Chem Dog (Paperback)"
   },
   "universetcg.com:56029424255317": {
     "available": true,
     "price": "16.50",
-    "product_title": "Blood Bowl Night Goblin Team Reference Card Pack ENG"
+    "product_title": "Night Goblin Team – Reference Card Pack"
   },
   "universetcg.com:56029424091477": {
     "available": true,
     "price": "22.50",
-    "product_title": "Warhammer the Old World Arcane Journal The Doom of Lord Carrard ENG"
+    "product_title": "Arcane Journal: The Doom of Lord Carrard"
   },
   "universetcg.com:56029423960405": {
     "available": true,
     "price": "13.25",
-    "product_title": "Blood Bowl Spike Journal Issue 23 ENG"
+    "product_title": "Blood Bowl Spike! Journal Issue 23"
   },
   "universetcg.com:56029423763797": {
     "available": true,
     "price": "29.00",
-    "product_title": "Black Library Throne Questoris ENG"
+    "product_title": "Throne Questoris (Hardback)"
   },
   "universetcg.com:56029423534421": {
     "available": true,
     "price": "25.00",
-    "product_title": "Black Library Realm of Silence ENG"
+    "product_title": "Realm of Silence (Hardback)"
   },
   "universetcg.com:56029423173973": {
     "available": true,
     "price": "25.00",
-    "product_title": "Black Library Lords of Silence ENG"
+    "product_title": "The Lords of Silence (Hardback)"
   },
   "universetcg.com:56029422813525": {
     "available": true,
     "price": "5.00",
-    "product_title": "Try Warhammer Magazine ENG"
+    "product_title": "Try Warhammer"
   },
   "universetcg.com:56029422846293": {
     "available": true,
     "price": "5.00",
-    "product_title": "Try Warhammer Magazine ENG"
+    "product_title": "Try Warhammer"
   },
   "universetcg.com:56029422453077": {
     "available": true,
     "price": "47.50",
-    "product_title": "Blood Bowl Night Goblins Double-sided Pitch and Dugouts"
+    "product_title": "Night Goblin Pitch – Double-sided Pitch and Dugouts"
   },
   "universetcg.com:56029421633877": {
     "available": true,
     "price": "16.50",
-    "product_title": "Blood Bowl Night Goblin Team Dice"
+    "product_title": "Night Goblin Team Dice Set"
   },
   "universetcg.com:56029421371733": {
     "available": true,
     "price": "147.50",
-    "product_title": "Warhammer the Old World Tomb Kings of Khemri Battle March Army"
+    "product_title": "Tomb Kings of Khemri: Battle March Army"
   },
   "universetcg.com:56029421109589": {
     "available": true,
     "price": "74.00",
-    "product_title": "Warhammer the Old World Tomb Kings of Khemri Chariots"
+    "product_title": "Skeleton Chariots"
   },
   "universetcg.com:56029420945749": {
     "available": true,
     "price": "74.00",
-    "product_title": "Warhammer the Old World Tomb Kings of Khemri Skeleton Horsemen"
+    "product_title": "Skeleton Horsemen / Skeleton Horse Archers"
   },
   "universetcg.com:56029420519765": {
     "available": true,
     "price": "74.00",
-    "product_title": "Warhammer the Old World Tomb Kings of Khemri Skeleton Archers"
+    "product_title": "Skeleton Archers"
   },
   "universetcg.com:56029420257621": {
     "available": true,
     "price": "74.00",
-    "product_title": "Warhammer the Old World Tomb Kings of Khemri Skeleton Warriors"
+    "product_title": "Skeleton Warriors"
   },
   "universetcg.com:56029420061013": {
     "available": true,
     "price": "36.00",
-    "product_title": "Blood Bowl Ripper Bolgrot and Fungus the Loon"
+    "product_title": "Ripper Bolgrot & Fungus The Loon"
   },
   "universetcg.com:56029419766101": {
     "available": true,
     "price": "45.00",
-    "product_title": "Blood Bowl Night Goblin Team The Eight Peaks Loonatics"
+    "product_title": "Night Goblin Blood Bowl Team: The Eight Peaks Loonatics"
   },
   "bimbacards.com:63959": {
     "available": true,
@@ -433053,5 +433053,180 @@
     "available": false,
     "price": "229.95",
     "product_title": "Caja 15 Sobres Pokemon 30th Celebration Chino + Cartas + Imanes + Marco"
+  },
+  "jjcollection.es:56066031518025": {
+    "available": true,
+    "price": "5.50",
+    "product_title": "Pokémon TCG - Sobre emblistado Dominio Delta (Español)"
+  },
+  "jjcollection.es:56065986134345": {
+    "available": true,
+    "price": "599.00",
+    "product_title": "Magic The Gathering - Commander Deck Warhammer 40,000 (Inglés)"
+  },
+  "jjcollection.es:56065986167113": {
+    "available": true,
+    "price": "135.00",
+    "product_title": "Magic The Gathering - Commander Deck Warhammer 40,000 (Inglés)"
+  },
+  "jjcollection.es:56065986199881": {
+    "available": true,
+    "price": "185.00",
+    "product_title": "Magic The Gathering - Commander Deck Warhammer 40,000 (Inglés)"
+  },
+  "jjcollection.es:56065986232649": {
+    "available": true,
+    "price": "175.00",
+    "product_title": "Magic The Gathering - Commander Deck Warhammer 40,000 (Inglés)"
+  },
+  "jjcollection.es:56065986265417": {
+    "available": true,
+    "price": "170.00",
+    "product_title": "Magic The Gathering - Commander Deck Warhammer 40,000 (Inglés)"
+  },
+  "jjcollection.es:56066008514889": {
+    "available": true,
+    "price": "210.00",
+    "product_title": "Magic The Gathering - Commander Deck Fallout (Inglés)"
+  },
+  "jjcollection.es:56066008547657": {
+    "available": true,
+    "price": "35.00",
+    "product_title": "Magic The Gathering - Commander Deck Fallout (Inglés)"
+  },
+  "jjcollection.es:56066008580425": {
+    "available": true,
+    "price": "47.98",
+    "product_title": "Magic The Gathering - Commander Deck Fallout (Inglés)"
+  },
+  "jjcollection.es:56066008613193": {
+    "available": true,
+    "price": "75.00",
+    "product_title": "Magic The Gathering - Commander Deck Fallout (Inglés)"
+  },
+  "jjcollection.es:56066008645961": {
+    "available": true,
+    "price": "45.00",
+    "product_title": "Magic The Gathering - Commander Deck Fallout (Inglés)"
+  },
+  "jjcollection.es:56066018869577": {
+    "available": true,
+    "price": "44.98",
+    "product_title": "Magic The Gathering - Secret Lair x Stardew Valley: Welcome to Stardew Valley (Inglés)"
+  },
+  "kamehousecards.com:51872446677330": {
+    "available": false,
+    "price": "69.95",
+    "product_title": "Caja de Entrenador de Elite Pokémon White Flare - Black Bolt y Llama Blanca - Fulgor Negro"
+  },
+  "kamehousecards.com:51872446710098": {
+    "available": false,
+    "price": "69.95",
+    "product_title": "Caja de Entrenador de Elite Pokémon White Flare - Black Bolt y Llama Blanca - Fulgor Negro"
+  },
+  "kamehousecards.com:51872446742866": {
+    "available": true,
+    "price": "139.95",
+    "product_title": "Caja de Entrenador de Elite Pokémon White Flare - Black Bolt y Llama Blanca - Fulgor Negro"
+  },
+  "kamehousecards.com:51872446775634": {
+    "available": true,
+    "price": "139.95",
+    "product_title": "Caja de Entrenador de Elite Pokémon White Flare - Black Bolt y Llama Blanca - Fulgor Negro"
+  },
+  "kamehousecards.com:51872548323666": {
+    "available": true,
+    "price": "249.00",
+    "product_title": "Elite Trainer Box Pokémon Origen Perdido - Español"
+  },
+  "laescotillajuegos.com:59465842852175": {
+    "available": true,
+    "price": "15.00",
+    "product_title": "[T. COMPETITIVO] Cyberpunk: Night City Showdown | 28 nov 09:30"
+  },
+  "pokedealtcg.es:60371637141829": {
+    "available": true,
+    "price": "54.95",
+    "product_title": "GEMPACK VOL.5 (CHINO)"
+  },
+  "pokedealtcg.es:60371478479173": {
+    "available": false,
+    "price": "1999.00",
+    "product_title": "DISPLAY BOOSTER BUNLDLES 151"
+  },
+  "pokedealtcg.es:60371478446405": {
+    "available": true,
+    "price": "2499.95",
+    "product_title": "DISPLAY BOOSTER BUNLDLES 151"
+  },
+  "pokedealtcg.es:60371478413637": {
+    "available": true,
+    "price": "24.95",
+    "product_title": "BLISTER 3 SOBRES DELTA REIGN"
+  },
+  "pokedealtcg.es:60371478380869": {
+    "available": true,
+    "price": "29.95",
+    "product_title": "BLISTER 3 SOBRES DELTA REIGN"
+  },
+  "toyplanet.com:55084798148931": {
+    "available": false,
+    "price": "36.00",
+    "product_title": "Caja 24 Sobres Stranger Things 2 The Hawkins Legends Panini"
+  },
+  "toyplanet.com:55084798116163": {
+    "available": true,
+    "price": "0.00",
+    "product_title": "Funko Pop Gremlins 2 - Flashing Gremlin ¡Ideal para coleccionistas y fanáticos de los 80!"
+  },
+  "toyplanet.com:55084798050627": {
+    "available": true,
+    "price": "10.00",
+    "product_title": "Megapack Stranger Things 2 The Hawkins Legends Panini"
+  },
+  "universetcg.com:56031042535765": {
+    "available": false,
+    "price": "89.90",
+    "product_title": "Gunpla HG 1/144 RX-104FF Penelope – Mobile Suit Gundam Hathaway"
+  },
+  "universetcg.com:56031038734677": {
+    "available": false,
+    "price": "49.90",
+    "product_title": "Gunpla HG 1/144 RX-78F00/E Gundam (EX-001 G.L.R.S.S. Feather Unit) – Gundam Next Future Pavilion"
+  },
+  "universetcg.com:56031034442069": {
+    "available": false,
+    "price": "24.90",
+    "product_title": "Gunpla HG 1/144 XXXG-01H Gundam Heavyarms – Mobile Suit Gundam Wing"
+  },
+  "universetcg.com:56031027757397": {
+    "available": false,
+    "price": "24.90",
+    "product_title": "Gunpla HG 1/144 Unicorn Gundam 02 Banshee Norn (Unicorn Mode) – Mobile Suit Gundam Unicorn"
+  },
+  "universetcg.com:56030412734805": {
+    "available": true,
+    "price": "4.00",
+    "product_title": "Pokémon TCG: Delta Reign Booster Pack – Portuguese (Brazil)"
+  },
+  "universetcg.com:56030412210517": {
+    "available": true,
+    "price": "144.00",
+    "product_title": "Pokémon TCG: Delta Reign Booster Display (36 packs) – Portuguese (Brazil)"
+  },
+  "universetcg.com:56030268621141": {
+    "available": true,
+    "price": "9.00",
+    "product_title": "Warhammer Pro Layer Brush Small"
+  },
+  "universetcg.com:56030268064085": {
+    "available": true,
+    "price": "7.50",
+    "product_title": "Warhammer Pro Dry Brush Small"
+  },
+  "universetcg.com:56030267113813": {
+    "available": true,
+    "price": "34.00",
+    "product_title": "Battlefield Trophies"
   }
 }
